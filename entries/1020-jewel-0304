@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 13-Aug-2009/11:15+3:00
+    category: 'misc
+    title: "1020, Jewel, and 0304"
+    slug: %1020-jewel-0304
+    tags: [conspiracy jewel]
+    old: http://realityhandbook.livejournal.com/138746.html
+]
+[{In early 2003, I had a dream in which the number 1020 was featured very prominently. It was tied to a vision of the White House being destroyed by a missile.}]
+[picture %IndependenceDay.jpg]
+[{My certainty that this was an important number led me to start writing it down many places. Rather extremely...to the level of setting all the unsold clocks in Target to 10:20...that sort of thing. In the context of a post 9-11 world, I leapt to the conclusion that it must be a target date for a disaster. I went around warning people to be prepared for perhaps an Independence-Day style alien attack on October 20th... or, something like that. (Hasn't happened yet, to the best of my knowledge.)}]
+[note {To read more about signals and codes of this nature, you can read <a href="http://realityhandbook.org/essay/whats-your-twenty/">What's Your Twenty?</a>}]
+[{Dreams including 1020 continued. Not always involving disasters, but with a certain "wait...it's THAT number!" kind of feeling.}]
+[{This was followed by a very unusual album released by the singer Jewel, entitled "0304":}]
+[picture %jewel.jpg]
+[{The media certainly didn't know what to make of it. But what made it doubly weird was that I'd had an extremely vivid dream about a year prior in which Jewel and I were having sex. When I woke up, the exchange with my girlfriend at the time went like this:}]
+[me: {I just had this strange dream. I was having sex with Jewel.}]
+[her: ("puzzled") "The singer?"]
+[me: {Yeah. I don't own any of her albums, don't listen to her music, and don't really even know what she looks like.}]
+[her: "That's weird."]
+[{As it so happens, I had been to a concert she played at. She was the opening act for Blues Traveller when I was in college. I say 'heard' because it was a big concert hall and my free ticket was way in the back, and I didn't have my glasses with me so I couldn't see the stage. I remember she yodeled, and she talked about smoking marijuana, and that was most of my carry-away..."Jewel is a stoner and she yodels". Not my thing.}]
+[note {These days I'm far less judgmental about such issues--both the drugs and the yodeling!}]
+[{Now the unusual symmetry of 1020/0304 may strike you as interesting or not. But given the non-sequitur dream, and my growing interest in codes and math... I became somewhat fixated on these numbers as a pair. It was almost like I'd gotten some kind of <i>response</i> back from virally spreading this 1020 number everywhere. It wasn't a mundane repetition, it had taken the number and mixed it up a bit with a piece of art depicting something I generally like--an attractive woman (though that's a heavily photoshopped picture, which is weird because she's good looking without it).}]
+[{Of course, there's a "rational" explanation. A Yahoo! Answers quote suggests why the album is titled that:}]
+[bernie-taupin: {So, you have to humor me, but the title of your new record, 0304 - explain please.}]
+[jewel: {I didn't want the title to give away what the record sounded like. I like how clinical numbers are, so I went with 0304 because this is really a pop-culture record. I actually wrote this album to come out in June. I knew it was going to be a record that was about the years 2003 and 2004-- I wrote it in December (2002) and January [2003]. It was such a fast turnaround, so I could talk about current events, politics, pop-culture icons, and it would still be relevant.}]
+[{Sounds reasonable, though it's a bit roundabout...why not call it "2003-2004"? I still have to wonder, because the details in this case make it look like some kind of body-snatcher went in and made her do something very out-of-character.}]
+[{I had a dream that I didn't write down a few months ago. Knowing I was dreaming, I was trying to send an email to myself with the subject "1020". A man looked over my shoulder and stopped me:}]
+[man: {Absolutely not! No one-oh-two-oh, no one-A-two-A, we'll have none of that here.}]
+[me: "Well what's the harm?"]
+[man: {Exactly, <i>you don't know</i>. You look at these things, you see they have power, but you don't know what they mean. And you use them anyway. You should know better than that.}]
+[me: {Well what if I put like, a giant number one in a word document. And then a zero in another, and a 2 in another, and a zero in another. And put them as four separate attachments.}]
+[man: ("sighing") "Fine. Do that if you want."]
+["I woke up before I could send it."]
+[{I've kept tabs on Jewel's music and videos lately, but not found too much of interest. There's a <a href="http://realityhandbook.org/tag/jewel/">tag for her dream appearances</a>, which have been infrequent since I started keeping a journal.}]
+[note {In one pre-journal instance, she was inviting me to go into a machine which I believed would do some kind of medical healing...but I realized when she closed the door it was like, an incinerator. Be careful who you trust, I guess, based on mere appearances!}]

@@ -1,0 +1,24 @@
+realityhandbook [
+    date: 20-Jun-2009/3:54+3:00
+    category: 'lucid-dream
+    title: "Unpopular With Cats"
+    slug: %unpopular-with-cats
+    tags: [helpful neutral]
+    old: http://realityhandbook.livejournal.com/133793.html
+]
+[{I was looking at a pile of old broken things--including a TV--in the living room of the house of one of my grandparents. Walking into an adjoining room, I began to collect pins and nails that I had seen on the floor. They'd been hurting me and I decided to contain them into a little plastic container.}]
+[{When I returned to the room, things had been rearranged--and there was a newly sealed box for the TV. I looked at it, and my (deceased) grandfather was sitting in a recliner looking at it. Feeling emotional, I teared up a bit.}]
+[me: {It's just sad. I guess there was a time when you bought a new TV and it was exciting, before the stroke and when all you could do was flip through channels.}]
+[grandfather: {Well these things happen. And it hasn't turned out to be all bad. Why--morris here just turned 20.}]
+[{It seemed like a fairly normal cat, but its teeth were somewhat awry. I reached out my hand to pet it, but it moved away, and spoke.}]
+[cat: "No."]
+[note {Morris might not have been the name of the cat and it might have been another age. Also these grandparents always had dogs, so its weird there'd be a cat on that sofa.}]
+[me: {Ok, another example right there. Cats can't talk. People can't talk to the dead. So what's going on?}]
+[grandfather: {I'll see that we do more to get hammer out... the, uh...}]
+[me: "The mechanics of these interactions."]
+[grandfather: {Yes. We'll see what we can do. And also, see what we can do to get square on why you and I are unique in this.}]
+[me: {I think the question is: Why is everyone else <i>not</i> square about this. It leads me to wonder what's gone wrong. What's being hidden, and for what purpose?}]
+[{The grandfather figure seemed to transform into a big grey cat/rat thing and looked at me closely, bringing its face right up to mine.}]
+[big-cat: ("scornfully") "Hateful."]
+[me: "Yes, I have been."]
+[note "Have been trying to work on that."]

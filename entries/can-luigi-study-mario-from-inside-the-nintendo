@@ -1,0 +1,17 @@
+realityhandbook [
+    date: 26-Sep-2007/2:03+3:00
+    category: 'essay
+    title: "Luigi's study of Mario from inside the Nintendo"
+    slug: %can-luigi-study-mario-from-inside-the-nintendo
+    tags: []
+    old: http://realityhandbook.livejournal.com/45877.html
+]
+[{Imagine a person seated on a sofa playing Super Mario Brothers. Every move that Mario makes precisely correlates with a signal received on a Nintendo controller--because that's the way it works. Yet if Luigi were studying Mario from inside-the-game, it might be very difficult to "see" the person sitting on the couch who is playing, even with relatively advanced instrumentation.}]
+[{As Luigi's tools come closer to the reality of the hardware, all of Mario's impulses would appear to originate from "the controller port". Phenomena like the delay patterns of fingers pushing would be discovered as cul-de-sacs and footnotes of "gamepad science".}]
+[{(I am reminded of this poem about <a href="http://www.wordinfo.info/words/index/info/view_unit/1/?letter=B&spage=3">blind men and an elephant</a>, which has many versions.)}]
+[{Analogously, the brain is clearly how our presence in the physical world using the "5 senses" is manifest. Just like you-as-Mario can't be animated in the Nintendo universe without a controller, you-as-Human can't be animated on Earth without a brain. But just because the brain can be analyzed to be a function of much of our thought doesn't mean this is the only place the thought is happening. It just means the brain is the bottleneck for our spirit to manifest itself.}]
+[{A question Luigi might need to face during his study is what he's really interested in. Does he care about Mario, or the person playing the game seated on a couch? Mario's abilities, appearance, and mannerisms will vanish when you pull out the cartridge and meet the player; who might be in a wheelchair (and not even speak Italian). So who is this Mario guy anyway, and does he really die when a Goomba gets him?}]
+[{(For an interesting study of how people's game avatars differ from their real-life incarnations, <a href="http://www.nytimes.com/slideshow/2007/06/15/magazine/20070617_AVATAR_SLIDESHOW_1.html">this slideshow</a> is informative.)}]
+[{I think we have some similar questions to face about our higher selves. They might not be "higher"--they might be less capable and living through us as an escape from their own limitations. (Notice that Mario, despite his dangerous lifestyle, is effectively immortal...while we pulling the strings seem to be the fragile ones.) I'm fairly certain that our higher selves don't have as much in common with the idea we've built up about our bodies, personalities, and talents as we'd like to believe.}]
+[{On the extreme, some people are very convinced that the brain is the controller and the couch is empty. But it doesn't have to be all one or the other! There are non-player-characters and player-characters in online games, which is to say that some beings have players on couches and some don't. If you were doing lab experiments inside the universe of World of Warcraft, it would really matter what specific individuals you chose to study as to where you'd find the whole thing bottoming out.}]
+[{My leaning to believe in another life is based on dream experiences more than anything else. They lead me to believe that we aren't seeing connections that exist in higher dimensional spaces, and those connections are as tangled as any brain we might map out here in 3-D space.}]

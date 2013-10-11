@@ -1,0 +1,20 @@
+realityhandbook [
+    date: 4-Feb-2007/17:19+3:00
+    category: 'lucid-dream
+    title: "The Creepy Horse Teacher"
+    slug: %the-creepy-horse-teacher
+    tags: [attack bathroom helpful neutral]
+    old: http://realityhandbook.livejournal.com/79219.html
+]
+[{I was caught between sleep and waking, where my whole body (including my eyes) would be physically frozen. I'd see something very simple in front of me--like a word on a piece of paper. Bit by bit I'd try to bring myself into a body that could explore a three-dimensional dream world.}]
+[{My technique was to keep looking at the same object, but try to imagine what else it might be. For instance I might imagine it to not be a piece of paper, but a white stripe indicating a lane on an asphalt road...and somehow I could then track my eye along a road that would end in a door, and I'd have the experience of opening the door and walking through it.}]
+[{Using this technique I managed to end up in the front yard of a house I had lived in as a child. A large horse-like monster approached me, and I decided to feed it a football-shaped object I found in a hedge. The creepy horse let me climb on its back and ride it.}]
+[{At first it started flying, but I pulled it by the neck and told it to slow down, land, and walk normally. It did, and this led me to try thinking of commands to give. I didn't have any truly creative ideas in the moment of who I wanted to talk to.}]
+[me: "Take me to see a cute girl."]
+[horse: {Wouldn't you rather go speak to one of your teachers?!}]
+[me: ("embarassed") "Oh, an even better idea! Sure."]
+[horse: "Do you want to know how to keep from being cut?"]
+[{At that point, I started to get a tickling under my arms. It was not as intense as it can be when I am under an attack that wakes me up.}]
+[me: {Are you doing that? I hate that attack thing. Yes, tell me, how do I get it to stop?}]
+[horse: "Try going a number two...that can work."]
+[note {I understood him to be suggesting to try going to the bathroom, which I did not need to do in this case. I managed to fight it off without that.}]

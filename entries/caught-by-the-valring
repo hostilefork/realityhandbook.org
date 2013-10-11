@@ -1,0 +1,32 @@
+realityhandbook [
+    date: 13-Jan-2009/10:38+3:00
+    category: 'lucid-dream
+    title: "Caught by the Valring"
+    slug: %caught-by-the-valring
+    tags: [attack channeling neutral]
+    old: http://realityhandbook.livejournal.com/119934.html
+]
+[{I was speaking with a man as we were walking down the hall, asking him who he was. This surprised him--but after I told him who I was, he seemed to nod like things were making sense.}]
+[man: {Well, that explains it...he's been drinking and partying a lot lately, we were wondering what got into him.}]
+[me: {You mean like a spiritual possession? Well, don't blame <i>me</i>, I don't remember this place. But I do have theories about how consciousnesses whose bodies are sleeping--like mine--can just wander in. I think it has to do with the host's mind being compromised by other reasons--and they just become generally more vulnerable.}]
+["He made a gesture like he was snorting cocaine."]
+[me: {Yes, I think drugs are a major source of putting one into a state where that can happen. Has your friend been using drugs?}]
+[man: "I'll take you to who you need to see."]
+[{At this point my arm was grabbed by a woman who looked like my grandmother. She was with some other old women who wanted to get my attention. Because I wanted to follow the guy I was talking to, I tried to get free--but was having trouble. I realized she was only holding on to my jacket sleeve, and so I took off the jacket and started to try walking off...but somehow it was like I was still being held by a couple of threads and she was able to pull me back.}]
+[me: ("irritated") "You're not here right now."]
+[{I put my hand on top of her head and collapsed her body downwards and she disappeared. Then I wandered out into something that looked like the indoor part of a train station, and there were mall kiosks along the walls. One was a T-Mobile store, and it was closed--which most of the businesses were. There was an information booth with a guy in a uniform.}]
+[me: ("yelling") "I'd like to see who it was I needed to see!"]
+[uniform-guy: "You want Mr. Mousaka, over here."]
+[{He led me to one of the storefronts, which looked like a fairly ordinary Office environment. There were white lights and a lot of gray, perhaps like a Kinko's, and I saw a man in a gray suit who seemed to have a line forming to see him:}]
+[picture %hsheng.jpg]
+[me: {Hello Mr... Mousaka? I'm sure you're probably very busy, but what I have to show you is only going to be available for a few seconds and then it will be gone.}]
+[{I told him my name and my address, which he seemed to successfully write down on a piece of paper.}]
+[mousaka: {You do realize that this first room here, where you are, is the guns and healing division.}]
+[me: {I don't know. I just know that there's something newsworthy going on here. I mean, here I am--in a 3-D world that is pretty solid...}]
+[{At this point I dropped a backpack I was carrying onto the ground, where it landed with a thud.}]
+[me: {...and doing all this while my body is asleep. It's like there's a whole parallel universe going on here--you guys living your lives, with people on my planet living theirs--with no knowledge of each other besides what I bring back.}]
+[{The room shifted a bit, and I turned to face two well-dressed Asian women in business suits. They seemed amused.}]
+[woman-one: "How did the Valring let you through?"]
+[note {I didn't know the word, but I guess it could have been "Balring" or "Balrog". Valring is my best guess. A "Val Ring" sounds like something out of D&D that you might wear, but in computer/technology terms "Val" is short for value, and "Ring" is used to describe certain networks and data structures.}]
+[woman-two: ("pointing to my shoulder, smiling") "Ah, it noticed."]
+[{Looking to my shoulder I saw that the shoulder of my short-sleeve shirt looked like it was being scrunched up by its threads. Moments later I felt a sharp slash across my back and woke up.}]

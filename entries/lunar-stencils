@@ -1,0 +1,27 @@
+realityhandbook [
+    date: 30-Mar-2009/10:04+3:00
+    category: 'lucid-dream
+    title: "Lunar Stencils"
+    slug: %lunar-stencils
+    tags: [conspiracy helpful positive]
+    old: http://realityhandbook.livejournal.com/127538.html
+]
+[{I was sitting at a large dining room table in what resembled my grandmother's house. As I sat, I puzzled over some kind of tax form that had been sent to my mailing address, addressed to my name. Yet when I opened it the actual paperwork was for someone who had a different name from me.}]
+["A man in the kitchen thought it seemed suspicious."]
+[man: {Well this is why I always say that sometimes you have to pee in the microwave, if only to see what comes up.}]
+[note {I accepted this in the context as an idiom for the idea that if you suspect foul play, taking irregular actions that cause unusual results will show you things are not right.}]
+[me: {Yes, exactly! Much of this has to do with shockwaves coming back from what I did earlier...and I knew at the time that it would provide a lot of useful data.}]
+[{The man became somewhat absorbed in watching a video on the the internet of people in a car, which seemed to contain some cloned copies of me. He felt it related to the tax anomaly. I watched with him for a while, and then decided to do something else.}]
+[{My dog--who has been dead for many years--came by the table. This triggered me into lucidity, but I decided I would take the opportunity and just pet him. He stayed pretty coherent but seemed a little dingy and dirty. There was a faucet nearby, which I looked at warily.}]
+[me: {My luck really varies in dreams with these things. I don't know if putting my hand under a faucet is going to make my hand burn or the water will become solid and I'll get stuck... or what. Why?}]
+[man: {Well it has to do with etymotic condensation. You need these various conditions for certain things to arise...some will work and some will not. It's kind of like...lunar stencils...}]
+[me: "What's a lunar stencil?"]
+[note {Etymotic doesn't seem to be a "real" word... though there is a company called Etymotic Research that makes headphones. They claim "Etymotic" is pronounced "et-im-OH-tik" and means "true to the ear" in Greek. That is the same pronunciation as in the dream.}]
+[{Suddenly a woman was holding a piece of paper with a bunch of charts in my face. I was focused on my conversation with the man and tried to avoid her. But she made it clear she was trying to help.}]
+[woman: {I think what he was saying was just going to confuse you. This is probably clearer. It shows a breakdown of some various things that are possible in the worlds.}]
+[{I grabbed the page to see, and looked down the list.}]
+[note [[{It was a horizontal bar graph, with narrow bars. From a distance it looked like this...}] [picture %horizbargraph.gif] [{...though colors were grouped together, and the labels on the bars were words naming concepts and materials... like "TV" and "Ruby". One that caught my eye was "Romance".}]]]
+[me: {Wait, this world where 'TV' is possible...is that the world I'm from and used to?}]
+[man: "Yes."]
+[me: "What do you call that world?"]
+[man: "Intella."]

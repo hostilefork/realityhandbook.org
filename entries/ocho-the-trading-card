@@ -1,0 +1,13 @@
+realityhandbook [
+    date: 11-Sep-2006/4:57+3:00
+    category: 'lucid-dream
+    title: "Ocho the Trading Card"
+    slug: %ocho-the-trading-card
+    tags: [homestar-runner names neutral]
+    old: http://realityhandbook.livejournal.com/83143.html
+]
+[{Was reading some statistics and history about a creature, it was some kind of eyeball with legs, and it was called "Osho" or "Ocho", who was the "I-God". Stepping back I realized that it was just a playing card (as in a trading card game). There were many other cards on the floor.}]
+[{I picked a couple others up and then went back to look more closely "Ocho". His name started to make more sense...he was called "Ocho" because he was similar to an octopus and had 8 legs. In fact, the card suddenly seemed mundane and I felt stupid for ascribing so much significance to it.}]
+[note {The similarity of the room I was in to my own room struck me at the time, but looking at my notes and reflecting on the experience I realize it didn't look like my room at all.}]
+[{There was a credit card on a desk, and a monitor that was too bright to read. Picking up the card, I tried to read the name on it. There was an odd effect where closing my left eye would hide some of the letters, and closing my right eye would hide other letters. The name on the card was mine, but the middle initial was incorrect--so I grabbed a sharpie and wrote out my full name.}]
+[note {Odd synchronicity that <a href="http://www.homestarrunner.com/sbemail157.html">today's Strong Bad Email</a> was released and was on the theme of Character Trading Cards. Paper game cards are not something I think about very often, if ever...because apparently both I and Strong Bad apparently have little interest in.}]

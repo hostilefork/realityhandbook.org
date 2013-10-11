@@ -1,0 +1,22 @@
+realityhandbook [
+    date: 26-Oct-2009/11:04+3:00
+    category: 'lucid-dream
+    title: "Not Near the Order of the Nefarious Mass"
+    slug: %not-near-the-nefarious-order
+    tags: [names bathroom neutral apple]
+    old: http://realityhandbook.livejournal.com/147029.html
+]
+[{I was on a toilet in a bathroom that seemed to have several flooding issues (flooding sink, leaking bathtub). For some reason I was looking at an iPhone. It had a feature where you could ask it to visualize where you'd been spending most of your time... e.g. it kept a log on the GPS.}]
+[{Curious, I asked it to show where I had been. It went into a Google-maps type view overhead, and it had broken the map into squares. I realized that the house I was inside had spanned two of the squares, so it was showing me as being in one square for half the time and the other during the other half.}]
+[{My point of view shifted to where I was still looking at this map, but it was on the back of a girl I was in bed with.}]
+[me: {Whoa. Okay. So I guess I should try to read the words on this map on your back. I swear, if other people experienced what I do just once they'd be more impressed that I don't go completely nuts.}]
+[{I dragged my fingers around and scrolled. She wriggled.}]
+[me: "Please hold still."]
+[{The house I had been located in was on a street called "Willows". There were other streets nearby called "Nixon" and "Colleen". I scrolled further out and saw something called the "Browbuild Plain".}]
+[note {The word was something about brow and buil... the only similar word I could find was an Australian construction company called Brownbuilt... whose "official" website has the puzzling garbage URL http://esvc001447.wic016u.server-web.com/}]
+[me: ("aloud") "Zoom out more."]
+[{The view zoomed out to where I could scroll around on continents. There was a country called "guiseppe calavari" or something like that, but I spun around looking for the US. When I did, it was shown only as a terrain map.}]
+[picture %US_34X22219135154_std.jpg]
+[me: {Hmmm. None of the states are broken out, and showns california labeled as the entire west coast.}]
+[girl: {You're going to be awfully disappointed if you find out the place you were was near anything other than ONM.}]
+[note [[{ONM stands for a few things according to the acronym dictionary:}] [quote [["ONM Official Nintendo Magazine<br />"] ["ONM Optical Network Management<br />"] ["ONM Open Network Management<br />"] ["ONM Ocmulgee National Monument (Macon, GA)<br />"] ["ONM Order of the Nefarious Mass (Satanism)<br />"] ["ONM Office of Navy Material<br />"]]] [{...but wiki suggests only "Official Nintendo Magazine" as significant enough to get an entry.}]]]

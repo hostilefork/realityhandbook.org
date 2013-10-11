@@ -1,0 +1,34 @@
+realityhandbook [
+    date: 8-Aug-2007/7:03+3:00
+    category: 'lucid-dream
+    title: "Get your fresh killbot right here!"
+    slug: %get-your-fresh-killbot-right-here
+    tags: [attack conspiracy matrix negative]
+    old: http://realityhandbook.livejournal.com/38776.html
+]
+[{I was in a bedroom...where a bunch of people filtered in. Somehow I sensed these were my friends, which surprised me because many of them didn't seem like those I'd consider "dream allies". But they were being helpful.}]
+[red-haired-guy: "So watch this..."]
+[{He then yelled aloud, speaking to no one in particular.}]
+[red-haired-guy: {HEY GUYS! These are those pills you give girls so that they pass out and you can have sex with them.}]
+[{After he said that, the window of the room forced itself open, parting in the middle. He pointed this out to me, then pinched it closed, but it popped back open. He gave me more instructions.}]
+[red-haired-guy: "Now watch out *that* window."]
+[{Something happened with the lights, and I instinctively hid...looking indirectly out. I got the feeling that some kind of probe was scanning the room, as if it had gotten authority based on the suspicious date-rape comment. It was looking for evidence of wrongdoing of some kind.}]
+[red-haired-guy: {Killbots. There are a million of those wandering out there. Oh, hang on, here comes another one.}]
+[{I vowed to have a closer look, but something told me that I needed to be worried about making visual contact. Looking out the window I sort of squinted my eyes as much as I could.}]
+[someone: "Hey, this one's <i>different</i>."]
+[{As it passed I saw a disc-shaped hovering object going by. The part I saw was something like a giant floating Simon game. I wanted to wake up to document this, but I couldn't, and decided to leverage the fact that most things in the dream world want to kill me. So I walked into a room that looked pretty typical and was inhabited by two guys.}]
+[me: {Hey, you guys, I need someone to kill me. I've got important information I need to report back, and I can't do it while I'm in here.}]
+[{They seemed to be neither amused nor concerned, and drew guns and started trying to shoot me. Somewhat out of reflex I fought with them, and tried doing various telekinesis things...it was interesting and rather involved. Eventually I was in the room by myself and they had somehow vanished.}]
+[{I wandered out into the hall and ran into a disc-shaped floating robot thing.}]
+[me: "Hey killbot, now's your chance!"]
+[{Rather than killing me it turned around to run. I grabbed it and turned it upside down and generally squished it up, then carried it along with me as I traveled. I ran into some people who looked like agents from The Matrix, but there was so much chaos going on that they didn't take notice of me.}]
+[{Still holding the robot carcass like a giant deflated balloon, I walked around not sure what to say. I still sort of wanted to be killed to wake up and write this down, but I was seeming unusually invincible. Trying to draw attention to myself, I yelled.}]
+[me: "Killbot! Get your fresh killbot right here!"]
+[{I wandered until I found someone who invited me into their house and offered to take it. Instead of handing it right over, and did my own little version of the Monty Python "it's-not-dead-it's-resting" parrot skit. Amusing myself was keeping me cool and somehow impervious to attack.}]
+[{A girl I recognized entered with her boyfriend, and expressed concern over my being there.}]
+[me: "Are you worried for me or for you?"]
+[{She seemed a little shocked at the question, but her boyfriend pushed her.}]
+[boyfriend: "The first thing you think is the answer."]
+[her: "I'm worried because I have a family."]
+["I hopped out the door, sans killbot, and went on."]
+[{At some point wondered how long this would go on. If I kept delving deeper, would I forget everything that had happened so far? It seemed wise to practice waking up for real. So I laid down and thought some very sad and personal thoughts, which did indeed wake me right up.}]

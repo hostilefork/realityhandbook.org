@@ -1,0 +1,19 @@
+realityhandbook [
+    date: 7-Feb-2007/16:43+3:00
+    category: 'lucid-dream
+    title: "On the Dance Floor I Am Free"
+    slug: %on-the-dance-floor-i-am-free
+    tags: [neutral]
+    old: http://realityhandbook.livejournal.com/78594.html
+]
+[{I was on a dance floor, and heard a song I like playing. So I began to dance, while realizing I could perform amazing feats like float in the air and flip. This cued me to start ask questions about how that was possible, and so I started talking to a nearby guy.}]
+[me: {I can't usually float like this. Have you ever seen a place where when people jump in the air, they immediately fall right back down?}]
+[guy: "Oh, you mean like in the old days...on TV?"]
+[me: {What do you mean old days? Where were you before you were here, do you remember?}]
+["A nearby girl answered for him."]
+[girl: "All I know is that now I'm free."]
+[me: {Is this place somehow in my future? Have you ever seen a robot?}]
+[them: "No."]
+[me: "Have you ever seen a policeman?"]
+[them: "Yes."]
+[{I was invited into a room where they were going to close the door. If I went in with them, there would be about 7 of us in the room. I didn't want to get boxed in because I was feeling like I was going to wake up, so I tried running around a dance floor but couldn't keep from awakening.}]

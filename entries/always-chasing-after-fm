@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 19-Feb-2008/12:15+3:00
+    category: 'lucid-dream
+    title: "Always chasing after FM"
+    slug: %always-chasing-after-fm
+    tags: [helpful positive religion]
+    old: http://realityhandbook.livejournal.com/56378.html
+]
+["I got a chance to speak to a room full of people."]
+[me: {It is nice here, it is calm and quiet... things are stable. Why is it so stable? Where do these objects come from?}]
+[them: "We get them at the mall."]
+[me: {How are they manufactured to produce such stability?}]
+[them: {It isn't always good to have solidity. People are always asking for the feature of their mates to be more malleable and do what they are asked.}]
+[note "They didn't seem to be joking with that remark."]
+[me: {Fine, but in many dreams objects are generally not this stable, and I'd like to know why <i>these</i> objects are.}]
+[them: "Unsure, you'd have to go to Watershed(?)."]
+[me: {Then I'd like to go to Watershed. Not now, I don't think there's time, but the next time you see me please take me there}]
+[them: "All right."]
+[me: {Is there a strong belief in physical reality? As in... where I am from? Is it known I come from 'somewhere else' among you guys?}]
+[them: "Yes."]
+[me: "So everyone here knows our society is there?"]
+[them: "Absolutely."]
+[me: {Please clear your minds, and I'd like to go around the room and have everyone say what they would call me.}]
+[note {The "clear your mind bit" was because I feared treating the question automatically would just reflect my given name back at me.}]
+[{My point of view shifted to a piece of paper which had a collection of terms "New guy", "Om", "AM", 7/5, "AM" again, other gobbledygook.}]
+[me: ("narrating the paper") {7/5? Uh... what? I'll go with AM, since that came around multiple times. But why?}]
+[them: ("laughing") "Because you're always chasing after FM."]
+[note {I caught a deliberate reference to Amplitude Modulation vs. Frequency Modulation here, but there may have been a joke in there with FM also referring to females, not sure.}]
+[me: {Do any of you have physical bodies with which you can transfer information to the world I am from?}]
+[them: "Nope, sorry."]
+[me: "Okay, another question"]
+[man: "Hey, wait listen to me..."]
+[me: "I'm going to wake up soon, I can't really delay."]
+[man: "No, LISTEN!"]
+[me: "All right fine, please hurry."]
+[man: ("laughing") {It's simple. You just take ALL the food and the non-religious food will rot away.}]

@@ -1,0 +1,124 @@
+realityhandbook is a simple system for making a website which contains dream
+logs that fit a stylized "screenplay" format.  You write your dream logs in a
+dialect of the Rebol language.  The entries are then analyzed for structure,
+building a character list and letting you sort the dreams by tag.  
+
+You can browse the result at:
+
+    http://realityhandbook.org
+    
+The website is built out as static files, but those static files can be
+enhanced by a system like Django.  The original goal was to make a site that's
+very straightforward, does not require a database on the backend, and which is
+easy to crawl.
+
+The input format is a series of blocks, representing sequential sections of
+the dream dialogue.  Here are the block formats:
+
+
+EXPOSITION
+
+Simple exposition or narration is just a string inside of a block.
+
+    [{See, I'm naked in church when I meet a dinosaur.  I try to run but
+      my feet have been nailed to the floor.  Then a midget pushes me through
+      a revolving door.  And I'm back in the very same place I was before...}]
+
+( apologies to Weird Al: http://www.youtube.com/watch?v=K4fezNM7-Kk )
+
+I considered adapting the dialect to allow an unadorned string like this to 
+not require a block.  But for the moment, having the block is nice.
+
+
+SIDENOTES
+
+Sidenotes are indicated with a block beginning with the word NOTE.  These are
+used to add additional research (such as information found on Google after
+waking up).  They are also used to provide corrections or information which
+may otherwise inform the reader about details I may know but that were not
+presented in the dream.
+
+    [note {I told the dream alien it was the year 2000, but it's 
+     actually 2013 at the time of this writing.}]
+
+Multi-line notes are achieved by instead of having a string as the second
+argument, instead using a block.  In that block, all line formats are legal;
+and the template generator will wrap that up in a blockquote.
+
+    [note [[{One.}] [{Two.}] [{Three}]]]
+
+
+DIALOGUE
+
+A line of dialogue starts with a hyphenated character name followed by a colon.
+Although any "SET-WORD!" (in Rebol terminology) would be legal here, keeping
+the names as simple as possible and not including punctuation or numbers is
+best.
+
+    [taco-bell-dog: {Yo quiero taco bell.}]
+
+One practice that I deprecated was the use of quotes around the name of
+someone who merely looked like (or reminded me) of someone.  So for instance:
+if I start talking to an asian man who reminds me of Mr. Sulu from Star Trek,
+I would now call that dream character [asian-man:] instead of "Mr Sulu".
+The only time I will use a proper name of a person or character is if they
+introduce themselves as such.  In that case, the absence of quotes and
+"taking their word for it" is implictly to be questioned... as these are
+dreams, after all.
+
+It's possible to add an action to a character by enclosing it in parentheses
+as the second item in a dialogue block.
+
+    [purple-cheetah: ("growling fiercely") {Give me back that shoe pie!}]
+
+The contents of the parentheses must be a string enclosed in quotes.
+
+
+PICTURES
+
+The picture facility is a little bit half-baked at the moment, but what it does
+is lets you specify a URL and a caption.  So for instance:
+
+    [picture http://example.com/image.jpg {Example image}]
+
+
+SYNCING
+
+There's a lot of SFTP overhead to rewrite all the files each time.  One can 
+speed things up via RSYNC.  Here is my /etc/rsyncd.conf
+
+The configuration for
+RSYNC is in the /etc/rsyncd.conf, and it should be set to something like:
+
+	motd file = /etc/rsyncd.motd
+	log file = /var/log/rsyncd.log
+	pid file = /var/run/rsyncd.pid
+	lock file = /var/run/rsync.lock
+	read only = yes
+	list = no
+
+	[realityhandbook-templates]
+	   path = *** # path to where the templates are goes here
+	   comment = RealityHandbook Template Sync
+	   uid = *** # user id goes here
+	   gid = nogroup
+	   read only = no
+	   list = yes
+	   auth users = *** # user id here
+	   secrets file = /etc/rsyncd.scrt
+
+If that is configured properly, then realityhandbook-templates names a 
+directory that can be sync'd.
+
+On the server side, run: 
+
+	sudo rsync --daemon --no-detach -vvv
+
+On the client side, run:
+
+	rsync --progress --recursive templates/* [your login @ your domain]::realityhandbook-templates
+
+If that doesn't work, then something's wrong and the :: syntax for using the
+configuration may be broken.  I managed to have some success w/this alternative:
+
+	rsync --progress --recursive templates/* [your login @ your domain]::[remote path]

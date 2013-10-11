@@ -1,0 +1,23 @@
+realityhandbook [
+    date: 14-Aug-2006/17:10+3:00
+    category: 'lucid-dream
+    title: "The Magical Half-Eaten Hot Dog"
+    slug: %the-magical-half-eaten-hot-dog
+    tags: [matrix names positive telekinesis]
+    old: http://realityhandbook.livejournal.com/14301.html
+]
+[{I was in some kind of a pool, which suddenly started filling up with sand from the bottom. Water was flowing oddly all over the place, trapping people up against some kind of irregular glass ceiling. They were panicking.}]
+[me: {This is ridiculous, you need to relax. This is a dream. Just ride the waves and let yourself enjoy it.}]
+[{It became fun, and everyone stopped freaking out and started riding this flood over mountains and valleys. A few of us landed comfortably in a meadow.}]
+[me: {In real life, that would have been very dangerous...but it sure was fun.}]
+[someone: {If you were better at it, you'd be able to do such feats while you are awake.}]
+[me: {I doubt it. Though maybe...characters from The Matrix managed to do amazing things in a world they had once assumed was a rigid reality.}]
+[{There was a picnic going on in the meadow, but I didn't have any food.}]
+[me: {Okay...I'm going to try and make some food materialize. Does anyone have a request?}]
+[someone: "A hamburger."]
+[me: {I don't eat hamburgers very often so that's going to be a bit tough, since I rely upon memories to conjure objects. But I'll try.}]
+[{My first attempts failed, but eventually I managed to produce a half-eaten hot dog by mimicking the memory of a food eating experience. Throwing that away, I started talking to a girl.}]
+[me: "Hi there, what's your name?"]
+[girl: "Stacey Christie."]
+[me: "Oh. How do you spell that?"]
+[{Rather than an answer to that question, I was suddenly watching a video in an internet browser. She was some sort of VJ or news correspondent, and the text of her name was done with video titling.}]

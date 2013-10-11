@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 4-Jun-2006/10:23+3:00
+    category: 'lucid-dream
+    title: "Ride The Mirror"
+    slug: %ride-the-mirror
+    tags: [conspiracy helpful positive technology]
+    old: http://realityhandbook.livejournal.com/11089.html
+]
+[{I was in a nice house with lots of people around, none of whom I recognized. Somehow I was convinced the house had been built on top of my current residence, but it was many years in the future.}]
+[note {Why I believed this is unclear, but it really didn't interfere that much with taking stock of the place.}]
+[me: "Do you people know what my name is?"]
+[{Someone provided a piece of paper which had my name on it, but it was missing a letter. I tried in rather scribbly ways to correct it.}]
+[me: {This always happens...it's like there's a conspiracy against me. They can't get my name right in the phone book or on my car title, and they'll never fix it.}]
+[random-girl: {If you're worried that the spelling errors are part of some identity conspiracy, why are you trusting to give <i>us</i> the real spelling? Blind faith?}]
+[me: "Guess you have a point there."]
+[black-man: {Man, if it weren't for the fact that someone had changed your name to protect you, I would have killed you right when you were born!}]
+[me: ("defensive") "WHY?"]
+[black-man: {Jeez, I'm just kidding! What I'm saying is that maybe there's a conspiracy to <i>protect</i> you. Why panic before you know what's actually going on?}]
+[me: {Okay, you have a point there too. Still, I'm here and we might as well exchange information in case there's something it can help. I can relate pretty much any detail you want about my life. It just turned May in Two Thousand Sixth.}]
+[note {Now that I look at it, it just turned June. Well I'm not all that lucid in waking life apparently, as I had to check to find out I was wrong, and I am now "awake".}]
+[me: ("jokingly") {Oh, pleathe excuthe my lithp. I meant to say 2006. Now for dream physics 101. I want to know...when I wake up in my bed at home, am I going to just vanish out of this room here?}]
+[random-girl: {Everyone does something different when they leave. We haven't seen what you're going to do yet, <i>because you're still here</i>.}]
+[{I noticed that a guy was holding something to my head as if it were a gun. After an initial panic, I noticed it was a wine bottle. He handed it to me along with a cup of something else that looked like coffee.}]
+[me: {Am I supposed to mix these? What will happen if I drink it?}]
+[wine-guy: ("annoyed") {Enough with the questions already! This isn't intern-training-hour!}]
+[random-girl: {Come on, give him a break. He's asking because he actually <b>needs</b> to know. I didn't find out about these people until recently, but apparently it can take thousands of years for some to learn to ride the mirror.}]
+[me: {Hold up. Did you say...Ride-the-Mirror? Like, as in Metallica-Ride-the-Lightning, except with Mirror instead of Lighting?}]
+[note "Ride the Lightning is an album by Metallica."]
+[wine-guy: "Yeah, yeah, it's a term for it."]
+[{At that point, one of the walls turned very bright white and I worried that I was going to wake up.}]
+[black-man: "Oh, sorry. I didn't mean to confuse you. Look."]
+[{He showed me that he'd changed the wall from 3D into a photo. All the objects had become flat, and in their flat state they had interfaces and brand logos. I started browsing tables and chairs to see what panels they had on them while they were flattened. I started talking out loud, as if to a computer on Star Trek.}]
+[me: {Okay, there was dinner on this table, but I want to clean up now. Save room state as [myname]_VISIT, then unsort all objects and restore them to their default state.}]
+[note {I find it very weird that I used the word "unsort". I even thought it was weird in the dream.}]
+[{My command seemed to be processed, and all the objects went away. Plates and cups filed themselves into stacks and into cupboards, then the cupboards were stacked and flattened into 2D themselves.}]
+[note {Though somewhat mindblowing, I've seen this sort of holodeck-like stuff in the past, so it was eerily familiar. This is just the first time I've been able to explore it quite so calmly, usually I only see these things in fast forward as I rush to a wakened state.}]

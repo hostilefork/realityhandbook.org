@@ -1,0 +1,13 @@
+realityhandbook [
+    date: 26-May-2008/13:07+3:00
+    category: 'lucid-dream
+    title: "Let God be Your Preservative"
+    slug: %let-god-be-your-preservative
+    tags: [positive religion]
+    old: http://realityhandbook.livejournal.com/65393.html
+]
+[{I was in a room with several odd shaped things. They morphed a lot. I asked them questions and they were giving answers for a fair amount of time. One thing looked like a giant plush blue shark, but a friendly one.}]
+[shark: {You are just so very <i>good</i>. We are trying to work out what is best for you.}]
+[me: {Thank you, I try to be. I need to know what's going on though. I need to know, y'know, is there a God behind it all? Can I have faith in improvement or is this just going to be more nonsense ad nauseum?}]
+[shark: {We think of God more as...well, more like a 'preservative'...so that is the model we use when creating architecture.}]
+[note {When I woke up, I thought of the joke "Q: What do God and Disodium EDTA have in common? A: If you look hard enough, you'll find them in a bottle of salad dressing." Which I think is pretty funny.}]

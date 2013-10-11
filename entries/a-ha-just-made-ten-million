@@ -1,0 +1,14 @@
+realityhandbook [
+    date: 22-Apr-2007/22:08+3:00
+    category: 'lucid-dream
+    title: "A-Ha Just Made 10 Million Dollars"
+    slug: %a-ha-just-made-ten-million
+    tags: [a-ha conspiracy money neutral]
+    old: http://realityhandbook.livejournal.com/31547.html
+]
+["Kathlyn"]
+[{and "Vivi" were the names of two women in white coats who were filing some kind of information in manila folders about detaining someone.}]
+[note {I believed I was the person being detained, though I wasn't quite sure.}]
+[{A song was playing called <i>A-Ha just made $10 million dollars</i>. The lyrics were suggesting something about fraudulent media, along the lines of:}]
+[quote [[{People magazine married [Celebrity1] and [Celebrity2]}] ["and she didn't even know she inherited a fortune"]]]
+[note {I interpreted the song as saying that celebrity relationships were being fabricated by magazines without awareness of the stars involved. These events went unchallenged because no one close enough to the celebrities to challenge the stories ever knew. There was allusions to the forging of photographic evidence, and A-Ha has always put themes of video/photoshop in their work.}]

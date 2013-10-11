@@ -1,0 +1,37 @@
+realityhandbook [
+    date: 18-Sep-2006/10:58+3:00
+    category: 'lucid-dream
+    title: "Kids in the Hall"
+    slug: %kids-in-the-hall
+    tags: [court helpful neutral]
+    old: http://realityhandbook.livejournal.com/20018.html
+]
+[{I was hanging out with--of all people, <a href="http://en.wikipedia.org/wiki/Kids_in_the_Hall">Kids in the Hall</a> members Dave Foley and Kevin MacDonald. They were doing some kind of comedy sketch about a guy caught in a Catch-22.}]
+[{The plot of the sketch was that a man had moved out of his fancy apartment because he had been fired from a job and could no longer afford it. Then he was discriminated against in an interview at Disney because he lived in a lousy neighborhood. When he told this story to a friend, that friend realized that his employment possibilities had also been limited by his address.}]
+[me: {This skit isn't funny at all. Which one of you came up with this?}]
+[{I picked up a random piece of paper off the desk as if it were a script.}]
+[me: ("mockingly") {Hmmm, oh, that's a good question. Which one of us wrote this...which one... oh, wait, it wasn't any of us. I guess, uh, it just showed up!}]
+[note {I was kind of re-enacting <a href="http://www.theonion.com/content/node/31225">"No one at ad agency remembers hiring Carrot Top for commercial"</a>, from The Onion}]
+[{Dave and Kevin stopped their rehearsal. They stopped and were holding what appeared to be club flyers held together with chewing gum, which was the real script.}]
+[kevin-macdonald: "This is a good story."]
+[dave-foley: "How long did you time it out as?"]
+[kevin-macdonald: "It's 20 minutes long."]
+["I swiped the script."]
+[me: {You'd better hope no one sees you're writing your scripts on club flyers, or they'll think you're preparing to be downsized and cancel your show.}]
+[dave-foley: {We've got plenty of bookings. In fact, we just performed last night at the Henry Fonda Theater.}]
+[me: "The Harry Fonda Theater?"]
+[kevin-macdonald: {No, the HENRY Fonda Theater. Guy is the contact point.}]
+[note {I couldn't tell if they were telling me this because I should talk to "Guy", or if they were talking to each other.}]
+[me: {Last night, let's see, um...today is Saturday so that would have been Friday. The, uh, 20 somethingth.}]
+[note {Interestingly, upon awakening, I was wrong. It was Sunday night I was sleeping, not Saturday. Saturday, what would have been the real "yesterday", at the Henry Fonda Theater, was neither music...nor kids in the hall...but a <a href="http://www.henryfondatheater.com/calendar.htm">Northern Israel Fundraiser Party</a>. It sort of stands out on the calendar as a religious event, since every other day is music.}]
+[me: {What I'm doing is difficult. You should be impressed, though the accuracy of what I'm saying should be questioned.}]
+["I looked Dave straight in the eye."]
+[me: ("exaggeratedly") "I'm. Asleep. Y'know."]
+[{Dave Foley's face was now very strange, with black eyes and a hat, and deformed a bit like Freddy Krueger, though less scary. My staring proceeded.}]
+[dave-foley: ("equally exaggerated") {Yes. We. Know. In. Fact. We. Are. Not. Supposed. To. Talk. To. You.}]
+[me: "Why not?"]
+[dave-foley: {Firstly, because of the fact that you all are drugged and basically unaware of the forces of evil--it's considered a bad idea. Secondly, there are certain biases which exist in the community.}]
+["He lowered his voice and whispered."]
+[dave-foley: {...and there actually are some lawsuits going on right now.}]
+[me: {That's all fine and well, but I'm gonna wake up here and..}]
+["Then I woke up."]

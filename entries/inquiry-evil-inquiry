@@ -1,0 +1,37 @@
+realityhandbook [
+    date: 8-Jan-2009/11:56+3:00
+    category: 'lucid-dream
+    title: "inquiry.evil.inquiry"
+    slug: %inquiry-evil-inquiry
+    tags: [negative attack google sexual technology]
+    old: http://realityhandbook.livejournal.com/119140.html
+]
+[{I was in a very dirty and destitute seeming place, where I had discussed with someone the idea that God doesn't intervene in the choices of our lives--but it merely is a way of figuring out where we should go next. After a man tried to throw a lump of coal at me, I decided it was time to leave and I climbed a stairwell to an open door... which opened into a much nicer place where an old man and an old woman were living. When I opened the door it seemed to break the lock, and I fumbled to put it back together.}]
+[old-man: {Ah you need to put this piece here... like so, then they come together and the pressure holds it.}]
+[me: {Oh. That doesn't seem too secure, do you worry about having things stolen?}]
+[old-man: "Ah yes, someone came and stole my two of clubs."]
+[{I noticed that he had several decks of cards laying around.}]
+[me: {Who'd steal a two of clubs? Perhaps they played... uh... which is it, Hearts or Spades... the game where the two of clubs plays first?}]
+[old-man: "Ah yes, that's Spades. Maybe that's the reason."]
+[note {That turns out to be true--I don't play much in the way of card games so I wouldn't know.}]
+[me: {I need you guys to explain to me how I appear to you. What do I look like?}]
+[old-woman: "You're naked...but you're wearing cute glasses."]
+[me: {Naked except for glasses? That doesn't make any sense.}]
+[{I looked down at my body. To my perception I was wearing all black, with a sort of fuzzy sweater. I took her hand and touched it to my chest.}]
+[me: "Do you feel that? What does it feel like?"]
+[old-woman: "It feels fuzzy..."]
+[me: {Like a fuzzy sweater? Well, then I wouldn't be naked, then...would I?}]
+[{Next I started reciting things like my name, date of birth, and what year it was.}]
+[me: {It's 2008... I can't... I can't really remember what month and if I think too hard about it I'll probably wake up. But it's somewhere in there, the middle maybe. The other stuff is right. Have you guys heard of Earth?}]
+[{They sort of wavered and I thought I had woken up for a moment--but then realized I hadn't. There were some attractive women coming out of a room, one was an Asian-looking girl in a very short skirt--too short to cover her behind. Thinking she was attractive, I followed and thought about taking the dream in a lascivious direction, but decided to ask permission.}]
+[me: {I'm not sure about etiquette in cases like this. Do you mind if I touch you?}]
+[asian-girl: "Ummm... I guess that's ok, but..."]
+[{She hesitated as if she was listening to someone, but I couldn't hear what she was listening to.}]
+[asian-girl: {It says, it says you're a boy. And that it's dangerous--boys are only supposed to be with boys, and girls with girls.}]
+[me: "Says who? Who's 'It'?"]
+[{The girls didn't answer my question and began to evade me, and I followed them. Another person came up to me and tried to kiss me, but then I pushed away to try and get a better grasp on the environment. That person who had kissed me--who had a feminine face--opened their robe and pointed to a bulge in their underwear.}]
+[me: "Uh, no thanks. What's going on here?"]
+[{The scene transitioned to where I was using a computer. I was looking at something called "Sub magazine" on Google images. It seemed that this magazine had something to do with music, but it did feature the band Leatherstrip. Unsure quite why I was searching this but very aware I was dreaming, I tried to get a focus on the pictures and the domain names. Some of them had bits missing, like domain.subdomain.4000.xxx -- I made an effort to remember them, but the only one that stuck in my mind was inquiry.evil.inquiry.}]
+[note {Inquiry happens to be the name of a software program I wrote in Junior High School. There is a <a href="http://subthemag.com">Sub magazine</a> but it's not to do with sexual submissives, nor "Subverse"... but it's a Christian pop-culture magazine. It has what seems to be not a lot of content. Also I just learned that the correct spelling of the band's name is <a href="http://en.wikipedia.org/wiki/Leæther_Strip">L&aelig;ther_Strip</a>--so there's an appearance of the "ae", though I don't think it was there in the dream.}]
+[{On the side of the screen alongside the news searches were some links about India's involvement in spreading some viral flu. I began to feel something clawing at my hands and interfering with my typing. This made me bite whatever it was that felt like a third hand. When the biting wasn't working, I decided to try laughing and throwing it off using other tactics of changing emotions. While doing this, I went to try and navigate to news.google.com. Instead of the news, I managed to bring up Google Maps... and saw a pushpin map of Southern California.}]
+[{Then whatever it was that was fighting me won, and I woke up.}]

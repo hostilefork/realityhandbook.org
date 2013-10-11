@@ -1,0 +1,32 @@
+realityhandbook [
+    date: 13-Dec-2010/9:56+3:00
+    category: 'lucid-dream
+    title: "Pure Format Math"
+    slug: %pure-format-math
+    tags: [helpful neutral matrix dogs]
+]
+[{A brown curly-haired dog approached me. It was licking me and as it did, it caused an uncomfortable feeling.}]
+[dog: "Just a little more..."]
+[me: {Okay, I still don't understand this thing with the dogs! Get away!}]
+[{It kept licking and I couldn't push it away, its face began to sort of melt or alter in the places where it had contacted me. A large, more severe looking dark colored great-dane stepped in between me and the dog. I sensed that it was protecting me. I pet it, and it just stared off in a direction as it blocked the dog. A woman seated in a chair began speaking to me.}]
+[woman: {You know, there's a moment of choice. You have to decide if you want to live in a simulation... or at the level of reality at which we know it.}]
+[me: "Like the Matrix blue pill, red pill thing?"]
+[woman: "Basically."]
+[me: {But how does anyone know they live in 'reality'? Who's to say it doesn't cascade in all directions, and that if you go deep enough it just is a snake eating itself. Until someone offers me an explanation for what I do that makes any sense, maybe I'm proof of that.}]
+["A man seated nearby, gave me a grumpy look."]
+[man: {There *is* such a thing as pure format math. That is the prime reality, and no evidence exists to the contrary.}]
+[{Meanwhile, the annoying dog started coming after me again.}]
+[me: {If you guys live in a simulation, can't you download a yard or something to put these damn dogs in?}]
+[woman: {We don't usually have guests in this house, it's been many years. But no, we can't do that.}]
+[me: "What do you mean you can't do that?"]
+[woman: "It hasn't been allocated and approved."]
+[me: {We've got Google Sketchup and if you want another room on your virtual house you drag it out. I don't get it.}]
+[{Things sort of phased out for me a bit, and I found myself in a room with a few kind of large white people sitting in chairs.}]
+[fat-girl: "Oh look. If it isn't the time-traveling alien."]
+[me: {What? People are talking about simulations and I totally understand that bit, but what I don't understand is what am *I*. And why no one gives me a straight answer.}]
+[fat-girl: {I can tell you that we're an alternate branch from your world, from your 1996. You may notice that we have really big necks, it was a difference in the code.}]
+[me: {Do you sleep and dream and just materialize in other places?}]
+[fat-girl: "Nope."]
+[me: {I don't see how... if there's some kind of memory erasure or something, you really just can't do that and then leave the variant of yourself without the memory stuck in a situation like this. It's not right.}]
+[{A man standing on a balcony looked down and yelled at me.}]
+[balcony-man: "Oh. Well *now* he gets it...!"]
