@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+
+
+
+	This is a first simple attempt at putting the record of my interdimensional
+	experiences in a place that (might) be a better way to share the information.
+
+	Just in case it isn't, I'm leaving the LiveJournal around.
+	Breaking links is for hoo-mans.  More to come...
+
+	Greets to Cerul, SkyNet, and the rest of my peeps :P
+
+
+-->
+<html>
+	<head>
+	<meta charset="utf-8" />
+	<!-- <meta name="google-site-verification" content="eoQP3nJ2qyDceZYAYN6-XaF24JZ2DVrzC6penYi8Rnc" /> -->
+
+	<title><%== title %></title>
+
+    <link rel='stylesheet' href='http://realityhandbook.org/media/default.css' type='text/css' />
+
+	<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js">--></script>
+
+	<!-- If debugging in a browser without decent debugging infrastructure, Firebug Lite can be helpful -->
+	<!-- http://getfirebug.com/lite.html -->
+	<!-- <script type="text/javascript" src="http://getfirebug.com/releases/lite/1.2/firebug-lite-compressed.js"></script> -->
+</head>
+<body>
+
+<ul id="path"><li><a href="http://realityhandbook.org" title="Home">Home</a></li></ul>
+
+<div id="body"><%= yield %></div>
+
+</body>
+</html>

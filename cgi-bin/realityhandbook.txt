@@ -1,0 +1,72 @@
+This is the operative CGI script. Remove this text, replace settings and clone and rename this file as required.
+
+--
+#!/usr/local/bin/rebol -cs
+
+Rebol [
+	Title: "Reality Handbook Launcher"
+	Date: 25-Nov-2013
+	Author: "Christopher Ross-Gill"
+	Path: %../qm/qm.r
+	Settings: [
+		home: http://realityhandbook.org/
+		domain: "realityhandbook.org"
+		owner: #[email! "@HostileFork"]
+		public-key: "rhb"
+		private-key: "#Reality!Handbook$"
+		session-timeout: 0:2
+		database: none ; mysql://root@localhost/starter
+		zone: -6:00
+		post-limit: 500 ;-- not active yet; can be altered per controller/action
+		default-controller: "lucid-dream"
+
+		email: [
+			name "Starter"
+			email starter@domain
+			host "mail.domain"
+			user "starter!domain"
+			pass "starter#email#12345"
+			type "text/html"
+		]
+
+		spaces: [
+			;-- QM requires entries for "system" "data" "site" "support"
+			;-- Fixed Filepaths Preferred
+			"system"  %../app/
+			"space"   %../space/
+			"site"    %../html/
+			"support" %../qm/support/
+
+			;-- Add more for your convenience
+		]
+
+		debug: true
+
+		exceptions: {
+			<html><head>
+			<title>Error: <%== reason-type %></title>
+			<link href="http://reb4.me/s/anywhere.css" rel="stylesheet" /></head>
+			<body>
+			<h1>Reality Handbook</h1>
+			<h2>Error Message</h2>
+			<pre><code><%== reason %></code></pre>
+			</body>
+			</html>
+		}
+
+		connections: [
+			oauth:flickr.com [
+				consumer-key: #flickr-key
+				consumer-secret: #flickr-secret
+			]
+		]
+	]
+]
+
+; print "content-type: text/plain^/"
+
+unless get-env "UNIQUE_ID" [
+	set-env "UNIQUE_ID" form checksum/secure form now/precise
+]
+
+do/args system/script/header/path system/script/header

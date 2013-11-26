@@ -1,0 +1,6 @@
+<h1><%== dream/title %></h1>
+<p><% some/empty dream/tags [ %>Tags:<%= listify dream/tags %><% ][ %>No Tags<% ] %></p>
+<p><% some/empty dream/characters [
+	%>Characters:<%= listify dream/characters %><% ][ %>No Characters<% ] %></p>
+<%= dream/render %>
+</body>
