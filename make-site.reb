@@ -148,10 +148,11 @@ load-entries: function [
 	    ]
 
 		foreach tag header/tags [
-			either select tag-to-entries tag [
+			either select indexes/tag-to-entries tag [
 				append select indexes/tag-to-entries tag entry
 			] [
-				append/only indexes/tag-to-entries compose/deep copy/deep [(tag) [(entry)]]
+
+				append indexes/tag-to-entries compose/deep copy/deep [(tag) [(entry)]]
 			]
 		]
 
@@ -184,7 +185,7 @@ load-entries: function [
 	    ]
 
 	    foreach character characters [
-		    either select character-to-entries character [
+		    either select indexes/character-to-entries character [
 		    	append select indexes/character-to-entries character entry
 		    ] [
 		    	append indexes/character-to-entries compose/deep copy/deep [(character) [(entry)]]
