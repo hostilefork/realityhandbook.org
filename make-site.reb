@@ -1,4 +1,4 @@
-rebol [
+Rebol [
 	Title: "Make Realityhandbook Website"
 	Description: {
 
@@ -33,163 +33,177 @@ load-entries: function [
 	indexes over the information.}
 
 	entries-dir
+	/with entries [block!] indexes [object!]
 ] [
-	; entries list sorted newest first, oldest last
-	entries: copy []
+	unless with [
+		; entries list sorted newest first, oldest last
+		entries: copy []
 
-	indexes: object [
-		; map from tags to list of entries with that tag
-		tag-to-entries: make map! []
+		indexes: object [
+			; map from tags to list of entries with that tag
+			tag-to-entries: make map! []
 
-		; map from character to list of entries where they appear
-		character-to-entries: make map! []
+			; map from character to list of entries where they appear
+			character-to-entries: make map! []
 
-		; map from categories to list of entries in that category
-		category-to-entries: make map! []
+			; map from categories to list of entries in that category
+			category-to-entries: make map! []
 
-		; map from entry slug to the characters list appearing in it
-		slug-to-characters: make map! []
+			; map from entry slug to the characters list appearing in it
+			slug-to-characters: make map! []
 
-		; map from entry slug to the entry itself
-		slug-to-entry: make map! []
+			; map from entry slug to the entry itself
+			slug-to-entry: make map! []
+		]
 	]
 
 	foreach file load entries-dir [
-		print [{Pre-processing:} file]
-		data: load rejoin [entries-dir file]
-
-		pos: data
-
-		unless all [
-			'realityhandbook == first+ pos
-			block? first pos
+		either dir? file [
+			subdir: rejoin [entries-dir file]
+			print [{Recursing into:} subdir]
+			load-entries/with subdir entries indexes
 		] [
-			throw make error! "Entry must start with realityhandbook header"
-		]
+			print [{Pre-processing:} file]
 
-		header: make object! first+ pos
+			data: load rejoin [entries-dir file]
 
-		unless all [
-			in header 'date
-			date? header/date
-		] [
-			throw make error! "Header requires valid date field"
-		]
+			pos: data
 
-		unless all [
-			in header 'slug
-			file? header/slug
-		] [
-			throw make error! "Header requires a file! slug field"
-		]
-
-		unless all [
-			in header 'title
-			string? header/title
-		] [
-			throw make error! "Header requires a string! title field"
-		]
-
-		unless all [
-			in header 'tags
-			block? header/tags
-			does [foreach tag header/tags [unless word? tag return false] true] 
-		] [
-			throw make error! "Header requires a tags block containing words"
-		]
-
-		if find [lucid-dream non-lucid-dream] header/category [ 
-			unless any [
-				find header/tags 'neutral
-				find header/tags 'positive
-				find header/tags 'negative
+			unless all [
+				'Draem == first+ pos
+				block? first pos
 			] [
-				probe header/tags
-				throw make error! "Dreams must be tagged neutral, positive, or negative"
+				throw make error! "Entry must start with Draem header"
 			]
+
+			header: make object! first+ pos
+
+			unless all [
+				in header 'date
+				date? header/date
+			] [
+				throw make error! "Header requires valid date field"
+			]
+
+			unless all [
+				in header 'slug
+				file? header/slug
+			] [
+				throw make error! "Header requires a file! slug field"
+			]
+
+			unless all [
+				in header 'title
+				string? header/title
+			] [
+				throw make error! "Header requires a string! title field"
+			]
+
+			unless all [
+				in header 'tags
+				block? header/tags
+				does [foreach tag header/tags [unless word? tag return false] true] 
+			] [
+				throw make error! "Header requires a tags block containing words"
+			]
+
+			if find [lucid-dream non-lucid-dream] header/category [ 
+				unless any [
+					find header/tags 'neutral
+					find header/tags 'positive
+					find header/tags 'negative
+				] [
+					probe header/tags
+					throw make error! "Dreams must be tagged neutral, positive, or negative"
+				]
+			]
+
+			unless all [
+				in header 'category
+				word? header/category
+				find [
+					about
+					essay
+					lucid-dream
+					non-lucid-dream
+					open-letter
+					misc
+					hypnosis
+					guest-dream
+					post
+					page
+				] header/category
+			] [
+				throw make error! "Header requires a legal category"
+			]
+
+			entry: make object! compose/only [
+				header: (header)
+				content: (copy pos)
+			]
+
+			append entries entry
+			repend indexes/slug-to-entry [entry/header/slug entry]
 		]
-
-		unless all [
-			in header 'category
-			word? header/category
-			find [
-				about
-			    essay
-	    		lucid-dream
-	    		non-lucid-dream
-	    		open-letter
-	    		misc
-	    		hypnosis
-	    		guest-dream
-	    	] header/category
-	    ] [
-	    	throw make error! "Header requires a legal category"
-	    ]
-
-	    entry: make object! compose/only [
-	    	header: (header)
-	    	content: (copy pos)
-	    ]
-
-	    append entries entry
-	    repend indexes/slug-to-entry [entry/header/slug entry]
 	]
 
-	sort/compare entries func [a b] [a/header/date > b/header/date]
+	unless with [
+		sort/compare entries func [a b] [a/header/date > b/header/date]
 
-	foreach entry entries [
-		header: entry/header
-		content: entry/content
+		foreach entry entries [
+			header: entry/header
+			content: entry/content
 
-	    either select indexes/category-to-entries header/category [
-	    	append select indexes/category-to-entries header/category entry
-	    ] [
-	    	append indexes/category-to-entries compose/deep copy/deep [(header/category) [(entry)]]
-	    ]
-
-		foreach tag header/tags [
-			either select indexes/tag-to-entries tag [
-				append select indexes/tag-to-entries tag entry
+			either select indexes/category-to-entries header/category [
+				append select indexes/category-to-entries header/category entry
 			] [
-
-				append indexes/tag-to-entries compose/deep copy/deep [(tag) [(entry)]]
+				append indexes/category-to-entries compose/deep copy/deep [(header/category) [(entry)]]
 			]
-		]
 
-	    ; collect the characters from blocks beginning with set-word in the body
-	    characters: copy []
-	    repend indexes/slug-to-characters [entry/header/slug characters]
+			foreach tag header/tags [
+				either select indexes/tag-to-entries tag [
+					append select indexes/tag-to-entries tag entry
+				] [
 
-	    pos: content
-	    while [not tail? pos] [
-	    	line: first+ pos
-
-	    	if not block? line [
-	    		throw make error! "Each line currently must be a block :-/"
-	    	]
-
-	    	if all [
-	    		set-word? first line
-	    		not find characters to word! first line
-	    	] [
-	    		append characters to word! first line
-	    	]
-
-	    	comment [
-		    	if 'picture = first line [
-		    		;;
-		    		;; What to do?  Index or list these?  Scrape them?
-		    		;;
-		    	]
+					append indexes/tag-to-entries compose/deep copy/deep [(tag) [(entry)]]
+				]
 			]
-	    ]
 
-	    foreach character characters [
-		    either select indexes/character-to-entries character [
-		    	append select indexes/character-to-entries character entry
-		    ] [
-		    	append indexes/character-to-entries compose/deep copy/deep [(character) [(entry)]]
-		    ]
+			; collect the characters from blocks beginning with set-word in the body
+			characters: copy []
+			repend indexes/slug-to-characters [entry/header/slug characters]
+
+			pos: content
+			while [not tail? pos] [
+				line: first+ pos
+
+				if not block? line [
+					throw make error! "Each line currently must be a block :-/"
+				]
+
+				if all [
+					set-word? first line
+					not find characters to word! first line
+				] [
+					append characters to word! first line
+				]
+
+				comment [
+					if 'picture = first line [
+						;;
+						;; What to do?  Index or list these?  Scrape them?
+						;;
+					]
+				]
+			]
+
+			foreach character characters [
+				either select indexes/character-to-entries character [
+					append select indexes/character-to-entries character entry
+				] [
+					append indexes/character-to-entries compose/deep copy/deep [(character) [(entry)]]
+				]
+			]
 		]
 	]
 
@@ -202,6 +216,8 @@ context [
 		print "=== LOADING ENTRIES ==="
 
 		set [entries indexes] load-entries %entries/
+
+		probe entries
 
 		print "=== TEMPLATES OUTPUT ==="
 

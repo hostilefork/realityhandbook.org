@@ -1,11 +1,11 @@
-rebol [
+Rebol [
 	Title: "Make Timeline"
 	Description: {
 
 	This is a small experiment which builds the XML file needed so that 
 	the dreams can be shown on a SIMILE timeline:
 
-	    http://www.simile-widgets.org/timeline/
+		http://www.simile-widgets.org/timeline/
 
 	More modern timeline codebases now exist for JavaScript and HTML5,
 	and it would probably be a good idea to update to another solution,
@@ -48,8 +48,8 @@ to-timeline-date: function [d [date!]] [
 make-timeline: function [entries [block!] xml-filename [file!]] [ 
 	timelinexml: reduce [
 		{<data>}
-		rejoin [tab {wiki-url="http://realityhandbook.org"}]
-		rejoin [tab {wiki-section="Reality Handbook Timeline"}]
+		rejoin [tab {wiki-url="} draem-config/site-url {"}]
+		rejoin [tab {wiki-section="} draem-config/site-name { Timeline"}]
 		{>}
 	]
 

@@ -37,7 +37,6 @@ to: func [type value] [
     return old-to type value
 ]
 
-
 ; converts slug, character, or tag to a string with option to have dashes
 ; or spaces (default)
 stringify: func [word [set-word! word! file!] /dashes] [
@@ -76,7 +75,7 @@ fake-category: function [
 
 url-for-entry: func [entry [object!]] [
 	rejoin [
-		http://realityhandbook.org/ stringify/dashes entry/header/category {/}
+		draem-config/site-url stringify/dashes entry/header/category {/}
 		either fake-category entry/header/category [
 			{}
 		] [

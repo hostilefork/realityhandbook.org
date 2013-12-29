@@ -1,4 +1,4 @@
-rebol [
+Rebol [
 	Title: "Make Django Templates"
 	Description: {
 
@@ -40,7 +40,7 @@ django-block: func [name [string!] stuff [block!] /inline] [
 django-path: func [stuff [block!] ] [
 	django-block "path" compose [
 		{<li>
-			<a href="http://realityhandbook.org" title="Home">Home</a>
+			<a href="} draem-config/site-url {" title="Home">Home</a>
 		</li>}
 		(stuff)
 		{}
@@ -63,7 +63,7 @@ close-anchor: {</a>}
 link-to-category: func [category [word!] /count num] [
 	rejoin [
 		open-anchor rejoin [
-			http://realityhandbook.org/category/
+			draem-config/site-url {category/}
 			stringify/dashes category 
 			{/}
 		]
@@ -77,7 +77,7 @@ link-to-category: func [category [word!] /count num] [
 link-to-tag: func [tag [word!] /count num] [
 	rejoin [
 		open-anchor rejoin [
-			http://realityhandbook.org/tag/ stringify/dashes tag {/}
+			draem-config/site-url "tag/" stringify/dashes tag {/}
 		]
 		stringify tag
 		close-anchor
@@ -88,7 +88,7 @@ link-to-tag: func [tag [word!] /count num] [
 link-to-character: func [character [word!] /count num] [
 	rejoin [
 		open-anchor rejoin [
-			http://realityhandbook.org/character/ stringify/dashes character {/}
+			draem-config/site-url "character/" stringify/dashes character {/}
 		]
 		stringify character
 		close-anchor
@@ -143,6 +143,13 @@ htmlify: function [
 			subpos: next subpos
 		]
 	] [
+		if 'center = first e [
+			;-- centering requires CSS as <center> is invalid now :-/
+			;-- worry about it in a bit, don't center it for now
+			;-- treat as if it didn't say center
+			take e
+		]
+
 		switch/default first e [
 			picture [
 				result: rejoin [
@@ -160,10 +167,15 @@ htmlify: function [
 				]
 			]
 			divider [
-				result: "<hr>"
+				result: rejoin ["<hr>" space]
 			]
 			quote [
 				result: rejoin [
+
+					;-- This nestfirst thing breaks when lists are embedded in quotes
+					;-- This whole thing needs a revisit, as the code has gotten out of hand
+					;-- Probably want to be parse-driven anyway
+
 					either nestfirst [{<blockquote>}] [{<blockquote><p>}]
 					either string? second e [
 						second e
@@ -174,22 +186,160 @@ htmlify: function [
 				]
 				if not string? second e [probe e print result ]
 			]
-			note [
+			note
+			update [
+				either date? second e [
+					date: second e
+					content: third e
+				] [
+					date: none
+					content: second e
+				]
+
 				result: rejoin [
 					either nestfirst [{}] [{<p>}]
-					{<i>(Note:} space
-					either string? second e [
-						second e
+					{(} either 'note = first e [{Note}] [rejoin [{<b>UPDATE} either date [rejoin [space date]] [{}] {</b>}]] {:} space
+					either string? content [
+						content
 					] [
-						htmlify/nested second e
+						htmlify/nested content
 					]
-					{)</i>}
+					{)}
 					either nestlast [{}] [rejoin [{</p>} lf]]
 				]
-				if not string? second e [probe e print result]
+				; if not string? second e [probe e print result]
+			]
+			more [
+				result: rejoin [{<p><i>Read more...</i></p>} lf]
+			]
+			error
+			text
+			code [
+				either word? second e [
+					language: second e
+					code: third e
+				] [
+					language: none
+					code: second e
+				]
+
+				if language = 'text [
+					language = none
+				]
+
+				;-- Current markup is expected to be HTML compatible
+				;-- http://stackoverflow.com/a/13010144/211160
+				replace/all code "&" "&amp;" ;-- ampersand has to be first, or you double escape!
+				replace/all code "<" "&lt;"
+				replace/all code ">" "&gt;"
+
+				;-- Trim empty lines on top or bottom
+				;-- (they might make the source easier to read)
+				code-lines: split code lf
+				if "" = trim copy first code-lines [
+					take code-lines
+				]
+				if "" = trim copy last code-lines [
+					take/last code-lines
+				]
+				foreach line code-lines [
+					append line lf
+				]
+
+				needs-pre: find [text code] first e
+				needs-code: find [code error] first e 
+
+				;-- TODO: work out the right language classes for google code prettify
+				;-- http://stackoverflow.com/q/11742907/211160
+				result: rejoin [
+					either needs-pre [{<pre>}] [{}]
+					either needs-code [{<code>}] [{}]
+					rejoin code-lines
+					either needs-code [{</code>}] [{}]
+					either needs-pre [{</pre>}] [{}]
+					lf
+				]
+			]
+			heading [
+				result: rejoin [{<h3>} second e {</h3>} lf]
+			]
+			list [
+				unless all [
+					block? second e
+					not nested
+				] [
+					probe e
+					throw make error! "Bad list found" 
+				]
+				result: copy {<ul>}
+				foreach elem second e [
+					append result rejoin [
+						{<li>}
+						either string? first elem [
+							first elem
+						] [
+							htmlify elem
+						]
+						{</li>}
+						lf
+					]
+				]
+				append result rejoin [{</ul>} lf]
+			]
+			raw [
+				;-- don't wrap in <p> tag; e.g. contains <div> or block level elements.
+				unless string? second e [
+					probe e
+					throw make error! "Bad raw HTML"
+				]
+				result: second e
+			]
+			youtube [
+				;-- I like the idea of being able to put actual working youtube URLs in
+				;-- without having to extract the stupid ID, so I can just click on the
+				;-- video from the source I'm writing.
+				unless all [
+					url? second e
+					pair? third e
+					parse second e [
+						["http://www.youtube.com/v/" copy video-id to [end | "?"]]
+					|
+						["http://www.youtube.com/watch" thru "v=" copy video-id to [end | "#"]]
+					]
+				] [
+					probe e
+					throw make error! "Bad youtube embed"
+				]
+				;-- http://www.webupd8.org/2010/07/embed-youtube-videos-in-html5-new.html
+				result: rejoin [
+					{<iframe class="youtube-player"} space
+
+					;-- Integer conversion needed as first 10x20 returns 10.0 :-/
+					{width="} to integer! first third e {"} space
+					{height="} to integer! second third e {"} space
+					{src="http://www.youtube.com/embed/} video-id {">}
+					{</iframe>}
+				]
 			]
 		] [
 			case [
+				url? first e [
+					url: to string! first e
+
+					;-- put in better url encoding logic or decide what should be done
+					replace/all url "&" "%26"
+
+					result: rejoin [
+						{<p>}{<a href="} url {">}
+						case [
+							none? second e [url]
+							string? second e [second e]
+							true [print "Bad URL specification"]
+						]
+						{</a>}{</p>}
+						lf
+					]
+				]
 				string? first e [
 					result: rejoin [
 						either nestfirst [{}] [{<p>}]
@@ -264,7 +414,7 @@ write-entry: function [
 		(django-path [
 			rejoin [
 				{<li>}
-					{<a href="http://realityhandbook.org/category/}
+					{<a href="} draem-config/site-url {category/}
 					stringify/dashes entry/header/category {/">} 
 					stringify entry/header/category 
 					{</a>}
@@ -285,7 +435,7 @@ write-entry: function [
 			] [
 				comma-separated/callback entry/header/tags function [tag] [
 					rejoin [ 
-						{<a href="http://realityhandbook.org/tag/}
+						{<a href="} draem-config/site-url {tag/}
 						stringify/dashes tag
 						{/">} stringify tag {</a>}
 					]
@@ -299,7 +449,7 @@ write-entry: function [
 			] [
 				 comma-separated/callback select indexes/slug-to-characters entry/header/slug function [character] [
 					rejoin [ 
-						{<a href="http://realityhandbook.org/character/}
+						{<a href="} draem-config/site-url {character/}
 						stringify/dashes character
 						{/">} stringify character {</a>}
 					]
@@ -394,7 +544,7 @@ make-templates: function [
 		])
 		
 		(django-block/inline "header" [
-			{All Tags for Realityhandbook.org}
+			rejoin ["All Tags for " draem-config/site-name]
 		])
 
 		(django-path [
@@ -423,7 +573,7 @@ make-templates: function [
 			])
 		
 			(django-path [
-				{<li><a href="http://realityhandbook.org/tag/" title="Tag List">Tag</a></li>}
+				{<li><a href="} draem-config/site-url {tag/" title="Tag List">Tag</a></li>}
 				rejoin [{<li><span>} stringify tag {</span></li>}]
 			])
 			
@@ -484,7 +634,7 @@ make-templates: function [
 			])
 			
 			(django-path [
-				{<li><a href="http://realityhandbook.org/character/" title="Character List">Character</a></li>}
+				{<li><a href="} draem-config/site-url {character/" title="Character List">Character</a></li>}
 				rejoin [{<li><span>} stringify character {</span></li>}]
 			])
 			
@@ -513,7 +663,7 @@ make-templates: function [
 		(django-extends %categorylist.html)
 
 		(django-block/inline "title" [
-			{All Categories for Realityhandbook.org}
+			rejoin ["All Categories for " draem-config/site-name]
 		])
 		
 		(django-block/inline "header" [
@@ -550,7 +700,7 @@ make-templates: function [
 			])
 			
 			(django-path [
-				{<li><a href="http://realityhandbook.org/category/" title="Category">Category</a></li>}
+				{<li><a href="} draem-config/site-url {category/" title="Category">Category</a></li>}
 				rejoin [{<li><span>} stringify category {</span></li>}]
 			])
 
