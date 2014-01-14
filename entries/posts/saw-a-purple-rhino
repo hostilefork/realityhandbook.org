@@ -19,9 +19,9 @@ Draem [
 
 [note {For more on the "your chronology is false and watch out for technology used to fake you out" theme, watch Apoptygma Berzerk's <a href="http://www.youtube.com/watch?v=Hy0cP7SlDEM">Apollo</a>. The red and blue pills make an appearance on the drummer's shirt, among other things to think about...}]
 
-"<h3>Red, Blue and our Sexual Identity Matrix</h3>"
+[heading "Red, Blue and our Sexual Identity Matrix"]
 
-{Another use of these colors that I have noticed is that it seems there's a pervasive attempt to signal <font color="blue">blue means male</font> and <font color="red">red means female</font>. Going flat up to the "duh" level of obviousness with this signal issue, how about the music video for Regina Spektor's <i>Fidelity</i>. (You can <a href="http://www.youtube.com/watch?v=SGTDRztaCCw">watch it here on YouTube</a>.)}
+[html {<div class="exposition">Another use of these colors that I have noticed is that it seems there's a pervasive attempt to signal <font color="blue">blue means male</font> and <font color="red">red means female</font>. Going flat up to the "duh" level of obviousness with this signal issue, how about the music video for Regina Spektor's <i>Fidelity</i>. (You can <a href="http://www.youtube.com/watch?v=SGTDRztaCCw">watch it here on YouTube</a>.)}</div>]
 
 {We start with Regina Spektor's character--a presumed human female--alone in a room colored in all black and white. She sits at the right side of a table (from the camera's point of view) with the left chair unoccupied. Over her at a mantel sits two iconized abstractions of stereotypical male and female heads (silhouettes). The male head is on the left and the female head is on the right, which seems fitting for the seating arrangement:}
 
@@ -55,7 +55,7 @@ Draem [
 
 [picture %ineedyou_purple.png]
 
-"<h3>And this means... what?</h3>"
+[heading "And this means... what?"]
 
 {Now I'm not saying that you'll find this convention adhered to rigorously. For every video like Jewel's <a href="http://www.youtube.com/watch?v=z42jA3OOECc">I Do</a> there's plenty that don't seem to map colors to genders at all. All I'm saying is that it seems to be a convention or code that is involved in some prominent media I've seen. I believe in the cases I've seen that it is intentional. But whose intention? To what end?}
 
@@ -63,4 +63,9 @@ Draem [
 
 {I am reminded of this poem by the late humorist Stephen Leacock:}
 
-[quote ["And here's the bounding little flea." "You cannot tell the he from she;" "The sexes look alike, you see." "But she can tell; and so can he."]]
+[quote [
+	"And here's the bounding little flea."
+	"You cannot tell the he from she;"
+	"The sexes look alike, you see."
+	"But she can tell; and so can he."
+]]

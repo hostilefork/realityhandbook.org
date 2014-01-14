@@ -97,6 +97,11 @@ Draem [
 
 {(Update as of lunchtime: For the heck of it, I ate at Carl's Jr today, ordering two items. There were no banana or potato-related items on the menu, besides fries obviously--so I went with that. The receipt reads thusly:}
 
-[quote ["1 Fish Sandwich 3.79<br />" "1 Lg Fries 2.19"]]
+[quote [
+	[list [
+		"1 Fish Sandwich 3.79"
+		"1 Lg Fries 2.19"
+	]]
+]]
 
 {I used my ATM card and withdrew $20 at the same time. So put <i>that</i> in your Matrix and compute it.)}

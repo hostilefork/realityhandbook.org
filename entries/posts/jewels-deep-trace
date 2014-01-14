@@ -63,7 +63,13 @@ Draem [
 
 {I picked up a piece of paper and began scribbling on it. My note said something approximating:}
 
-[quote ["" "&AElig; was here" "1020/0304" {2009/<font color="red">3003</font>} "!!DEEP TRACE!!" {<font color="red">&#9632;</font> !!TELL JEWEL!!} ""]]
+[quote [
+	"&AElig; was here"
+	"1020/0304"
+	[html {<div class="exposition">2009/<font color="red">3003</font></div>}]
+	"!!DEEP TRACE!!"
+	[html {<div class="exposition"><font color="red">&#9632;</font>!!TELL JEWEL!!</div>}]
+]]
 
 {What I wrote was less, some of these parts were added automatically. For instance, I wrote 2009 and the 3003 appeared on its own...and I was only using one color of pen but red parts showed up including the square.}
 

@@ -27,4 +27,13 @@ Draem [
 
 {We passed an internet terminal with an interface to YouTube, and I decided to look up Depeche Mode to see if the dream world had any videos I hadn't seen. The first thing that came up was a song called "Phantom Starters". The lyrics went like this, roughly:}
 
-[quote ["Hey, Let me tell you about the other side" "They don't have health insurance" "and they aren't allowed to morph" "though they really *want* to morph" "they're only phantoms" "(chorus?)" "Hey, you should see me from the other side..."]]
+[quote [
+	"Hey, Let me tell you about the other side"
+	"They don't have health insurance"
+	"and they aren't allowed to morph"
+	"though they really *want* to morph"
+	separator
+	"they're only phantoms"
+	separator
+	"Hey, you should see me from the other side..."
+]]

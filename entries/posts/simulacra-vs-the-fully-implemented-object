@@ -17,11 +17,7 @@ Draem [
 
 {Three dimensional space generally provides a good sanity check on dependencies. If your appliances were were unnecessarily depending on things they weren't supposed to, then your house would look like some kind of Rube Goldberg Device, like this one made by the Japanese to cook Ramen:}
 
-{<center><lj-embed id="12">}
-
-{<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/1kvdq8cRNBM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/1kvdq8cRNBM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>}
-
-"</lj-embed></center>"
+[youtube http://www.youtube.com/v/1kvdq8cRNBM 425x350]
 
 {As silly as this is...we're already seeing precisely such implementations when the restrictions of time, and space, and cost of components are completely removed from a design problem. Sadly, this is precisely the situation that has arisen with computer software.}
 
