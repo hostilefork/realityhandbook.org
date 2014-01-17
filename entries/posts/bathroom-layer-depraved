@@ -38,23 +38,27 @@ Draem [
 [woman: {It's been turned down from 16 to 18 Hulls. That's unusual, nobody uses that range anymore.}]
 
 [note [
-	{Despite its application to boats or ships, the term "hull" applies to geometry and computer graphics. Some documentation for Quake says:}
 
-	[quote {Version 2 of MCBSP... the format supports up to 16 hulls instead of Quake's 4. Hulls are customizable by the mapper like so: put '_hull1_mins' '-16 -16 -24'}]
+        {Despite its application to boats or ships, the term "hull" applies to geometry and computer graphics. Some documentation for Quake says:}
 
-	{...so it's perhaps applicable to a virtual reality, too.}
-]]
+        [quote {Version 2 of MCBSP... the format supports up to 16 hulls instead of Quake's 4. Hulls are customizable by the mapper like so: put '_hull1_mins' '-16 -16 -24'}]
+
+        {...so it's perhaps applicable to a virtual reality, too.}
+
+    ]]
 
 [man: {Look, it's set up with two layers. One is labeled 'Bathroom Layer Normal' and the other is called 'Bathroom Layer Depraved.}]
 
 [note [
-	{Though I don't personally find trashed and disgusting bathrooms to be a good form of entertainment, clearly some people do...as they are incorporated into <a href="http://www.fresh99.com/video-game-toilets-bathrooms.htm">many modern video games</a>:}
 
-	[picture %toilets.png]
+        {Though I don't personally find trashed and disgusting bathrooms to be a good form of entertainment, clearly some people do...as they are incorporated into [many modern video games](http://www.fresh99.com/video-game-toilets-bathrooms.htm):}
 
-	{...and Maxim magazine peddles the <a href="http://www.maximonline.com/slideshows/index.aspx?imgCollectId=107">12 Greatest Video Game Toilets Of All Time</a>:}
+        [picture %toilets.png]
 
-	[picture %prey_toilet.jpg]
+        {...and Maxim magazine peddles the [12 Greatest Video Game Toilets Of All Time](http://www.maximonline.com/slideshows/index.aspx?imgCollectId=107):}
 
-	{...as if making a cosmic statement of about arbitrariness of aesthetics. Still, I'd prefer bikini models.}
-]]
+        [picture %prey_toilet.jpg]
+
+        {...as if making a cosmic statement of about arbitrariness of aesthetics. Still, I'd prefer bikini models.}
+
+    ]]

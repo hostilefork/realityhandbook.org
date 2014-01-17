@@ -11,7 +11,15 @@ Draem [
 
 {Somehow I found myself in a bed with a black woman named Lashundra.}
 
-[note [{Though I've never heard of anyone having this name, it does turn out to be a common name among African Americans:} [picture %people_named_lashundra.jpg] "...so that's interesting."]]
+[note [
+
+        {Though I've never heard of anyone having this name, it does turn out to be a common name among African Americans:}
+
+        [picture %people_named_lashundra.jpg]
+
+        "...so that's interesting."
+
+    ]]
 
 [lashundra: {Do you hear that noise? It sounds like the refrigerator in the other room.}]
 
@@ -19,7 +27,7 @@ Draem [
 
 {She had written a long list of things she liked and that made her happy. "Braille 3.0" was one of those things.}
 
-{<i>(From this, one might infer that Lashundra is blind. I thought Braille 3.0 sounded like a standard for the print style...something like "HTML 4.01 Transitional". A web search found <a href="http://www.braille.se/products/winbraille.htm">Win Braille 3.0</a>, but that's about it. No blind Lashundras on the net that I could find.)</i>}
+[note {From this, one might infer that Lashundra is blind. I thought Braille 3.0 sounded like a standard for the print style...something like "HTML 4.01 Transitional". A web search found [Win Braille 3.0](http://www.braille.se/products/winbraille.htm), but that's about it. No blind Lashundras on the net that I could find.}]
 
 {Another thing Lashundra liked was an event at "The Chewing Factory".}
 

@@ -63,7 +63,7 @@ Draem [
 
 {They debated for a bit why they'd run out so quickly, and the girl got up to address me.}
 
-[test-girl: "What has gotten <i>into</i> you?"]
+[test-girl: "What has gotten *into* you?"]
 
 [me: ("angry") {Why doesn't anyone understand how important verification is to me? It hurts to be treated like a crazy person, and worse it hurts to FEEL like you're crazy. Maybe other humans have their memory wiped when they wake up, but my guy remembers everything. He's getting gruesomely killed three times a night and has to live with that by himself.}]
 

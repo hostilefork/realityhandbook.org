@@ -9,7 +9,7 @@ Draem [
 
 {While using my computer outdoors, there was an unusual email on my laptop, addressed to me. It had a subject line with symbols in it--something like "•*"*•&#9733;•*"*•simple math•*"*•&#9829;•*"*•for someone who can understand it•*"*•&#9733;•*"*•". When I opened the message, it was running an animation in the title bar.}
 
-[note [{The animation looked like Conway's <a href="http://en.wikipedia.org/wiki/Conway's_Game_of_Life">Game of Life</a>:} [picture %GoL4.gif] {...which is commonly studied by computer scientists.}]]
+[note [{The animation looked like Conway's [Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life):} [picture %GoL4.gif] {...which is commonly studied by computer scientists.}]]
 
 {I assumed there was some kind of web browser vulnerability going on. Looking to see if I was running Internet Explorer, I saw that I was running Firefox. Whatever was going on was making the browser hang, so I went to kill it. But I was interrupted by a guy who came by.}
 

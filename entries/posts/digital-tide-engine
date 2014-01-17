@@ -21,7 +21,7 @@ Draem [
 
 [me: {I don't know what you mean, but I'm moving the scissors. Don't attack me.}]
 
-[her: {No, no, not an attack. I just mean she'll do that eyebrow thing she does when she finds out about us. But I wasn't <i>trying</i> to insult her.}]
+[her: {No, no, not an attack. I just mean she'll do that eyebrow thing she does when she finds out about us. But I wasn't *trying* to insult her.}]
 
 "We got up from the bed and stood."
 
@@ -31,7 +31,7 @@ Draem [
 
 {She responded by doing some bizarre transformations of her genitalia.}
 
-[me: {Well I'm not <i>afraid</i> of that. But I will have to say that does fall under the set of things I was thinking about when I said 'not gross'.}]
+[me: {Well I'm not *afraid* of that. But I will have to say that does fall under the set of things I was thinking about when I said 'not gross'.}]
 
 {I was inspired to try playing with my facial hair, so I looked into a mirror and started kind of adding more, it went sort of awry and covered up my mouth. Then when I opened my mouth it reappeared over the hair. Somehow or another it got completely messed up, like there were bugs in the graphics.}
 
@@ -51,7 +51,7 @@ Draem [
 
 [cop: {Surprise guys, we found this frame. And if you think a fraud can't last for long, you're right!}]
 
-[note {The term "frame" was interesting to me, because I heard it sort of the way you might think of a <a href="http://en.wikipedia.org/wiki/Sandbox_(computer_security)">Sandbox</a> in computer security.}]
+[note {The term "frame" was interesting to me, because I heard it sort of the way you might think of a [Sandbox](http://en.wikipedia.org/wiki/Sandbox_(computer_security)) in computer security.}]
 
 [cop: "All right, we're going to need a phone in here."]
 
@@ -83,4 +83,4 @@ Draem [
 
 {I made faces like I didn't believe Saturday meant anything, and awoke.}
 
-{<i>(Note 6-4-2008: Saturday would have been February 17, 2007 and I can find no evidence of storms on this date in Sur de Mexico.)</i>}
+[note 4-Jun-2008 {Saturday would have been February 17, 2007 and I can find no evidence of storms on this date in Sur de Mexico.}]

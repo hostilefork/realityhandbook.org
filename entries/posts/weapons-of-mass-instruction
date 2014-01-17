@@ -15,7 +15,7 @@ Draem [
 
 [me: {So you're the third president to be coming around this building today! And here we have... let's see, a major general?}]
 
-[military-man: "<i>Sargeant</i> major general."]
+[military-man: "*Sargeant* major general."]
 
 [me: ("amused") {If I remember correctly, that's considered an even bigger deal. What are you guys doing here?}]
 
@@ -29,17 +29,17 @@ Draem [
 
 {At this point I made an ominous face and glared, pointing.}
 
-[me: {Well I don't want you important people to stress yourselves so much with long trips to my apartment. Because very soon, we'll be bringing what's in this apartment <i>to you</i>.}]
+[me: {Well I don't want you important people to stress yourselves so much with long trips to my apartment. Because very soon, we'll be bringing what's in this apartment *to you*.}]
 
 {Then I turned to walk back to the building. A younger man who had been walking along with us commented to the group.}
 
-[young-man: {We have confirmed that the building contains weapons of mass <i>instruction</i>.}]
+[young-man: {We have confirmed that the building contains weapons of mass *instruction*.}]
 
 [me: ("stopping") "You could put it that way. I kind of like that."]
 
 [young-man: {When the Chemical Brothers told me what was going on here, I didn't believe them. This is going to blow people's minds...literally.}]
 
-[note {The Chemical Brothers are an <a href="http://en.wikipedia.org/wiki/The_Chemical_Brothers">electronic music group</a>.}]
+[note {The Chemical Brothers are an [electronic music group](http://en.wikipedia.org/wiki/The_Chemical_Brothers).}]
 
 "He tapped the side of his head with his finger."
 

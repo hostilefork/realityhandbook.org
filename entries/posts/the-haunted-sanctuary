@@ -21,7 +21,7 @@ Draem [
 
 [voice: "Saved as Savefile 01."]
 
-[me: "What game <i>is</i> this?"]
+[me: "What game *is* this?"]
 
 [voice: "Game is in Savefile 01."]
 
@@ -43,7 +43,7 @@ Draem [
 
 [me: "All right..."]
 
-{After we had traded watches, there was sort of a blue glow around our arms. She held my elbow to her body. The song by Eiffel 65--<a href="http://en.wikipedia.org/wiki/Blue_(Da_Ba_Dee)">"Blue"</a>--began to play.}
+{After we had traded watches, there was sort of a blue glow around our arms. She held my elbow to her body. The song by Eiffel 65--["Blue"](http://en.wikipedia.org/wiki/Blue_(Da_Ba_Dee))--began to play.}
 
 [girl: "You're blue."]
 

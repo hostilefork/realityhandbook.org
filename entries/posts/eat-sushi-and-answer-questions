@@ -13,7 +13,7 @@ Draem [
 
 [presenter: {Now we're going to demonstrate a hot new game that we just showed off at a conference!}]
 
-[note {The game they demonstrated had bizarre stylized graphics, that reminded me of <a href="http://en.wikipedia.org/wiki/Cel-shaded_animation">Cel Shading</a>.}]
+[note {The game they demonstrated had bizarre stylized graphics, that reminded me of [Cel Shading](http://en.wikipedia.org/wiki/Cel-shaded_animation).}]
 
 {One of the objectives of the game was to eat, and your main character's weapon was a fork. When you ate enough, such as 10 pieces of sushi, you were asked a quiz question. Answers to the question were being shuffled in an erratic way such that if you delayed too long before pressing an answer key (e.g. "3") you could accidentally select the wrong answer. One question that was demonstrated was a geeky math question about integer sets.}
 

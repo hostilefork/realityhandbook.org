@@ -25,7 +25,7 @@ Draem [
 
 [boy: "You could talk to the data manager."]
 
-{He pointed me toward an older German-looking man standing at the desk of a library, who was wearing a name card around his neck that said <i>DATA MANAGER</i>.}
+{He pointed me toward an older German-looking man standing at the desk of a library, who was wearing a name card around his neck that said *DATA MANAGER*.}
 
 [me: ("jokingly") "Hi. I'm some data, I need to be managed."]
 
@@ -33,7 +33,7 @@ Draem [
 
 [me: "My method is perhaps lost in my madness."]
 
-[note {This is a bit of a computer science joke, because in object-oriented programming an object has both data and functions called <a href="http://en.wikipedia.org/wiki/Method_(computer_science)">methods</a> which operate on that object.}]
+[note {This is a bit of a computer science joke, because in object-oriented programming an object has both data and functions called [methods](http://en.wikipedia.org/wiki/Method_(computer_science)) which operate on that object.}]
 
 {Because I got the impression that he was smart, I decided to abandon my quest to go elsewhere and just talk to him.}
 

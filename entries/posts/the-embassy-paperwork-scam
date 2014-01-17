@@ -17,7 +17,7 @@ Draem [
 
 {I continued hearing a voice, though it may have been different.}
 
-[voice: {Bastards, bastards bastards, WE STOP THEM NOW! What's the point of waiting instead of acting? This is a pathetic display of immuscle. In fact, if you do <i>not</i> take action, I'm going file a motion to have you and everyone else responsible executed.}]
+[voice: {Bastards, bastards bastards, WE STOP THEM NOW! What's the point of waiting instead of acting? This is a pathetic display of immuscle. In fact, if you do *not* take action, I'm going file a motion to have you and everyone else responsible executed.}]
 
 [note {immuscle was a strange word that stood out. I thought it would be interesting if it were a real word, because it's not one I'd heard. Doesn't seem to be.}]
 
@@ -25,7 +25,7 @@ Draem [
 
 {The voice turned away from its argument partner (which may have been itself, I almost got the feeling it was reflecting on both sides of a conversation) and seemed to acknowledge that I was able to listen in on the conversation:}
 
-{<b>voice</b>: (to me) "I'm not using you. You're incredibly talented, but you also believe as I believe."}
+{**voice**: (to me) "I'm not using you. You're incredibly talented, but you also believe as I believe."}
 
 [me: "That's nice, but wait. Who are you?"]
 

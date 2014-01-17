@@ -25,7 +25,7 @@ Draem [
 
 [girl: {I have to ask something that's on my mind when I see you there. It's to satisfy my curiosity, I guess. And that's whether you are the sort of person who has a happy and successful life.}]
 
-[me: {Heh... oh, it could be worse. Though I sure didn't succeed at parking just a minute ago! In the span of ten seconds lost two parking spaces to aggressive people. I even <i>had</i> a space, I was just adjusting my car so it was better aligned with the curb. So that's the only reason I'm in here right now. Don't know why I ordered all this coffee, it'll probably drive me crazy.}]
+[me: {Heh... oh, it could be worse. Though I sure didn't succeed at parking just a minute ago! In the span of ten seconds lost two parking spaces to aggressive people. I even *had* a space, I was just adjusting my car so it was better aligned with the curb. So that's the only reason I'm in here right now. Don't know why I ordered all this coffee, it'll probably drive me crazy.}]
 
 [girl: {Is that the kind of thing that happens to you often? With the parking?}]
 
@@ -77,13 +77,13 @@ Draem [
 
 [me: {Well, you're right, I like it. That's a joke, I mean her.}]
 
-[tall-girl: {That doesn't hurt my feelings... 'it' is fine. In fact, I think of myself as <i>Kira-tech</i>.}]
+[tall-girl: {That doesn't hurt my feelings... 'it' is fine. In fact, I think of myself as *Kira-tech*.}]
 
 [me: "Kira-tech? What does that mean? What do you do?"]
 
 "She bent down so we were face to face."
 
-[tall-girl: {I look around for guys like you to kiss... guys who appreciate a <i>dominant</i> woman.}]
+[tall-girl: {I look around for guys like you to kiss... guys who appreciate a *dominant* woman.}]
 
 {She kissed me and pushed me down, and began to undress me. But I wriggled free and she stopped.}
 
@@ -104,11 +104,16 @@ Draem [
 {Though I could no longer see the girl, her voice returned somewhat in song:}
 
 [quote [
-	{dreaming is a trick of mind, it's very much like a cartoon}
-	{stitching a giant from clouds we have seen, or animals out of balloons}
-	{even from a canvas of darkness I can build a world for my eyes}
-	{I just call on my visions to draw for myself... a totally unique sky}
-]]
+
+        {dreaming is a trick of mind, it's very much like a cartoon}
+
+        {stitching a giant from clouds we have seen, or animals out of balloons}
+
+        {even from a canvas of darkness I can build a world for my eyes}
+
+        {I just call on my visions to draw for myself... a totally unique sky}
+
+    ]]
 
 [note {That's an attempt to get the gist of the wording, it's not precise. The song was grandiose in kind of a diva-ish way, like Celine Dion with an orchestral backing.}]
 

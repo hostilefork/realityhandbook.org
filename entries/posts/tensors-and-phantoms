@@ -11,11 +11,11 @@ Draem [
 
 {An administrative message came through telling me something about how "pursuing a disruptive agenda without the approval of a sanctioned academic research project will not be treated favorably". I was taken to some kind of "suggestions" screen where I could try and work up a case for the feature that I thought should be implemented.}
 
-{The next thing I knew, I was walking through a mall with a fellow who I understood to be a living calculator. We were talking with about the issues where some beings were trying to create more <i>space</i> by warping <i>time</i>.}
+{The next thing I knew, I was walking through a mall with a fellow who I understood to be a living calculator. We were talking with about the issues where some beings were trying to create more *space* by warping *time*.}
 
 [calculator-guy: {It's a very complex maneuver to engineer. And it's all based on the need to have places to put lots of things, yet not generally needing those things to be accessible most of the time. It takes much longer to get access to those objects if they are inside the expanded space.}]
 
-[note {Though we can't typically make a piece of real-estate twice as big as it is if we agree to run our clocks at half the speed, this tradeoff is an everyday phenomenon in computer science, where it is known as the <a href="http://en.wikipedia.org/wiki/Space-time_tradeoff">Space-time tradeoff</a>.}]
+[note {Though we can't typically make a piece of real-estate twice as big as it is if we agree to run our clocks at half the speed, this tradeoff is an everyday phenomenon in computer science, where it is known as the [Space-time tradeoff](http://en.wikipedia.org/wiki/Space-time_tradeoff).}]
 
 [me: {Something that I've been meaning to ask you...do you think you could have done the math from the Manhattan project in your head?}]
 
@@ -28,12 +28,21 @@ Draem [
 {We passed an internet terminal with an interface to YouTube, and I decided to look up Depeche Mode to see if the dream world had any videos I hadn't seen. The first thing that came up was a song called "Phantom Starters". The lyrics went like this, roughly:}
 
 [quote [
-	"Hey, Let me tell you about the other side"
-	"They don't have health insurance"
-	"and they aren't allowed to morph"
-	"though they really *want* to morph"
-	separator
-	"they're only phantoms"
-	separator
-	"Hey, you should see me from the other side..."
-]]
+
+        "Hey, Let me tell you about the other side"
+
+        "They don't have health insurance"
+
+        "and they aren't allowed to morph"
+
+        "though they really *want* to morph"
+
+        separator
+
+        "they're only phantoms"
+
+        separator
+
+        "Hey, you should see me from the other side..."
+
+    ]]

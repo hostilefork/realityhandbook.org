@@ -7,9 +7,9 @@ Draem [
     old: http://realityhandbook.livejournal.com/80989.html
 ]
 
-{I've found that there is a big difference between me thinking something and saying it in a dream. Frequently when I share a piece of specific information, I find myself getting whacked out of an environment and awoken. For instance, the moment I said "United States of America" I felt a strong push out of a dream that had otherwise been going along fine in <a href="http://realityhandbook.org/lucid-dream/roadside-bananas/">Roadside Bananas</a>.}
+{I've found that there is a big difference between me thinking something and saying it in a dream. Frequently when I share a piece of specific information, I find myself getting whacked out of an environment and awoken. For instance, the moment I said "United States of America" I felt a strong push out of a dream that had otherwise been going along fine in [Roadside Bananas](http://realityhandbook.org/lucid-dream/roadside-bananas/).}
 
-{The way it <i>feels</i> is that there are certain words and names that cause retaliation when I say them. Kind of like if you say "Viagra" in an email and suddenly it gets swept away as spam. I'm very curious about the nature of the filters and evolving infrastructure of our communications network that people tend to gloss over.}
+{The way it *feels* is that there are certain words and names that cause retaliation when I say them. Kind of like if you say "Viagra" in an email and suddenly it gets swept away as spam. I'm very curious about the nature of the filters and evolving infrastructure of our communications network that people tend to gloss over.}
 
 {For instance, look at this picture that came attached to a Spam email:}
 
@@ -17,30 +17,31 @@ Draem [
 
 {If this is an authentic attempt at marketing, it is tough to imagine what value it has to the sender to be putting so much static on an image. It makes it harder to read. One radical possibility is that the markings are hidden information encoded on top of a seemingly generic advertisement. By broadcasting the message all over the internet, it might be a means of anonymously collecting secret data without pointing a finger at a specific recipient.}
 
-{That might sound far-fetched, but many hackers have been caught because their mechanisms for hijacking passwords sent obvious data to a single traceable destination. Whoever set up that account or accesses it is obviously the perpetrator. For instance, the backdoor in <a href="http://www.codinghorror.com/blog/archives/001072.html">G-Archiver</a> sent user names and passwords to the author's Gmail account. Contrast this with a spamming system which puts information everywhere, but that only the sender can decode.}
+{That might sound far-fetched, but many hackers have been caught because their mechanisms for hijacking passwords sent obvious data to a single traceable destination. Whoever set up that account or accesses it is obviously the perpetrator. For instance, the backdoor in [G-Archiver](http://www.codinghorror.com/blog/archives/001072.html) sent user names and passwords to the author's Gmail account. Contrast this with a spamming system which puts information everywhere, but that only the sender can decode.}
 
-[note {If you want to read more about how meaningful information can actually be encoded into such "noise", then check out Wikipedia's article on <a href="http://en.wikipedia.org/wiki/Steganography">Steganography</a>. For a very simplistic example of hiding a message in a spam email, try out <a href="http://www.spammimic.com/">Spam Mimic</a>.}]
+[note {If you want to read more about how meaningful information can actually be encoded into such "noise", then check out Wikipedia's article on [Steganography](http://en.wikipedia.org/wiki/Steganography). For a very simplistic example of hiding a message in a spam email, try out [Spam Mimic](http://www.spammimic.com/).}]
 
 {The idea that mysterious data is encoded in these messages is very interesting to me. But the more "reasonable" interpretation is that the static somehow increases the odds that the message will be delivered. But why would this be the case? One answer would be if there was software trying to read the images, and rejecting them if it could make out the letters to say certain things...passing them through if not.}
 
-{Though that may sound preposterous, a little research reveals that <a href="http://wiki.apache.org/spamassassin/OcrPlugin">this is the case</a>. Many email systems employ optical character recognition (OCR)--these are computer programs with the ability to convert JPEGs into text files. Once the text has been extracted from the image, the results are fed into the same algorithms that filter out letters with words like "Viagra" or "Investment Opportunity".}
+{Though that may sound preposterous, a little research reveals that [this is the case](http://wiki.apache.org/spamassassin/OcrPlugin). Many email systems employ optical character recognition (OCR)--these are computer programs with the ability to convert JPEGs into text files. Once the text has been extracted from the image, the results are fed into the same algorithms that filter out letters with words like "Viagra" or "Investment Opportunity".}
 
 {The way I found out about this was not because I got a message or notice from my email carrier about the exciting new technology that was being applied to screen my mail. It was evident when I received the image that got through. When we see unusual things taking a certain shape or pattern, it can be instructive. For instance, this spam which was recently sent to a friend:}
 
 [quote [
-	{From: "Jamie Clemons" <a-b-c@agion-tech.com>}
 
-	"Date: 30 de mayo de 2008 11:48:25 PM PDT"
+        {From: "Jamie Clemons" <a-b-c@agion-tech.com>}
 
-	"Subject: Let's chat"
+        "Date: 30 de mayo de 2008 11:48:25 PM PDT"
 
-	{Hello! I am tired this evening. I am nice girl that would like to chat with you. Email me at Birgit@whoplantcut.cn only, because I am using my friend's email to write this. I want to show you some pictures.}
+        "Subject: Let's chat"
 
-	[picture %jamieclemons.gif]
+        {Hello! I am tired this evening. I am nice girl that would like to chat with you. Email me at Birgit@whoplantcut.cn only, because I am using my friend's email to write this. I want to show you some pictures.}
 
-]]
+        [picture %jamieclemons.gif]
 
-{This picture has the same noisy patterns on it, quite similar to the textual spam. Once again we must ask the question: would this message <i>not</i> have been delivered if the noise weren't there? Are there certain faces or photos that are being screened out just as mechanically as certain words. If so, how can this be possible?}
+    ]]
+
+{This picture has the same noisy patterns on it, quite similar to the textual spam. Once again we must ask the question: would this message *not* have been delivered if the noise weren't there? Are there certain faces or photos that are being screened out just as mechanically as certain words. If so, how can this be possible?}
 
 {There is already considerable research into automatically identifying photographs as being potentially "adult". These computer programs tend to be very conservative--looking for certain characteristics common to human body parts or flesh tones. Frequently, innocent images are falsely classified as mature...when they are not.}
 
@@ -66,7 +67,7 @@ Draem [
 
 {One possible motivation for this madness would be if someone were desperately trying to show us: "Hey... *THERE ARE* filters on your email, you need to know about them." By intelligently hacking past the filter, they might not be trying to sell you anything at all--just to show you the shape the filter takes. An interesting aspect is that the email address included is a question. "Who plant cut?" And it comes from China. Perhaps that's asking anyone listening who cut the means of communication?}
 
-{My interest in this topic may seem not to be using Occam's razor...but as usual, my ideas did not emerge from a vacuum. One of my more notable "a-ha!" moments about this was in a dream where I was tracing why a music video couldn't get through a network, and it was specifically "Coffee and TV" by Blur, which looked like a commercial for milk in <a href="http://realityhandbook.org/lucid-dream/advertisement-filtering/">Advertisement Filtering</a>, so it had been automatically blocked:}
+{My interest in this topic may seem not to be using Occam's razor...but as usual, my ideas did not emerge from a vacuum. One of my more notable "a-ha!" moments about this was in a dream where I was tracing why a music video couldn't get through a network, and it was specifically "Coffee and TV" by Blur, which looked like a commercial for milk in [Advertisement Filtering](http://realityhandbook.org/lucid-dream/advertisement-filtering/), so it had been automatically blocked:}
 
 [picture %coffee_and_tv.jpg]
 
