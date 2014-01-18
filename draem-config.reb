@@ -9,7 +9,7 @@ draem/set-config object compose [
 	site-intro: {
 		<p>realityhandbook.org documents the literally hundreds of lucid dreams of a scientifically-minded individual—unwittingly cast into the role of amateur interviewer and experimenter. To learn more, please read <a href="http://realityhandbook.org/about/">http://realityhandbook.org/about/</a>
 		<hr />
-		<p>In addition to the master list below, you can browse the entries by <a href="{% url draems.views.tag_list %}">tag</a> or by <a href="{% url draems.views.category_list %}">category</a>.  Two early experimental features I've added are browsing by <a href="{% url draems.views.character_list %}">character</a> or with a <a href="{% url draems.views.timeline %}">timeline</a>.  I appreciate your feedback or suggestions, so do not hesitate to <a href="http://realityhandbook.org/contact/">contact me</a>!</p>
+		<p>In addition to the master list below, you can browse the entries by <a href="{% url draems.views.tag_list %}">tag</a>.  Two early experimental features I've added are browsing by <a href="{% url draems.views.character_list %}">character</a> or with a <a href="{% url draems.views.timeline %}">timeline</a>.  I appreciate your feedback or suggestions, so do not hesitate to <a href="http://realityhandbook.org/contact/">contact me</a>!</p>
 	}
 
 	site-footer: {
@@ -18,11 +18,6 @@ draem/set-config object compose [
 	}
 
 	valid-categories: [
-		;-- "artificial" categories, don't participate in indexing
-		;-- (need a better way to do this!)
-		about
-		contact
-
 		;-- "real" categories; pages are indexed
 		essay
 		lucid-dream
@@ -33,9 +28,14 @@ draem/set-config object compose [
 		guest-dream
 	]
 
+	site-toplevel-slugs: [
+		%about
+		%contact
+	]
+
 	;-- Optional header-checking hook
 	check-header: function [header [object!]] [
-		if find [lucid-dream non-lucid-dream] header/category [ 
+		if find [lucid-dream non-lucid-dream] header/tags [ 
 			unless any [
 				find header/tags 'neutral
 				find header/tags 'positive
@@ -45,23 +45,38 @@ draem/set-config object compose [
 				throw make error! "Dreams must be tagged neutral, positive, or negative"
 			]
 		]
+
+		unless find site-toplevel-slugs header/slug [
+			if 1 <> length? intersect valid-categories header/tags [
+				print "Tags must contain one of the categories!"
+			]
+		]
 	]
 
-	;-- Required url-from-header hook
-	url-from-header: function [header [object!]] [
-		rejoin [
-			site-url stringify/dashes header/category {/}
-			either find [about contact] header/category [
-				{}
-			] [
+	file-from-header: function [header [object!]] [
+		either find site-toplevel-slugs header/slug [
+			header/slug
+		] [
+			category: intersect valid-categories header/tags
+			assert [1 == length? category] 
+			to file! rejoin [
+				stringify/dashes first category
+				{/}
 				header/slug
 			]
 		]
 	]
 
+	;-- Required url-from-header hook
+	url-from-header: function [header [object!]] [
+		rejoin [site-url (file-from-header header)]
+	]
+
 	entries-dir: (rejoin [system/options/path %entries/])
 	templates-dir: (rejoin [system/options/path %templates/])
 
-	homepage-text: {}
+	file-for-template: function [header [object!]] [
+		rejoin [templates-dir (file-from-header header) ".html"]
+	]
 ]
 

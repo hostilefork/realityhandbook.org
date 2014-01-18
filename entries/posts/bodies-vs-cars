@@ -1,9 +1,8 @@
 Draem [
     date: 30-Mar-2010/3:23+3:00
-    category: 'essay
     title: "Bodies vs. Cars"
     slug: %bodies-vs-cars
-    tags: []
+    tags: [essay]
     old: http://realityhandbook.livejournal.com/153161.html
 ]
 
@@ -16,12 +15,14 @@ Draem [
 {Then there is another group of people. They know both worlds. It's kind of hard for them to know who is stuck in a car vs. who is driving it by choice to get around. Also, if someone is walking by they don't necessarily want to say "hey, have you lived in this town all your life and never got a driver's license?"}
 
 [note [
-	{Remember that there is not a one-to-one correspondence of people to cars. Especially with robot-driven cars:} 
 
-	http://en.wikipedia.org/wiki/DARPA_Grand_Challenge
+        {Remember that there is not a one-to-one correspondence of people to cars. Especially with robot-driven cars:}
 
-	{When the highway fills up with these, it gets tough to go around knocking on windshields saying "hey, anybody in there who doesn't think they can get out??"}
-]]
+        http://en.wikipedia.org/wiki/DARPA_Grand_Challenge
+
+        {When the highway fills up with these, it gets tough to go around knocking on windshields saying "hey, anybody in there who doesn't think they can get out??"}
+
+    ]]
 
 "A question arises:"
 
