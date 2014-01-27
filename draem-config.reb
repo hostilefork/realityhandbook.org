@@ -69,7 +69,7 @@ draem/set-config object compose [
 
 	;-- Required url-from-header hook
 	url-from-header: function [header [object!]] [
-		rejoin [site-url (file-from-header header)]
+		rejoin [site-url (file-from-header header) %/]
 	]
 
 	entries-dir: (rejoin [system/options/path %entries/])
