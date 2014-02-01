@@ -44,9 +44,9 @@ Draem [
 
 [me: {I'm sorry, I just told him to give it to you. It was late and I didn't want trouble with procedures for granting an audience.}]
 
-[kanye-west: ("to bouncer") {You were hired to keep people from getting in and messing with me or my stuff...not to *break my stuff*. You're fired!}]
+[kanye-west: <to bouncer> {You were hired to keep people from getting in and messing with me or my stuff...not to *break my stuff*. You're fired!}]
 
-[bouncer: ("whining") {Come on! You'd think that donut I got for you would count for something.}]
+[bouncer: <whining> {Come on! You'd think that donut I got for you would count for something.}]
 
 [kanye-west: "What? No! Get out of here now."]
 
@@ -54,7 +54,7 @@ Draem [
 
 [kanye-west: {Unbelievable. I'm not saying it wasn't a good donut. It was from that new place downtown...really fresh, I've liked everything I've had from them so far. Have you been there yet?}]
 
-[me: ("nervous") "Uhh...no."]
+[me: <nervous> "Uhh...no."]
 
 [kanye-west: {Well anyway, you don't have to worry about that guy anymore, he's history. Now why don't you come in and tell me about the meeting?}]
 

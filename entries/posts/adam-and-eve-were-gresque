@@ -15,15 +15,15 @@ Draem [
 
 [me: "Are you okay?"]
 
-[cat: ("telepathically") "Yes, I'm all right."]
+[cat: <telepathically> "Yes, I'm all right."]
 
 [me: {Is there anything I can do for you, in the house while awake, that would make you happier.}]
 
-[cat: ("telepathically") {I'd like to go outdoors.  I had climbed up to the top of the cat condo, and I'd spent some time watching what I thought was the horizon through the window.  But I realized it was not the horizon, it was the way light had been reflected.  All the light I see is through glass.  I want to see the sunlight without the glass in the way.}]
+[cat: <telepathically> {I'd like to go outdoors.  I had climbed up to the top of the cat condo, and I'd spent some time watching what I thought was the horizon through the window.  But I realized it was not the horizon, it was the way light had been reflected.  All the light I see is through glass.  I want to see the sunlight without the glass in the way.}]
 
 [me: "Well, you're a very smart cat.  But..."]
 
-[cat: ("angry") {So you say on what basis!?  How do YOU claim to know anything about the relative intelligence of cats?!!}]
+[cat: <angry> {So you say on what basis!?  How do YOU claim to know anything about the relative intelligence of cats?!!}]
 
 [me: {Uh.  Fair point, I guess?  Let's just say that you strike me as smart enough to probably not get yourself run over by a car.  But there's a lot of dangers outside, and my parents will not like it if I let you out.}]
 
@@ -43,15 +43,15 @@ Draem [
 
 [me: "Why doesn't God make this easier?"]
 
-[woman: ("annoyed") "Why don't I do WHAT?"]
+[woman: <annoyed> "Why don't I do WHAT?"]
 
-[me: ("skeptical") "So you're claiming to be God?"]
+[me: <skeptical> "So you're claiming to be God?"]
 
 [woman: {Nevermind.  Don't underestimate the amount of work being done, creation happening all the time.  It's constant.  Here, let me show you...}]
 
 {By now she had changed into a bespectacled man and took me toward a bunch of rooms that had filing cabinets and drafting tables, filled with schematics.  The man pointed to a wall, which had various segments of wallpaper to compare.}
 
-[me: ("looking closely") "So what's... the difference?"]
+[me: <looking closely> "So what's... the difference?"]
 
 {The scientist pointed to a cutaway section above the second section of wallpaper.  It seemed to have a mesh of foam circles at varying depths to make the wall have a sculpted depth.}
 
@@ -63,7 +63,7 @@ Draem [
 
 {I noticed that I had a credit-card sized device in my hand.  It was black, and when I pushed it three vertical red lines illuminated to say |||.  We began to fly, although I was falling behind and fell out of the group, seemingly to plummet to my demise.  However, something happened and I rejoined the group.}
 
-[scientist: ("laughing") {Always happy to lend a helping hand to the slow humans.}]
+[scientist: <laughing> {Always happy to lend a helping hand to the slow humans.}]
 
 "As we flew I asked questions."
 

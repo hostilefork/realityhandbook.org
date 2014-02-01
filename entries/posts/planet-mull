@@ -22,7 +22,7 @@ Draem [
 
 [me: {Oh, I don't know. Gotta try *something*. How is it that I got here?}]
 
-[scientist: ("shrugging") {Some people are just thirstier than others I suppose.}]
+[scientist: <shrugging> {Some people are just thirstier than others I suppose.}]
 
 [note {I took him to be using 'thirst' in this case to mean curiosity, e.g. thirst for knowledge.}]
 
@@ -38,7 +38,7 @@ Draem [
 
 [scientist: "The discs are a mega-gigabit."]
 
-[me: ("puzzled, struggling to think") {It's hard for me to work out right now, but... we have gigabit ethernet so...a mega-gigabit wouldn't be very much, or... well let's see a terabyte is... um...}]
+[me: <puzzled, struggling to think> {It's hard for me to work out right now, but... we have gigabit ethernet so...a mega-gigabit wouldn't be very much, or... well let's see a terabyte is... um...}]
 
 {My math wasn't getting very far, and the scientist seemed annoyed and wandered off.}
 

@@ -20,7 +20,7 @@ Draem [
 
 [me: "Hell?"]
 
-[large-guy: ("laughing") {No, no. You'd know if you were in the Hell plane. It's got some seriously impressive architecture, I was thinking about bringing some of it here. Just this monstrous stuff...works of art.}]
+[large-guy: <laughing> {No, no. You'd know if you were in the Hell plane. It's got some seriously impressive architecture, I was thinking about bringing some of it here. Just this monstrous stuff...works of art.}]
 
 {A guy holding a notepad who had glasses made a gesture at me to come look at something.}
 
@@ -64,6 +64,6 @@ Draem [
 
 {They became startled and my body began to quake. I lost track of the room and it felt like someone else was moving my limbs in my bed.}
 
-[voice: ("upset") {Your phone got jacked, you need to do a force logout!}]
+[voice: <upset> {Your phone got jacked, you need to do a force logout!}]
 
 {I didn't panic and just let the vibrations and stuff subside.}

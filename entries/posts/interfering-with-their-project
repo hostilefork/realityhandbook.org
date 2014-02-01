@@ -12,7 +12,7 @@ Draem [
 
 {Next I was in an office sitting across the table from a man and second man was sitting next to me. They were dressed like engineers or architects and the room was very stark and white. I was trying to speak to the person across the table but it was clear he couldn't understand me, and the person sitting next to me was trying to translate. But it was an odd kind of translation, as if I were actually invisible.}
 
-[translator: ("to me") "He wants to know who you are."]
+[translator: <to me> "He wants to know who you are."]
 
 "I told them my name."
 
@@ -24,4 +24,4 @@ Draem [
 
 {The attack eased up, and they spoke to each other for a second.}
 
-[translator: ("to me") {Look, we have nothing personal against you. Your work is respected as an electrical theorist, and you've got a great knowledge of computers. But this other thing you are doing...it...it is creating a tremendous amount of havoc for our project!}]
+[translator: <to me> {Look, we have nothing personal against you. Your work is respected as an electrical theorist, and you've got a great knowledge of computers. But this other thing you are doing...it...it is creating a tremendous amount of havoc for our project!}]

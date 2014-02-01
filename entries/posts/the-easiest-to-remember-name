@@ -14,7 +14,7 @@ Draem [
 
 [note {I know the people who live in my building in waking life, thus I would be likely to ask such a question if someone unknown approached me asking for quiet.}]
 
-[girl: ("angrily") {I'm the girl who takes naps on Mondays, and I need it quiet. I live next door.}]
+[girl: <angrily> {I'm the girl who takes naps on Mondays, and I need it quiet. I live next door.}]
 
 [me: "Sorry, but I don't believe we've met."]
 
@@ -38,7 +38,7 @@ Draem [
 
 {There was someone I vaguely recognized present, who seemed to have injuries like black eyes.}
 
-[me: ("to black eye guy") "Did someone attack you?"]
+[me: <to black eye guy> "Did someone attack you?"]
 
 [black-eye-guy: {Yes, just a little bit ago, on the corner. He was just beating me.}]
 
@@ -54,11 +54,11 @@ Draem [
 
 {As we got out and walked toward a grocery store, I noticed a man with lots of strange creatures. Though the grocery store seemed fairly normal, the color and music coming from inside his store seemed other-worldly. He made a small purple elephant-like creature run around--I held my hand out to it, and it sniffed me.}
 
-[me: ("to black eye guy") {See, this is the part where you're supposed to clue in and go 'oh, hey, this isn't POSSIBLE...I must be DREAMING...maybe I'm being shown something.}]
+[me: <to black eye guy> {See, this is the part where you're supposed to clue in and go 'oh, hey, this isn't POSSIBLE...I must be DREAMING...maybe I'm being shown something.}]
 
 [black-eye-guy: "Hmmm. Uh..."]
 
-[me: ("to vendor") "Where do you get these animals from?"]
+[me: <to vendor> "Where do you get these animals from?"]
 
 [vendor: {There's only one place to get them, and that's from me. I make them.}]
 
@@ -82,11 +82,11 @@ Draem [
 
 [old-man: {That doesn't sound like education. That just sounds like 'hanging out'.}]
 
-[me: ("furious") {Look, do I have to sit down and write out a sample script to show you examples of conversations or studies that DO produce value?}]
+[me: <furious> {Look, do I have to sit down and write out a sample script to show you examples of conversations or studies that DO produce value?}]
 
 "He looked at me somewhat fearfully."
 
-[me: ("still angry") {If you think the only way to educate people is to put them through some kind of random wheel-of-karmic-suffering so they experience every unpleasant thing possible, you're wrong. Maybe you'd learn something by talking to me, because I can get the gist of many different things just based on first principles, and solve problems before they happen.}]
+[me: <still angry> {If you think the only way to educate people is to put them through some kind of random wheel-of-karmic-suffering so they experience every unpleasant thing possible, you're wrong. Maybe you'd learn something by talking to me, because I can get the gist of many different things just based on first principles, and solve problems before they happen.}]
 
 [old-man: "You need to work on your own problems."]
 

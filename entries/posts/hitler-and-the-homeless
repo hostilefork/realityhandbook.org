@@ -10,7 +10,7 @@ Draem [
 
 [me: "Um, hey, sorry is that ok?"]
 
-[blond: ("smiling") "I'm a uni."]
+[blond: <smiling> "I'm a uni."]
 
 [me: "Uni what? Are you in some kind of... union?"]
 
@@ -46,7 +46,7 @@ Draem [
 
 [me: {That sounds nice in theory, but what do you do when there are people who are pathological? The homeless who cannot or will not work?}]
 
-[blond: ("smiling") "I kill them."]
+[blond: <smiling> "I kill them."]
 
 [me: {What?! You, personally, kill people just because they don't have homes?}]
 

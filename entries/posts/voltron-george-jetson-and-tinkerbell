@@ -10,7 +10,7 @@ Draem [
 
 [guy: "There's a soul here."]
 
-[chatter: ("typed") {Ok stop repeating your name over and over and telling us where you live. We know already. You have to go into Adobe Illustrator. Tell your editor you need to make a 300x300 composition.}]
+[chatter: <typed> {Ok stop repeating your name over and over and telling us where you live. We know already. You have to go into Adobe Illustrator. Tell your editor you need to make a 300x300 composition.}]
 
 [me: "I don't work for an editor."]
 

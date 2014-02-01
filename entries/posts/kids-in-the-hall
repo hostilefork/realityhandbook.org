@@ -14,7 +14,7 @@ Draem [
 
 {I picked up a random piece of paper off the desk as if it were a script.}
 
-[me: ("mockingly") {Hmmm, oh, that's a good question. Which one of us wrote this...which one... oh, wait, it wasn't any of us. I guess, uh, it just showed up!}]
+[me: <mockingly> {Hmmm, oh, that's a good question. Which one of us wrote this...which one... oh, wait, it wasn't any of us. I guess, uh, it just showed up!}]
 
 [note {I was kind of re-enacting ["No one at ad agency remembers hiring Carrot Top for commercial"](http://www.theonion.com/content/node/31225), from The Onion}]
 
@@ -46,11 +46,11 @@ Draem [
 
 "I looked Dave straight in the eye."
 
-[me: ("exaggeratedly") "I'm. Asleep. Y'know."]
+[me: <exaggeratedly> "I'm. Asleep. Y'know."]
 
 {Dave Foley's face was now very strange, with black eyes and a hat, and deformed a bit like Freddy Krueger, though less scary. My staring proceeded.}
 
-[dave-foley: ("equally exaggerated") {Yes. We. Know. In. Fact. We. Are. Not. Supposed. To. Talk. To. You.}]
+[dave-foley: <equally exaggerated> {Yes. We. Know. In. Fact. We. Are. Not. Supposed. To. Talk. To. You.}]
 
 [me: "Why not?"]
 

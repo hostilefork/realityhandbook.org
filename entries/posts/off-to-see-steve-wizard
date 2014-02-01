@@ -42,7 +42,7 @@ Draem [
 
 {I went into my usual schpiel about who I am, where I live, that I'm asleep...etc.}
 
-[man-one: ("to man #2") "We need to take him to see Steve."]
+[man-one: <to man #2> "We need to take him to see Steve."]
 
 [me: "Steve who?"]
 

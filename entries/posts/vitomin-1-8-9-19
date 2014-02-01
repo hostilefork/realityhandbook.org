@@ -18,7 +18,7 @@ Draem [
 
 [picture %aglet.jpg]
 
-[employee: ("annoyed") "No, you can't buy those here."]
+[employee: <annoyed> "No, you can't buy those here."]
 
 [me: {That's too bad, seems wasteful to have to replace the whole thing when the shoelace is fine.}]
 
@@ -34,7 +34,7 @@ Draem [
 
 [uniformed-man-one: {I need you to remember something. Think you can do it?}]
 
-[me: ("startled") "I can try and write it down when I wake up."]
+[me: <startled> "I can try and write it down when I wake up."]
 
 [uniformed-man-one: "Vitomin 1-8..."]
 

@@ -38,7 +38,7 @@ Draem [
 
 {Written on a sign was an ad for a game called "the Realm". As we approached the room that was our destination, my mother held me back and sent someone ahead of me.}
 
-[mother: ("to confused lady") "You go first. Let him see what it is."]
+[mother: <to confused lady> "You go first. Let him see what it is."]
 
 {The woman ahead of me walked into the room. There was a bar in the corner, and a lot of people sitting at long tables entranced at three giant monitors in the corners. I tried not to look directly at the screens. A man flipped me two credit-card-sized objects which I understood to be for putting into the machines on the table.}
 
@@ -66,7 +66,7 @@ Draem [
 
 {For a little while I was really mad, and joined in beating the salesman up.}
 
-[me: ("singing") {I'm here with all of my people... locked up with all of my people! So let me hear you scream if you're with meeeee!}]
+[me: <singing> {I'm here with all of my people... locked up with all of my people! So let me hear you scream if you're with meeeee!}]
 
 [note {[My people](http://www.youtube.com/watch?v=M1ufW2INWmM) by The Presets is a song I've been listening to lately. It makes me think of the plight of simulated beings who might be applied toward ill purposes. For example, captive AI who are stranded in a very isolated world.}]
 
@@ -76,4 +76,4 @@ Draem [
 
 [salesman: "Yeah!"]
 
-[me: ("pissed off") {I didn't say we're not going to take action. Just that we're going to stop the violence. Lock this guy up or something, have a proper trial}]
+[me: <pissed off> {I didn't say we're not going to take action. Just that we're going to stop the violence. Lock this guy up or something, have a proper trial}]

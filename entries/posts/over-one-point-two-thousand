@@ -14,7 +14,7 @@ Draem [
 
 [cutout: {Isn't it nice to listen to a bit of vintage Depeche Mode?}]
 
-[me: ("jokingly") {Oh I used to like them back in High School, when I cared more about whether things were good than if they were *cool*.}]
+[me: <jokingly> {Oh I used to like them back in High School, when I cared more about whether things were good than if they were *cool*.}]
 
 [cutout: {You still think like that. So does any of this seem familiar to you?}]
 
@@ -28,7 +28,7 @@ Draem [
 
 [picture %old_computer.jpg]
 
-[me: ("excitedly") {Wait, yes... I've seen that before. These keyboards that collapse. Let me try.}]
+[me: <excitedly> {Wait, yes... I've seen that before. These keyboards that collapse. Let me try.}]
 
 {It seemed to turn into a jumble of mechanical knobs and switches when I tried to use it, as if you'd pull a gearshift and then keys would rise and sink. It seemed like I couldn't get more than 16 or so keys at a time. I was motioned to come into another room that had several large screens and some equipment, it was a bit like the bridge of the Enterprise on Star Trek but all white. A girl pointed to a flyer-sized piece of paper on the floor.}
 
@@ -40,7 +40,7 @@ Draem [
 
 {The girl looked at some reading of a health meter that numbered 1200.}
 
-[girl: ("surprised") "That's a lot, mine is only 200!"]
+[girl: <surprised> "That's a lot, mine is only 200!"]
 
 [doctor: {He's nearly invincible. There wouldn't have been a chance for the attack to do that much damage if it weren't for the...}]
 

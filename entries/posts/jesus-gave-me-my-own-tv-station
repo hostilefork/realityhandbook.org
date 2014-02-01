@@ -14,7 +14,7 @@ Draem [
 
 [me: "What is this message?"]
 
-[led-board: ("written") "egassem siht si tahW"]
+[led-board: <written> "egassem siht si tahW"]
 
 {The letter A it used surprised me because it did not look normal. It was more like a Uncial a.}
 
@@ -22,11 +22,11 @@ Draem [
 
 [me: "Why would you use that form of the letter A?"]
 
-[led-board: ("written") "It is the way the letter appears in magazines."]
+[led-board: <written> "It is the way the letter appears in magazines."]
 
 [me: "What magazines do you read?"]
 
-[led-board: ("written") {I don't read them, it's just where I got the letter.}]
+[led-board: <written> {I don't read them, it's just where I got the letter.}]
 
 [me: "What is your name?"]
 
@@ -36,7 +36,7 @@ Draem [
 
 {Rather than slow down the field of view turned into where I was in a large auditorium where people could type questions at me and I would answer them. There was some sort of teacher on the stage who was moderating this. A girl introduced herself to me and it was somewhere halfway between her talking and typing.}
 
-[nathanye: ("the girl") {My name is like a name you know NATHAN, except it has an E on the end so it is pronounced 'Nathanye'}]
+[nathanye: <the girl> {My name is like a name you know NATHAN, except it has an E on the end so it is pronounced 'Nathanye'}]
 
 [me: "Okay. Hello Nathanye."]
 
@@ -46,7 +46,7 @@ Draem [
 
 {Some other people introduced themselves, but the auditorium was very full. I got distracted by a couple of LED marquee boards in the room.}
 
-[me: ("pointing") {Earlier, before I showed up here, I had the impression I was reading one of these boards. At one point it was backwards. There was an issue with it using an odd capital A.}]
+[me: <pointing> {Earlier, before I showed up here, I had the impression I was reading one of these boards. At one point it was backwards. There was an issue with it using an odd capital A.}]
 
 [teacher: {What? Oh. I see what you mean there. Okay... we got it.}]
 

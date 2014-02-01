@@ -24,7 +24,7 @@ Draem [
 
 [guy: "Have you heard of Avenar?"]
 
-[me: ("excited") {Wait! Wait! What made you bring that up? I need to know *how* you knew to bring up that word in this context.}]
+[me: <excited> {Wait! Wait! What made you bring that up? I need to know *how* you knew to bring up that word in this context.}]
 
 [note [
 
@@ -68,10 +68,10 @@ Draem [
 
 [guy: {Don't worry, she's got it now. She can correct herself.}]
 
-[me: ("excitedly") "A ha!"]
+[me: <excitedly> "A ha!"]
 
 {A somewhat inauthentic man approached me, and began giving a speech about how difficult it was for people, and that the town was in bad shape. I got the perception that he was some kind of two-faced political leader, and our maneuvering was all about overthrowing him. The Asian girl seemed to be humoring him.}
 
 [asian-girl: "Oh yes, times are very bad."]
 
-[me: ("smiling brightly") {Well, it's a beautiful day. I think we can do something about the town!}]
+[me: <smiling brightly> {Well, it's a beautiful day. I think we can do something about the town!}]

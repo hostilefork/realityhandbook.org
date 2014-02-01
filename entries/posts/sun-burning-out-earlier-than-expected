@@ -28,7 +28,7 @@ Draem [
 
 {He gave me a hug. A trim young man approached us in a more futuristic looking suit approached us, carrying a clipboard-like object. The young man seemed angry, and his presence annoyed "Scotty" intensely.}
 
-[engineer: ("to angry man") "Get out of here. Now."]
+[engineer: <to angry man> "Get out of here. Now."]
 
 "Scotty"
 
@@ -38,7 +38,7 @@ Draem [
 
 [me: {Hey! I felt bad about that! But my body is very weak, and I go into shock from it. My family passes out due to slight variations in blood pressure. I donated money to the Red Cross so they could run their blood drives.}]
 
-[angry-man: ("annoyed, dismissive") "Yes. I knew that."]
+[angry-man: <annoyed, dismissive> "Yes. I knew that."]
 
 [engineer: "Look, he went to just one Naval Academy."]
 
@@ -50,7 +50,7 @@ Draem [
 
 [me: {My body on Earth is not what I'd choose, and it doesn't make sense how it can be here now if I'm someone else. You guys seem pretty robust, can I be anything I want?}]
 
-[engineer: ("laughing") {Yes, whatever, I wouldn't put anything past you! Within the confines of available power. But there's an upcoming problem of the sun burning out earlier than expected, and we're having to take that into account.}]
+[engineer: <laughing> {Yes, whatever, I wouldn't put anything past you! Within the confines of available power. But there's an upcoming problem of the sun burning out earlier than expected, and we're having to take that into account.}]
 
 [me: {You say the sun is burning out sooner than expected?}]
 

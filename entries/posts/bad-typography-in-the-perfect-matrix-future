@@ -16,7 +16,7 @@ Draem [
 
 [me: {Please, I have to talk to you, can you delay the lecture?}]
 
-[professor: ("to audience") {Pardon me folks, but I'm going to go for a two minute walk and I'll be right back.}]
+[professor: <to audience> {Pardon me folks, but I'm going to go for a two minute walk and I'll be right back.}]
 
 {As we walked out of the room and down hallways I began an information dump, and told him what my real name was and began rambling about being from somewhere around the year 2000.}
 
@@ -62,7 +62,7 @@ Draem [
 
 "He looked puzzled at me, but raised the lights."
 
-[me: ("jokingly") {Hey, how about you send me a copy of the video on, like, DVD. Or VHS! Those are formats for movies, very primitive, you probably haven't heard of them. We don't even use VHS any more.}]
+[me: <jokingly> {Hey, how about you send me a copy of the video on, like, DVD. Or VHS! Those are formats for movies, very primitive, you probably haven't heard of them. We don't even use VHS any more.}]
 
 [professor: "Can you give me your date of birth?"]
 

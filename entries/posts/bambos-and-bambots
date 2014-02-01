@@ -10,7 +10,7 @@ Draem [
 
 {The table seemed more like claymation of worms and other odd shaped things. I saw a skull staring at me and rattling its jaw, but instead of being scared I put it on a pile of clay and tried to get it to animate the clay and dance around with me. Which went all right, but I went hunting for some normal people and found a couple of girls in a room.}
 
-[me: ("suavely") "Hello there ladies..."]
+[me: <suavely> "Hello there ladies..."]
 
 [girl-one: "You're very attractive!"]
 
@@ -20,11 +20,11 @@ Draem [
 
 [me: {I'm not quite sure why that is. I've had no training, myself. But I've started to wonder if there's some kind of symbiotic partnership between me and something that has had training, y'know, like Jonathan Livingston Seagull type stuff. Can't really tell...no evidence to back that up...it just feels that way.}]
 
-[man: ("laughing") "I like this guy."]
+[man: <laughing> "I like this guy."]
 
 {I turned around and started taking a little more stock of the room. There were two sets of doors toward a long hallway. A woman was leaning up against a phone and had kind of an amused look, and started to talk to me.}
 
-[woman: ("laughing") {This is so weird. I had to pee...but when I went in the bathroom, and something came out of me as a brownie. And I didn't think I was going to be able to make it back in here, but then there was this grilled cheese sandwich...and when I took a bite of that I stabilized and seemed to take care of it. Okay, weird again, but it actually was pretty good. So maybe it will help you.}]
+[woman: <laughing> {This is so weird. I had to pee...but when I went in the bathroom, and something came out of me as a brownie. And I didn't think I was going to be able to make it back in here, but then there was this grilled cheese sandwich...and when I took a bite of that I stabilized and seemed to take care of it. Okay, weird again, but it actually was pretty good. So maybe it will help you.}]
 
 [me: {If it comes to that. But I can take it from the way you're talking about the nonsense going on in the bathroom that perhaps we're on the same page here, about things not making sense.}]
 
@@ -36,7 +36,7 @@ Draem [
 
 [woman: "My name is...my name is...Bonnie. Bonnie West."]
 
-[concerned-man: ("whispered, to me, about the doctor") "Ask her about the kids!"]
+[concerned-man: <whispered, to me, about the doctor> "Ask her about the kids!"]
 
 [note {I didn't know what he meant, I thought he meant to ask the doctor about *having* kids, which as I wasn't interested I didn't bother with. She answered anyway, as if she either heard the question or knew I was thinking about it.}]
 

@@ -7,7 +7,7 @@ Draem [
 
 {I got into a situation where there was a galloping parade of something that seemed to be connected to a song by Cher.  It was like a giant crowd of people I couldn't quite see were coming at me and going to knock me out of a dream.}
 
-[me: ("cowering") {Hey...Cher, or whoever, quiet down!  What's with this stampede!}]
+[me: <cowering> {Hey...Cher, or whoever, quiet down!  What's with this stampede!}]
 
 {The stampede sort of stopped and I couldn't quite see what was going on, and then it turned into me just standing up in the living room where I'm staying talking to a woman who seemed to simultaneously have a caravan of horses and other riders with her.}
 
@@ -19,7 +19,7 @@ Draem [
 
 [woman: {There's a difference between "can't" and "won't".}]
 
-[me: ("frustrated") "This all sounds like B.S. to me."]
+[me: <frustrated> "This all sounds like B.S. to me."]
 
 {The view shifted, and I wound up talking with a guy seemingly sitting on the floor in the bedroom where I was asleep.  His head looked a bit like Greedo from Star Wars.}
 
@@ -27,7 +27,7 @@ Draem [
 
 [me: {I thought God was perfect and did everything in a magic instantaneous poof.}]
 
-[greedo: ("sarcastically") {Yup, sure.  Because that's *exactly* how every act of creation works in art.  You try something and get it *absolutely* right the first time.  That only happens if your idea is really simple, and thus, boring.}]
+[greedo: <sarcastically> {Yup, sure.  Because that's *exactly* how every act of creation works in art.  You try something and get it *absolutely* right the first time.  That only happens if your idea is really simple, and thus, boring.}]
 
 [me: "Well I'm not a fan of how things are running."]
 
@@ -63,11 +63,11 @@ Draem [
 
 [me: "So how do you intend to die, Mr. God?"]
 
-[old-man: ("smiling") {Haven't decided quite yet.  But I'll just blow myself away, most probably.}]
+[old-man: <smiling> {Haven't decided quite yet.  But I'll just blow myself away, most probably.}]
 
 {As we talked, I was going around poking around the environment, which was a roughly accurate rendering of the living room.  I went in the bathroom and tinkered with the sink to see if it worked.  The handle on the faucet cracked off.}
 
-[me: ("indicating handle") {Okay, master fabricator of the laws of physics and species.  Can't get a faucet right?  Show me some planet-scale engineering.}]
+[me: <indicating handle> {Okay, master fabricator of the laws of physics and species.  Can't get a faucet right?  Show me some planet-scale engineering.}]
 
 [old-man: {You want to go see some other planets I've made?  All right.  How 'bout I make one for you right now.}]
 
@@ -75,14 +75,14 @@ Draem [
 
 {There was a set of things that looked like railroad cars.  The doors would open and pairs of people would jump into a unit, lock themselves in, and the car would take off into the air.  He signaled for me to jump into a car with another guy, and I tried to get the doors secured but it seemed like neither me nor the other guy knew what to do.  I had my hand on the door from my side, but the other guy had missed his door.  It seemed the only way to close my door was for it to lock to the door he didn't have a grip on.}
 
-[me: ("to other guy") {Okay, crap.  I guess we're just going to have to hang on.}]
+[me: <to other guy> {Okay, crap.  I guess we're just going to have to hang on.}]
 
 {It was a bit tense as the boxy cars flew in formation higher into the sky, and I began to wonder if it intended to fly us into space.  It didn't, it just sort of swooped and swerved.  The old man commented from somewhere I couldn't quite see.}
 
-[old-man: ("to someone else") {This one has quite a tension about heights.  Very knotted in the back and in the neck.}]
+[old-man: <to someone else> {This one has quite a tension about heights.  Very knotted in the back and in the neck.}]
 
 {The cars began to descend on some kind of commercial palace where I could see it was set up something like a museum with a lot of planet-shaped sculptures outside of it.  We got close enough into the landing pattern, and I only heard one more comment before I awoke.}
 
-[old-man: ("to someone else") "Yes, we are going on a charade..."]
+[old-man: <to someone else> "Yes, we are going on a charade..."]
 
 [note {I took the "charade" remark to be suggesting that he was taking me to some kind of sculpture museum, or maybe a planetarium of some kind, as opposed to going to any real planets in person.}]

@@ -16,7 +16,7 @@ Draem [
 
 [military-man: "*Sargeant* major general."]
 
-[me: ("amused") {If I remember correctly, that's considered an even bigger deal. What are you guys doing here?}]
+[me: <amused> {If I remember correctly, that's considered an even bigger deal. What are you guys doing here?}]
 
 [military-man: "We're not going to discuss that."]
 
@@ -34,7 +34,7 @@ Draem [
 
 [young-man: {We have confirmed that the building contains weapons of mass *instruction*.}]
 
-[me: ("stopping") "You could put it that way. I kind of like that."]
+[me: <stopping> "You could put it that way. I kind of like that."]
 
 [young-man: {When the Chemical Brothers told me what was going on here, I didn't believe them. This is going to blow people's minds...literally.}]
 

@@ -28,7 +28,7 @@ Draem [
 
 [me: "Going down? You can try following me."]
 
-[girl: ("surprised") "Oh. Ok!"]
+[girl: <surprised> "Oh. Ok!"]
 
 {We kept slipping down, and branches would collapse. At one point we saw a bright multicolored flower that was resting on top of a tree...it stood out against the drab snow.}
 
@@ -46,6 +46,6 @@ Draem [
 
 {On the ground was a resort area that was constructed out of a lot of wood--the paths were wood, and so were the buildings. All the wood was dark and wet, as if it had been covered with water from the melting snow. The girl and I were outside a door to an apartment, and stood in the doorway.}
 
-[girl: ("kissing me") "You're so sweet."]
+[girl: <kissing me> "You're so sweet."]
 
 [me: {Thanks, I try, but I'm a lot more coherent if someone could figure out how to get me to stay in the dreamstate for longer.}]

@@ -20,7 +20,7 @@ Draem [
 
 {Rather than forge ahead, I decided to go back and look at the Microwaves and stuff from earlier. But when I did I noticed another man (or perhaps the same one?) now in the center of the room, also deformed and hooked to equipment. I walked past warily, feeling like I didn't want to talk to him.}
 
-[man: ("singing") "Hellsville, Bells peal..."]
+[man: <singing> "Hellsville, Bells peal..."]
 
 [note "Hellsville is a song by The Legendary Pink Dots."]
 
@@ -28,7 +28,7 @@ Draem [
 
 [me: {Why did you grab me and wake me up? If you're stuck here, I can help you.}]
 
-[man: ("disgusted") {Help me what? The only thing you'll help with is turning me into one of them. Because they have no use for us, we are only curiosities.}]
+[man: <disgusted> {Help me what? The only thing you'll help with is turning me into one of them. Because they have no use for us, we are only curiosities.}]
 
 [me: {That explains nothing. You're just violent and you don't even know why. Why does everyone act like such a moron? Whether I'm some Artificial Grounding Systems agent or whatever the hell, I'm real and you're not.}]
 

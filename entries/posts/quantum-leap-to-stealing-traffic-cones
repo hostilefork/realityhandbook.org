@@ -26,7 +26,7 @@ Draem [
 
 [me: "I like you."]
 
-[cat: ("telepathically") "I like you, too."]
+[cat: <telepathically> "I like you, too."]
 
 [me: "What's your name?"]
 

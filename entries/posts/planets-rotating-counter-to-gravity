@@ -46,7 +46,7 @@ Draem [
 
 [me: {What do you call our kind? I've taken to fancifully calling us 'the CIA', though obviously not the human CIA.}]
 
-[guy-two: ("laughing") {Oh, I get it. Sort of a play on 'the CIA put a chip in my head!'}]
+[guy-two: <laughing> {Oh, I get it. Sort of a play on 'the CIA put a chip in my head!'}]
 
 [guy-one: {Yeah that's funny, I guess, but couldn't you try a little harder to fit in?}]
 
@@ -56,10 +56,10 @@ Draem [
 
 [waitress: {The planet's rotation is 'gravity-opposite'. So that table top will be up there all night.}]
 
-[me: ("to guy one") {What on earth does the direction a planet is rotating have to do with gravity? Isn't gravity based on mass?}]
+[me: <to guy one> {What on earth does the direction a planet is rotating have to do with gravity? Isn't gravity based on mass?}]
 
 [guy-one: {Yes. Gravity would work the same way no matter which way the planet was rotating.}]
 
-[me: ("to waitress") {Do you have to buy some kind of apparatus to stop table tops from doing that? If so, who sells it?}]
+[me: <to waitress> {Do you have to buy some kind of apparatus to stop table tops from doing that? If so, who sells it?}]
 
 "I woke up."

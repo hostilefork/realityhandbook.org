@@ -10,7 +10,7 @@ Draem [
 
 [speaker: {I want to thank you all for coming, you made the right choice.}]
 
-[girl: ("whispered, to me") "Well, at least we got to skip math class."]
+[girl: <whispered, to me> "Well, at least we got to skip math class."]
 
 [speaker: {We met our fundraising goal and we'll certainly be winning the $50. But we're not content to stop there. We'll do whatever we can, we'll sell cookies. Heck...we'll even write on the cookies 'the Christian Club sucks' if it will get more people to buy them!}]
 
@@ -22,7 +22,7 @@ Draem [
 
 [me: "Hi there! Long time no see!"]
 
-[dark-hair-girl: ("nervously") "You shouldn't touch me."]
+[dark-hair-girl: <nervously> "You shouldn't touch me."]
 
 [me: {Why not? What's wrong? Do you have a boyfriend now?}]
 
@@ -48,7 +48,7 @@ Draem [
 
 [me: {Sorry...I don't know if that was sarcasm or...uh...do I know you?}]
 
-[robe-guy: ("surprised") "You don't remember? I am Ed's friend Brian."]
+[robe-guy: <surprised> "You don't remember? I am Ed's friend Brian."]
 
 [me: {Okay, now I remember when you came for dinner once, but didn't you have much darker skin?}]
 
@@ -72,7 +72,7 @@ Draem [
 
 {There was some sort of warning that was set off, and a red alarm light began to strobe. Either instinctually or due to some audible message, I got the sense that I was about to be attacked by something very big and scary, like a Tyrannosaurus Rex. I looked at the robe guy, who didn't really seem too concerned.}
 
-[robe-guy: ("smiling weakly") "Good luck."]
+[robe-guy: <smiling weakly> "Good luck."]
 
 [me: "Oh, well. Whatever comes I'll just stare it down."]
 

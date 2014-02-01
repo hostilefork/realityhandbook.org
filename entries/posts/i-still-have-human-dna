@@ -10,7 +10,7 @@ Draem [
 
 [me: "Please help, what are these seeds?"]
 
-[man: ("looking") {Oh, those are [name]...it's what those kangaroos were all so worried about. Shouldn't be a problem.}]
+[man: <looking> {Oh, those are [name]...it's what those kangaroos were all so worried about. Shouldn't be a problem.}]
 
 [me: {But they *are* a problem. They keep growing in my mouth. When I spit them out, they seem to grow in my hands too.}]
 
@@ -22,7 +22,7 @@ Draem [
 
 [man: "Yes, the problem is, these are *yours*. Look."]
 
-[me: ("squatting") "What am I supposed to look at about them?"]
+[me: <squatting> "What am I supposed to look at about them?"]
 
 [man: "You have to open them up to see."]
 

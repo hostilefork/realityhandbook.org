@@ -70,11 +70,11 @@ Draem [
 
 [boy: {Hi, my name is Tim. We'll be your date this evening.}]
 
-[me: ("to girl #1") "Uh... ok... what is your name?"]
+[me: <to girl #1> "Uh... ok... what is your name?"]
 
 [girl-one: "Elegin."]
 
-[me: ("to girl #2") "What is your name?"]
+[me: <to girl #2> "What is your name?"]
 
 [girl-two: "Bea."]
 

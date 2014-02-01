@@ -10,7 +10,7 @@ Draem [
 
 {One area I walked into was a movie theater, and it was playing a music video that didn't have any words. The crowd had all kinds of people, but I didn't talk to them because it was too loud. Leaving that room, I decided that rather than start asking people questions about themselves...I would ask for their identification card and read it.}
 
-[me: ("to someone") "May I see your ID card?"]
+[me: <to someone> "May I see your ID card?"]
 
 [someone: {No. Our country doesn't require us to carry those, and hasn't had the requirement for three years now.}]
 

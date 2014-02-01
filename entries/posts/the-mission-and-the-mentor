@@ -60,7 +60,7 @@ Draem [
 
 {During our conversation, people were passing us in droves. They made me nervous, though none seemed to attack. A young kid passed and expressed curiosity in what we were talking about, and the person I had been speaking with grabbed his mouth for some reason and started looking at it, it distorted into various shapes.}
 
-[companion: ("looking in his mouth") "He's been bugged. They know you're here."]
+[companion: <looking in his mouth> "He's been bugged. They know you're here."]
 
 "The lights went out."
 

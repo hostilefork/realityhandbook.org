@@ -13,7 +13,7 @@ Draem [
 
 [me: "Excuse me, can you... speak?"]
 
-[dog: ("mouth moving like a movie effect") "Yes."]
+[dog: <mouth moving like a movie effect> "Yes."]
 
 [me: {Oh.  All right.  That's unusual where I'm from.  Dogs can't speak.}]
 

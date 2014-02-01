@@ -36,13 +36,13 @@ Draem [
 
 [me: "Take it... it'll be gone for me when I wake up."]
 
-[girl: ("taking the rope") "My name is Daniela. Will you remember that?"]
+[girl: <taking the rope> "My name is Daniela. Will you remember that?"]
 
 [me: "I can try..."]
 
 {Leaving the scene I tried to follow where the man had gone and wound up getting tangled in some kind of elevator device that you strap yourself into which seemed to malfunction terribly. I escaped from it but appeared to destroy it completely. Walking away I shook my fist at it.}
 
-[me: ("angrily") "You call this high technology?"]
+[me: <angrily> "You call this high technology?"]
 
 "An older Asian woman in the distance responded."
 
@@ -80,7 +80,7 @@ Draem [
 
 [black-woman: "No, C-A-R-L-S-J-R."]
 
-[me: ("puzzled") "Carl's Jr? The fast food chain?"]
+[me: <puzzled> "Carl's Jr? The fast food chain?"]
 
 [black-woman: {Is that how it's pronounced... I've been saying it wrong all this time! Anyway you should go there for lunch tomorrow and order two different items.}]
 

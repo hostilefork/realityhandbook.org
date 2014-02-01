@@ -12,7 +12,7 @@ Draem [
 
 [head: "Do you have any questions for me?"]
 
-[me: ("frustrated") {If I am to die, what will happen after that? Is there a nothingness? Does the outcome depend on whether I kill myself or die naturally?}]
+[me: <frustrated> {If I am to die, what will happen after that? Is there a nothingness? Does the outcome depend on whether I kill myself or die naturally?}]
 
 [head: {To answer that question, it's best if you see the serpent. Do you see the serpent?}]
 
@@ -20,7 +20,7 @@ Draem [
 
 [me: {I don't see a serpent, but my fingers look all twisted up.}]
 
-[voice: ("laughing") {Well if you don't *see* the serpent, that means I'll have to *send* you a serpent so you have one.}]
+[voice: <laughing> {Well if you don't *see* the serpent, that means I'll have to *send* you a serpent so you have one.}]
 
 [me: "I don't get your joke."]
 
@@ -44,7 +44,7 @@ Draem [
 
 [voice: {That's pretty good. You are probably noticing a sensation that your arms are moving much more slowly than you are used to.}]
 
-[me: ("waving arms") "Seems normal to me, actually."]
+[me: <waving arms> "Seems normal to me, actually."]
 
 {At this point the visuals dropped out and I almost woke up, but was more laying down in blackness.}
 
@@ -80,7 +80,7 @@ Draem [
 
 [note "In retrospect that sounds a bit contradictory."]
 
-[me: ("to 'Cobb'") {Are you also a highly specialized household adaptive?}]
+[me: <to 'Cobb'> {Are you also a highly specialized household adaptive?}]
 
 {**'Cobb'** "Yes."}
 

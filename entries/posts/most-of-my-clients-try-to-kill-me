@@ -10,9 +10,9 @@ Draem [
 
 [me: "Subway eh? Management or making sandwiches?"]
 
-[guy: ("laughing") "Management, of course."]
+[guy: <laughing> "Management, of course."]
 
-[me: ("cryptically") "*Of course.*"]
+[me: <cryptically> "*Of course.*"]
 
 {There was a police officer there who introduced himself. Instead of shaking his hand, I went to scrutinize his ID nametag, which was a gold-colored rectangular pin:}
 
@@ -20,7 +20,7 @@ Draem [
 
 {The thing I was looking for at first was his rank, but there wasn't one--or any municipal title I could see. Instead, surrounding his name was a bunch of corporate logos and endorsements.}
 
-[policeman: ("frustrated") "It's not *fake*!"]
+[policeman: <frustrated> "It's not *fake*!"]
 
 [me: {Fake vs. real... Authentic vs. inauthentic... well that's a matter of perspective. But I just wanted to know the context of authority here. Now I know.}]
 
@@ -28,9 +28,9 @@ Draem [
 
 [me: {I generally don't have all my memories around all the time. In fact, we distribute ourselves... and not knowing everything is just a tradeoff of that. It's a safety precaution, in case we're attacked and killed.}]
 
-[guy: ("nervously") "Um, how many of your clients try to kill you?"]
+[guy: <nervously> "Um, how many of your clients try to kill you?"]
 
-[me: ("smiling") "Most of them, actually."]
+[me: <smiling> "Most of them, actually."]
 
 {My point of view flipped to where I was in a lab environment with a lot of people who were in some kind of containment tanks. They began to panic as the people began to vanish out of the tanks and all their machinery started to melt. I just sort of walked around it, feeling as if all was going according to plan. I picked up a little device and started looking at it.}
 
@@ -58,15 +58,15 @@ Draem [
 
 [note {Though dialogue is usually a rough reconstruction in my journal entries, that line is fairly specific in wording and stood out to me at the time. I understood him as asking me if killing the body I was in--which was not my own--would hurt "me".}]
 
-[me: ("backing away from his drawn weapon") "I... I don't know."]
+[me: <backing away from his drawn weapon> "I... I don't know."]
 
-[swat-guy: ("thinking") {Okay, we might not have timed this right. This is unfortunate. But if we don't kill them both we'll have to take them into custody, and that won't be a good situation.}]
+[swat-guy: <thinking> {Okay, we might not have timed this right. This is unfortunate. But if we don't kill them both we'll have to take them into custody, and that won't be a good situation.}]
 
 [me: {Ah well. I've been killed a lot by people who didn't ask ahead of time, and woke up all right. How important is it? I mean, how bad are these people, anyway.}]
 
 [swat-guy: "Pretty bad. This guy raided one of our vaults."]
 
-[me: ("sighing") {It would almost be a blessing if you *could* kill me and put an end to this weirdness. Which I don't think you can, but if you do I'll say I lived a good enough life and just call it even. But do you have anything painless?}]
+[me: <sighing> {It would almost be a blessing if you *could* kill me and put an end to this weirdness. Which I don't think you can, but if you do I'll say I lived a good enough life and just call it even. But do you have anything painless?}]
 
 [swat-guy: "Absolutely."]
 

@@ -13,9 +13,9 @@ Draem [
 
 {Someone managed to retrieve me, and put me laying on the ground as my friend looked on from the attic. One item I had grabbed was an elongated metal tool, and I let go of it...only to watch it fly back up to the attic.}
 
-[me: ("exasperated") {See! That's what I'm talking about, gravity should go DOWN.}]
+[me: <exasperated> {See! That's what I'm talking about, gravity should go DOWN.}]
 
-[friend: ("sternly") {Oh, I see...so you speak for all protein-based life forms in saying that? What if I want to tell my tools to put *themselves* back in the toolbox, but they are at a lower altitude than the toolbox? What then?}]
+[friend: <sternly> {Oh, I see...so you speak for all protein-based life forms in saying that? What if I want to tell my tools to put *themselves* back in the toolbox, but they are at a lower altitude than the toolbox? What then?}]
 
 [me: {Well...good point. But I obviously can't navigate this kind of setup without some help.}]
 
@@ -27,7 +27,7 @@ Draem [
 
 [me: {How can that work? How could you build a 'device' that changes the physics you experience while remaining in your hand? Wouldn't this 'new physics' change the very premises on which the device itself could operate?}]
 
-[kevin: ("shrugging") {That's not a question for me, I don't know how it works. You'd have to ask Doctor Woodrow.}]
+[kevin: <shrugging> {That's not a question for me, I don't know how it works. You'd have to ask Doctor Woodrow.}]
 
 [note {"Woodrow" is a guess at what he said, but it was some kind of esoteric name along those lines.}]
 
@@ -45,7 +45,7 @@ Draem [
 
 [me: {Well I'm not as worried about the belt as I am about the fact that it got caught in the machine when I was nowhere near it. I'm staying away before I get chopped up too.}]
 
-[friend: ("smiling") {If you stay far away from the machine you'll miss the best part here at the end. Watch.}]
+[friend: <smiling> {If you stay far away from the machine you'll miss the best part here at the end. Watch.}]
 
 {He positioned me back to where I could see the underside of the machine. The gear train for the chipper was powered by a small elephant-looking creature running on a treadmill. It was kind of Teddy-Ruxpin-uncanny and robotic, and when it stopped running it did a little dance and sang a song.}
 
@@ -55,7 +55,7 @@ Draem [
 
 [friend: {So *that's* who he is. I know exactly who you're talking about, but I never knew the jerk's name before.}]
 
-[elephant: ("chiming in") "Oh yes, now we know!"]
+[elephant: <chiming in> "Oh yes, now we know!"]
 
 [me: "He's not a jerk."]
 
@@ -69,7 +69,7 @@ Draem [
 
 [me: {Okay, right...that form of transportation device. I've seen those before.}]
 
-[bystander: ("chuckling") {Sounds like someone doesn't make it in from the boonies very often.}]
+[bystander: <chuckling> {Sounds like someone doesn't make it in from the boonies very often.}]
 
 {My wandering led me somehow to a brightly-lit pharmacy counter. The man behind the counter was perplexed and irritated as I explained to him that I needed help.}
 
@@ -81,7 +81,7 @@ Draem [
 
 [me: "Are you listening? This is important."]
 
-[pharmacist: ("scoffing") {How can you expect us to give away something for free?}]
+[pharmacist: <scoffing> {How can you expect us to give away something for free?}]
 
 {At this point there seemed to be some additional people appearing in the room. They were a bit out of phase like the dogs, listening and watching our conversation, but I got the sense that the pharmacist could not see them. I felt I was supposed to keep testing this interaction in the way I'd been doing and they would observe, so I didn't address them.}
 

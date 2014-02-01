@@ -20,7 +20,7 @@ Draem [
 
 [me: "This line is just symbols, there are no letters."]
 
-[test-girl: ("laughing") "Yes there are! You're not looking close enough."]
+[test-girl: <laughing> "Yes there are! You're not looking close enough."]
 
 {When I looked closer I saw these symbols were things like the copyright symbol or the GE logo, and did have letters inside.}
 
@@ -58,13 +58,13 @@ Draem [
 
 {Knowing I'd be waking up any second, and not knowing what the stakes were in whatever lifetime I was living, I decided to try not to cause further damage. I walked back to the kitchen-like area where I had been reading books.}
 
-[test-girl: ("to people at table") {We had 16 packs of Guinness, and now they're all gone. How did that happen?}]
+[test-girl: <to people at table> {We had 16 packs of Guinness, and now they're all gone. How did that happen?}]
 
 {They debated for a bit why they'd run out so quickly, and the girl got up to address me.}
 
 [test-girl: "What has gotten *into* you?"]
 
-[me: ("angry") {Why doesn't anyone understand how important verification is to me? It hurts to be treated like a crazy person, and worse it hurts to FEEL like you're crazy. Maybe other humans have their memory wiped when they wake up, but my guy remembers everything. He's getting gruesomely killed three times a night and has to live with that by himself.}]
+[me: <angry> {Why doesn't anyone understand how important verification is to me? It hurts to be treated like a crazy person, and worse it hurts to FEEL like you're crazy. Maybe other humans have their memory wiped when they wake up, but my guy remembers everything. He's getting gruesomely killed three times a night and has to live with that by himself.}]
 
 "A man stepped into intervene."
 

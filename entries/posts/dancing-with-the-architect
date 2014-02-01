@@ -12,7 +12,7 @@ Draem [
 
 [me: "Have you seen the Matrix?"]
 
-[being: ("shrugging") {Yeah, I think I know what you're talking about. I saw that one.}]
+[being: <shrugging> {Yeah, I think I know what you're talking about. I saw that one.}]
 
 [me: {You just did the speech from it, almost verbatim, from the Architect to Neo. It was in, uh, the second one. There was a trilogy. Why don't you go watch it right now and get back to me.}]
 
@@ -42,4 +42,4 @@ Draem [
 
 [me: "Uhhh... Liza Minelli?"]
 
-[woman: ("angrily") "No! Katie Holmes!"]
+[woman: <angrily> "No! Katie Holmes!"]

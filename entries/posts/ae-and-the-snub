@@ -10,13 +10,13 @@ Draem [
 
 {As I began to float in the air, I used my arm to point in the direction I wanted to fly. The vibrating was fairly out of control and unpleasant, but I ignored it and just kind of talked to myself as I went along.}
 
-[me: ("to myself") {Oh, yes... and this is where we would play chess, the food court is around that corner. Wait, what am I talking about, I've never been here before!}]
+[me: <to myself> {Oh, yes... and this is where we would play chess, the food court is around that corner. Wait, what am I talking about, I've never been here before!}]
 
 {There were some people with european accents in police cars. I couldn't tell if they were trying to catch me or if they were just traveling by, but I tried to fly into them so they would catch me.}
 
 [me: "I need... um... medical help?"]
 
-[police: ("inspecting my hand") {Ah, yes... something wrong here. We can fix that up.}]
+[police: <inspecting my hand> {Ah, yes... something wrong here. We can fix that up.}]
 
 {He seemed particularly interested in the junction of my thumb to my hand, and put something like a finger guillotine on it. It made a little cut but not all the way.}
 
@@ -38,7 +38,7 @@ Draem [
 
 [me: {Err... You must have me confused with someone else. There are a lot of people with my name.}]
 
-[guy-two: ("laughing") "Why would people have the same name?"]
+[guy-two: <laughing> "Why would people have the same name?"]
 
 [me: "Yeah, I think it's silly... but... they do."]
 

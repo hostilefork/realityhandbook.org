@@ -26,13 +26,13 @@ Draem [
 
 [tall-man: {That is a perfect example of why you are blocked in developing your abilities. It's practically impossible to have a conversation with you, or show you anything, because you're always running around screaming to get people to find you in the 'real world'. Wait to do that kind of communication once you've got the hang of things here. You'll have a lot better shot at succeeding.}]
 
-[me: ("guiltily") {Ok. But surely you must understand my motive for wanting to prove this. It's just so scary and hard to go through this alone when I wake up.}]
+[me: <guiltily> {Ok. But surely you must understand my motive for wanting to prove this. It's just so scary and hard to go through this alone when I wake up.}]
 
 "A shorter man and a woman joined the conversation."
 
 [short-man: {How so? I'd think it would be way scarier and harder for you here, where you don't have a clue what you're doing.}]
 
-[woman: ("to the men") {No, you guys don't get it. What makes something insane and unacceptable isn't the absolute of how much wacky stuff is going on--all worlds are 'wacky'. The hardest part is isolation, where you feel like you're the only one who goes through something.}]
+[woman: <to the men> {No, you guys don't get it. What makes something insane and unacceptable isn't the absolute of how much wacky stuff is going on--all worlds are 'wacky'. The hardest part is isolation, where you feel like you're the only one who goes through something.}]
 
 "The man shrugged, and turned back to me."
 
@@ -52,13 +52,13 @@ Draem [
 
 [me: {There's no speakers and no mixer. I don't see how volume of the waveform I'm getting in my head can be controlled. How is the audio stream being represented? What's the limit of how loud it can get before it can't get louder, and it clips?}]
 
-[man: ("waving his hands") "No, no. There's no limits like that."]
+[man: <waving his hands> "No, no. There's no limits like that."]
 
-[me: ("skeptically") {Then I don't see how this can possibly be working. Whether carried in a sound wave or not, all information needs to be transmitted though a substrate.}]
+[me: <skeptically> {Then I don't see how this can possibly be working. Whether carried in a sound wave or not, all information needs to be transmitted though a substrate.}]
 
 [man: {No it doesn't. It's not analog, it's not digital, you can't really think of it that way.}]
 
-[me: ("frustrated") {There's got to be some way you can explain this to me. I've heard this not-analog-not-digital argument before, but it's just makes no sense. Where is the darn stuff STORED?!?}]
+[me: <frustrated> {There's got to be some way you can explain this to me. I've heard this not-analog-not-digital argument before, but it's just makes no sense. Where is the darn stuff STORED?!?}]
 
 "He paused to choose his answer carefully."
 

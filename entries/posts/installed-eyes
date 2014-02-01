@@ -50,7 +50,7 @@ Draem [
 
 [me: "Hey... you look kind of like Brad Pitt."]
 
-[guy: ("smiling") "Now there's a compliment!"]
+[guy: <smiling> "Now there's a compliment!"]
 
 [me: {Well, when he played that character in 12 Monkeys who was crazy, Jeffrey Goines. I know you... why do I know you?}]
 
@@ -58,7 +58,7 @@ Draem [
 
 [me: {I don't buy into this erased-memory backstory. Who are we? Are we anybody?}]
 
-[guy: ("laughing") "Of course not!"]
+[guy: <laughing> "Of course not!"]
 
 {Three people who looked like people I knew from high school walked up. They were wearing blue jackets over each a red, a yellow, and a green shirt. Accompanying the group was a proper-looking Asian girl who seemed to have a small number tattooed under her right eye. It seemed the group in colors was going to talk to the construction people and discuss the structural problem. The Asian girl stopped to talk to me.}
 
@@ -72,7 +72,7 @@ Draem [
 
 [me: {Come ON, I could do a lot better with whatever this is. If only a few things were explained.}]
 
-[asian-girl: ("sighing") {Fine, we can have dinner sometime and talk about it. Come see me, I'm in Ohio and Colorado some of the time.}]
+[asian-girl: <sighing> {Fine, we can have dinner sometime and talk about it. Come see me, I'm in Ohio and Colorado some of the time.}]
 
 [me: "Are you a specific person?"]
 

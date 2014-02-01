@@ -24,7 +24,7 @@ Draem [
 
 {A few people seated at a table appeared behind me. One of them, a man wearing a brightly colored tie, spoke.}
 
-[tie-man: ("pointing") "What kind of disk is that you've got there?"]
+[tie-man: <pointing> "What kind of disk is that you've got there?"]
 
 [me: "What are you talking about."]
 
@@ -36,7 +36,7 @@ Draem [
 
 {Not knowing what to do, I knocked over a rack of papers and tried to throw a coffee cup against a wall. The man with the tie knocked over the table he was sitting at, too.}
 
-[man: ("sarcastically") "Well why don't we just knock EVERYTHING over."]
+[man: <sarcastically> "Well why don't we just knock EVERYTHING over."]
 
 [me: {Look, this is not right, I was researching JqQuery and saw...}]
 
@@ -68,7 +68,7 @@ Draem [
 
 [picture %green_energy_machine.jpg]
 
-[man: ("grimacing") {Looks like we're getting another extension machine installed.}]
+[man: <grimacing> {Looks like we're getting another extension machine installed.}]
 
 [me: "A what?"]
 

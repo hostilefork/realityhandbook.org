@@ -18,7 +18,7 @@ Draem [
 
 [me: {Well, although it doesn't hurt to ask, I'd suggest saving such requests for times when you're in a hurry.}]
 
-[him: ("angry") {Can't we just get along, why does everything have to be a fight?}]
+[him: <angry> {Can't we just get along, why does everything have to be a fight?}]
 
 [me: {I wasn't trying to start a fight. I let you in front of me. Also, I said, quote: 'it doesn't hurt to ask'.}]
 
@@ -36,7 +36,7 @@ Draem [
 
 [me: {Now YOU took a picture, you have to admit that this is all totally suspicious at this point.}]
 
-[friend: ("sigh") {No, YOU took that picture. And good work. We knew you weren't the -ope.}]
+[friend: <sigh> {No, YOU took that picture. And good work. We knew you weren't the -ope.}]
 
 [me: "Well who is the -ope?"]
 
@@ -44,4 +44,4 @@ Draem [
 
 [me: "All right, well am I me yet?!"]
 
-[friend: ("smiling") "Not yet."]
+[friend: <smiling> "Not yet."]

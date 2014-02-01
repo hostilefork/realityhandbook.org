@@ -8,11 +8,11 @@ Draem [
 
 {I was at some kind of strange outdoor event before dawn, where people were walking along in a line. I was given two entrance tickets. Then a man handing them out pulled me back and handed me another one. Looking closely at the tickets I saw they had drink vouchers on them.}
 
-[me: ("to self") {A-ha, so that's how the free beer is supposed to work. Only *one* is free. Well I guess they're giving out extra vouchers if you get here early.}]
+[me: <to self> {A-ha, so that's how the free beer is supposed to work. Only *one* is free. Well I guess they're giving out extra vouchers if you get here early.}]
 
 {We approached a park area, with a lot of asphalt and a little bit of playground equipment. There was a stack of speakers and amplifiers as if a band were going to play later. Some people looking at the skyline began a countdown. Fireworks went off when they were down to about 5. But they kept counting.}
 
-[me: ("joking") {If you were counting down the moment the fireworks were going to start, I think you can stop counting once they do...and just accept you were off.}]
+[me: <joking> {If you were counting down the moment the fireworks were going to start, I think you can stop counting once they do...and just accept you were off.}]
 
 {For some reason I knew I was going to be driving fairly soon. I had been staying at the apartment of some guy who was also at this event, but he was leaving town right after. So I was wavering on whether I should enjoy 3 beers and then have to drive or not.}
 
@@ -24,7 +24,7 @@ Draem [
 
 [friend: {So yeah, I'm going to China, and this is going to be my first time on a megasonic jet. They're like 1000 miles per hour. I'm scared.}]
 
-[me: ("interrupting") {They ramp up to that speed and then back down, I doubt you'll notice any difference. You don't feel velocity, just acceleration.}]
+[me: <interrupting> {They ramp up to that speed and then back down, I doubt you'll notice any difference. You don't feel velocity, just acceleration.}]
 
 [friend: "It's just the principle of it, y'know. Too fast."]
 
@@ -32,7 +32,7 @@ Draem [
 
 [me: {Hey, long time no see. And now this... of course is a dream. So I've not seen you even now.}]
 
-[her: ("in strange accent") {What is point with what you are saying? Is that we are 'not actually here'?}]
+[her: <in strange accent> {What is point with what you are saying? Is that we are 'not actually here'?}]
 
 [me: {There's matters of degree, but your question is pretty metaphysical. Is one actually anywhere, ever?}]
 

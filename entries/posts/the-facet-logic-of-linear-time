@@ -26,9 +26,9 @@ Draem [
 
 {He pointed me toward an older German-looking man standing at the desk of a library, who was wearing a name card around his neck that said *DATA MANAGER*.}
 
-[me: ("jokingly") "Hi. I'm some data, I need to be managed."]
+[me: <jokingly> "Hi. I'm some data, I need to be managed."]
 
-[manager: ("amused") "If you are data, then where is your method?"]
+[manager: <amused> "If you are data, then where is your method?"]
 
 [me: "My method is perhaps lost in my madness."]
 
@@ -44,7 +44,7 @@ Draem [
 
 [manager: {That will be difficult to express in your... what you call... 'Facet Logic'.}]
 
-[me: ("confused") "Facet logic?"]
+[me: <confused> "Facet logic?"]
 
 [manager: "Umm... I need to translate..."]
 
@@ -56,4 +56,4 @@ Draem [
 
 {Suddenly we were interrupted by a woman who came by.}
 
-[woman: ("to him") {This facility is being inspected today. You shouldn't be chatting, you need to be attending to your duties.}]
+[woman: <to him> {This facility is being inspected today. You shouldn't be chatting, you need to be attending to your duties.}]

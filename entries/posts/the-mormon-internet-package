@@ -30,7 +30,7 @@ Draem [
 
 [relative-two: "No... it's testsetup.com."]
 
-[me: ("frustrated") {You have to have something in front of that, a word and an 'at' sign. Like name@testsetup.com.}]
+[me: <frustrated> {You have to have something in front of that, a word and an 'at' sign. Like name@testsetup.com.}]
 
 [relative-two: {Oh no, we don't need an 'at'. We got the special mormon package.}]
 

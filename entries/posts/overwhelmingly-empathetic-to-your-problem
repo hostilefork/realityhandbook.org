@@ -14,7 +14,7 @@ Draem [
 
 {I dropped into a console window at the unix prompt and tried to get it to print out the date, it said it was the year 2000. As I was tinkering with the computer, it turned into a cash register and coins scattered everywhere. A guy who introduced himself as Woody Allen came over to me and looked over my shoulder.}
 
-[woody-allen: ("amused") "What have we over here? A cash register?"]
+[woody-allen: <amused> "What have we over here? A cash register?"]
 
 {Frustrated, I held up piles of quarters out of the drawer and offered them to him. He sat down in the chair next to me.}
 

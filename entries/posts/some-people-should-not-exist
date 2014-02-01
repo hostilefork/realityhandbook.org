@@ -24,7 +24,7 @@ Draem [
 
 {There were drinks on the table, and a woman walked by who said something to me and I was going to get up. But realizing I had a series of dreams to write down (and this was just another one) I decided to stay with my beer.}
 
-[girl: ("to me") {You probably think I'm too young, and want to follow her off.}]
+[girl: <to me> {You probably think I'm too young, and want to follow her off.}]
 
 [me: {Well, what I really want to do is get back to my writing. But don't worry about it. You seem like you can carry a conversation, that's fine.}]
 
@@ -36,13 +36,13 @@ Draem [
 
 "After saying my name, I spelled it."
 
-[guy-one: ("annoyed") "I know how to spell it."]
+[guy-one: <annoyed> "I know how to spell it."]
 
 [me: {These kinds of double and triple-checks are quite necessary. The dream state is complex. It's not a good environment for making assumption.}]
 
-[guy-two: ("mockingly") {Making assumption? You can't even get your grammar right, and you're trying to teach us to spell.}]
+[guy-two: <mockingly> {Making assumption? You can't even get your grammar right, and you're trying to teach us to spell.}]
 
-[me: ("angry") {When you can remember your dreams--much less actively communicate about your waking life in them--let me know. Until then, I don't think minor errors on my part deserve mockery.}]
+[me: <angry> {When you can remember your dreams--much less actively communicate about your waking life in them--let me know. Until then, I don't think minor errors on my part deserve mockery.}]
 
 [guy-two: {You're pathetic. Treating the whole thing like some kind of Olympic Sport, so you can be the best at it.}]
 

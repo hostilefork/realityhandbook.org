@@ -12,7 +12,7 @@ Draem [
 
 [me: "Can you verbally describe what is in my hands?"]
 
-[friend: ("irate") {You have a red coin in your right hand, and a pencil in your left hand.}]
+[friend: <irate> {You have a red coin in your right hand, and a pencil in your left hand.}]
 
 [me: "Is the pencil in my left hand *yellow*??"]
 

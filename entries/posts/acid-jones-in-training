@@ -22,7 +22,7 @@ Draem [
 
 {We got in a scuffle and he escaped. Still I had quite a number of receipts, and I went to the captain who would redeem the receipts for some kind of tokens. Unfortunately, when I received my tokens I dropped them and they all morphed into golf balls and other miscellaneous objects. As I was kneeling down to collect a few objects to inquire about, some guys came up behind me and hit me in the back quite hard.}
 
-[me: ("turning angrily") "That hurt. A lot. Do *not* do it again."]
+[me: <turning angrily> "That hurt. A lot. Do *not* do it again."]
 
 {I held up a ball that was changing color from orange to blue.}
 
@@ -48,7 +48,7 @@ Draem [
 
 {I introduced myself by my real name and apologized for the fact that I was about waking up.}
 
-[captain: ("excited") {Oh yes, I've heard of you! You're like a Jones in training!}]
+[captain: <excited> {Oh yes, I've heard of you! You're like a Jones in training!}]
 
 [me: "Jones? Jones who?"]
 

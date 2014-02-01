@@ -18,7 +18,7 @@ Draem [
 
 [me: "Hello there. Can you hear me?"]
 
-[female-voice: ("irate") "What do you want?"]
+[female-voice: <irate> "What do you want?"]
 
 [me: {I need to know if you can hear me or not, there's trouble with my connection. I'm afraid I'm in an emergency situation and my phone is not working properly, I'm unable to reach 911. I need someone to trace this call and send help.}]
 

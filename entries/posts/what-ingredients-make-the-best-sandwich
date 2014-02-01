@@ -24,21 +24,21 @@ Draem [
 
 [crewman-two: {Sorry about your health, but there's nothing I can do.}]
 
-[me: ("to girl") "Hmm, India. Well wait, where are we?"]
+[me: <to girl> "Hmm, India. Well wait, where are we?"]
 
 "She shrugged."
 
-[me: ("to crew") "What year is this?"]
+[me: <to crew> "What year is this?"]
 
-[crew: ("together") "28081118"]
+[crew: <together> "28081118"]
 
-[me: ("to girl") {Does that sound like a high number to you? I'd say more like... 2008.}]
+[me: <to girl> {Does that sound like a high number to you? I'd say more like... 2008.}]
 
 [girl: "I'd have said 1990."]
 
 [me: {1990, but some of the technology you had seemed a bit more advanced than that. Oh, wait, I guess that was a different segment of the dream, probably another girl.}]
 
-[girl: ("a bit huffy") "Oh really."]
+[girl: <a bit huffy> "Oh really."]
 
 [note {I got the sense that she meant this in more of a "what were you doing in a dream segment with another girl" instead of "no that was me, I can't believe you don't remember", though it was possibly expressed in jest.}]
 

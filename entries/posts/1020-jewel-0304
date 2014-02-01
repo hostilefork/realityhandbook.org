@@ -26,7 +26,7 @@ Draem [
 
         [me: {I just had this strange dream. I was having sex with Jewel.}]
 
-        [her: ("puzzled") "The singer?"]
+        [her: <puzzled> "The singer?"]
 
         [me: {Yeah. I don't own any of her albums, don't listen to her music, and don't really even know what she looks like.}]
 
@@ -64,7 +64,7 @@ Draem [
 
         [me: {Well what if I put like, a giant number one in a word document. And then a zero in another, and a 2 in another, and a zero in another. And put them as four separate attachments.}]
 
-        [man: ("sighing") "Fine. Do that if you want."]
+        [man: <sighing> "Fine. Do that if you want."]
 
         "I woke up before I could send it."
 

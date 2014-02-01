@@ -22,7 +22,7 @@ Draem [
 
 {People yelled back a few things that didn't pique my interest, but a kind of older Indian guy started talking.}
 
-[indian-guy: ("out of it") {Yes... I... I was working on a modification. It was... an invention of mine... for a chromatographic light...}]
+[indian-guy: <out of it> {Yes... I... I was working on a modification. It was... an invention of mine... for a chromatographic light...}]
 
 [me: "Yes? How did it work?"]
 
@@ -30,9 +30,9 @@ Draem [
 
 {A man dressed as a doctor had a cardkey on one of those retractable fishing-line-type things. Except he had it hooked to his fly instead of to his belt, and pulled on it suggestively.}
 
-[doctor: ("jokingly") {Check out the extension I just got. Now *that's* a great invention!}]
+[doctor: <jokingly> {Check out the extension I just got. Now *that's* a great invention!}]
 
-[me: ("sighing") "I've seen those card key tethers. Not interesting."]
+[me: <sighing> "I've seen those card key tethers. Not interesting."]
 
 [doctor: "Oh yeah? Well maybe this will interest you..."]
 

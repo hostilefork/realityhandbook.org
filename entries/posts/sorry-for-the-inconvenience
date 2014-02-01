@@ -10,7 +10,7 @@ Draem [
 
 [me: {This again. I've been thinking about it and I've realized it's not me who's confused. Maybe I don't know who I am but I know what I am, and I know what you are.}]
 
-[man-in-black: ("snarling") "Oh, what am I?"]
+[man-in-black: <snarling> "Oh, what am I?"]
 
 [me: "A coward."]
 
@@ -20,7 +20,7 @@ Draem [
 
 [picture %xone-4d.jpg]
 
-[me: ("into mic") "Um, testing. Hi, can you guys hear me down there?"]
+[me: <into mic> "Um, testing. Hi, can you guys hear me down there?"]
 
 {The miniature people acknowledged me, and they held up signs with one and two-digit numbers on them.}
 
@@ -50,13 +50,13 @@ Draem [
 
 [girl: {No. I said *'you'll just have to wait till you die'*.}]
 
-[me: ("angry") {Why should I have to die to get any information out of anyone?}]
+[me: <angry> {Why should I have to die to get any information out of anyone?}]
 
 {She seemed to stop and listen, as if someone were telling her what to say. Then she turned back to me.}
 
-[girl: ("smiling") {...she said to to tell you 'sorry for the inconvenience'.}]
+[girl: <smiling> {...she said to to tell you 'sorry for the inconvenience'.}]
 
-[me: ("sarcastically") "Hmph, 'God's final words to mankind.'"]
+[me: <sarcastically> "Hmph, 'God's final words to mankind.'"]
 
 [girl: "What? Oh, the Hitchhiker's Guide...I see."]
 

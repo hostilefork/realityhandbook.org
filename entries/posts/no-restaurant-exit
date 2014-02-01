@@ -10,9 +10,9 @@ Draem [
 
 {An Asian girl who was apparently working as a "greeter" at the restaurant stopped me as I tried to swiftly walk past without being accosted.}
 
-[greeter: ("smiling") "Hi, do you have a reservation?"]
+[greeter: <smiling> "Hi, do you have a reservation?"]
 
-[me: ("relieved") "Nope! Sorry!"]
+[me: <relieved> "Nope! Sorry!"]
 
 [greeter: "Oh then I can make one for you! You'll like it"]
 
@@ -26,15 +26,15 @@ Draem [
 
 [me: {This is a very nice building, everything in here is so fancy.}]
 
-[woman: ("beaming") "Yes, isn't it! It was built by..."]
+[woman: <beaming> "Yes, isn't it! It was built by..."]
 
 [note {She went into a brief summary of who built it and when and I don't remember the details.}]
 
 [me: {That's great. However, I'm looking for... a door that exits the building. One that doesn't go into a restaurant, but goes from the *inside* of the building to the *outside*.}]
 
-[woman: ("puzzled") {What? Why would there be such a thing? Who would want it?}]
+[woman: <puzzled> {What? Why would there be such a thing? Who would want it?}]
 
-[me: ("sighing") "I had a feeling you were going to say that."]
+[me: <sighing> "I had a feeling you were going to say that."]
 
 {There was some series of transitions in this particular narrative to where I had been locked in a room that I managed to get out of, and as I was getting away a large group of women stopped me.}
 

@@ -18,7 +18,7 @@ Draem [
 
 [me: "Shut up, you jerks."]
 
-[people: ("offended") "It's part of the training. We need to say that."]
+[people: <offended> "It's part of the training. We need to say that."]
 
 [me: "Oh. Fine."]
 

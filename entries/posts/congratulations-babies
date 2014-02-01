@@ -10,7 +10,7 @@ Draem [
 
 [me: {How come those guys are just hovering while my suit is propelling me all over the place?}]
 
-[pilot: ("to hoverers") "Will someone set up another one for him?"]
+[pilot: <to hoverers> "Will someone set up another one for him?"]
 
 [hoverer: {I don't know what the deal is, ours aren't even turned on.}]
 
@@ -24,7 +24,7 @@ Draem [
 
 {Some of the objects inside the ship began to fade, and disappear...as if they were being taken off with a tractor beam.}
 
-[pilot: ("yelling") "Hey, GIVE ME BACK MY LUNCH!"]
+[pilot: <yelling> "Hey, GIVE ME BACK MY LUNCH!"]
 
 [note {I perceived that the pilot's girlfriend was flying another ship, and was playfully siphoning items off. The objects that were taken rematerialized.}]
 

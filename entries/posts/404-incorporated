@@ -12,7 +12,7 @@ Draem [
 
 {Annoyed, I landed and got up and followed her into the next room. I smashed a window out with my fist, and it popped easily.}
 
-[woman: ("alarmed") "What are you doing?"]
+[woman: <alarmed> "What are you doing?"]
 
 [me: {Does it matter? I mean if all this fighting is just a level in a game, then what's the problem if I knock in a window?}]
 
@@ -32,7 +32,7 @@ Draem [
 
 [woman: "The full name is 'Excitebot .cantsee link error'"]
 
-[me: ("exasperated") {Excite is a web search engine. Bot is a term indicating the automated way in which it visits pages. Someone is either purposefully or accidentally interpreting an error code as an actual thing.}]
+[me: <exasperated> {Excite is a web search engine. Bot is a term indicating the automated way in which it visits pages. Someone is either purposefully or accidentally interpreting an error code as an actual thing.}]
 
 {At this point several people had run up and were talking to me, they were in uniform and had colored paper attached to their outfits. They were showing me things and asking what I thought.}
 

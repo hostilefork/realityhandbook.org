@@ -16,7 +16,7 @@ Draem [
 
 [me: "Hey! Hey! Can we talk?"]
 
-[clone: ("sighing") "Yes, I suppose, I've got a little time."]
+[clone: <sighing> "Yes, I suppose, I've got a little time."]
 
 {At this point he morphed a little, and looked a bit like Gary Oldman's character from Batman.}
 
@@ -56,7 +56,7 @@ Draem [
 
 {He handed me a small yellow zip lock bag with a piece of paper and several diamond-shaped yellow pills in it. I put one in my mouth, but didn't swallow.}
 
-[me: ("mouth full") {These look familiar. They look almost like something marketed as Cialis.}]
+[me: <mouth full> {These look familiar. They look almost like something marketed as Cialis.}]
 
 [chubby-man: {It rewrites your social programming. So those who are not able to be clever, talented, or witty when they're out at parties or clubs can be. It has various other enhancements--makes you more attractive to women overall.}]
 
@@ -94,6 +94,6 @@ Draem [
 
 [me: "Ah, crap. Destabilization. Goodbye I guess."]
 
-[gary: ("shaking head, sadly") {The thing I don't understand is this. Who did you talk to here who wasn't just another one of me?}]
+[gary: <shaking head, sadly> {The thing I don't understand is this. Who did you talk to here who wasn't just another one of me?}]
 
 [note {At the time I had the impression that he was saying that he wasn't noble or important... and didn't understand what I thought I would find by talking to 'the likes of his kind'--spirits jaded and disinterested in human affairs. It was as if he wished better for me. Another interpretation might be that he had been trying to talk to me one-on-one, but I'd somehow fragmented my conversation with him into several individuals, and thus been unable to really do a good job of talking.}]

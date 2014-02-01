@@ -18,7 +18,7 @@ Draem [
 
 {He looked at me as if I had asked him a dumb question, and I asked him dumb questions all the time.}
 
-[doctor: ("irked") "I don't have time, Richie. I'm busy."]
+[doctor: <irked> "I don't have time, Richie. I'm busy."]
 
 [note {I noticed that the more I looked at him directly in the eyes, the closer I was to waking up. So I had to keep my glance averted.}]
 
@@ -26,7 +26,7 @@ Draem [
 
 [me: {I'm sorry to ask stupid questions. It's just that I'm having some problems with my memory right now. Please...if you could answer...it would really help me.}]
 
-[doctor: ("relaxing") {Yes. This is a hospital. It is a place to get over your addictions.}]
+[doctor: <relaxing> {Yes. This is a hospital. It is a place to get over your addictions.}]
 
 [me: "How many patients are being treated here?"]
 
@@ -52,8 +52,8 @@ Draem [
 
 {Confused, I just sort of paused until I noticed that she was missing an arm.}
 
-[me: ("hedging") "Ummm...uh...yes?"]
+[me: <hedging> "Ummm...uh...yes?"]
 
-[girl: ("enthusiastic") "Well I'm not!!!"]
+[girl: <enthusiastic> "Well I'm not!!!"]
 
 {I picked her up in a playful manner and awoke shortly thereafter.}

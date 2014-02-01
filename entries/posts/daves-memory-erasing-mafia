@@ -19,7 +19,7 @@ Draem [
 
 {He was tall and thin, with curly hair.  He looked a bit like a comedic actor I can't identify offhand, but he spoke with a voice exactly like Arnold Schwarzenegger in The Terminator.}
 
-[thin-man: ("annoyed") {You go around clamoring non-stop for help.  Then when someone actually makes an effort to give you what you need, you act like a baby and run away.}]
+[thin-man: <annoyed> {You go around clamoring non-stop for help.  Then when someone actually makes an effort to give you what you need, you act like a baby and run away.}]
 
 [me: {You just surprised me.  Bear in mind, even if you stopped and explained what it was it still might be a trick.  But it's not very encouraging when you don't explain...}]
 
@@ -55,13 +55,13 @@ Draem [
 
 {There were some other odd little cartoon figures, singing flowers and such.  They were singing some song I don't remember, but I decided to mess with them a bit by singing a line from a Depeche Mode song and see if they would sing back.}
 
-[me: ("singing") {All I ever wanted... all I ever needed... is here...}]
+[me: <singing> {All I ever wanted... all I ever needed... is here...}]
 
-[characters: ("singing back") "In myyy aaaaarms!"]
+[characters: <singing back> "In myyy aaaaarms!"]
 
 {A normal-looking young man sitting in the same area laughed at this.}
 
-[young-man: ("sarcastically") {From the greatest album of all time.  That's one worth remembering for all time, for sure.}]
+[young-man: <sarcastically> {From the greatest album of all time.  That's one worth remembering for all time, for sure.}]
 
 [me: "You know it?  Well, I like Depeche Mode."]
 
@@ -73,7 +73,7 @@ Draem [
 
 {As I turned down more hallways I saw there were many closed doors I could not open.  The signs said things like "FantasyCON 20341" or similar.  It seemed to suggest these were offices or storage rooms for conventions.  I kept walking until I was confronted by a man who grabbed me and began to do tickly things to my arm.}
 
-[attacker: ("laughing") {Well Dave, I have something here for you, to get rid of you before you do any more damage.}]
+[attacker: <laughing> {Well Dave, I have something here for you, to get rid of you before you do any more damage.}]
 
 [me: {WAIT!  Stop!  My name isn't Dave!  I'm not doing anything, I'm just looking at things!  Don't attack me, just explain!}]
 
@@ -83,11 +83,11 @@ Draem [
 
 {Startled to see the blue fluid start to boil, and seemingly reach the top of the jar like it was going to explode, I released my grip.  I sort of felt around and could no longer feel anything resembling a person, but rather a sort of plastic skeleton.}
 
-[me: ("confused, concerned") {You're... you're mechanical?  Or?  What?  What's the deal here?}]
+[me: <confused, concerned> {You're... you're mechanical?  Or?  What?  What's the deal here?}]
 
 {As my point of view shifted and I was grabbing plastic, I could look up and see that I was grabbing onto white plastic pieces that were composed and locked like a puzzle to make a kind of crate that I was enclosed in.  Looking down the hallway now, it looked like a deserted hospital; white with various color codes on the doors.  There were some kind of levitating transport systems down the hall, but no one in sight.}
 
-[me: ("to self") {This is like the scene in Wall-E where the humans have been carted around for so long watching TV screens, and then one of them falls off the track.  So I'm in a crate.  Now let's get out of it.}]
+[me: <to self> {This is like the scene in Wall-E where the humans have been carted around for so long watching TV screens, and then one of them falls off the track.  So I'm in a crate.  Now let's get out of it.}]
 
 {The puzzle pieces of the crate had been disrupted to the point where I could see how they'd been interlocked.  Piece by piece I pried them past each other by narrow engineering tolerances; they really were just woven together, rather than being glued or bolted.  It was a slow process, but I managed to get my limbs more or less free to the point where I was close to getting out.}
 

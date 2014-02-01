@@ -24,13 +24,13 @@ Draem [
 
 {I felt bad because that didn't sound very friendly, and also because there was no question mark. Yet I perceived without looking up that some woman was coming into the room who might distract me from getting more information.}
 
-[me: ("to woman") "BE ABSOLUTELY QUIET."]
+[me: <to woman> "BE ABSOLUTELY QUIET."]
 
-[woman: ("mocking, angry") "Be quiet, do what I say, blah blah...whatever."]
+[woman: <mocking, angry> "Be quiet, do what I say, blah blah...whatever."]
 
 "She gladly went away."
 
-[me: ("to Driver") {Sorry about the missing question mark. I only mean to say that a name like Driver didn't help me--you'll have to give me more background to understand who you are.}]
+[me: <to Driver> {Sorry about the missing question mark. I only mean to say that a name like Driver didn't help me--you'll have to give me more background to understand who you are.}]
 
 {Then I noticed that the chat program I was using had several panels on it. It was clearly a chat interface, but didn't have the names of people--besides "Driver" (which was the name on the panel I was using) there were others labeled things like "Defendant". I tried to continue to watch the conversation with Driver but it began to accelerate wildly, and interspersed with lines of ordinary text there were yellow "Warning!" dialog boxes about some kind of problem.}
 

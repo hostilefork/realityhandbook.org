@@ -36,7 +36,7 @@ Draem [
 
 [me: "Excuse me, can I ask you some questions?"]
 
-[man: ("sarcastically") {You're free to ask them, and we're free to give dry, witty answers.}]
+[man: <sarcastically> {You're free to ask them, and we're free to give dry, witty answers.}]
 
 [me: "If it's an answer, I'll take it."]
 
@@ -56,7 +56,7 @@ Draem [
 
 {The things that were being drawn out seemed to be advertisements. A common feature was that pixels or regions of it seemed to be like silver liquid, a reflective sort of mercury look. There were ads for "microsoft secure trusted platform solutions", one that said simply "w37", and another that said "What is D?"}
 
-[me: ("out loud, to no one in particular") {Oh. D. I see, you're asking about the language. That's the sequel to C++.}]
+[me: <out loud, to no one in particular> {Oh. D. I see, you're asking about the language. That's the sequel to C++.}]
 
 [voice: {It's rhetorical, not a real question. That's an ad for C compilers that have been specifically designed to use as the foundation for making D compilers.}]
 

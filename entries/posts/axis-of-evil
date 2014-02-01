@@ -16,7 +16,7 @@ Draem [
 
 {It was violent and somewhat farcical, in that the meaner criminal group kept killing people in the other group based on small misunderstandings--yet they kept patching it up. It was more being done for the amusement of the hardened criminals. Sample scene:}
 
-[violent-criminal: ("holding gun to petty thief's head") {Okay, this briefcase should contain $100,000. I'm gonna give it to Joe and he's going to go count it. If every dollar isn't in there, I'll shoot you.}]
+[violent-criminal: <holding gun to petty thief's head> {Okay, this briefcase should contain $100,000. I'm gonna give it to Joe and he's going to go count it. If every dollar isn't in there, I'll shoot you.}]
 
 [petty-thief: "I swear! It's all in there! I swear!"]
 
@@ -24,9 +24,9 @@ Draem [
 
 [violent-criminal: {This is taking a long time, there must be something wrong.}]
 
-[joe: ({yelling from other room, still not having done any counting}) {Yeah no problem boss, it's all there, every dollar.}]
+[joe: <yelling from other room, still not having done any counting> {Yeah no problem boss, it's all there, every dollar.}]
 
-[violent-criminal: ("shoots petty thief") "Whatever."]
+[violent-criminal: <shoots petty thief> "Whatever."]
 
 {Each time an incident like this would happen, the groups would get back together and try to sort out what would happen. The terrified petty thieves--who didn't know each other all that well--would keep going along with it stupidly. There was a lot of blood and gore splattering.}
 

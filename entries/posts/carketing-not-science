@@ -16,7 +16,7 @@ Draem [
 
 [barista: "How full do you want the large mocha to be?"]
 
-[me: ("confused") "Wouldn't it be as much drink as there is cup?"]
+[me: <confused> "Wouldn't it be as much drink as there is cup?"]
 
 [barista: "Full it is."]
 
@@ -48,7 +48,7 @@ Draem [
 
 [picture %no-cook-pasta-sauce.jpg]
 
-[me: ("confused") {Bathing in tomato juice is a remedy for when you're sprayed by a skunk. But I don't remember stepping on any skunks today! I think I need to go wash my feet off, excuse me for a moment.}]
+[me: <confused> {Bathing in tomato juice is a remedy for when you're sprayed by a skunk. But I don't remember stepping on any skunks today! I think I need to go wash my feet off, excuse me for a moment.}]
 
 [girl: "Okay, I'll wait."]
 
@@ -86,7 +86,7 @@ Draem [
 
 {She kissed me and pushed me down, and began to undress me. But I wriggled free and she stopped.}
 
-[me: ("jumping up and down") "DREAM DREAM DREAM DREAM DREAM!"]
+[me: <jumping up and down> "DREAM DREAM DREAM DREAM DREAM!"]
 
 {"Kiratech" wavered and disappeared but the first girl remained. The canyon walls started to decay into blue panels.}
 

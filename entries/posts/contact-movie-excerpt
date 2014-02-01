@@ -26,7 +26,7 @@ Draem [
 
 {Time passes. The sun is higher now. The SURF CRASHES.}
 
-[ellie-arroway: ("into voice recorder") {Recording... check, check. Recording, is this on? I think this is on.}]
+[ellie-arroway: <into voice recorder> {Recording... check, check. Recording, is this on? I think this is on.}]
 
 {ellie sits against a palm tree, looking out at the sea. She seems a little more cogent.}
 
@@ -62,15 +62,15 @@ Draem [
 
 "Reality returns like a cloud passing over the sun."
 
-[ellie-arroway: ("softly") "You're not real. None of this is."]
+[ellie-arroway: <softly> "You're not real. None of this is."]
 
-[ted-arroway: ("smiles sadly") "That's my scientist."]
+[ted-arroway: <smiles sadly> "That's my scientist."]
 
-[ellie-arroway: ("struggling to breathe") {So. Are you an hallucination? Or are little gear trains and circuit boards under your skin?}]
+[ellie-arroway: <struggling to breathe> {So. Are you an hallucination? Or are little gear trains and circuit boards under your skin?}]
 
 [ted-arroway: {Am I artifact or dream? You might ask that about anything.}]
 
-[ellie-arroway: ("realizing") {But you're so... I mean how could you possibly...? When I was unconscious. You... downloaded... my thoughts, my memories, even... This beach. I've never been here but I remember... it's how I always imagined...Pensacola.}]
+[ellie-arroway: <realizing> {But you're so... I mean how could you possibly...? When I was unconscious. You... downloaded... my thoughts, my memories, even... This beach. I've never been here but I remember... it's how I always imagined...Pensacola.}]
 
 [ted-arroway: "We thought this might make things a little easier."]
 
@@ -104,13 +104,13 @@ Draem [
 
 [ted-arroway: {We don't know. Whoever they were, they were gone long before we ever got here.}]
 
-[ellie-arroway: ("catching her breath") {The scale... it's just... So all the civilizations you detect; they all end up coming here?}]
+[ellie-arroway: <catching her breath> {The scale... it's just... So all the civilizations you detect; they all end up coming here?}]
 
-[ted-arroway: ("sadly") {Not all. Some choose to stay at home and dream their dreams. Some never make it this far.}]
+[ted-arroway: <sadly> {Not all. Some choose to stay at home and dream their dreams. Some never make it this far.}]
 
 [ellie-arroway: "So we passed some kind of test?"]
 
-[ted-arroway: ("pausing") {You have your mother's hands... There are no tests, ellie. We don't sit in judgment. Think of us more as... librarians. Curators of the Universe's rarest and most valuable creation...}]
+[ted-arroway: <pausing> {You have your mother's hands... There are no tests, ellie. We don't sit in judgment. Think of us more as... librarians. Curators of the Universe's rarest and most valuable creation...}]
 
 {And now they are walking through a familiar forest. Sunlight streams through the tall trees.}
 
@@ -128,7 +128,7 @@ Draem [
 
 "He turns to ellie, puts a loving hand to her face."
 
-[ted-arroway: ("softly") "You're so lost. So cut off... and so sad."]
+[ted-arroway: <softly> "You're so lost. So cut off... and so sad."]
 
 {And suddenly ellie is standing on the sun-dappled Cal Tech campus. She turns to find herself standing opposite David Drumlin.}
 
@@ -154,11 +154,11 @@ Draem [
 
 {Ellie moves closer, staring into his eyes... and catches a glimpse of infinity. She holds her breath --}
 
-[ellie-arroway: ("whispers") "Who are you?"]
+[ellie-arroway: <whispers> "Who are you?"]
 
 {We begin to MOVE THROUGH them, INTO -- ANOTHER DIMENSION}
 
-[ted-arroway: ("reading her mind") "Am I one... or many?"]
+[ted-arroway: <reading her mind> "Am I one... or many?"]
 
 [ellie-arroway: "The librarian... or the library...?"]
 
@@ -170,11 +170,11 @@ Draem [
 
 [ted-arroway: {You always have been. We're all descendants of the same stars, ellie. All made of the same primordial atoms.}]
 
-[ellie-arroway: ("overwhelmed") "So. What happens now?"]
+[ellie-arroway: <overwhelmed> "So. What happens now?"]
 
 [ted-arroway: "Now... you go home."]
 
-[ellie-arroway: ("instinctively; like a child") "No! I mean... why so soon?"]
+[ellie-arroway: <instinctively; like a child> "No! I mean... why so soon?"]
 
 [ted-arroway: {If we don't engineer a consistent causality it'll work itself out on its own, and that's almost always worse.}]
 
@@ -194,9 +194,9 @@ Draem [
 
 [ellie-arroway: {But you said you wanted to help -- don't you see what it would mean?}]
 
-[ted-arroway: ("gently") "No more stalling, Captain."]
+[ted-arroway: <gently> "No more stalling, Captain."]
 
-[ellie-arroway: ("intensely") {Please -- if you... downloaded... everything about us you know the problems we face, the impact it could have -- it could make the difference --}]
+[ellie-arroway: <intensely> {Please -- if you... downloaded... everything about us you know the problems we face, the impact it could have -- it could make the difference --}]
 
 [ted-arroway: {Ellie... this is the way it's been done for billions of years...}]
 
@@ -210,7 +210,7 @@ Draem [
 
 [ellie-arroway: "No. Please."]
 
-[ted-arroway: ("smiles sadly") "Childhood is over, ellie. It's time to grow up."]
+[ted-arroway: <smiles sadly> "Childhood is over, ellie. It's time to grow up."]
 
 "A WHOOSH of AIR -- ellie spins around --"
 

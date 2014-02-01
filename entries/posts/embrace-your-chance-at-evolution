@@ -16,7 +16,7 @@ Draem [
 
 [girl: "Who have you been talking to?"]
 
-[me: ("angrily") {No one. And if I was, it's not any of your business anyway. Want to see what this all is, I'll show you!}]
+[me: <angrily> {No one. And if I was, it's not any of your business anyway. Want to see what this all is, I'll show you!}]
 
 {I went through the web browser windows one by one. They were mundane things--a page of people trying to do a remake of the video game [Adventure Construction Set](http://en.wikipedia.org/wiki/Adventure_Construction_Set), and a couple of heavily animated Flash games. After the windows were closed, I noticed I had an instant message from the user name "encephalon". When I tried to open it, the OS/X dock came off in my hands and I was holding it.}
 
@@ -80,7 +80,7 @@ Draem [
 
 {I started writing my address down on a piece of paper. It became a little bit of a patchwork, it seemed I was working together with a girl who was marking it up with me like a symbolic game. We'd do things like turn 1s into capital i's in order to indicate Roman Numerals.}
 
-[man: ("amused") {There are a lot of people who have imaginary lives in their head.}]
+[man: <amused> {There are a lot of people who have imaginary lives in their head.}]
 
 [me: {Well if you're saying the life I have tied to that address is potentially a dissociative reality that exists only in my own head, it's one heck of a doozy. I can't believe it's not threaded in with other universes in any way.}]
 

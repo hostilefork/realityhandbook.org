@@ -36,7 +36,7 @@ Draem [
 
 {She said it with some sarcasm, gesturing at the girl who had come down the stairs with me. Before I could interject with 'what do you mean by THAT' she spoke up for herself.}
 
-[girl: ("with a flat stare") "Yes. I am."]
+[girl: <with a flat stare> "Yes. I am."]
 
 [guy-one: {If you don't have any more questions, we'll be going now.}]
 
@@ -54,4 +54,4 @@ Draem [
 
 [me: {I'd suspect I'd wake up if I did that. Wait, do you ever 'wake up'? Is there another life from this one, some body you have somewhere.}]
 
-[guy-one: ("shaking head, somewhat sadly") "No."]
+[guy-one: <shaking head, somewhat sadly> "No."]

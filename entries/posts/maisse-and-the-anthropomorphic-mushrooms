@@ -10,7 +10,7 @@ Draem [
 
 [me: "It's-a-you, Mario!"]
 
-[man: ("getting up") "Hey there."]
+[man: <getting up> "Hey there."]
 
 [me: {I'm sorry if it's strange that I'm picking you out to talk to. Do you think it's strange?}]
 

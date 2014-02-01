@@ -40,7 +40,7 @@ Draem [
 
 [person2: "A frog!"]
 
-[me: ("to person2") "You said frog. Do you know what a mirror was?"]
+[me: <to person2> "You said frog. Do you know what a mirror was?"]
 
 [note {My line of thinking there was that if a mirror reflects what you show it then maybe the first person was right...I was a mirror and person2 was a frog seeing itself.}]
 

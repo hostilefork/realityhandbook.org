@@ -14,7 +14,7 @@ Draem [
 
 [me: "No, what is the word?"]
 
-[bag-lady: ("sudden voice change") "ROMANOV"]
+[bag-lady: <sudden voice change> "ROMANOV"]
 
 [me: {That's what I thought, confirms my suspicions. Romanov. Romanov. Gotta remember Romanov.}]
 

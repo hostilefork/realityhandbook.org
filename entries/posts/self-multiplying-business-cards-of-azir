@@ -14,7 +14,7 @@ Draem [
 
 [me: {I don't know where I am or what is going on. I need help.}]
 
-[woman: ("feeling my arm") {You don't feel like yourself. Let's get you hooked up.}]
+[woman: <feeling my arm> {You don't feel like yourself. Let's get you hooked up.}]
 
 {People came in with a machine which had two pads that reminded me of a defibrillator. They put them on my back and I thought they were going to shock me, but instead they just whirred a bit at gradually increasing frequencies of sound. I watched as strange oscilloscope-like diagrams came on the display, along with a cartoonish diagram of an atom with electrons.}
 
@@ -22,7 +22,7 @@ Draem [
 
 [note {I corrected her with my birthdate and today's date, though I added something I'd heard that all the atoms in your body are replaced every 7 years. However, the study I was trying to quote was cells, not atoms, and it's probably pseudoscience anyway [according to Snopes](http://message.snopes.com/showthread.php?t=6684).}]
 
-[woman: ("to two men in military fatigues") "Grant him a presence."]
+[woman: <to two men in military fatigues> "Grant him a presence."]
 
 {They stepped forward with what looked like a body bag, as if they were going to zipper me inside it. I didn't want to be stuffed in a bag so I resisted, and they backed off and just escorted me along a path.}
 

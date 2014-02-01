@@ -10,7 +10,7 @@ Draem [
 
 [old-man: "Are there any stuffed animals in this car?"]
 
-[me: ("confused") "Yes."]
+[me: <confused> "Yes."]
 
 {**old man** (angry) "There can't be any stuffed animals here!"}
 
@@ -70,7 +70,7 @@ Draem [
 
 [man: {No way, there's a monopoly tied down in this game environment. The characters only know about Pepsi products.}]
 
-[me: ("sigh") {All right, thanks for your help. I'm going to move on now.}]
+[me: <sigh> {All right, thanks for your help. I'm going to move on now.}]
 
 {The building was a factory or warehouse. There were rows and rows of products, including TVs and consumer electronics...it was a little bit like a Costco. There were even bins of video game titles for sale.}
 

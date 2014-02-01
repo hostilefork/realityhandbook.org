@@ -47,7 +47,7 @@ Draem [
 
 {One of the corners of a nearby cube suddenly became opaque, and a door opened out of it. A somewhat rigid-looking animated man poked out of it.}
 
-[animated-man: ("roboticized voice") "Press. Conference."]
+[animated-man: <roboticized voice> "Press. Conference."]
 
 {After this there began to be several ordinary voices chattering in the air about the situation, ostensibly of discovery of Earth.}
 
@@ -71,7 +71,7 @@ Draem [
 
 {Many other things happened as I walked with him. I was with teams of people who were gathering data, walking around some grocery stores and scanning prices...surveying people. We passed one woman on the street who waved an electronic device at a tall apartment building.}
 
-[woman: ("angrily") {Do you know what they make people pay to live there! Guess, just guess! $21 a square foot!}]
+[woman: <angrily> {Do you know what they make people pay to live there! Guess, just guess! $21 a square foot!}]
 
 {There were several wanderings through different stores, but eventually I was left on my own. Looking for someone to talk to, I wandered into what looked like someone's house, that either didn't have a door or had been left open. The house was modest and not decorated very fancy though it had a room divider of sorts.}
 
@@ -79,7 +79,7 @@ Draem [
 
 [me: {Hey, I'm sorry...door was open, I'm a little disoriented.}]
 
-[asian-girl: ("pausing") {Well that's okay...it's okay since I called You, my printer isn't working.}]
+[asian-girl: <pausing> {Well that's okay...it's okay since I called You, my printer isn't working.}]
 
 [me: {Er, I don't actually know anything about working on printers.}]
 

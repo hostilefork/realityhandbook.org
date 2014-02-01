@@ -27,7 +27,7 @@ Draem [
 
 {I swam to one of the decks but somehow my arms couldn't pull me onto it.  While people watched, I kind of slithered out of the water in an extremely undignified fashion.}
 
-[me: ("to group") "I guess I don't have a lot of upper body strength."]
+[me: <to group> "I guess I don't have a lot of upper body strength."]
 
 [deck-guy: "Why don't you work out, and pump some iron?"]
 
@@ -43,7 +43,7 @@ Draem [
 
 {There was some song I could hear playing about the Prince of the Sea, who had built a castle in the ocean.  Wandering onto the land I somehow got caught onto something that looked like nothing more than a square board about 3 feet on a side.  It flew me up into the air and seemed to be going on an odd course out over the water.}
 
-[me: ("nervously") {Um... hey board... can you take me somewhere.  What about this Prince of the Sea castle?}]
+[me: <nervously> {Um... hey board... can you take me somewhere.  What about this Prince of the Sea castle?}]
 
 {The board didn't say anything, but it changed course and lofted us speedily into the air toward an island area in the distance.  As we approached it, the board seemed to cling very closely to the interior of a wall at the edge of the island, as if it were trying to evade notice.}
 
@@ -77,11 +77,11 @@ Draem [
 
 {This show ended some way or another and the voice from outside spoke.}
 
-[voice: ("angrily") {It has been like this for as long as I can remember.  You have tortured my existence, and never showed your true form.  But I have found your hiding place.  And I can finally destroy you.  But let me look at you first.}]
+[voice: <angrily> {It has been like this for as long as I can remember.  You have tortured my existence, and never showed your true form.  But I have found your hiding place.  And I can finally destroy you.  But let me look at you first.}]
 
 {The plant protection opened up, revealing an attractive woman's body with a mirror for a head.  This lasted for a moment or two until the figure took off a sort of helmet with the mirror glued on the front of it.  This revealed an attractive Disney-esque feminine head to match the body.}
 
-[me: ("nonchalant") {Kind of Disney, don't you think?  The look and the story, I mean.  Had me scared there for a bit, though.}]
+[me: <nonchalant> {Kind of Disney, don't you think?  The look and the story, I mean.  Had me scared there for a bit, though.}]
 
 {She pulled out a sword or weapon of some kind to show me she had it.}
 
@@ -89,15 +89,15 @@ Draem [
 
 {Before we could talk about anything else, some odd people who looked a bit like playing cards from Alice in Wonderland bounded up to me.  She tried to get in their way to block them, but they pushed past.}
 
-[cards: ("to her") {No no no!  You're not who we're here to see!  We want to see him!}]
+[cards: <to her> {No no no!  You're not who we're here to see!  We want to see him!}]
 
 "She kind of rolled her eyes and stepped back."
 
-[card-one: ("excitedly") {We hear you've been on Earth!  And you met Aunt Tapa!}]
+[card-one: <excitedly> {We hear you've been on Earth!  And you met Aunt Tapa!}]
 
 [note {Tapa is the name of one of the two dogs I dogsat for last Christmas.}]
 
-[me: ("confused") {Um, Tapa?  You mean as in...Tapa and Pablo, the dogs?}]
+[me: <confused> {Um, Tapa?  You mean as in...Tapa and Pablo, the dogs?}]
 
 [card-two: "Yes, yes!"]
 

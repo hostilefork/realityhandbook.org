@@ -14,7 +14,7 @@ Draem [
 
 [guard: "I need to call someone to check this out."]
 
-[me: ("innocently") {It would be much easier for me to find a way to turn off the sound if you'd help me get down from here.}]
+[me: <innocently> {It would be much easier for me to find a way to turn off the sound if you'd help me get down from here.}]
 
 {The guard helped me down, and I pulled the machine I'd been using plus some additional laptops into a formation on the ground. I was using one aging and static-y laptop to browse for terms that I'd found inside the virtual game, called something like "e-Berg". I escaped into the operating system and saw it was running a variant of Ubuntu unix underneath. A man who identified himself as "Max" came over and started looking at one of the consoles to see what was going on.}
 
@@ -44,7 +44,7 @@ Draem [
 
 {The outside did not look red and rocky, it looked like ordinary green grass and plants. I felt I was at some kind of family fun-fair. My gums were somehow swelling up with a brown goo, which I would pull out and throw on the ground.}
 
-[me: ("showing the girl") "All right, what is with all this gunk in my mouth?"]
+[me: <showing the girl> "All right, what is with all this gunk in my mouth?"]
 
 [girl: {Yes, that's a common reaction. There's a spray you can use, though really it's better if you spray on a Q-tip and apply it. There's some at Mom 'n' Pop's, I made a selection for you.}]
 

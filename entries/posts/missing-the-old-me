@@ -9,7 +9,7 @@ Draem [
 
 [her: "I'd do anything for love..."]
 
-[me-and-her: (in unison) "...but I won't do that."]
+[me-and-her: <in unison> "...but I won't do that."]
 
 "Another man walked up to us and I addressed him."
 
@@ -23,7 +23,7 @@ Draem [
 
 [me: {Do you mean... something about the Large Hadron Collider?  Is it causing some kind of space-time rift.}]
 
-[man: (scoffing) {No.  That physics and particle collision stuff is just a story, or a metaphor about the search for God.  Kind of like how sex is kind of a game about the archetype of returning to the mother.  Think of these things as being like comic books.}]
+[man: <scoffing> {No.  That physics and particle collision stuff is just a story, or a metaphor about the search for God.  Kind of like how sex is kind of a game about the archetype of returning to the mother.  Think of these things as being like comic books.}]
 
 "He turned to someone else and made a remark."
 
@@ -33,7 +33,7 @@ Draem [
 
 [man: "Working for Kapparu is a waste of your time."]
 
-[me: (confused) {I don't work for anyone.  I work for myself, programming.}]
+[me: <confused> {I don't work for anyone.  I work for myself, programming.}]
 
 {I believe I told him some of the details of my life, to which he seemed to be surprised.}
 
