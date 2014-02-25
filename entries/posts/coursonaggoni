@@ -15,7 +15,7 @@ Draem [
 
 [me: {I've been told SkyNet is a real thing.  Is it?  From the Terminator movies?}]
 
-[man: {Yes, it's an artificial intelligence.  And quite formidable if you ever get in a conflict with it.  But it does have a weakness... in the initialization code.  There's a part in the constructor where there are two pegs split by a an architon layer.  If you can manage to catch it while it's sciating on the side and pull the peg on the other at the right time then...}]
+[man: {Yes, it's an artificial intelligence.  And quite formidable if you ever get in a conflict with it.  But it does have a weakness... in the initialization code.  There's a part in the constructor where there are two pegs split by an architon layer.  If you can manage to catch it while it's sciating on the side and pull the peg on the other at the right time then...}]
 
 [note {I'm trying to imprecisely capture the kind of language he was using.  There was more stuff here that went into weirdness, which doesn't sound like any kind of programming as I know it.  The only bit I really got was "initialization" and "constructor", which are things that computer science today involves.}]
 
