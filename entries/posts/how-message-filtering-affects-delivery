@@ -26,19 +26,19 @@ Draem [
 
 {The way I found out about this was not because I got a message or notice from my email carrier about the exciting new technology that was being applied to screen my mail. It was evident when I received the image that got through. When we see unusual things taking a certain shape or pattern, it can be instructive. For instance, this spam which was recently sent to a friend:}
 
-[quote [
+[quote
 
-        {From: "Jamie Clemons" <a-b-c@agion-tech.com>}
+    {From: "Jamie Clemons" <a-b-c@agion-tech.com>}
 
-        "Date: 30 de mayo de 2008 11:48:25 PM PDT"
+    "Date: 30 de mayo de 2008 11:48:25 PM PDT"
 
-        "Subject: Let's chat"
+    "Subject: Let's chat"
 
-        {Hello! I am tired this evening. I am nice girl that would like to chat with you. Email me at Birgit@whoplantcut.cn only, because I am using my friend's email to write this. I want to show you some pictures.}
+    {Hello! I am tired this evening. I am nice girl that would like to chat with you. Email me at Birgit@whoplantcut.cn only, because I am using my friend's email to write this. I want to show you some pictures.}
 
-        [picture %jamieclemons.gif]
+    [picture %jamieclemons.gif]
 
-    ]]
+]
 
 {This picture has the same noisy patterns on it, quite similar to the textual spam. Once again we must ask the question: would this message *not* have been delivered if the noise weren't there? Are there certain faces or photos that are being screened out just as mechanically as certain words. If so, how can this be possible?}
 

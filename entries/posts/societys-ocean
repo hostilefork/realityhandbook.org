@@ -8,7 +8,7 @@ Draem [
 
 {I had run a piece of software with a name like "dragon", which was able to interactively do rough cropping of graphics on a text terminal. It was running on an image I didn't have a way to view in its original form. So wanting to demonstrate this for someone who was in the room with me on an image they already knew, I tried to load up the Google Logo as a sample.}
 
-[note [{Though I've never seen such a program, it would be quite possible to write one. In fact, when I did a search for "jpeg to ascii" converters, I found one called [jp2a](http://csl.sublevel3.org/jp2a/). In its samples, it offers precisely the demonstration I tried in the dream--conversion of the Google logo:} [picture %textgoogle.png] {...so it's apparently a pretty obvious "first test" of such a program.}]]
+[note {Though I've never seen such a program, it would be quite possible to write one. In fact, when I did a search for "jpeg to ascii" converters, I found one called [jp2a](http://csl.sublevel3.org/jp2a/). In its samples, it offers precisely the demonstration I tried in the dream--conversion of the Google logo:} [picture %textgoogle.png] {...so it's apparently a pretty obvious "first test" of such a program.}]
 
 {When I did this test, however, the conversion began to spit out a lot of extra data. This provoked me to load the image into a non-browser, and I saw it had a lot of stuff in it besides the picture.}
 

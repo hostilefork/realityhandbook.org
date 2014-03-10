@@ -33,16 +33,16 @@ Draem [
 
 {I walked up to the light. It was mounted on a sleeve that had white writing on it that said something like "Magnet Industries".}
 
-[note [
+[note
 
-        {If it were ultraviolet it would not be visible. 1550 THz light would have a wavelength of 193.4 nanometers, which is classified as UV-C. This is the "germicidal" or Short Wave UV that ranges from 280 to 10 nm.:}
+    {If it were ultraviolet it would not be visible. 1550 THz light would have a wavelength of 193.4 nanometers, which is classified as UV-C. This is the "germicidal" or Short Wave UV that ranges from 280 to 10 nm.:}
 
-        [http://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation "Ultraviolet Germicidal Irradiation (Wikipedia)"]
+    [http://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation "Ultraviolet Germicidal Irradiation (Wikipedia)"]
 
-        {It seems technically possible that ultraviolet emitting LEDs could be made to emit 1550 terahertz light:}
+    {It seems technically possible that ultraviolet emitting LEDs could be made to emit 1550 terahertz light:}
 
-        [http://www.zinc.org/info/ultraviolet_lasers_and_leds_made_from_zinc_oxide_are_on_their_way "Zinc Oxide Ultraviolet Lasers / LEDs"]
+    [http://www.zinc.org/info/ultraviolet_lasers_and_leds_made_from_zinc_oxide_are_on_their_way "Zinc Oxide Ultraviolet Lasers / LEDs"]
 
-        {It's also possible that one could have one on an electronic device without realizing it. I would be hard pressed to believe there are any such devices hidden in my electronics at the moment.}
+    {It's also possible that one could have one on an electronic device without realizing it. I would be hard pressed to believe there are any such devices hidden in my electronics at the moment.}
 
-    ]]
+]
