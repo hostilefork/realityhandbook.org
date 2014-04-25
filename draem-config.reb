@@ -9,7 +9,7 @@ draem/set-config object compose [
 	site-intro: {
 		<p>realityhandbook.org documents the literally hundreds of lucid dreams of a scientifically-minded individual—unwittingly cast into the role of amateur interviewer and experimenter. To learn more, please read <a href="http://realityhandbook.org/about/">http://realityhandbook.org/about/</a>
 		<hr />
-		<p>In addition to the master list below, you can browse the entries by <a href="{% url draems.views.tag_list %}">tag</a>.  Two early experimental features I've added are browsing by <a href="{% url draems.views.character_list %}">character</a> or with a <a href="{% url draems.views.timeline %}">timeline</a>.  I appreciate your feedback or suggestions, so do not hesitate to <a href="http://realityhandbook.org/contact/">contact me</a>!</p>
+		<p>In addition to the master list below, you can browse the entries by <a href="{% url 'draems.views.tag_list' %}">tag</a>.  Two early experimental features I've added are browsing by <a href="{% url 'draems.views.character_list' %}">character</a> or with a <a href="{% url 'draems.views.timeline' %}">timeline</a>.  I appreciate your feedback or suggestions, so do not hesitate to <a href="http://realityhandbook.org/contact/">contact me</a>!</p>
 	}
 
 	google-analytics: [
