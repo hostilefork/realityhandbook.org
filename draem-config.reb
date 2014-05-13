@@ -5,6 +5,9 @@ draem/set-config object compose [
 	site-name: "Reality Handbook"
 	site-title: {realityhandbook.org - Official Homepage of a Skilled Lucid Dreamer}
 	site-tagline: {Extraordinary Lucid Dream Reports}
+	site-author: {&AElig;}
+
+	rss-tag: {realityhandbook.org}
 
 	site-intro: {
 		<p>realityhandbook.org documents the literally hundreds of lucid dreams of a scientifically-minded individual—unwittingly cast into the role of amateur interviewer and experimenter. To learn more, please read <a href="http://realityhandbook.org/about/">http://realityhandbook.org/about/</a>
