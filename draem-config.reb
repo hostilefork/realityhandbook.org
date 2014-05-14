@@ -9,20 +9,39 @@ draem/set-config object compose [
 
 	rss-tag: {realityhandbook.org}
 
-	site-intro: {
-		<p>realityhandbook.org documents the literally hundreds of lucid dreams of a scientifically-minded individual—unwittingly cast into the role of amateur interviewer and experimenter. To learn more, please read <a href="http://realityhandbook.org/about/">http://realityhandbook.org/about/</a>
-		<hr />
-		<p>In addition to the master list below, you can browse the entries by <a href="{% url 'draems.views.tag_list' %}">tag</a>.  Two early experimental features I've added are browsing by <a href="{% url 'draems.views.character_list' %}">character</a> or with a <a href="{% url 'draems.views.timeline' %}">timeline</a>.  I appreciate your feedback or suggestions, so do not hesitate to <a href="http://realityhandbook.org/contact/">contact me</a>!</p>
-	}
+	site-prologue: [
+		[html {<div style="text-align: right;"><p><img src="http://realityhandbook.org/media/feed-icon-14x14.png" alt="Feed Icon" /> <a href="http://realityhandbook.org/feed/">Atom 1.0 Feed</a> available &nbsp; <i>(<a href="http://en.wikipedia.org/wiki/RSS">what's this?</a>)</i></p></div>}]
+	]
+
+	site-intro: [
+		{realityhandbook.org documents the literally hundreds of lucid dreams
+		of a scientifically-minded individual--unwittingly cast into the role
+		of amateur interviewer and experimenter. To learn more, please
+		read [http://realityhandbook.org/about/](http://realityhandbook.org/about/)}
+		
+		divider
+
+		[html {<p>In addition to the master list below, you can browse the entries
+		by <a href="{% url 'draems.views.tag_list' %}">tag</a>.  Two early 
+		experimental features I've added are browsing by 
+		<a href="{% url 'draems.views.character_list' %}">character</a> or with
+		a <a href="{% url 'draems.views.timeline' %}">timeline</a>.  I
+		appreciate your feedback or suggestions, so do not hesitate to
+		<a href="http://realityhandbook.org/contact/">contact me</a>!</p>}]
+	]
 
 	google-analytics: [
 		property: "realityhandbook.org"
 		tracking-id: "UA-47676109-1"
 	]
 
-	site-footer: {
-	<div style="text-align: center;"><p>Please subscribe to the <img src="/media/feed-icon-14x14.png" alt="Feed Icon" /> <a href="http://realityhandbook.org/feed/">Atom 1.0 Feed</a> or use <img src="/media/feedburner-icon-14x14.png" alt="Feedburner Icon" /> <a href="http://feeds.feedburner.com/realityhandbook">Feedburner</a> to receive updates as they are posted!!</p></div>
+	site-footer: [
+		[note {Currently I am experimenting with using Disqus for comments,
+		however it is configured that you don't have to log in or tie it to an
+		account.  Simply check the "I'd rather post as a guest" button
+		after clicking in the spot to type in a name.}]
 
+		[html {
 	<div id="disqus_thread"></div>
 	    <script type="text/javascript">
 	        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -39,7 +58,24 @@ draem/set-config object compose [
 	    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     
 	<img src="/media/1020ae0304.png" alt="It will be already always was." />
-	}
+}]
+	]
+
+	; This is made long to work around the page width issue where we set a
+	; maximum-width but no minimum-width.  In order to make sure we are
+	; taking advantage of a natural device width a relatively long string
+	; here that will break is a fairly natural fit.
+	site-epilogue: [
+		[html {<div style="text-align: center;"><p>
+		copy write %C:/0304-1020 {Met^^(00C6)ducation}</p>
+		<p>The accounts written here are as true as I can manage.  While the
+		words are my own, they are not independent creative works of fiction
+		&mdash;in any intentional way.  Thus I do not consider the material to
+		be protected by anything, other than that you'd have to be
+		crazy to want to try and use it for genuine purposes (much less
+		disingenuous ones!)  But who's to say?</p></div>}
+		]
+	]
 
 	javascript: [
 		http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js
