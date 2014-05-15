@@ -9,25 +9,41 @@ draem/set-config object compose [
 
 	rss-tag: {realityhandbook.org}
 
-	site-prologue: [
-		[html {<div style="text-align: right;"><p><img src="http://realityhandbook.org/media/feed-icon-14x14.png" alt="Feed Icon" /> <a href="http://realityhandbook.org/feed/">Atom 1.0 Feed</a> available &nbsp; <i>(<a href="http://en.wikipedia.org/wiki/RSS">what's this?</a>)</i></p></div>}]
-	]
+	site-prologue-html: {<div style="margin-right: 8px; text-align: right;"><p><img src="http://realityhandbook.org/media/feed-icon-14x14.png" alt="Feed Icon" /> <a href="http://realityhandbook.org/feed/">RSS 1.0 XML Feed </a> available</p></div>}
 
 	site-intro: [
-		{realityhandbook.org documents the literally hundreds of lucid dreams
-		of a scientifically-minded individual--unwittingly cast into the role
-		of amateur interviewer and experimenter. To learn more, please
-		read [http://realityhandbook.org/about/](http://realityhandbook.org/about/)}
-		
-		divider
 
-		[html {<p>In addition to the master list below, you can browse the entries
-		by <a href="{% url 'draems.views.tag_list' %}">tag</a>.  Two early 
-		experimental features I've added are browsing by 
-		<a href="{% url 'draems.views.character_list' %}">character</a> or with
-		a <a href="{% url 'draems.views.timeline' %}">timeline</a>.  I
-		appreciate your feedback or suggestions, so do not hesitate to
-		<a href="http://realityhandbook.org/contact/">contact me</a>!</p>}]
+		{This site is mostly about my dreaming life. I consistently become aware that I'm dreaming while still asleep, having nearly the full presence of mind I have while awake. I write down some of the conversations and experiments that I perform in this state--and there are literally [hundreds of these logs](http://realityhandbook.org/tag/lucid-dream/) here!}
+
+		[note {Since that's a daunting amount of material, I've [excerpted some example experiences](http://realityhandbook.org/about/#examples) you might want to look at. If you wish, you can instead jump straight to the [complete list of entries](#entries), or [browse by a growing selection of tags](http://realityhandbook.org/tag/). There are also [open letters](http://realityhandbook.org/tag/open-letter/), [essays](http://realityhandbook.org/tag/essay/), and other writing stored on this site.}]
+
+		[heading {"Wow...really?"}]
+
+		{Yes, really! In scientific parlance, what I do is called [lucid dreaming](http://en.wikipedia.org/wiki/Lucid_dreaming). Enough people have done it "on command" in laboratories that it has been proven to be possible. If you are interested in the peer-reviewed experiments where sleeping people have demonstrated this ability to scientists, you should read up on the very interesting work of [Dr. Stephen LaBerge](http://en.wikipedia.org/wiki/Stephen_LaBerge) at Stanford University.}
+
+		{Let me be abundantly clear: I don't do drugs, and this is not a joke project for a sci-fi writer. I am a software developer and a devout supporter of critical thinking. My documentation here is for science, and the accounts are here to be studied as data. (Since we can't yet video-record the dreamworld the reports are naturally going to be a bit fuzzy. I've tried to be as accurate as possible while adopting a readable script-like format.)}
+
+		[heading {"So why are you noteworthy?"}]
+
+		{Given that I just pointed out that lucid dreaming is a 'known' phenomenon, you might ask what the big deal is. Here are the points as I see it:}
+
+		[list
+
+		    {My emphasis is not on bending the dream-world to my will. Instead I try to interview the characters I meet, and carefully filter preconceptions which might influence what I "hear". The things they "say" aren't always nice--but are far more surprising, original, and coherent than most lucid dreamers report.}
+
+		    {I'm often able to accurately relate facts while asleep; this includes the current date, recent news events, or where my body is sleeping. When I find an Internet terminal I'll deliberately try searches on myself or other topics, while fully aware that it is the "dream-Internet".}
+
+		    {I did not intentionally pursue lucid dreaming, nor do I use any machines to try to induce them. They involuntarily happen several times a night, and can last for several minutes or longer. I document them when they are particularly interesting and my schedule permits it.}
+
+		    {There are absolutely no "self-help" books or "psychic services" that I have to sell. To keep things on the up-and-up I'm never going to advertise on this site either.}
+
+		]
+
+		{I am eager to engage any sleep-research lab that wants to study me. I believe that atypical individuals can serve as linchpins in the understanding of our minds and our reality (such as [Daniel Tammet](http://realityhandbook.org/open-letter/daniel-tammet/)). I also hold some hope that search engines and archiving will give us tools that history did not have in understanding if these dreams are actually a form of communication through an as-yet-unknown mechanism.}
+
+		{Please do not hestitate to [contact me](http://realityhandbook.org/contact/), unless you are a scary interdimensional dream monster.  In which case, hesitate.  :-)}
+
+		[heading {Master List of Entries} %entries]
 	]
 
 	google-analytics: [
@@ -36,10 +52,7 @@ draem/set-config object compose [
 	]
 
 	site-footer: [
-		[note {Currently I am experimenting with using Disqus for comments,
-		however it is configured that you don't have to log in or tie it to an
-		account.  Simply check the "I'd rather post as a guest" button
-		after clicking in the spot to type in a name.}]
+		{Currently I am experimenting with using Disqus for comments, however it is configured that you don't have to log in or tie it to an account.  Simply check the "I'd rather post as a guest" button after clicking in the spot to type in a name.}
 
 		[html {
 	<div id="disqus_thread"></div>
@@ -56,26 +69,24 @@ draem/set-config object compose [
 	    </script>
 	    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
-	<img src="/media/1020ae0304.png" alt="It will be already always was." />
 }]
 	]
+
+	site-trailer-html: {<div style="text-align: right;"><span>
+		copy write %C:/0304-1020 {Met^^(00C6)ducation}</span></div>}
 
 	; This is made long to work around the page width issue where we set a
 	; maximum-width but no minimum-width.  In order to make sure we are
 	; taking advantage of a natural device width a relatively long string
 	; here that will break is a fairly natural fit.
-	site-epilogue: [
-		[html {<div style="text-align: center;"><p>
-		copy write %C:/0304-1020 {Met^^(00C6)ducation}</p>
-		<p>The accounts written here are as true as I can manage.  While the
+	site-epilogue-html: {
+		<div style="text-align: center;"><p>
+		The accounts written here are as true as I can manage.  While the
 		words are my own, they are not independent creative works of fiction
 		&mdash;in any intentional way.  Thus I do not consider the material to
 		be protected by anything, other than that you'd have to be
 		crazy to want to try and use it for genuine purposes (much less
 		disingenuous ones!)  But who's to say?</p></div>}
-		]
-	]
 
 	javascript: [
 		http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js
