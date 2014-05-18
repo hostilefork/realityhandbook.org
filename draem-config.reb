@@ -9,7 +9,7 @@ draem/set-config object compose [
 
 	rss-tag: {realityhandbook.org}
 
-	site-prologue-html: {<div style="margin-right: 8px; text-align: right;"><p><img src="http://realityhandbook.org/media/feed-icon-14x14.png" alt="Feed Icon" /> <a href="http://realityhandbook.org/feed/">RSS 1.0 XML Feed </a> available</p></div>}
+	site-prologue-html: {<div style="margin-right: 8px; text-align: right;"><p><img src="http://realityhandbook.org/media/feed-icon-14x14.png" alt="Feed Icon" />&nbsp;<a href="http://realityhandbook.org/feed/">RSS 1.0 XML Feed </a> available</p></div>}
 
 	site-intro: [
 
@@ -87,6 +87,8 @@ draem/set-config object compose [
 		be protected by anything, other than that you'd have to be
 		crazy to want to try and use it for genuine purposes (much less
 		disingenuous ones!)  But who's to say?</p></div>}
+
+	css: http://realityhandbook.org/media/default.css
 
 	javascript: [
 		http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js
