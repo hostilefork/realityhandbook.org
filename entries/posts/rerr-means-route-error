@@ -26,11 +26,11 @@ Draem [
 
     {RERR isn't anything I'd heard of before, but it is real, and it does stand for route error. According to the web:}
 
-    [quote [
+    [quote
 
-            {In addition to these routing messages, Route Error (RERR) message are used to notify the other nodes that certain nodes are not anymore reachable due to a link breakage (figure 3.4). When a node rebroadcasts a RERR, it only adds the unreachable destinations to which the node might forward messages. Therefore, the mutable information in a RERR are the list of un-reachable destinations and the counter of unreachable destinations included in the message. Anyway, it is predictable that, at each hop, the unreachable destination list may not change or become a subset of the original one.}
+        {In addition to these routing messages, Route Error (RERR) message are used to notify the other nodes that certain nodes are not anymore reachable due to a link breakage (figure 3.4). When a node rebroadcasts a RERR, it only adds the unreachable destinations to which the node might forward messages. Therefore, the mutable information in a RERR are the list of un-reachable destinations and the counter of unreachable destinations included in the message. Anyway, it is predictable that, at each hop, the unreachable destination list may not change or become a subset of the original one.}
 
-        ]]
+    ]
 
     "...so I'll count that as a dream verification."
 
