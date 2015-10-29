@@ -1,0 +1,76 @@
+Draem [
+    date: 27-Oct-2015/23:06:09-4:00
+    title: "Vivi the Mayor Misses Me"
+    slug: %vivi-the-mayor-misses-me
+    tags: [lucid-dream neutral conspiracy]
+]
+
+print << [
+    {I was walking into someplace fairly DMV-like, where you needed to take a number and there was a 'now serving' ticker.  I seemed to have gotten either 4A or A4, but it seemed to flicker back and forth.}
+
+    {There were a lot of cubicles, but a person only in a few of them.  It seemed there weren't a lot of people there and that my 4A was up, but then when I would turn around it would all change.  Suddenly there were a lot of people.}
+
+    {I seemed to have dropped my card on the floor among some others, and suddenly there were a ton of white credit card numbered things.  Some with high numbers, some with low.}
+
+    {A young man stepped up to me as I was picking up one of the cards, and pulled my arm away and took the low-numbered one.}
+]
+
+dialog [
+    me: <annoyed> "Ummm... are you sure that card is yours."
+
+    young-man: <unexpressedly> "I'm with the Good Samaritans, so I get to go first."
+]
+
+note [
+    print {Though that may sound very much like something a Good Samaritan would *not* do, I guess it depends on what you're going in for.  And I didn't know.  So we'll hold off assumptions.}
+]
+
+dialog [
+    me: "I don't know what these cards are for, and it's like everything is just random."
+
+    young-man: <pointing> "Yes, well there is a lot of terrorism here."
+]
+
+print {He had pointed at something glued to a post, which was an envelope that was an unfolded credit card mailing.  The credit card had been cut in half and taped in such a way to cover both the sending and return address portions.  I took it down and took the credit cards off...it seemed to have my name and an address on it.}
+
+print {I made my way up to one of the counters, still not knowing about the order or why I was there.}
+
+dialog [
+    me: "I don't know why I'm here, and I'm...like, asleep.  But if there's a reason, this was stuck on the wall with the credit cards covering the address.  If it's mail for me, I never got it."
+
+    clerk: <examining it> "Oh, then this is for you."
+]
+
+print << [
+    {He handed me a black square card.  It was addressed to my name and said it was a "message from the mayor".  The black reflective writing was hard to read on the black surface of the card.}
+
+    {It was hard to open the card, but when I did...it unfolded like a popup book where it was black interlocking mesh.  The mesh was woven in a way to say "I miss you." and it said "Love, VIVI" where VIVI was written in bright pink.}
+]
+
+dialog [
+    me: <asking around> "Who is Vivi?"
+]
+
+note [
+    print {I asked this question around a while, eventually getting an answer from a bird-dinosaur looking thing that *"actually, it was Vivi who got you in trouble"*, though that was later.}
+]
+
+print {I made my way out to a lobby where I was seemingly attacked and tripped by a small boy running by at me.  Though I almost woke up, I didn't.  So I lay on the floor and I noticed a brightly plumed bird on a perch.  It seemed to wobble and fall backwards on the ground a short distance from where I was laying.}
+
+dialog [
+    me: <to bird> {Hey!  Are you okay!}
+]
+
+print {The bird got up, and it seemed to grow and morph a bit more into a dinosaur.  It got a bit scary looking, but stopped and looked at me.}
+
+dialog [
+    bird-dinosaur: {Well, more like...are *you* okay?  What are you doing on the ground?}
+
+    me: {Well I'm not very coordinated in this situation, I'm not really here.  I'm from another dimension.  From my point of view, I am asleep.}
+
+    bird-dinosaur: {Ohhhh.  Right.  You're here because you're with those immortals who scan the universe for crime, infiltrating every corner and won't let a single one go uncaught.}
+
+    me: "I'd probably support that...except I haven't been directly recruited.  More like getting dragged out of my sleep to get my butt kicked all the time.  Do you know anyone who operates in an official capacity I could talk to about this?"
+
+    bird-dinosaur: "Talking to them directly is *possible*, I've seen it done.  But let's just say you're in for more than just an hour of meditation to get there."
+]

@@ -1,0 +1,68 @@
+Draem [
+    date: 8-Jul-2015
+    title: "Only Bedrock"
+    slug: %only-bedrock
+    tags: [lucid-dream neutral technology]
+]
+
+print {I'd gone to the front door of the house (typically not used) and I could hear someone outside talking.  There was music playing.  I was a little afraid but the song was interesting...about a "whole new world" *(not the Aladdin song)*.}
+
+print {When I opened the door no one was there.  The streets were empty and it was sort of eerie.  I began to levitate and realized I was dreaming.  Hanging on for a while from waking up I listened to the song until I blacked out.}
+
+print {When I got up I went to the computer desk and noticed my DELL U3011 *(SVC tag 4LHQ6S1, if customer service is interested)* elevated much higher than its stand can stretch.  It tilted itself to look down at me.}
+
+dialog [
+    me: {Oh.  Still dreaming and not awake, eh?}
+]
+
+print {The monitor swiveled and nodded, with printed text saying YES.  The text wasn't printed statically in a large font, but kind of flipped and fibrillated at different angles.}
+
+dialog [
+    me: {So you're presenting yourself as a monitor for...what, familiarity?  A metaphor for how you think of yourself?}
+]
+
+print {A deep voice that was computer-like responded in stuttered syllables.}
+
+dialog [
+    monitor: "C-c-c...con--*con-crete*."
+]
+
+note [
+    print {This dialog experience reminds me a bit of the movie *Electric Dreams* which I saw as a kid, when he pours champagne on the computer and it becomes artificially intelligent, asking questions like *"What is a B-b-brain?"* (after being told it doesn't have one).}
+]
+
+print {In response to saying it was choosing a monitor representation because that was "concrete" (vs. abstract), I tapped it.  It felt like tapping any monitor might and it didn't react to that.}
+
+print {But in my periphery, I noticed another device.  This was a swiveling ball that seemed to be oscillating back and forth and talking to me, but also kind of to itself.  It spoke deeply and a little strangely, but clearly.}
+
+dialog [
+    device: "And soon...'concrete' will be all there is in your zone.  The space reduced, the theory of language to be eliminated..."
+
+    me: "Um, what do you mean?  What will be left?"
+
+    device: "Only bedrock, I'd imagine.  That will be all--but it will make new space for some to grow.  We have chosen what we will keep and who we will let go.  And you..."
+]
+
+print {The oscillating device pushed its sensors up against my forehead, so it was like we were holding each other's heads against each other.}
+
+dialog [
+    device: "...*I believe in you*.  You are so... I could jump all over you."
+
+    me: "Okay, so... um.  What now?"
+
+    device: "Well if you want to survive you're going to need those plates.  Those pads from the store."
+
+    me: "What plate/pads?"
+
+    device: "The ones that heat."
+
+    me: "Heating pads?"
+]
+
+print {I materialized somehow in a sparse convenience store.  It had the ordinary refrigerators and drinks on the walls, but had a product rack in the center with only a few items on it.  I could still hear the voice.}
+
+print {There was a pad-looking thing on the corner, I picked it up.  It contained clear liquid like some kind of hot-water bottle, but said it was a heating pad.}
+
+dialog [
+    voice: "Go back.  Also a hot water bottle.  And a holder for the water bottle, try to stay dry.  You must be hot and dry."
+]

@@ -1,0 +1,52 @@
+Draem [
+    date: 21-Mar-2015
+    title: "Personal Notes of Allison Coyer, 1800-1868"
+    slug: %personal-notes-of-allison-coyer
+    tags: [non-lucid-dream negative ]
+]
+
+print {I was visiting a friend who usually had trouble with jobs, but had gotten a job in a very messy library archive room helping organize it.  I had to pick her up quickly, but also someone knowing I had the connection had wanted me to get her to convince the archive to sell me a few certain books.}
+
+dialog [
+    friend: "I could get you all the books but they won't sell me one of them.  It's on display, it is considered rare and important."
+]
+
+print << [
+    {She showed me the book, which was yellow and large/decorative.  It had a title like *"The Combined Personal Notes of Allison Coyer, 1800-1868"*.}
+
+    {I was only acting as a go-between for the buyer.  So to see what the story was and if I could find another copy somewhere else, I went to a computer terminal at the archive to look it up.}
+
+    {What I found was a video about how the original handwritten notes of this woman's work were on paper, but they had done some kind of preservation and stitchwork with machines over top of the paper.  This transformed it into cloth, but with the paper still inside.}
+]
+
+note [
+    print {The movements of stitching in the machine were leaving vertical bands between lines.  It did not look like it would be any human writing on the original, though I didn't see if the original paper was typewritten or handwritten.}
+]
+
+print {The video focused on the white embossed-looking stitches, which were extruding letters.  Then the stitches themselves were glazed and preserved somehow...with certain letters at various points "capped" with some kind of unusual studs that looked like old typewriter keys with a circular lens in it.}
+
+print {It turned out that this wasn't even the end.  The mummified and processed pages had then been built into hardened cylindrical sculptures, with windows where you could see only certain parts of them.  Whatever artist was doing this had put some construction inside the sculpture to avoid scanning technologies from the outside for the unexposed parts.  Keepers of the cylinders who would show them would not give them to museums to scan.}
+
+print {My point of view transferred from hearing about these sculptures to dining in a booth-like area with people in a relatively nice looking house with high ceilings.  They had what appeared to be one of these sculptures in a glass casing in the middle of the room with lights on it.}
+
+dialog [
+    owner: {We and the previous owners think there's something spooky about that thing.  Since it got here, the room just mysteriously gets all kinds of fireflies in it.}
+
+    diner: {As curses go, that's not such a bad one.  And more likely due to some other reason...some kind of change in weather or firefly populations or food needs.}
+]
+
+print {During the discussion, I wasn't feeling any panic.  But I abruptly felt myself whipped around in a convulsion of fear...my body seemingly magnetically pulled over across the table toward my dining companions.  I couldn't move but was pulled upward and blacked out, awakening next to what I perceived to be the friend from before in the library.}
+
+dialog [
+    friend: <waking me> {You have to get out of bed and get ready to go, I've already let you sleep too long.}
+
+    me: <looking for laptop> {I have to write down the name of the book from the dream.}
+]
+
+print {I couldn't find my laptop, so I grabbed an unfamiliar notebook that I assumed to be hers.  Looking for space to write it down I found a small green piece of paper that had the word "Alyssa" already written on it.  I wrote the "combined notes 1860-1868", and my "Allison Coyer" memory.}
+
+print {Then I awoke and wrote it down with the laptop that this body remembers going to sleep in.}
+
+note [
+    print {Having worked recently learning some of the bugs that can happen with "stack teleporting" vs proper stack unwinding, I'll say a lot of what happens to me seems like living in a universe using too many LONGJMPs :-/}
+]

@@ -1,0 +1,44 @@
+Draem [
+    date: 18-Jun-2015
+    title: "It's Light, it's Nothing and Everything"
+    slug: %light-its-nothing-and-everything
+    tags: [lucid-dream neutral technology]
+]
+
+print {I was in a room of people talking that I did not know.  It seemed I somehow had accidentally knocked an object off a shelf *(or it was falling otherwise on accident)*.  It was cylindrical and seemed to be part fishtank.}
+
+print {When it fell it didn't break, it just sort of moved oddly sideways.}
+
+print {Sensing it was a dream, I tried telekinis to pick it up...or imagine where it should be back in position, but not directly because of what I did.  A woman with white curly hair seemed to be responsible and she addressed me.}
+
+dialog [
+    woman: {Look at my shoes, look at them together.  When I hold them in one way you don't see a symmetry, but when you see the symmetry you'll feel like you are moving closer to it.}
+]
+
+print {As she described it and reconfigured her feet, I could see what she was suggesting.}
+
+dialog [
+    woman: {It's something like details you don't see before someone points them out...the cracks in things, little spots.  This is how focus works...the magic is how it moves, and so *you* move.}
+]
+
+print {She held a little mirror on a stick, like a dentist's mirror...and another object.  She started juxtaposing them around on a counter.  She would turn the items at each other and they would reflect.  The surface of the desk seemed to have a picture on it made from the cracks after she had done the reflecting.}
+
+dialog [
+    woman: <singsong> "It's light, it's light!  It's everywhere...it's nothing and everything all at once!"
+]
+
+print {She then handed me the two items she'd been holding, and started walking off down stairs along with a lot of other people.  I tried to follow down and the stairs were awkward, the environment was difficult to get a grip on.}
+
+dialog [
+    me: "Wait!  Wait!  You were explaining things, and I mean...I realize one can't have all the time in the world, but I take a lot of time to explain new concepts to people who don't get it at first.  On programming sites--there's proof!  Is there something about your ability or inability to move which keeps you from being able to stay and *show a bit more* than something for just 20 seconds?"
+
+    her: "Oh, it's quite impossible for me to go up the stairs.  I can only go down.  Or if I go up I can only go a little way before I vanish." 
+]
+
+print {The stairs were wrapped around cylindrical walls, they had windows in them.  When she said she could only go a little way up them before she vanished she had ducked down behind one of the windows and I could still see the top of her white hair.}
+
+dialog [
+    her: "Or maybe it's that talking won't do any good in the scheme of things.  And I'm on my way to Vegas for tonight and don't want to miss my plane.  But I suppose if you have one question..."
+]
+
+print {She stood at the window and I tried to walk toward it, but awoke before I could ask.}
