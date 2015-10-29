@@ -6,14 +6,18 @@ Draem [
     old: http://realityhandbook.livejournal.com/72290.html
 ]
 
-{I had just finished writing something down about the "silly Station", which had turned out to be some kind of post office. I was standing at an intersection, and realizing that Silly was the name of an *actual street* and should have been capitalized--and we'd been misunderstanding the entire thing.}
+print << [
 
-{Simultaneously realizing this was a dream, I tried to hail some people walking by...and began asking them questions about how I was managing to be present there. I stretched out and attempted to lay in plain view and asked what I looked like.}
+    {I had just finished writing something down about the "silly Station", which had turned out to be some kind of post office. I was standing at an intersection, and realizing that Silly was the name of an *actual street* and should have been capitalized--and we'd been misunderstanding the entire thing.}
 
-[observer1: "You look like an ocephalous."]
+    {Simultaneously realizing this was a dream, I tried to hail some people walking by...and began asking them questions about how I was managing to be present there. I stretched out and attempted to lay in plain view and asked what I looked like.}
 
-[note {I didn't know what that was, but [achephalous](http://en.wikipedia.org/wiki/Acephalous_Society) means "without a head".}]
+]
 
-{I asked another observer to confirm with me my model of my body. So I started by using my hand to point to various features of my body...but then decided I had to shake my hands and show where they were first. I went through all the basic parts, emphasizing my eyes and hands.}
+dialog [observer1: "You look like an ocephalous."]
 
-[observer2: "Everything you just did was obvious."]
+note {I didn't know what that was, but [achephalous](http://en.wikipedia.org/wiki/Acephalous_Society) means "without a head".}
+
+print {I asked another observer to confirm with me my model of my body. So I started by using my hand to point to various features of my body...but then decided I had to shake my hands and show where they were first. I went through all the basic parts, emphasizing my eyes and hands.}
+
+dialog [observer2: "Everything you just did was obvious."]

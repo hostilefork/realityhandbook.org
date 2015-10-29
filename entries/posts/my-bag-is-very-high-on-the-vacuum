@@ -6,38 +6,54 @@ Draem [
     old: http://realityhandbook.livejournal.com/57665.html
 ]
 
-{I was riding in the back seat of a car when I realized I was dreaming. The passenger side was occupied by a statue-like woman with a mask that looked like something out of Phantom of the Opera. I asked her about contacting someone and what they were doing... conversation went roughly like this:}
+print {I was riding in the back seat of a car when I realized I was dreaming. The passenger side was occupied by a statue-like woman with a mask that looked like something out of Phantom of the Opera. I asked her about contacting someone and what they were doing... conversation went roughly like this:}
 
-[me: "What is she doing?"]
+dialog [
 
-[face: "She is doing what she wants."]
+    me: "What is she doing?"
 
-[me: "What am I doing?"]
+    face: "She is doing what she wants."
 
-[face: {You've moved on, you are ready for this battle to end.}]
+    me: "What am I doing?"
 
-{Over the course of our conversation her head was falling apart in various ways but I did my best to ignore this.}
+    face: {You've moved on, you are ready for this battle to end.}
 
-[me: "Well, what is important to *you*?"]
+]
 
-[face: "I am about art."]
+print {Over the course of our conversation her head was falling apart in various ways but I did my best to ignore this.}
 
-[me: "I suppose that's true of me as well."]
+dialog [
 
-{At this point the face was completely decomposed in a disturbing way, but I stared straight into it.}
+    me: "Well, what is important to *you*?"
 
-[me: {Do you know what you look like to me, now, while I am looking at you?}]
+    face: "I am about art."
 
-[face: "No. I have lost touch."]
+    me: "I suppose that's true of me as well."
 
-[note {Something about the delivery and context of "I have lost touch" gave me chills.}]
+]
 
-[me: "What do I look like to you?"]
+print {At this point the face was completely decomposed in a disturbing way, but I stared straight into it.}
 
-[face: "My bag is very high on the vacuum."]
+dialog [
 
-[me: {It sounds like you said 'my bag is very high on the vacuum'... what does that mean?}]
+    me: {Do you know what you look like to me, now, while I am looking at you?}
 
-{At this point the face turned into a translucent mask and started floating away. I narrated the fact that I saw it getting higher and attempted to see if it could come back to the sound of my voice, but it didn't--and I woke up.}
+    face: "No. I have lost touch."
 
-[note {Though the bag/vacuum comment seems like a pretty big non-sequitur, it could have been an attempt to say something like "the perspective of my body is in a higher ethereal dimension".}]
+]
+
+note {Something about the delivery and context of "I have lost touch" gave me chills.}
+
+dialog [
+
+    me: "What do I look like to you?"
+
+    face: "My bag is very high on the vacuum."
+
+    me: {It sounds like you said 'my bag is very high on the vacuum'... what does that mean?}
+
+]
+
+print {At this point the face turned into a translucent mask and started floating away. I narrated the fact that I saw it getting higher and attempted to see if it could come back to the sound of my voice, but it didn't--and I woke up.}
+
+note {Though the bag/vacuum comment seems like a pretty big non-sequitur, it could have been an attempt to say something like "the perspective of my body is in a higher ethereal dimension".}

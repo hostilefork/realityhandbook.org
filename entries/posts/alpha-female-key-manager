@@ -5,58 +5,82 @@ Draem [
     tags: [lucid-dream helpful neutral]
 ]
 
-{I'd landed in a situation where people were watching what looked like a "Children of the Corn" style horror movie.  The creepy children were in a spooky house, looking somewhat possessed and like they were going to go up a stairway to murder whoever was there.  It was a bit campy and on a TV; I wasn't scared by it.}
+print << [
 
-{Someone seemed to change the channel at one point to was graphic close-up pornography of some sort.  I was laying on a bed through all of this, which seemed to be on the floor while everything going on around me...like the TV...was higher up.}
+    {I'd landed in a situation where people were watching what looked like a "Children of the Corn" style horror movie.  The creepy children were in a spooky house, looking somewhat possessed and like they were going to go up a stairway to murder whoever was there.  It was a bit campy and on a TV; I wasn't scared by it.}
 
-{The bed began to vibrate and float, and I saw someone I recognized as a friend of mine on the TV.  It seemed he was looking at me, and I came to realize I was dreaming and that he was.}
+    {Someone seemed to change the channel at one point to was graphic close-up pornography of some sort.  I was laying on a bed through all of this, which seemed to be on the floor while everything going on around me...like the TV...was higher up.}
 
-{He got close to the screen from the other side, and seemed to be reaching to grab for me.  But the bed seemed to be drifting and the space in the room was breaking up so the TV was getting further away.}
+    {The bed began to vibrate and float, and I saw someone I recognized as a friend of mine on the TV.  It seemed he was looking at me, and I came to realize I was dreaming and that he was.}
 
-[friend: <pensively> {Uh oh.  Hmmmm.}]
+    {He got close to the screen from the other side, and seemed to be reaching to grab for me.  But the bed seemed to be drifting and the space in the room was breaking up so the TV was getting further away.}
 
-{I held out my hand toward the screen and somehow got pulled into it, and into a kind of park area where there were picnic tables.  Unlike when I'd been on the floor bed, everything was quite stable.}
+]
 
-[me: "Hi, thanks.  Well that was weird.  Who are you?"]
+dialog [friend: <pensively> "Uh oh.  Hmmmm."]
 
-[friend: "I am A'la.  I have an incarnation on your world that I could introduce you to.  Oh, wait...I have.  You're right."]
+print {I held out my hand toward the screen and somehow got pulled into it, and into a kind of park area where there were picnic tables.  Unlike when I'd been on the floor bed, everything was quite stable.}
 
-[note {He seemed to say this without me needing to mention his resemblance to my friend; who he continued to look somewhat like.}]
+dialog [
 
-{I held onto his hand for stability as we seated on the picnic table.  I shuffled to try and stay completely on the seat.  A woman with curly hair in a gray shirt sat across from us.  The shirt had some kind of graphic on it.}
+    me: "Hi, thanks.  Well that was weird.  Who are you?"
 
-[me: <to woman> "Do you have anything to do with his girlfriend on Earth?"]
+    friend: {I am A'la.  I have an incarnation on your world that I could introduce you to.  Oh, wait...I have.  You're right.}
 
-[woman: "No, well.  Not really.  But I am a key manager."]
+]
 
-[me: "A key manager of what?"]
+note {He seemed to say this without me needing to mention his resemblance to my friend; who he continued to look somewhat like.}
 
-[woman: "It's a human thing, you may not quite understand it... but think of me as sort of; an alpha female.  I deal with women's issues, when there's something that needs to be dealt with."]
+print {I held onto his hand for stability as we seated on the picnic table.  I shuffled to try and stay completely on the seat.  A woman with curly hair in a gray shirt sat across from us.  The shirt had some kind of graphic on it.}
 
-[note {I assumed that the "It's a human thing" and "I might not understand" meant they weren't human, though the phrasing could seem to suggest that *I* was the one who wouldn't understand a "human thing" because *I wasn't human*.  Dunno.}]
+dialog [
 
-[me: "Okay..."]
+    me: <to woman> {Do you have anything to do with his girlfriend on Earth?}
 
-[friend: "That's what we wanted to talk to you about here.  I mean, do you like women?"]
+    woman: "No, well.  Not really.  But I am a key manager."
 
-{I glared back in semi-shocked disbelief that was what he was asking.}
+    me: "A key manager of what?"
 
-[me: "Yes, I like women.  I'm not gay if that's what you're inquiring about.  But why...why are you asking that?"]
+    woman: {It's a human thing, you may not quite understand it... but think of me as sort of; an alpha female.  I deal with women's issues, when there's something that needs to be dealt with.}
 
-[friend: "In looking at your relationships, even cases where you've cohabited with women; there are a lot of things you could have done differently to make it work.  And so if you're going to be looking at it going forward, you'll have to try another approach..."]
+]
 
-{His voice started kind of fizzling and going rapidly and slowly and I waved my hands to interrupt him.}
+note {I assumed that the "It's a human thing" and "I might not understand" meant they weren't human, though the phrasing could seem to suggest that *I* was the one who wouldn't understand a "human thing" because *I wasn't human*.  Dunno.}
 
-[me: <exasperated> {I can't get a fix on what you're saying exactly.  But my major life problem is NOT THAT I CAN'T GET A DATE.  No, I would say that my major life problem is more evidenced by the fact that you just pulled me through a TV screen while I am asleep--while I am fully conscious.   It's this crazy stuff that no one seems to want to explain or help me with.  So I do not need relationship advice, I need you to help sort the rest out!  If you operate in "this other place" and have opinions on life in the world I live, either give me the proof of it...or just pull me out of where I am for good.  I'm ready to go!}]
+dialog [
 
-[friend: {It's somewhat premature for that.  Your body... it's not quite...}]
+    me: "Okay..."
 
-{He still had hold of my hand.  He held up my arm to look at my wrist, and furrowed his brow a bit while kind of feeling around the top bit of my arm and hand.}
+    friend: {That's what we wanted to talk to you about here.  I mean, do you like women?}
 
-[friend: {Weeelll.  Hmmmmm.}]
+]
 
-{While continuing to sort of feel out the tensions in my arm, he stopped to blow on the ends of my fingers.  This caused them to inflate and become misshapen in a kind of painful way.}
+print {I glared back in semi-shocked disbelief that was what he was asking.}
 
-[me: {Aaaa.  That does not feel good, what you're doing to the hand now with the blowing.}]
+dialog [
 
-{The freakish inflated finger thing woke me up.}
+    me: {Yes, I like women.  I'm not gay if that's what you're inquiring about.  But why...why are you asking that?}
+
+    friend: {In looking at your relationships, even cases where you've cohabited with women; there are a lot of things you could have done differently to make it work.  And so if you're going to be looking at it going forward, you'll have to try another approach...}
+
+]
+
+print {His voice started kind of fizzling and going rapidly and slowly and I waved my hands to interrupt him.}
+
+dialog [
+
+    me: <exasperated> {I can't get a fix on what you're saying exactly.  But my major life problem is NOT THAT I CAN'T GET A DATE.  No, I would say that my major life problem is more evidenced by the fact that you just pulled me through a TV screen while I am asleep--while I am fully conscious.   It's this crazy stuff that no one seems to want to explain or help me with.  So I do not need relationship advice, I need you to help sort the rest out!  If you operate in "this other place" and have opinions on life in the world I live, either give me the proof of it...or just pull me out of where I am for good.  I'm ready to go!}
+
+    friend: {It's somewhat premature for that.  Your body... it's not quite...}
+
+]
+
+print {He still had hold of my hand.  He held up my arm to look at my wrist, and furrowed his brow a bit while kind of feeling around the top bit of my arm and hand.}
+
+dialog [friend: "Weeelll.  Hmmmmm."]
+
+print {While continuing to sort of feel out the tensions in my arm, he stopped to blow on the ends of my fingers.  This caused them to inflate and become misshapen in a kind of painful way.}
+
+dialog [me: {Aaaa.  That does not feel good, what you're doing to the hand now with the blowing.}]
+
+print "The freakish inflated finger thing woke me up."

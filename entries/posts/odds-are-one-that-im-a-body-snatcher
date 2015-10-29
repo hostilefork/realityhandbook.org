@@ -6,46 +6,66 @@ Draem [
     old: http://realityhandbook.livejournal.com/125123.html
 ]
 
-{I was in some kind of community room where a talk was about to be given. The subject of the talk was dreams and their meaning. At first I sat in the first row, but then started to feel skeptical that the person speaking was going to say anything interesting.}
+print << [
 
-{Feeling like I had to go to the bathroom, I used that as a rationale for why I was getting up from the front row and walking out. As I did, I noticed the meeting room I was leaving was in a church.}
+    {I was in some kind of community room where a talk was about to be given. The subject of the talk was dreams and their meaning. At first I sat in the first row, but then started to feel skeptical that the person speaking was going to say anything interesting.}
 
-[me: <thinking to myself> {Hmmm... a church. Well, maybe that means the bathrooms won't be completely disgusting. Hey, wait. This is a dream, which means the bathrooms probably WILL be disgusting. But still, I feel like I have to go...I wonder if I do if that will make the sensation stop, and if it does, if that means I'm wetting the bed?}]
+    {Feeling like I had to go to the bathroom, I used that as a rationale for why I was getting up from the front row and walking out. As I did, I noticed the meeting room I was leaving was in a church.}
 
-{As the sensation was strong I went ahead and used the dream-toilet. The bathrooms were actually quite clean, which surprised me. When I left the bathroom I marched back into the room where the speaker was at the podium.}
+]
 
-[me: {All right, so you're having a dreaming workshop here. That's great and all, but I'm dreaming *right now*. Do you think you are as well? Not that we both have to be...perhaps I'm dreaming and you're not.}]
+dialog [me: <thinking to myself> {Hmmm... a church. Well, maybe that means the bathrooms won't be completely disgusting. Hey, wait. This is a dream, which means the bathrooms probably WILL be disgusting. But still, I feel like I have to go...I wonder if I do if that will make the sensation stop, and if it does, if that means I'm wetting the bed?}]
 
-[speaker: "Well, I assure you this isn't a dream."]
+print {As the sensation was strong I went ahead and used the dream-toilet. The bathrooms were actually quite clean, which surprised me. When I left the bathroom I marched back into the room where the speaker was at the podium.}
 
-[me: "I say it is."]
+dialog [
 
-{The speaker pulled out a swiss-army style pocketknife, and smiled.}
+    me: {All right, so you're having a dreaming workshop here. That's great and all, but I'm dreaming *right now*. Do you think you are as well? Not that we both have to be...perhaps I'm dreaming and you're not.}
 
-[speaker: {Well, if this is a dream, then this knife can't hurt you--right?}]
+    speaker: "Well, I assure you this isn't a dream."
 
-[me: <reaching for the knife> "Precisely. Give it to me and I'll show you."]
+    me: "I say it is."
 
-{This upset him, and he pulled the knife away...cautionarily waggling the blade before folding it back into the knife.}
+]
 
-[speaker: "Hey, this is seriously sharp."]
+print {The speaker pulled out a swiss-army style pocketknife, and smiled.}
 
-[me: "Well give it to me and let me check it out."]
+dialog [
 
-[speaker: {Why would it make a difference if you cut yourself in a dream as opposed to me cutting you?}]
+    speaker: {Well, if this is a dream, then this knife can't hurt you--right?}
 
-[me: {I'm sure *I'd* be fine, but lately I have been worrying about this whole mind-control and channeling thing lately. It's possible I'm just making some host-person babble and injure themselves, and maybe there's some feedback I'd get from what they'd be comfortable with, so I'd know when to stop.}]
+    me: <reaching for the knife> "Precisely. Give it to me and I'll show you."
 
-{At this point the room disappeared and I was sort of talking to a view of mountains and static, yet I could hear a voice very clearly.}
+]
 
-[me: {Is it true? Is there a race of mind control creatures that take over human minds?}]
+print {This upset him, and he pulled the knife away...cautionarily waggling the blade before folding it back into the knife.}
 
-[voice: {Yes. But there are relatively few of them, compared to the number of humans.}]
+dialog [
 
-[me: {Hmmm, wonder what the odds are that I'm a mind control being?}]
+    speaker: "Hey, this is seriously sharp."
 
-[voice: "One."]
+    me: "Well give it to me and let me check it out."
 
-[me: {I'm confused. You mean like... the odds are One Point Oh Oh, e.g. 100%?}]
+    speaker: {Why would it make a difference if you cut yourself in a dream as opposed to me cutting you?}
 
-[voice: "Yes. It is certain that is what you are."]
+    me: {I'm sure *I'd* be fine, but lately I have been worrying about this whole mind-control and channeling thing lately. It's possible I'm just making some host-person babble and injure themselves, and maybe there's some feedback I'd get from what they'd be comfortable with, so I'd know when to stop.}
+
+]
+
+print {At this point the room disappeared and I was sort of talking to a view of mountains and static, yet I could hear a voice very clearly.}
+
+dialog [
+
+    me: {Is it true? Is there a race of mind control creatures that take over human minds?}
+
+    voice: {Yes. But there are relatively few of them, compared to the number of humans.}
+
+    me: {Hmmm, wonder what the odds are that I'm a mind control being?}
+
+    voice: "One."
+
+    me: {I'm confused. You mean like... the odds are One Point Oh Oh, e.g. 100%?}
+
+    voice: "Yes. It is certain that is what you are."
+
+]

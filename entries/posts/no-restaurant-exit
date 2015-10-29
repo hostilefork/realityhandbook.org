@@ -6,46 +6,66 @@ Draem [
     old: http://realityhandbook.livejournal.com/141434.html
 ]
 
-{Somehow I found myself inside a building which had several restaurants and bars in it. I began to look for an exit, and at every turn someone would try to offer me some food. Wary of being poisoned (for some reason) I turned it down, and really wanted to leave.}
+print << [
 
-{An Asian girl who was apparently working as a "greeter" at the restaurant stopped me as I tried to swiftly walk past without being accosted.}
+    {Somehow I found myself inside a building which had several restaurants and bars in it. I began to look for an exit, and at every turn someone would try to offer me some food. Wary of being poisoned (for some reason) I turned it down, and really wanted to leave.}
 
-[greeter: <smiling> "Hi, do you have a reservation?"]
+    {An Asian girl who was apparently working as a "greeter" at the restaurant stopped me as I tried to swiftly walk past without being accosted.}
 
-[me: <relieved> "Nope! Sorry!"]
+]
 
-[greeter: "Oh then I can make one for you! You'll like it"]
+dialog [
 
-[me: "No thank you... I'm not hungry."]
+    greeter: <smiling> "Hi, do you have a reservation?"
 
-{I walked along to what looked like an Exit and pushed it. But that put me face to face with another restaurant that looked a bit like Wolfgang Puck. People seated at tables looked at me like they didn't usually expect people to come in the restaurant through that door.}
+    me: <relieved> "Nope! Sorry!"
 
-[picture %C99D852A-E4A5-86A4-BDDF83599183773E.jpg]
+    greeter: "Oh then I can make one for you! You'll like it"
 
-{Backing away, I stopped to talk to an older woman at a reception desk in the hall.}
+    me: "No thank you... I'm not hungry."
 
-[me: {This is a very nice building, everything in here is so fancy.}]
+]
 
-[woman: <beaming> "Yes, isn't it! It was built by..."]
+print {I walked along to what looked like an Exit and pushed it. But that put me face to face with another restaurant that looked a bit like Wolfgang Puck. People seated at tables looked at me like they didn't usually expect people to come in the restaurant through that door.}
 
-[note {She went into a brief summary of who built it and when and I don't remember the details.}]
+picture %C99D852A-E4A5-86A4-BDDF83599183773E.jpg
 
-[me: {That's great. However, I'm looking for... a door that exits the building. One that doesn't go into a restaurant, but goes from the *inside* of the building to the *outside*.}]
+print {Backing away, I stopped to talk to an older woman at a reception desk in the hall.}
 
-[woman: <puzzled> {What? Why would there be such a thing? Who would want it?}]
+dialog [
 
-[me: <sighing> "I had a feeling you were going to say that."]
+    me: {This is a very nice building, everything in here is so fancy.}
 
-{There was some series of transitions in this particular narrative to where I had been locked in a room that I managed to get out of, and as I was getting away a large group of women stopped me.}
+    woman: <beaming> "Yes, isn't it! It was built by..."
 
-[woman-one: {No, we told you. Under no circumstances are you leaving.}]
+]
 
-{I noticed some of the other girls in the crowd were very attractive, and began to have second thoughts.}
+note {She went into a brief summary of who built it and when and I don't remember the details.}
 
-[me: {Well, I'm not... I'm not opposed to certain forms of captivity. But if I'm going to talk about terms of that, then I want to be discussing the issue with *her* and *her*.}]
+dialog [
 
-{I pointed, and the girls kind of looked at each other to confirm who I was indicating. They smiled.}
+    me: {That's great. However, I'm looking for... a door that exits the building. One that doesn't go into a restaurant, but goes from the *inside* of the building to the *outside*.}
 
-[woman-one: {Of course you'd pick *them*. But do you even remember their *names*?!}]
+    woman: <puzzled> {What? Why would there be such a thing? Who would want it?}
 
-[me: {I'm sorry, no. And I don't remember how I got here. All I remember at the moment is running around this building full of restaurants and trying to get out.}]
+    me: <sighing> "I had a feeling you were going to say that."
+
+]
+
+print {There was some series of transitions in this particular narrative to where I had been locked in a room that I managed to get out of, and as I was getting away a large group of women stopped me.}
+
+dialog [woman-one: {No, we told you. Under no circumstances are you leaving.}]
+
+print {I noticed some of the other girls in the crowd were very attractive, and began to have second thoughts.}
+
+dialog [me: {Well, I'm not... I'm not opposed to certain forms of captivity. But if I'm going to talk about terms of that, then I want to be discussing the issue with *her* and *her*.}]
+
+print {I pointed, and the girls kind of looked at each other to confirm who I was indicating. They smiled.}
+
+dialog [
+
+    woman-one: {Of course you'd pick *them*. But do you even remember their *names*?!}
+
+    me: {I'm sorry, no. And I don't remember how I got here. All I remember at the moment is running around this building full of restaurants and trying to get out.}
+
+]

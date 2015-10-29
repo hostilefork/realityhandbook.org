@@ -6,46 +6,58 @@ Draem [
     old: http://realityhandbook.livejournal.com/99629.html
 ]
 
-[note
+note [
 
-    {A while ago I put on my profile that I thought I was a useful freak, and people should seriously study me. As a model for this, I suggested a "freak" who *is* being studied by neuroscientists: [Daniel Tammet](http://en.wikipedia.org/wiki/Daniel_Tammet). Daniel claims to have gotten the ability to do math tricks *not* by conscious methods, but that he just sees colors and objects in his head. He says he can pull the results of the computation by looking at features of these objects.}
+    print << [
 
-    {Because he can communicate as we do...he draws and describes the numbers. Here's his ["pi painting"](http://www.optimnem.co.uk/artwork.php):}
+        {A while ago I put on my profile that I thought I was a useful freak, and people should seriously study me. As a model for this, I suggested a "freak" who *is* being studied by neuroscientists: [Daniel Tammet](http://en.wikipedia.org/wiki/Daniel_Tammet). Daniel claims to have gotten the ability to do math tricks *not* by conscious methods, but that he just sees colors and objects in his head. He says he can pull the results of the computation by looking at features of these objects.}
 
-    [picture %pi-landscape.jpg]
+        {Because he can communicate as we do...he draws and describes the numbers. Here's his ["pi painting"](http://www.optimnem.co.uk/artwork.php):}
 
-    {I'd been meaning to write Daniel to say hello, and to ask him about what process he went about to engage the scientific establishment in study. Yet I was spurred into action when I read someone's blog suggesting his ability was a clever hoax. So I went to look up Daniel on Google, and found his blog. He had a post about what he would consider to be conditions that would [falsify the existence of God](http://www.optimnem.co.uk/blog/2007/05/falsifiability-and-god-hypothesis.html) (he is Christian, apparently). So I'm going to introduce myself to Daniel by posting a comment on that blog entry.}
+    ]
+
+    picture %pi-landscape.jpg
+
+    print {I'd been meaning to write Daniel to say hello, and to ask him about what process he went about to engage the scientific establishment in study. Yet I was spurred into action when I read someone's blog suggesting his ability was a clever hoax. So I went to look up Daniel on Google, and found his blog. He had a post about what he would consider to be conditions that would [falsify the existence of God](http://www.optimnem.co.uk/blog/2007/05/falsifiability-and-god-hypothesis.html) (he is Christian, apparently). So I'm going to introduce myself to Daniel by posting a comment on that blog entry.}
 
 ]
 
-"Hello Daniel!"
+print << [
 
-{I am another person with an unusual internal phenomenology in his head--I am a lucid dreamer. So every night while dreaming, I have dialogues with beings and I conduct experiments. Continuous dream segments last from about a minute to twenty minutes, usually dozens of these each night.}
+    "Hello Daniel!"
 
-{Though my level of awareness fluctuates--and the wording of dialogue has to be approximated a lot--I bring back specific terms or phrases rather often. I describe things to the "beings" I meet...like where my body is sleeping, or my name and social security number. I've got about 300 logs online, all public, all free:}
+    {I am another person with an unusual internal phenomenology in his head--I am a lucid dreamer. So every night while dreaming, I have dialogues with beings and I conduct experiments. Continuous dream segments last from about a minute to twenty minutes, usually dozens of these each night.}
 
-http://realityhandbook.livejournal.com/profile
+    {Though my level of awareness fluctuates--and the wording of dialogue has to be approximated a lot--I bring back specific terms or phrases rather often. I describe things to the "beings" I meet...like where my body is sleeping, or my name and social security number. I've got about 300 logs online, all public, all free:}
 
-{Unfortunately for me, when I rate the fun-ness of my dream experiences (positive/negative/neutral) there aren't a lot of "positive". Even worse, I can't say any of it points to a solid conclusion about God, "The Matrix", "past lives" or parallel universes. I *do* think it clearly points to a large number of things we are not going to be able to understand without some kind of paradigm shift. So I'd once linked to a documentary about you, and mentioned that I'd love to be studied as you have been... by scientists who might bring more testing equipment and intelligent theories to the table.}
+]
 
-{With that introduction: I'll say that it's quite interesting that you are Christian and would speak about the falsification of God here on your blog! Because I come to you today after debating with a private-school math teacher about the falsification of *you*--specifically the testimony about your internal experience. This individual has consciously trained himself to be a great human calculator, and has a strong suspicion that you could be conducting a hoax (but given the lack of falsifiability, he isn't interested in your experiences either way).}
+link http://realityhandbook.livejournal.com/profile
 
-{I won't send you his treatise "debunking" you for two reasons. One is that it's pretty mean-spirited in tone, and I think he's not someone you should speak to (for the mere reason of avoiding interactions with unpleasant people). The other is that he's made it clear that he won't talk to you or researchers on the subject of how to design better tests--so you're stuck talking to me in any case. :) I'll try and summarize his points without distorting them. If you'd like me to send you the original entry I can do that in a followup, but it's harsh words and any reply would fall on deaf and hostile ears.}
+print << [
 
-{The key problem is that when he watched the documentary, you were asked what he knows to be math problems with well-publicized mental shortcuts. Thus, you should have been asked things more like "7139 times 41562" (a problem class which doesn't have known generalized tricks). His suspicion is that when asked something actually difficult, you would nervously fidget and say something like "it's murky" or "it all relates to the, uh, ugliness of 17". He thinks that's convenient... perhaps TOO convenient. To wit:}
+    {Unfortunately for me, when I rate the fun-ness of my dream experiences (positive/negative/neutral) there aren't a lot of "positive". Even worse, I can't say any of it points to a solid conclusion about God, "The Matrix", "past lives" or parallel universes. I *do* think it clearly points to a large number of things we are not going to be able to understand without some kind of paradigm shift. So I'd once linked to a documentary about you, and mentioned that I'd love to be studied as you have been... by scientists who might bring more testing equipment and intelligent theories to the table.}
 
-{If you're doing mental computation, 17 is an ugly number to work with. Unless you couple it with another number, like 6 (to make 6 times 17 = 102), it's hard to find a nice way to multiply by 17. 17 squared is 289. Now, when doing large computations, you have to pair 17 with 'nice' numbers twice to perform well. So, if 289 is involved, the computations are 'ugly' to try to do mentally. It makes for a nice excuse if you miss those problems: 'The squiggles in my head were ugly this time hard to read.'}
+    {With that introduction: I'll say that it's quite interesting that you are Christian and would speak about the falsification of God here on your blog! Because I come to you today after debating with a private-school math teacher about the falsification of *you*--specifically the testimony about your internal experience. This individual has consciously trained himself to be a great human calculator, and has a strong suspicion that you could be conducting a hoax (but given the lack of falsifiability, he isn't interested in your experiences either way).}
 
-{For the problems you demonstrated in the video he saw, he thinks he's order of magnitudes faster than you are. Thus he knows he could finish the computation consciously, then make up a "wacky" story about how he experiences it in his head. He'd just embellish with phenomena that were one-to-one mappings to number properties (that would need to be known to conduct the computing process for those numbers anyway). That way, he'd be consistent in his descriptions if asked months... or years... later.}
+    {I won't send you his treatise "debunking" you for two reasons. One is that it's pretty mean-spirited in tone, and I think he's not someone you should speak to (for the mere reason of avoiding interactions with unpleasant people). The other is that he's made it clear that he won't talk to you or researchers on the subject of how to design better tests--so you're stuck talking to me in any case. :) I'll try and summarize his points without distorting them. If you'd like me to send you the original entry I can do that in a followup, but it's harsh words and any reply would fall on deaf and hostile ears.}
 
-{I put forth that he might not be debunking you, but rather explaining you. Someone with his specific experience could be valuable in providing insights about the shapes you see. After a lifetime of living in a mysterious mental world no one else understands, what if someone could predict the patterns in your answers? How would you feel if you and another person went in separate rooms and were asked to draw a list of numbers you've never drawn for anyone, and the other came back with the same drawings?}
+    {The key problem is that when he watched the documentary, you were asked what he knows to be math problems with well-publicized mental shortcuts. Thus, you should have been asked things more like "7139 times 41562" (a problem class which doesn't have known generalized tricks). His suspicion is that when asked something actually difficult, you would nervously fidget and say something like "it's murky" or "it all relates to the, uh, ugliness of 17". He thinks that's convenient... perhaps TOO convenient. To wit:}
 
-{That won't happen with the critic in question (for the reasons listed above). But I'm sure that if you're willing to step up to the plate for more "hardball" you might find others who *would* be interested in getting to that point, if you haven't already. The problem is that your documentary didn't seem to contain anything indicating you're working with the right people to accomplish this.}
+    {If you're doing mental computation, 17 is an ugly number to work with. Unless you couple it with another number, like 6 (to make 6 times 17 = 102), it's hard to find a nice way to multiply by 17. 17 squared is 289. Now, when doing large computations, you have to pair 17 with 'nice' numbers twice to perform well. So, if 289 is involved, the computations are 'ugly' to try to do mentally. It makes for a nice excuse if you miss those problems: 'The squiggles in my head were ugly this time hard to read.'}
 
-{One thing that would really help (though possibly unrealistic) would be if your methods could solve problems *like* 7139*41562 in your head. I'd be interested in what you have to say about that. If you *can* do it, and describe the process, you might hold mathematical keys to more quickly solving problems which have no current shortcuts. That would attract the attention of more serious mathematicians than the ones portrayed in the movie.}
+    {For the problems you demonstrated in the video he saw, he thinks he's order of magnitudes faster than you are. Thus he knows he could finish the computation consciously, then make up a "wacky" story about how he experiences it in his head. He'd just embellish with phenomena that were one-to-one mappings to number properties (that would need to be known to conduct the computing process for those numbers anyway). That way, he'd be consistent in his descriptions if asked months... or years... later.}
 
-{But a central issue is: can you yourself think of a test that would help with the question of the falsifiability of your internal experiences? How have you and researchers looked at this issue? What kind of things have you tried?}
+    {I put forth that he might not be debunking you, but rather explaining you. Someone with his specific experience could be valuable in providing insights about the shapes you see. After a lifetime of living in a mysterious mental world no one else understands, what if someone could predict the patterns in your answers? How would you feel if you and another person went in separate rooms and were asked to draw a list of numbers you've never drawn for anyone, and the other came back with the same drawings?}
 
-{I would greatly appreciate a response... I'll try and contact you another way if I don't get one here on the blog.}
+    {That won't happen with the critic in question (for the reasons listed above). But I'm sure that if you're willing to step up to the plate for more "hardball" you might find others who *would* be interested in getting to that point, if you haven't already. The problem is that your documentary didn't seem to contain anything indicating you're working with the right people to accomplish this.}
 
-"<|^^ Best wishes ^^|>"
+    {One thing that would really help (though possibly unrealistic) would be if your methods could solve problems *like* 7139*41562 in your head. I'd be interested in what you have to say about that. If you *can* do it, and describe the process, you might hold mathematical keys to more quickly solving problems which have no current shortcuts. That would attract the attention of more serious mathematicians than the ones portrayed in the movie.}
+
+    {But a central issue is: can you yourself think of a test that would help with the question of the falsifiability of your internal experiences? How have you and researchers looked at this issue? What kind of things have you tried?}
+
+    {I would greatly appreciate a response... I'll try and contact you another way if I don't get one here on the blog.}
+
+    "<|^^ Best wishes ^^|>"
+
+]

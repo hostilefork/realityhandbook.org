@@ -6,34 +6,46 @@ Draem [
     old: http://realityhandbook.livejournal.com/93984.html
 ]
 
-{I was going somewhere for a job interview. I'd gotten into a garage and parked, and I had a sense of puzzlement and felt lost. It was like I had wanted to get into the building but wasn't supposed to, and now my car was locked inside and I would have trouble getting out.}
+print << [
 
-{Walking towards the stairwell, I not to look suspicious. I opened a door for a woman carrying a box, and went up the stairs to the building's interior. Poking around a bit, I thought back to the instructions I had received. There had been a previous interview, which had gone well. Not entirely sure why I'd need any second interview after my first appointment.}
+    {I was going somewhere for a job interview. I'd gotten into a garage and parked, and I had a sense of puzzlement and felt lost. It was like I had wanted to get into the building but wasn't supposed to, and now my car was locked inside and I would have trouble getting out.}
 
-{I reflected on the address of this place in my head, it was something like 168th and La Jolla. As I remembered what I'd been told, my view changed to a wall of spinning cassette decks... and I was listening to a voice:}
+    {Walking towards the stairwell, I not to look suspicious. I opened a door for a woman carrying a box, and went up the stairs to the building's interior. Poking around a bit, I thought back to the instructions I had received. There had been a previous interview, which had gone well. Not entirely sure why I'd need any second interview after my first appointment.}
 
-[voice: {So that's how they're doing it. They say 'Okay very good interview, but take this paperwork down to 168th and La Jolla.' The candidate signs and does whatever, saying 'Oh, sure I'll take the paperwork, I really need this job.' The people at the building take the papers, no one gets in, and the reason no one gets in... it's an *embassy*!!! The people have no idea what the paperwork means, or the power of the messages they have given their names to.}]
+    {I reflected on the address of this place in my head, it was something like 168th and La Jolla. As I remembered what I'd been told, my view changed to a wall of spinning cassette decks... and I was listening to a voice:}
 
-{I continued hearing a voice, though it may have been different.}
+]
 
-[voice: {Bastards, bastards bastards, WE STOP THEM NOW! What's the point of waiting instead of acting? This is a pathetic display of immuscle. In fact, if you do *not* take action, I'm going file a motion to have you and everyone else responsible executed.}]
+dialog [voice: {So that's how they're doing it. They say 'Okay very good interview, but take this paperwork down to 168th and La Jolla.' The candidate signs and does whatever, saying 'Oh, sure I'll take the paperwork, I really need this job.' The people at the building take the papers, no one gets in, and the reason no one gets in... it's an *embassy*!!! The people have no idea what the paperwork means, or the power of the messages they have given their names to.}]
 
-[note {immuscle was a strange word that stood out. I thought it would be interesting if it were a real word, because it's not one I'd heard. Doesn't seem to be.}]
+print {I continued hearing a voice, though it may have been different.}
 
-[voice: {That is not your decision. Project managers should stick to project management. Though if you want to get hands-on and do something about it, I'll give you a transfer. You can sit in with the guys in the trenches for a while.}]
+dialog [voice: {Bastards, bastards bastards, WE STOP THEM NOW! What's the point of waiting instead of acting? This is a pathetic display of immuscle. In fact, if you do *not* take action, I'm going file a motion to have you and everyone else responsible executed.}]
 
-{The voice turned away from its argument partner (which may have been itself, I almost got the feeling it was reflecting on both sides of a conversation) and seemed to acknowledge that I was able to listen in on the conversation:}
+note {immuscle was a strange word that stood out. I thought it would be interesting if it were a real word, because it's not one I'd heard. Doesn't seem to be.}
 
-{**voice**: (to me) "I'm not using you. You're incredibly talented, but you also believe as I believe."}
+dialog [voice: {That is not your decision. Project managers should stick to project management. Though if you want to get hands-on and do something about it, I'll give you a transfer. You can sit in with the guys in the trenches for a while.}]
 
-[me: "That's nice, but wait. Who are you?"]
+print << [
 
-{I felt like I could make out an image of something. Almost botanical...like a flower, but alive and with moving bits on its face that were motioning as it talked.}
+    {The voice turned away from its argument partner (which may have been itself, I almost got the feeling it was reflecting on both sides of a conversation) and seemed to acknowledge that I was able to listen in on the conversation:}
 
-[me: "No, but I mean more... WHAT are you?"]
+    {**voice**: (to me) "I'm not using you. You're incredibly talented, but you also believe as I believe."}
 
-[voice: {I could write down a name. Funny you mention it, I'm actually getting one worked up. But it wouldn't be worth the effort to transmit.}]
+]
 
-[me: {Let me try simpler questions. Would you consider yourself an 'alien being'? Do you now, or have you ever resided in my physical universe in a way that might visit our planet?}]
+dialog [me: "That's nice, but wait. Who are you?"]
 
-{There was a jolt of electricity on the face of the flower being. I heard what seemed like a yelp and I snapped out of the hypnagogic state.}
+print {I felt like I could make out an image of something. Almost botanical...like a flower, but alive and with moving bits on its face that were motioning as it talked.}
+
+dialog [
+
+    me: "No, but I mean more... WHAT are you?"
+
+    voice: {I could write down a name. Funny you mention it, I'm actually getting one worked up. But it wouldn't be worth the effort to transmit.}
+
+    me: {Let me try simpler questions. Would you consider yourself an 'alien being'? Do you now, or have you ever resided in my physical universe in a way that might visit our planet?}
+
+]
+
+print {There was a jolt of electricity on the face of the flower being. I heard what seemed like a yelp and I snapped out of the hypnagogic state.}

@@ -6,52 +6,72 @@ Draem [
     old: http://realityhandbook.livejournal.com/48759.html
 ]
 
-{I was in swirling gray clouds of imagery. From the swirling shapes, I picked an image out of the clouds and focused onto it, until I found myself in a very stable dark room. I felt like I had been there before.}
+print << [
 
-{A large Disney-like character came running straight at me, and I could see that it was built out of projected light. Walking around and up some ramps, someone handed me a small black leather belt. It was too small to wear, and I perceived that the people in these rooms were fighting each other and it had been given to me as a weapon.}
+    {I was in swirling gray clouds of imagery. From the swirling shapes, I picked an image out of the clouds and focused onto it, until I found myself in a very stable dark room. I felt like I had been there before.}
 
-{A guy in a stereotypical "gay" S&amp;M outfit tried to hit me with a belt, I grabbed it and took a bite out of it and spat it on the ground.}
+    {A large Disney-like character came running straight at me, and I could see that it was built out of projected light. Walking around and up some ramps, someone handed me a small black leather belt. It was too small to wear, and I perceived that the people in these rooms were fighting each other and it had been given to me as a weapon.}
 
-[bondage-guy: <effeminately> "Ooo, I *like* your *style*!"]
+    {A guy in a stereotypical "gay" S&amp;M outfit tried to hit me with a belt, I grabbed it and took a bite out of it and spat it on the ground.}
 
-[me: <angrily> {My style is not attacking people with belts. You should cut that out.}]
+]
 
-{I kept walking away from these somewhat barren looking areas to a living room, with pillowed couches. Walking toward two women who I thought I recognized, I sat down on the floor.}
+dialog [
 
-[me: {I sat here once before, you may remember me. Everything is remarkably clear this time. I can see things very well, it's usually distorted or out of proportion but I can pretty much say that my vision is spot on, almost like waking life. Better maybe, I can read numbers in the distance without glasses.}]
+    bondage-guy: <effeminately> "Ooo, I *like* your *style*!"
 
-[note {I don't know what I was referring to, because I've never logged a dream in this place, but in the dream I had the feeling of deja-vu.}]
+    me: <angrily> {My style is not attacking people with belts. You should cut that out.}
 
-[her: "My name is Judy. I'm from the management."]
+]
 
-[me: "You manage... what?"]
+print {I kept walking away from these somewhat barren looking areas to a living room, with pillowed couches. Walking toward two women who I thought I recognized, I sat down on the floor.}
 
-[her: "This building, the T-shaped *(B-shaped?)* thing"]
+dialog [me: {I sat here once before, you may remember me. Everything is remarkably clear this time. I can see things very well, it's usually distorted or out of proportion but I can pretty much say that my vision is spot on, almost like waking life. Better maybe, I can read numbers in the distance without glasses.}]
 
-{I looked outside a window and saw several tall buildings, I wondered if she managed those too. We got up and started walking into a fairly nice Italian restaurant.}
+note {I don't know what I was referring to, because I've never logged a dream in this place, but in the dream I had the feeling of deja-vu.}
 
-[note {The restaurant evoked a memory of a place where a previous dream where I was questioning people about how to pay for meals in dream currency.}]
+dialog [
 
-[me: {You know, I used to wonder what the problem was with the pain and everything, but now that my senses are working I see you have people out there... hitting people with belts. If you're the manager, can you do something about the psychos with belts out there?}]
+    her: "My name is Judy. I'm from the management."
 
-[her: {It's a real problem, they killed a FedEx guy, and...}]
+    me: "You manage... what?"
 
-{She then talked about some other types of people who had shown up they'd killed I couldn't quite catch.}
+    her: "This building, the T-shaped *(B-shaped?)* thing"
 
-[me: "So what happens when you kill *them*?"]
+]
 
-[her: <sigh> "Well, maybe we'll be able to get to that."]
+print {I looked outside a window and saw several tall buildings, I wondered if she managed those too. We got up and started walking into a fairly nice Italian restaurant.}
 
-{While she was ordering something from a man behind a counter, I took in some of the prices for food on the wall. Pizza slices were in the $1.49ish range. I was actually kind of thirsty, so I decided to try and order a root beer. Curious again about the monetary issue, I fumbled for my wallet.}
+note {The restaurant evoked a memory of a place where a previous dream where I was questioning people about how to pay for meals in dream currency.}
 
-[me: {Am I going to have some kind of back to the future issue with money, here?}]
+dialog [
 
-{The wallet I was carrying was like my ordinary wallet, but the bills were a more pale shade of green and looked a little older, and everything was like 11 dollar bills. I tried to hand one to the cashier.}
+    me: {You know, I used to wonder what the problem was with the pain and everything, but now that my senses are working I see you have people out there... hitting people with belts. If you're the manager, can you do something about the psychos with belts out there?}
 
-[cashier: {Oh, man, no... you aren't seriously going to make me go get quarters are you?}]
+    her: {It's a real problem, they killed a FedEx guy, and...}
 
-{An older man stepped in front of me, said my real name while shaking his head, and encouraged me to put my money away. He seemed friendly enough, so I didn't get the gist that he was saying I couldn't have anything, but that I shouldn't be concerned about payment. Still, I slapped an 11 dollar bill on the counter.}
+]
 
-[me: "Well in any case, I'll have a root beer."]
+print {She then talked about some other types of people who had shown up they'd killed I couldn't quite catch.}
 
-"I awoke and never got my root beer."
+dialog [
+
+    me: "So what happens when you kill *them*?"
+
+    her: <sigh> "Well, maybe we'll be able to get to that."
+
+]
+
+print {While she was ordering something from a man behind a counter, I took in some of the prices for food on the wall. Pizza slices were in the $1.49ish range. I was actually kind of thirsty, so I decided to try and order a root beer. Curious again about the monetary issue, I fumbled for my wallet.}
+
+dialog [me: {Am I going to have some kind of back to the future issue with money, here?}]
+
+print {The wallet I was carrying was like my ordinary wallet, but the bills were a more pale shade of green and looked a little older, and everything was like 11 dollar bills. I tried to hand one to the cashier.}
+
+dialog [cashier: {Oh, man, no... you aren't seriously going to make me go get quarters are you?}]
+
+print {An older man stepped in front of me, said my real name while shaking his head, and encouraged me to put my money away. He seemed friendly enough, so I didn't get the gist that he was saying I couldn't have anything, but that I shouldn't be concerned about payment. Still, I slapped an 11 dollar bill on the counter.}
+
+dialog [me: "Well in any case, I'll have a root beer."]
+
+print "I awoke and never got my root beer."

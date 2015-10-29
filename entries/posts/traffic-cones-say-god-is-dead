@@ -6,36 +6,56 @@ Draem [
     old: http://realityhandbook.livejournal.com/17286.html
 ]
 
-{I was laying on my back on a bed, and closed my eyes but could still see the stucco-type ceiling with a 3-D texture of white paint. Checking to see whether it was real or not, I felt my eyelids to see if they were possibly cracked open--but they weren't. Information started scrolling by on the ceiling, star-wars-intro style.}
+print << [
 
-{Each paragraph was preceded by an icon of a traffic cone, and the words were flying by fast. I tried to pay attention to the content, which was academic and textual in nature. This switched to shorter messages, and I started being able to read them better.}
+    {I was laying on my back on a bed, and closed my eyes but could still see the stucco-type ceiling with a 3-D texture of white paint. Checking to see whether it was real or not, I felt my eyelids to see if they were possibly cracked open--but they weren't. Information started scrolling by on the ceiling, star-wars-intro style.}
 
-[traffic-cone: "god is dead"]
+    {Each paragraph was preceded by an icon of a traffic cone, and the words were flying by fast. I tried to pay attention to the content, which was academic and textual in nature. This switched to shorter messages, and I started being able to read them better.}
 
-[traffic-cone: "god is dead"]
+]
 
-[traffic-cone: "god is dead"]
+dialog [
 
-[traffic-cone: "god is god"]
+    traffic-cone: "god is dead"
 
-[traffic-cone: "deep"]
+    traffic-cone: "god is dead"
 
-[traffic-cone: "epic work"]
+    traffic-cone: "god is dead"
 
-[note {Perhaps wishful thinking, but I understood the "epic work" was an analysis of me and my projects.}]
+    traffic-cone: "god is god"
 
-[me: "Thanks?"]
+    traffic-cone: "deep"
 
-[traffic-cone: "thanks"]
+    traffic-cone: "epic work"
 
-[me: {So, it's fun and all, but I'm lonely here. So if you could send someone to keep me company I'd really appreciate it.}]
+]
 
-{A giant screen appeared, levitating in the room. It had lots of numbers and information, and one number was running shorter and shorter down to zero.}
+note {Perhaps wishful thinking, but I understood the "epic work" was an analysis of me and my projects.}
 
-[note {It resembled an electronic clapboard that would be used for tracking timecode in a movie:} [picture %digital_clapboard.jpg] {...though the numbers were measuring distance in meters, not time.}]
+dialog [
 
-{When the counter hit zero, there was a knock at the door, and I got up off the bed and went to answer it. I was a bit disappointed to see it was my mom.}
+    me: "Thanks?"
 
-[mom: {I'd called and you hadn't answered the phone, why not?}]
+    traffic-cone: "thanks"
 
-{The next thing I knew I was watching some people who had put a polar bear and a tiger together to see which would win in a fight. It struck me as rather cruel.}
+    me: {So, it's fun and all, but I'm lonely here. So if you could send someone to keep me company I'd really appreciate it.}
+
+]
+
+print {A giant screen appeared, levitating in the room. It had lots of numbers and information, and one number was running shorter and shorter down to zero.}
+
+note [
+
+    print {It resembled an electronic clapboard that would be used for tracking timecode in a movie:}
+
+    picture %digital_clapboard.jpg
+
+    print {...though the numbers were measuring distance in meters, not time.}
+
+]
+
+print {When the counter hit zero, there was a knock at the door, and I got up off the bed and went to answer it. I was a bit disappointed to see it was my mom.}
+
+dialog [mom: {I'd called and you hadn't answered the phone, why not?}]
+
+print {The next thing I knew I was watching some people who had put a polar bear and a tiger together to see which would win in a fight. It struck me as rather cruel.}

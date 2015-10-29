@@ -6,26 +6,34 @@ Draem [
     old: http://realityhandbook.livejournal.com/47319.html
 ]
 
-{I was flipping through some movies, because I was trying to select a film for some purpose. When I could not find it, I began describing the film I was looking for to someone in the room.}
+print {I was flipping through some movies, because I was trying to select a film for some purpose. When I could not find it, I began describing the film I was looking for to someone in the room.}
 
-[him: "Is this a new story?"]
+dialog [
 
-[me: {No, it's a very common one... the idea that believing in something makes it real... thought incarnates into a form. Buddhist thing. Kind of like how we are incarnated now.}]
+    him: "Is this a new story?"
 
-{Had I been less groggy, I might have said *Velveteen Rabbit*. I noticed I was dreaming and began describing what he looked like. He vaguely resembled the level of computer-generated avatar design that was in the Dire Straits [money for nothing](http://youtube.com/watch?v=x8Qvv3RdW-Q) video.}
+    me: {No, it's a very common one... the idea that believing in something makes it real... thought incarnates into a form. Buddhist thing. Kind of like how we are incarnated now.}
 
-[me: {You look like you have purple hair, almost in the shape of a helmet. And you don't have feet, your legs end in rounded nubs. What do I look like?}]
+]
 
-[him: "Why don't you look in a mirror?"]
+print {Had I been less groggy, I might have said *Velveteen Rabbit*. I noticed I was dreaming and began describing what he looked like. He vaguely resembled the level of computer-generated avatar design that was in the Dire Straits [money for nothing](http://youtube.com/watch?v=x8Qvv3RdW-Q) video.}
 
-[me: "I'm afraid it might make me wake up faster."]
+dialog [
 
-[him: "Don't worry about that."]
+    me: {You look like you have purple hair, almost in the shape of a helmet. And you don't have feet, your legs end in rounded nubs. What do I look like?}
 
-{I was kind of stocky also, with a kind of computer-animation five-o-clock shadow. I was wearing blue denim, and the collar of the shirt I had on was some kind of lopsided buckle. I took off the shirt and saw I was wearing a black cape underneath that. There was only one mirror, so I looked at another wall and a second mirror materialized. I confirmed that I looked the same.}
+    him: "Why don't you look in a mirror?"
 
-[him: "I'm gonna charge you extra for that second mirror."]
+    me: "I'm afraid it might make me wake up faster."
 
-"I responded with a confused look."
+    him: "Don't worry about that."
 
-[him: {No, no! I'm just making a joke. I like that you looked in more than one. It's good thinking.}]
+]
+
+print {I was kind of stocky also, with a kind of computer-animation five-o-clock shadow. I was wearing blue denim, and the collar of the shirt I had on was some kind of lopsided buckle. I took off the shirt and saw I was wearing a black cape underneath that. There was only one mirror, so I looked at another wall and a second mirror materialized. I confirmed that I looked the same.}
+
+dialog [him: "I'm gonna charge you extra for that second mirror."]
+
+print "I responded with a confused look."
+
+dialog [him: {No, no! I'm just making a joke. I like that you looked in more than one. It's good thinking.}]

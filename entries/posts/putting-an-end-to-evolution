@@ -5,82 +5,122 @@ Draem [
     tags: [lucid-dream evolution god neutral]
 ]
 
-{I'd been participating in some kind of virtual-reality movie, where the plot was about a super-criminal mastermind who had been caught and put in jail.  Someone tried to assassinate him, and he had to be taken to a hospital.  But it turned out that the assassin was sent by his criminal group, in order to get him taken to a hospital where they had enough control and fake staff to have him escape.}
+print << [
 
-{A large man who looked a bit like Penn Gilette was helping the criminal (me) to escape.  We had a discussion that I understood to be regarding someone we liked, who had nonetheless either been involved in me getting caught, or was going to testify against me afterward.}
+    {I'd been participating in some kind of virtual-reality movie, where the plot was about a super-criminal mastermind who had been caught and put in jail.  Someone tried to assassinate him, and he had to be taken to a hospital.  But it turned out that the assassin was sent by his criminal group, in order to get him taken to a hospital where they had enough control and fake staff to have him escape.}
 
-[me: "So, did you wind up having to kill him."]
+    {A large man who looked a bit like Penn Gilette was helping the criminal (me) to escape.  We had a discussion that I understood to be regarding someone we liked, who had nonetheless either been involved in me getting caught, or was going to testify against me afterward.}
 
-[large-man: <muttering> {Yes, and it was a shame.  It's like losing your favorite tool from your toolbox.}]
+]
 
-{We were escaping out of a window.  The scene shifted to a part where I was confronting an Asian girl who I understood to have been the one who had initiated the reports that got me caught.  I was no longer the criminal, but was standing there next to him as he threatened her.}
+dialog [
 
-{I became distracted by something I saw in the grass that had been dropped; I don't know if it was important or not.  When I stood they were gone, and I was at the dead end of some kind of narrow street that had shops and restaurants.  At this point, I was feeling a bit woozy and realizing that I was in a dream.  But I decided to explore while I could.  There was a door that I approached.}
+    me: "So, did you wind up having to kill him."
 
-[me: <to self> "Ah yes, this is the place where they put that bar."]
+    large-man: <muttering> {Yes, and it was a shame.  It's like losing your favorite tool from your toolbox.}
 
-{I opened the door to find a restaurant, with lots of tables.  My perspective was a bit skewed, so it was like I was seeing all the tables through a fisheye lens.}
+]
 
-[me: <to self> {Okay, I'm very sure this is where the bar was supposed to be, but... oh, wait.  Maybe the restaurant *has* a bar.}]
+print << [
 
-{Walking between the tables, I headed to the back of the restaurant.  There was a small bar area with some tables, and a counter that had about 10 seats.  There were two open seats on either side of a man seated roughly in the middle.}
+    {We were escaping out of a window.  The scene shifted to a part where I was confronting an Asian girl who I understood to have been the one who had initiated the reports that got me caught.  I was no longer the criminal, but was standing there next to him as he threatened her.}
 
-{I went to sit at the closer open seat, but a kind of hipster-looking guy reacted to try and get someone from a table to come sit there before I could.  Muttering and making a gesture at him, I just passed and sat in the other open seat.}
+    {I became distracted by something I saw in the grass that had been dropped; I don't know if it was important or not.  When I stood they were gone, and I was at the dead end of some kind of narrow street that had shops and restaurants.  At this point, I was feeling a bit woozy and realizing that I was in a dream.  But I decided to explore while I could.  There was a door that I approached.}
 
-[bartender: "What would you like?"]
+]
 
-[me: {I'll wake up soon... so... I dunno.  Let's see what I can afford, you tell me what's the best I can get with that.}]
+dialog [me: <to self> "Ah yes, this is the place where they put that bar."]
 
-{Pulling out my wallet, I produced what appeared to be about $10 in small bills.  The bartender went to get a glass, and came back with a sort of unusually small glass that contained a yellow liquid with a sugar crusting on the rim.  It tasted a bit like a [Sidecar](http://en.wikipedia.org/wiki/Sidecar_(cocktail)).}
+print {I opened the door to find a restaurant, with lots of tables.  My perspective was a bit skewed, so it was like I was seeing all the tables through a fisheye lens.}
 
-{Someone handed me a small piece of paper.  It had some bar code or other scan code on it.  For some reason, I understood this to relate to a bank account or financial transaction.  When I stopped looking at that and went back to look at the bar, there was a large pile of money in front of me, containing $50 and $100 bills.  There was also a fat brown accordion-style hanging folder full of things that looked like blank certificates, potentially the kind of things that would be used to make forgeries.}
+dialog [me: <to self> {Okay, I'm very sure this is where the bar was supposed to be, but... oh, wait.  Maybe the restaurant *has* a bar.}]
 
-[me: {Well, I don't know where this money came from.  I wasn't paying attention.  People throwing money at me, here?}]
+print << [
 
-{Some of the people in the bar laughed, and joked about how none of them had any money so it didn't come from them.  The bartender brought me my tab and it said what I thought was $36, but it turned out it was $6 and I had mistaken the $ for a 3.  I went to finish my drink and started asking questions.}
+    {Walking between the tables, I headed to the back of the restaurant.  There was a small bar area with some tables, and a counter that had about 10 seats.  There were two open seats on either side of a man seated roughly in the middle.}
 
-[me: {So, I guess it might sound crazy when people ask questions of locals that it is believed everyone should know.  Like "where's the post office" might seem pretty dumb if everyone is supposed to know that.  Usually when someone asks those kinds of questions, it means the person asking is lost.  So let's say you're a time traveler and you get lost.  What, uh, time coordinate is this place in?}]
+    {I went to sit at the closer open seat, but a kind of hipster-looking guy reacted to try and get someone from a table to come sit there before I could.  Muttering and making a gesture at him, I just passed and sat in the other open seat.}
 
-{A man at the bar made a kind of resigned grumbling look at me, as he swished his drink.}
+]
 
-[man-at-bar: "Coordinates are Thursday 25, Friday 35."]
+dialog [
 
-[me: <pausing for a moment> {Not sure if it's a wise move, or an unwise one, to tell everyone I have no idea at all how to interpret that.}]
+    bartender: "What would you like?"
 
-[man-at-bar: <looking up> {They say you should point your finger and arm to the North.}]
+    me: {I'll wake up soon... so... I dunno.  Let's see what I can afford, you tell me what's the best I can get with that.}
 
-[me: "Which way is North?"]
+]
 
-{The man gestured at the sun out the window and faced me toward it, then he raised my arm relative to it.}
+print << [
 
-[note {I don't remember which arm, and I don't know what time of day it was or if this was a place obeying Earth's conventions.  But his point was that I could locate the direction by looking at the sun.}]
+    {Pulling out my wallet, I produced what appeared to be about $10 in small bills.  The bartender went to get a glass, and came back with a sort of unusually small glass that contained a yellow liquid with a sugar crusting on the rim.  It tasted a bit like a [Sidecar](http://en.wikipedia.org/wiki/Sidecar_(cocktail)).}
 
-{When I'd pointed, I noticed I was pointing to one particular table with two people sitting at it.  One was a reasonably attractive woman.  She came over to me and beckoned me to follow her.  We went down a hallway into a room I recognized from another dream.}
+    {Someone handed me a small piece of paper.  It had some bar code or other scan code on it.  For some reason, I understood this to relate to a bank account or financial transaction.  When I stopped looking at that and went back to look at the bar, there was a large pile of money in front of me, containing $50 and $100 bills.  There was also a fat brown accordion-style hanging folder full of things that looked like blank certificates, potentially the kind of things that would be used to make forgeries.}
 
-[note {The room was from a dream I did not bother to write down.  It was vivid but not lucid or terribly interesting to me at the time.  But it was an odd thing about a performance in a restaurant, which then turned into some kind of party for a religious group.  There was a thematic thing about clearing out all the alcohol before the religious group arrived, because although the restaurant served it during normal hours they wouldn't tolerate it.}]
+]
 
-[me: <excitedly> {Hey, this place!  Where that party was!  To visit the same place twice, that doesn't happen too often.}]
+dialog [me: {Well, I don't know where this money came from.  I wasn't paying attention.  People throwing money at me, here?}]
 
-[woman: <sighing> {Fascinating.  Look, our issue here with you is that you haven't really explained what it is you're wishing for.  How do you expect to get something if you never tell anyone what it is?}]
+print {Some of the people in the bar laughed, and joked about how none of them had any money so it didn't come from them.  The bartender brought me my tab and it said what I thought was $36, but it turned out it was $6 and I had mistaken the $ for a 3.  I went to finish my drink and started asking questions.}
 
-[me: {I don't think... I don't think I've been all that unclear.  I've suggested that there needs to be more choice, more clarity, more "safety" in this game, whatever it is.  Think about the video games where you have a menu, and you get to choose the difficulty level.  Or you get to pick another game entirely.  My complaint about life is the lack of that choice.}]
+dialog [me: {So, I guess it might sound crazy when people ask questions of locals that it is believed everyone should know.  Like "where's the post office" might seem pretty dumb if everyone is supposed to know that.  Usually when someone asks those kinds of questions, it means the person asking is lost.  So let's say you're a time traveler and you get lost.  What, uh, time coordinate is this place in?}]
 
-{We kept walking and it seemed I was following her through a mall or department store, there were clothes and mannequins and products of all kinds.  Periodically she'd stop and look at something while I was talking.}
+print {A man at the bar made a kind of resigned grumbling look at me, as he swished his drink.}
 
-[me: {So imagine, there's something you don't like.  Maybe it's aging, maybe it's feeling cold or feeling pain.  You should be able to have some mechanism to say 'turn that off'.  Or at least gradually feed back to turning it down.  Maybe if you're worried someone would make a permanent decision and then later regret it, it would only apply for a little while and then pop you back to say "did that work for you?"  Like when you change your screen resolution on a computer, it will try it for a few seconds but then bring you back to the previous mode to make sure it worked and you don't permanently have a malfunctioning screen if it didn't.}]
+dialog [
 
-[woman: <disapproving> {To go from the premises to the implied conclusions, it sounds like you are asking the powers-that-be to *"put an end to evolution"*.  I won't personally take your case, but I can 'feature' it and see if there's someone who will.}]
+    man-at-bar: "Coordinates are Thursday 25, Friday 35."
 
-{By now we were walking outside on a crowded street.}
+    me: <pausing for a moment> {Not sure if it's a wise move, or an unwise one, to tell everyone I have no idea at all how to interpret that.}
 
-[me: <frustrated> {I'm not asking to put an end to evolution, but evolution is a technique...it should be a tool in service of a goal.  You shouldn't worship evolution in and of itself, that's like being a pyromaniac worshipping fire just because it can be useful.  Fire isn't God, evolution isn't God, they are tools of God.}]
+    man-at-bar: <looking up> {They say you should point your finger and arm to the North.}
 
-"A man leaning against a wall stopped me."
+    me: "Which way is North?"
 
-[leaning-man: {Hey, don't bring up God.  You're on my friends list.  When you say something, it impacts my reputation.}]
+]
 
-[me: {Since when is it a problem to bring up God?  Don't you have any religious friends?}]
+print {The man gestured at the sun out the window and faced me toward it, then he raised my arm relative to it.}
 
-[leaning-man: <smirking> "No."]
+note {I don't remember which arm, and I don't know what time of day it was or if this was a place obeying Earth's conventions.  But his point was that I could locate the direction by looking at the sun.}
 
-[me: <angrily, pinning him to the wall> {Listen you smug-faced jerk.  I don't even *know who you are*, or who *you think I am*.  But if I'm here, then something beyond your realm of understanding is definitely afoot.  And whether it's God or aliens or robots I don't know.  But all the Facebook friend points or Monopoly money in the world isn't going to secure you against the things you don't currently know.}]
+print {When I'd pointed, I noticed I was pointing to one particular table with two people sitting at it.  One was a reasonably attractive woman.  She came over to me and beckoned me to follow her.  We went down a hallway into a room I recognized from another dream.}
+
+note {The room was from a dream I did not bother to write down.  It was vivid but not lucid or terribly interesting to me at the time.  But it was an odd thing about a performance in a restaurant, which then turned into some kind of party for a religious group.  There was a thematic thing about clearing out all the alcohol before the religious group arrived, because although the restaurant served it during normal hours they wouldn't tolerate it.}
+
+dialog [
+
+    me: <excitedly> {Hey, this place!  Where that party was!  To visit the same place twice, that doesn't happen too often.}
+
+    woman: <sighing> {Fascinating.  Look, our issue here with you is that you haven't really explained what it is you're wishing for.  How do you expect to get something if you never tell anyone what it is?}
+
+    me: {I don't think... I don't think I've been all that unclear.  I've suggested that there needs to be more choice, more clarity, more "safety" in this game, whatever it is.  Think about the video games where you have a menu, and you get to choose the difficulty level.  Or you get to pick another game entirely.  My complaint about life is the lack of that choice.}
+
+]
+
+print {We kept walking and it seemed I was following her through a mall or department store, there were clothes and mannequins and products of all kinds.  Periodically she'd stop and look at something while I was talking.}
+
+dialog [
+
+    me: {So imagine, there's something you don't like.  Maybe it's aging, maybe it's feeling cold or feeling pain.  You should be able to have some mechanism to say 'turn that off'.  Or at least gradually feed back to turning it down.  Maybe if you're worried someone would make a permanent decision and then later regret it, it would only apply for a little while and then pop you back to say "did that work for you?"  Like when you change your screen resolution on a computer, it will try it for a few seconds but then bring you back to the previous mode to make sure it worked and you don't permanently have a malfunctioning screen if it didn't.}
+
+    woman: <disapproving> {To go from the premises to the implied conclusions, it sounds like you are asking the powers-that-be to *"put an end to evolution"*.  I won't personally take your case, but I can 'feature' it and see if there's someone who will.}
+
+]
+
+print {By now we were walking outside on a crowded street.}
+
+dialog [me: <frustrated> {I'm not asking to put an end to evolution, but evolution is a technique...it should be a tool in service of a goal.  You shouldn't worship evolution in and of itself, that's like being a pyromaniac worshipping fire just because it can be useful.  Fire isn't God, evolution isn't God, they are tools of God.}]
+
+print "A man leaning against a wall stopped me."
+
+dialog [
+
+    leaning-man: {Hey, don't bring up God.  You're on my friends list.  When you say something, it impacts my reputation.}
+
+    me: {Since when is it a problem to bring up God?  Don't you have any religious friends?}
+
+    leaning-man: <smirking> "No."
+
+    me: <angrily, pinning him to the wall> {Listen you smug-faced jerk.  I don't even *know who you are*, or who *you think I am*.  But if I'm here, then something beyond your realm of understanding is definitely afoot.  And whether it's God or aliens or robots I don't know.  But all the Facebook friend points or Monopoly money in the world isn't going to secure you against the things you don't currently know.}
+
+]

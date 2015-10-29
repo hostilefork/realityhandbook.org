@@ -6,36 +6,48 @@ Draem [
     old: http://realityhandbook.livejournal.com/59871.html
 ]
 
-{I was somehow climbing a ladder for the purposes of a play that involved Peanuts characters.}
+print {I was somehow climbing a ladder for the purposes of a play that involved Peanuts characters.}
 
-[someone: "This play you've written is so excellent!"]
+dialog [
 
-[me: "Oh, I didn't write it. Bill Bixby did."]
+    someone: "This play you've written is so excellent!"
 
-[note {I had no idea who [Bill Bixby](http://en.wikipedia.org/wiki/Bill_Bixby) was prior to looking it up after this dream.}]
+    me: "Oh, I didn't write it. Bill Bixby did."
 
-{Coming down from the ladder, there was an interviewer, some producer, and Steve Martin.}
+]
 
-[producer: {We're going to make a lot of money tonight on ticket sales!}]
+note {I had no idea who [Bill Bixby](http://en.wikipedia.org/wiki/Bill_Bixby) was prior to looking it up after this dream.}
 
-[steve-martin: "Well, you deserve success, it's great work."]
+print {Coming down from the ladder, there was an interviewer, some producer, and Steve Martin.}
 
-[interviewer: "Would it be okay if I quoted you on that?"]
+dialog [
 
-[steve-martin: "That would be fine."]
+    producer: {We're going to make a lot of money tonight on ticket sales!}
 
-[interviewer: <to me> {Can you tell me about your involvement with the production?}]
+    steve-martin: "Well, you deserve success, it's great work."
 
-{At this point I became lucid, and started asking questions about the environment. Yet as I walked around the stage all the people were disappearing. There was only me and a fairy-like woman left.}
+    interviewer: "Would it be okay if I quoted you on that?"
 
-[me: "Where did everyone go?"]
+    steve-martin: "That would be fine."
 
-[fairy: {I turned them all into souls and collected them, I found ten so far.}]
+    interviewer: <to me> {Can you tell me about your involvement with the production?}
 
-[me: "Why didn't you turn me into a soul?"]
+]
 
-[fairy: "Because they were all dried out. You aren't."]
+print {At this point I became lucid, and started asking questions about the environment. Yet as I walked around the stage all the people were disappearing. There was only me and a fairy-like woman left.}
 
-[me: "Who are you?"]
+dialog [
 
-[fairy: "I've come from the Ivory Coast."]
+    me: "Where did everyone go?"
+
+    fairy: {I turned them all into souls and collected them, I found ten so far.}
+
+    me: "Why didn't you turn me into a soul?"
+
+    fairy: "Because they were all dried out. You aren't."
+
+    me: "Who are you?"
+
+    fairy: "I've come from the Ivory Coast."
+
+]

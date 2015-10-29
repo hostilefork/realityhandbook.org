@@ -6,76 +6,108 @@ Draem [
     old: http://realityhandbook.livejournal.com/80989.html
 ]
 
-{I've found that there is a big difference between me thinking something and saying it in a dream. Frequently when I share a piece of specific information, I find myself getting whacked out of an environment and awoken. For instance, the moment I said "United States of America" I felt a strong push out of a dream that had otherwise been going along fine in [Roadside Bananas](http://realityhandbook.org/lucid-dream/roadside-bananas/).}
+print << [
 
-{The way it *feels* is that there are certain words and names that cause retaliation when I say them. Kind of like if you say "Viagra" in an email and suddenly it gets swept away as spam. I'm very curious about the nature of the filters and evolving infrastructure of our communications network that people tend to gloss over.}
+    {I've found that there is a big difference between me thinking something and saying it in a dream. Frequently when I share a piece of specific information, I find myself getting whacked out of an environment and awoken. For instance, the moment I said "United States of America" I felt a strong push out of a dream that had otherwise been going along fine in [Roadside Bananas](http://realityhandbook.org/lucid-dream/roadside-bananas/).}
 
-{For instance, look at this picture that came attached to a Spam email:}
+    {The way it *feels* is that there are certain words and names that cause retaliation when I say them. Kind of like if you say "Viagra" in an email and suddenly it gets swept away as spam. I'm very curious about the nature of the filters and evolving infrastructure of our communications network that people tend to gloss over.}
 
-[picture %wexespam.jpg]
-
-{If this is an authentic attempt at marketing, it is tough to imagine what value it has to the sender to be putting so much static on an image. It makes it harder to read. One radical possibility is that the markings are hidden information encoded on top of a seemingly generic advertisement. By broadcasting the message all over the internet, it might be a means of anonymously collecting secret data without pointing a finger at a specific recipient.}
-
-{That might sound far-fetched, but many hackers have been caught because their mechanisms for hijacking passwords sent obvious data to a single traceable destination. Whoever set up that account or accesses it is obviously the perpetrator. For instance, the backdoor in [G-Archiver](http://www.codinghorror.com/blog/archives/001072.html) sent user names and passwords to the author's Gmail account. Contrast this with a spamming system which puts information everywhere, but that only the sender can decode.}
-
-[note {If you want to read more about how meaningful information can actually be encoded into such "noise", then check out Wikipedia's article on [Steganography](http://en.wikipedia.org/wiki/Steganography). For a very simplistic example of hiding a message in a spam email, try out [Spam Mimic](http://www.spammimic.com/).}]
-
-{The idea that mysterious data is encoded in these messages is very interesting to me. But the more "reasonable" interpretation is that the static somehow increases the odds that the message will be delivered. But why would this be the case? One answer would be if there was software trying to read the images, and rejecting them if it could make out the letters to say certain things...passing them through if not.}
-
-{Though that may sound preposterous, a little research reveals that [this is the case](http://wiki.apache.org/spamassassin/OcrPlugin). Many email systems employ optical character recognition (OCR)--these are computer programs with the ability to convert JPEGs into text files. Once the text has been extracted from the image, the results are fed into the same algorithms that filter out letters with words like "Viagra" or "Investment Opportunity".}
-
-{The way I found out about this was not because I got a message or notice from my email carrier about the exciting new technology that was being applied to screen my mail. It was evident when I received the image that got through. When we see unusual things taking a certain shape or pattern, it can be instructive. For instance, this spam which was recently sent to a friend:}
-
-[quote
-
-    {From: "Jamie Clemons" <a-b-c@agion-tech.com>}
-
-    "Date: 30 de mayo de 2008 11:48:25 PM PDT"
-
-    "Subject: Let's chat"
-
-    {Hello! I am tired this evening. I am nice girl that would like to chat with you. Email me at Birgit@whoplantcut.cn only, because I am using my friend's email to write this. I want to show you some pictures.}
-
-    [picture %jamieclemons.gif]
+    {For instance, look at this picture that came attached to a Spam email:}
 
 ]
 
-{This picture has the same noisy patterns on it, quite similar to the textual spam. Once again we must ask the question: would this message *not* have been delivered if the noise weren't there? Are there certain faces or photos that are being screened out just as mechanically as certain words. If so, how can this be possible?}
+picture %wexespam.jpg
 
-{There is already considerable research into automatically identifying photographs as being potentially "adult". These computer programs tend to be very conservative--looking for certain characteristics common to human body parts or flesh tones. Frequently, innocent images are falsely classified as mature...when they are not.}
+print << [
 
-{Google's SafeSearch is a combination of those image processing techniques, as well as looking at the rest of the text on the webpage where the image appears. Yet it is still instructive to repeat one's search with the filter on and off, in order to see what you're missing. For instance, look at this page of the first 15 results for "Human Sexuality".}
+    {If this is an authentic attempt at marketing, it is tough to imagine what value it has to the sender to be putting so much static on an image. It makes it harder to read. One radical possibility is that the markings are hidden information encoded on top of a seemingly generic advertisement. By broadcasting the message all over the internet, it might be a means of anonymously collecting secret data without pointing a finger at a specific recipient.}
 
-[heading "Strict Filtering"]
+    {That might sound far-fetched, but many hackers have been caught because their mechanisms for hijacking passwords sent obvious data to a single traceable destination. Whoever set up that account or accesses it is obviously the perpetrator. For instance, the backdoor in [G-Archiver](http://www.codinghorror.com/blog/archives/001072.html) sent user names and passwords to the author's Gmail account. Contrast this with a spamming system which puts information everywhere, but that only the sender can decode.}
 
-[picture %strict_safesearch.jpg]
+]
 
-[heading "Moderate Filtering"]
+note {If you want to read more about how meaningful information can actually be encoded into such "noise", then check out Wikipedia's article on [Steganography](http://en.wikipedia.org/wiki/Steganography). For a very simplistic example of hiding a message in a spam email, try out [Spam Mimic](http://www.spammimic.com/).}
 
-[picture %moderate_safesearch.jpg]
+print << [
 
-[heading "No filtering"]
+    {The idea that mysterious data is encoded in these messages is very interesting to me. But the more "reasonable" interpretation is that the static somehow increases the odds that the message will be delivered. But why would this be the case? One answer would be if there was software trying to read the images, and rejecting them if it could make out the letters to say certain things...passing them through if not.}
 
-[picture %no_safesearch.jpg]
+    {Though that may sound preposterous, a little research reveals that [this is the case](http://wiki.apache.org/spamassassin/OcrPlugin). Many email systems employ optical character recognition (OCR)--these are computer programs with the ability to convert JPEGs into text files. Once the text has been extracted from the image, the results are fed into the same algorithms that filter out letters with words like "Viagra" or "Investment Opportunity".}
 
-{You may find some of the banned images to be surprising. The simple diagram with two circles in the lower-right hand corner of the "unfiltered" results may be interpreted as cartoon breasts by the robotic logic of the filter (at least, when paired with some sex talk). It starts seeming that our picture of "Jamie Clemons" could be filtered out for its flesh tones, and somehow the marks are disrupting the recognition.}
+    {The way I found out about this was not because I got a message or notice from my email carrier about the exciting new technology that was being applied to screen my mail. It was evident when I received the image that got through. When we see unusual things taking a certain shape or pattern, it can be instructive. For instance, this spam which was recently sent to a friend:}
 
-{Whether or not there is an adult filter on your email...yet...there is another explanation for how the weird dots on the woman's face would assist with delivery of the message. There is filtering based on a "fingerprinting" technique. If an image is circulated around in email and identified as Spam, then if any region of that image is recognized as "visually similar" to an attachment to another message, then it is marked as spam as well. The disruption to the image must be uniform enough to beat the fingerprinting method.}
+]
 
-{All of this raises many questions in my mind. Why would anyone would work so hard to beat the filter for something so nonsensical? How many humans--as we know them--respond meaningfully to form letters and static/distorted pictures of marketing or faces?}
+quote [
 
-{One possible motivation for this madness would be if someone were desperately trying to show us: "Hey... *THERE ARE* filters on your email, you need to know about them." By intelligently hacking past the filter, they might not be trying to sell you anything at all--just to show you the shape the filter takes. An interesting aspect is that the email address included is a question. "Who plant cut?" And it comes from China. Perhaps that's asking anyone listening who cut the means of communication?}
+    print << [
 
-{My interest in this topic may seem not to be using Occam's razor...but as usual, my ideas did not emerge from a vacuum. One of my more notable "a-ha!" moments about this was in a dream where I was tracing why a music video couldn't get through a network, and it was specifically "Coffee and TV" by Blur, which looked like a commercial for milk in [Advertisement Filtering](http://realityhandbook.org/lucid-dream/advertisement-filtering/), so it had been automatically blocked:}
+        {From: "Jamie Clemons" <a-b-c@agion-tech.com>}
 
-[picture %coffee_and_tv.jpg]
+        "Date: 30 de mayo de 2008 11:48:25 PM PDT"
 
-{A small thing, perhaps. But it does point to some of the major problems that all futurists are aware of. Simply that the power of computers and AI, as well as their potential misapplication, have profound implications. What will we do in a future world where our brains haven't gotten that much more sophisticated, but there are mechanistic systems churning out information at a rate we can't possibly understand or distinguish from that produced by other simple brains?}
+        "Subject: Let's chat"
 
-{Content filters on email never made sense to me, as I'd think checking the origins of the message makes much more sense. But as you know, I look at things like this and go "whaaaaa?" What the heck is going on?}
+        {Hello! I am tired this evening. I am nice girl that would like to chat with you. Email me at Birgit@whoplantcut.cn only, because I am using my friend's email to write this. I want to show you some pictures.}
 
-http://paedimonic-lim.livejournal.com/profile
+    ]
 
-{Let's say the fabric of the universe has something in it designed to prevent communication between the astral and physical worlds. The only way to find those filters is by looking at those few communications that do make it across. Similar to with email, if you're trying to talk to someone who you usually can't get messages to, there might be words to avoid...seeing variations of these things are instructional tools so you know what the filters ARE.}
+    picture %jamieclemons.gif
 
-{One conspiracy that I think is actually rather likely is that this is an attempt to disrupt communications and shape traffic--under the guise of something that a lot of people would dismiss as simple advertising. Imagine if the Chinese government wanted to block communications between their population and the United States...if they were to delete the messages outright it would trigger an international incident and attract attention. But sending American system administrators emails from China with pictures of penises (and telling them how small theirs is) seems far more effective--they'll voluntarily cut off communications with those servers!}
+]
+
+print << [
+
+    {This picture has the same noisy patterns on it, quite similar to the textual spam. Once again we must ask the question: would this message *not* have been delivered if the noise weren't there? Are there certain faces or photos that are being screened out just as mechanically as certain words. If so, how can this be possible?}
+
+    {There is already considerable research into automatically identifying photographs as being potentially "adult". These computer programs tend to be very conservative--looking for certain characteristics common to human body parts or flesh tones. Frequently, innocent images are falsely classified as mature...when they are not.}
+
+    {Google's SafeSearch is a combination of those image processing techniques, as well as looking at the rest of the text on the webpage where the image appears. Yet it is still instructive to repeat one's search with the filter on and off, in order to see what you're missing. For instance, look at this page of the first 15 results for "Human Sexuality".}
+
+]
+
+heading "Strict Filtering"
+
+picture %strict_safesearch.jpg
+
+heading "Moderate Filtering"
+
+picture %moderate_safesearch.jpg
+
+heading "No filtering"
+
+picture %no_safesearch.jpg
+
+print << [
+
+    {You may find some of the banned images to be surprising. The simple diagram with two circles in the lower-right hand corner of the "unfiltered" results may be interpreted as cartoon breasts by the robotic logic of the filter (at least, when paired with some sex talk). It starts seeming that our picture of "Jamie Clemons" could be filtered out for its flesh tones, and somehow the marks are disrupting the recognition.}
+
+    {Whether or not there is an adult filter on your email...yet...there is another explanation for how the weird dots on the woman's face would assist with delivery of the message. There is filtering based on a "fingerprinting" technique. If an image is circulated around in email and identified as Spam, then if any region of that image is recognized as "visually similar" to an attachment to another message, then it is marked as spam as well. The disruption to the image must be uniform enough to beat the fingerprinting method.}
+
+    {All of this raises many questions in my mind. Why would anyone would work so hard to beat the filter for something so nonsensical? How many humans--as we know them--respond meaningfully to form letters and static/distorted pictures of marketing or faces?}
+
+    {One possible motivation for this madness would be if someone were desperately trying to show us: "Hey... *THERE ARE* filters on your email, you need to know about them." By intelligently hacking past the filter, they might not be trying to sell you anything at all--just to show you the shape the filter takes. An interesting aspect is that the email address included is a question. "Who plant cut?" And it comes from China. Perhaps that's asking anyone listening who cut the means of communication?}
+
+    {My interest in this topic may seem not to be using Occam's razor...but as usual, my ideas did not emerge from a vacuum. One of my more notable "a-ha!" moments about this was in a dream where I was tracing why a music video couldn't get through a network, and it was specifically "Coffee and TV" by Blur, which looked like a commercial for milk in [Advertisement Filtering](http://realityhandbook.org/lucid-dream/advertisement-filtering/), so it had been automatically blocked:}
+
+]
+
+picture %coffee_and_tv.jpg
+
+print << [
+
+    {A small thing, perhaps. But it does point to some of the major problems that all futurists are aware of. Simply that the power of computers and AI, as well as their potential misapplication, have profound implications. What will we do in a future world where our brains haven't gotten that much more sophisticated, but there are mechanistic systems churning out information at a rate we can't possibly understand or distinguish from that produced by other simple brains?}
+
+    {Content filters on email never made sense to me, as I'd think checking the origins of the message makes much more sense. But as you know, I look at things like this and go "whaaaaa?" What the heck is going on?}
+
+]
+
+link http://paedimonic-lim.livejournal.com/profile
+
+print << [
+
+    {Let's say the fabric of the universe has something in it designed to prevent communication between the astral and physical worlds. The only way to find those filters is by looking at those few communications that do make it across. Similar to with email, if you're trying to talk to someone who you usually can't get messages to, there might be words to avoid...seeing variations of these things are instructional tools so you know what the filters ARE.}
+
+    {One conspiracy that I think is actually rather likely is that this is an attempt to disrupt communications and shape traffic--under the guise of something that a lot of people would dismiss as simple advertising. Imagine if the Chinese government wanted to block communications between their population and the United States...if they were to delete the messages outright it would trigger an international incident and attract attention. But sending American system administrators emails from China with pictures of penises (and telling them how small theirs is) seems far more effective--they'll voluntarily cut off communications with those servers!}
+
+]

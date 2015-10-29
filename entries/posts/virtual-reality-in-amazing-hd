@@ -6,58 +6,82 @@ Draem [
     old: http://realityhandbook.livejournal.com/22692.html
 ]
 
-{I was in a room with a lot of other people who were being handed small devices. The device had a trigger on it, and there was a cartridge we were told to insert into it.}
+print << [
 
-{When I put the cartridge in, the walls of the room morphed into the walls of some kind of spacecraft. The device I held in my hand operated cannons on the exterior of the ship. I could see that people who had been led into other rooms were in other ships, and we could see each other through windows.}
+    {I was in a room with a lot of other people who were being handed small devices. The device had a trigger on it, and there was a cartridge we were told to insert into it.}
 
-[note {This was one of the most high-*fidelity* dreams I've ever had, vivid and powerful. Great graphics, to say it another way.}]
+    {When I put the cartridge in, the walls of the room morphed into the walls of some kind of spacecraft. The device I held in my hand operated cannons on the exterior of the ship. I could see that people who had been led into other rooms were in other ships, and we could see each other through windows.}
 
-{I fired my cannon around, and other people in the room fired their cannons as well. Some of them hit the other ships, and some of them fired at traffic below. The ships seemed unaffected, but when cars were hit they would skid off the road.}
+]
 
-[note {The understanding I had from the atmosphere was that this was just a game and that there was no need for concern about the people in the cars, as they were not "real".}]
+note {This was one of the most high-*fidelity* dreams I've ever had, vivid and powerful. Great graphics, to say it another way.}
 
-{Knowing this was a dream, I tried to remain calm and not attract too much attention.}
+print {I fired my cannon around, and other people in the room fired their cannons as well. Some of them hit the other ships, and some of them fired at traffic below. The ships seemed unaffected, but when cars were hit they would skid off the road.}
 
-[me: "Uh, what year is it?"]
+note {The understanding I had from the atmosphere was that this was just a game and that there was no need for concern about the people in the cars, as they were not "real".}
 
-[someone: "Oh, this one started in September."]
+print {Knowing this was a dream, I tried to remain calm and not attract too much attention.}
 
-{At that point someone grabbed me from the side in one of the dreaded "side attacks" that usually get me to wake up. But a scraggly guy who looked a bit like Kurt Cobain stepped in and stopped the guy who was doing that.}
+dialog [
 
-[scraggly-guy: "Heh. He's analoguing."]
+    me: "Uh, what year is it?"
 
-[me: {Thank you for stopping the attack. I don't know what you mean or what you did, but you're letting me stay here longer.}]
+    someone: "Oh, this one started in September."
 
-{He kind of smirked at me a lot and he caused a panel on the floor to start showing pictures of women playing basketball. They were scantily clad, and he encouraged me to move toward the video. As I entered it, the atmosphere shifted toward something like a shoe store--except with a harem of female basketball players inside of it. The women rushed forward to greet me.}
+]
 
-{Though it did occur to me to indulge in some kind of lascivious behavior, I decided to ask questions. An especially big turn-off was the presence of a very small voodoo-doll girl, with a mask instead of a face.}
+print {At that point someone grabbed me from the side in one of the dreaded "side attacks" that usually get me to wake up. But a scraggly guy who looked a bit like Kurt Cobain stepped in and stopped the guy who was doing that.}
 
-[me: {What is this? Is this some kind of virtual reality? Are you trapped here?}]
+dialog [
 
-[voodoo-doll: "I want to do what you do. How do you do it?"]
+    scraggly-guy: "Heh. He's analoguing."
 
-[me: {To be honest with you, I'm not precisely sure. But I'm doing my best to document everything that I can as I go along, I've made something called REALITY HANDBOOK. One word, look for it. I'll keep working.}]
+    me: {Thank you for stopping the attack. I don't know what you mean or what you did, but you're letting me stay here longer.}
 
-{Somehow at this point, some guy reached into the shoe store and pulled me out of it. He handed me back the console from the ship game.}
+]
 
-[guy: {Ah, that totally sucks. The little one...she always just runs her mouth.}]
+print << [
 
-{We began skimming along some kind of a monorail track as he spoke. He kept transforming onto different vehicles, one was a kind of cool hovercraft. Somehow I flew ahead of him and could tilt him to inspect the vehicle, which disrupted his flight.}
+    {He kind of smirked at me a lot and he caused a panel on the floor to start showing pictures of women playing basketball. They were scantily clad, and he encouraged me to move toward the video. As I entered it, the atmosphere shifted toward something like a shoe store--except with a harem of female basketball players inside of it. The women rushed forward to greet me.}
 
-[me: {I'm sorry, I was just curious. I don't see much of this. I am actually from a place where our virtual technology is all done with typewriters attached to television sets, it's quite dull.}]
+    {Though it did occur to me to indulge in some kind of lascivious behavior, I decided to ask questions. An especially big turn-off was the presence of a very small voodoo-doll girl, with a mask instead of a face.}
 
-[guy: <surprised> "Oh, analog?"]
+]
 
-[me: {That's the second time someone's used that term tonight. Well...it's not totally analog, in that we simulate digital signals using ranges of analog values. But that's kind of obvious I guess...maybe I should ask...what ARE you? Are you a software or a wetware being?}]
+dialog [
 
-[guy: {I'm all software, and only about half of it is authorized.}]
+    me: {What is this? Is this some kind of virtual reality? Are you trapped here?}
 
-{At this point we were flying into a room which appeared to be constructed entirely out of LEGOs. It was vast, and we were spiraling down a corkscrew shaped slide into the lower levels of the structure. There were people all around, and I was getting dizzy such that my ability to stay in the dream was winding down.}
+    voodoo-doll: "I want to do what you do. How do you do it?"
 
-[me: <snarling> {Nice place you've got here. I wish the people from my time could see it.}]
+    me: {To be honest with you, I'm not precisely sure. But I'm doing my best to document everything that I can as I go along, I've made something called REALITY HANDBOOK. One word, look for it. I'll keep working.}
 
-{I began grabbing at LEGOs and attempting to use telekinesis to form them into a bomb or something to explode the place. All I got was a jumble of parts and I dropped them on a desk. So it didn't work at all, and a bunch of people started laughing.}
+]
 
-[me: {Well, I've made my point, and don't say you have not been warned.}]
+print {Somehow at this point, some guy reached into the shoe store and pulled me out of it. He handed me back the console from the ship game.}
 
-{I fell to the ground and woke up in my bed, as usual.}
+dialog [guy: {Ah, that totally sucks. The little one...she always just runs her mouth.}]
+
+print {We began skimming along some kind of a monorail track as he spoke. He kept transforming onto different vehicles, one was a kind of cool hovercraft. Somehow I flew ahead of him and could tilt him to inspect the vehicle, which disrupted his flight.}
+
+dialog [
+
+    me: {I'm sorry, I was just curious. I don't see much of this. I am actually from a place where our virtual technology is all done with typewriters attached to television sets, it's quite dull.}
+
+    guy: <surprised> "Oh, analog?"
+
+    me: {That's the second time someone's used that term tonight. Well...it's not totally analog, in that we simulate digital signals using ranges of analog values. But that's kind of obvious I guess...maybe I should ask...what ARE you? Are you a software or a wetware being?}
+
+    guy: {I'm all software, and only about half of it is authorized.}
+
+]
+
+print {At this point we were flying into a room which appeared to be constructed entirely out of LEGOs. It was vast, and we were spiraling down a corkscrew shaped slide into the lower levels of the structure. There were people all around, and I was getting dizzy such that my ability to stay in the dream was winding down.}
+
+dialog [me: <snarling> {Nice place you've got here. I wish the people from my time could see it.}]
+
+print {I began grabbing at LEGOs and attempting to use telekinesis to form them into a bomb or something to explode the place. All I got was a jumble of parts and I dropped them on a desk. So it didn't work at all, and a bunch of people started laughing.}
+
+dialog [me: {Well, I've made my point, and don't say you have not been warned.}]
+
+print {I fell to the ground and woke up in my bed, as usual.}

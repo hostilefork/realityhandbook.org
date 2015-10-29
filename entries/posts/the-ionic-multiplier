@@ -6,22 +6,26 @@ Draem [
     old: http://realityhandbook.livejournal.com/46607.html
 ]
 
-{I was watching someone use a piece of software that reconstructed timelines... it looked like video editing. It was showing thousands of clips that were being manipulated all at once in some kind of semi-automated way.}
+print {I was watching someone use a piece of software that reconstructed timelines... it looked like video editing. It was showing thousands of clips that were being manipulated all at once in some kind of semi-automated way.}
 
-[me: "What is this program called?"]
+dialog [me: "What is this program called?"]
 
-{I was shown a very dull-looking brown box that looked like the kinds of packages productivity software came in during the 80s. The title of the program was "Ionic Multiplier".}
+print {I was shown a very dull-looking brown box that looked like the kinds of packages productivity software came in during the 80s. The title of the program was "Ionic Multiplier".}
 
-[note {That isn't a popular phrase on the internet, but has two mentions in the context of chemistry and physics.}]
+note {That isn't a popular phrase on the internet, but has two mentions in the context of chemistry and physics.}
 
-{Later a man was showing me some technical specs and had *Clear Gigabit Ram*.}
+print {Later a man was showing me some technical specs and had *Clear Gigabit Ram*.}
 
-[me: "What does clear mean in this context?"]
+dialog [
 
-[him: <shocked?> "How could *you* not know?"]
+    me: "What does clear mean in this context?"
 
-[me: {I'm sorry, I don't. Is it optically transparent, like can you see through it?}]
+    him: <shocked?> "How could *you* not know?"
 
-[him: {No. It specifically relates to the way memory access is performed.}]
+    me: {I'm sorry, I don't. Is it optically transparent, like can you see through it?}
 
-{Beyond that, I couldn't get it explained in a way that I could understand.}
+    him: {No. It specifically relates to the way memory access is performed.}
+
+]
+
+print {Beyond that, I couldn't get it explained in a way that I could understand.}

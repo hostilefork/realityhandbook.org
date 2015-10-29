@@ -6,82 +6,110 @@ Draem [
     old: http://realityhandbook.livejournal.com/151010.html
 ]
 
-{I'd been having a relatively friendly conversation with some guys in some kind of pool hall. While we were speaking, I could tell there was a man dressed in all black sneaking up on me to attack. Reflexively I grabbed him and pinned his hands behind his back on a pool table. He started wriggling out of my hold and attacking me with a needle.}
+print {I'd been having a relatively friendly conversation with some guys in some kind of pool hall. While we were speaking, I could tell there was a man dressed in all black sneaking up on me to attack. Reflexively I grabbed him and pinned his hands behind his back on a pool table. He started wriggling out of my hold and attacking me with a needle.}
 
-[me: {This again. I've been thinking about it and I've realized it's not me who's confused. Maybe I don't know who I am but I know what I am, and I know what you are.}]
+dialog [
 
-[man-in-black: <snarling> "Oh, what am I?"]
+    me: {This again. I've been thinking about it and I've realized it's not me who's confused. Maybe I don't know who I am but I know what I am, and I know what you are.}
 
-[me: "A coward."]
+    man-in-black: <snarling> "Oh, what am I?"
 
-{Instead of attacking him, I gave him a hug and a kiss as the room went all black.}
+    me: "A coward."
 
-{Rather than waking up in bed I was in some kind of console room with what looked like a mixing board. I began poking various things that didn't look like buttons but were lit up. My view was down over a large factory-seeming room with people in it who were either very tiny or my viewpoint was extremely high. There was a microphone so I picked it up and spoke into it.}
+]
 
-[picture %xone-4d.jpg]
+print << [
 
-[me: <into mic> "Um, testing. Hi, can you guys hear me down there?"]
+    {Instead of attacking him, I gave him a hug and a kiss as the room went all black.}
 
-{The miniature people acknowledged me, and they held up signs with one and two-digit numbers on them.}
+    {Rather than waking up in bed I was in some kind of console room with what looked like a mixing board. I began poking various things that didn't look like buttons but were lit up. My view was down over a large factory-seeming room with people in it who were either very tiny or my viewpoint was extremely high. There was a microphone so I picked it up and spoke into it.}
 
-[me: {Okay so, uh... why don't we organize this a bit. It looks like you each have a number. If you can hear me and think you know where I am then get in a line and hold the signs to face me.}]
+]
 
-{They complied in a somewhat orderly fashion, but I could now see that some of the signs had more complex expressions on them.}
+picture %xone-4d.jpg
 
-[me: {Good. Now, why don't you try arranging yourself left to right so that the numbers are in order.}]
+dialog [me: <into mic> "Um, testing. Hi, can you guys hear me down there?"]
 
-{Chaos ensued. They seemed to be stuck in some kind of elevator and were scrambling with no real seeming purpose.}
+print {The miniature people acknowledged me, and they held up signs with one and two-digit numbers on them.}
 
-[me: {That didn't work very well. All right, why don't you guys come forward towards me and get out of that elevator. Just keep walking forwards and... no, don't let the elevator door close... just come forward and... well some of you have it right, but some of you are still stuck in the elevator. Um, watch out for, uh oh... well why don't the five of you who made it out of the elevator come to where I am.}]
+dialog [me: {Okay so, uh... why don't we organize this a bit. It looks like you each have a number. If you can hear me and think you know where I am then get in a line and hold the signs to face me.}]
 
-{They did walk toward me, but they were stil tiny. I felt like I was floating above all of them in some kind of giant Zeppelin, but it was somehow connected to the ground with wheels. We all went rolling down these vast corridors in some kind of warehouse with many ramps.}
+print {They complied in a somewhat orderly fashion, but I could now see that some of the signs had more complex expressions on them.}
 
-[me: {So long as we're rolling around in this giant warehouse, can anyone give me any background on where we are? Who you are? Who I am to you? That sort of thing.}]
+dialog [me: {Good. Now, why don't you try arranging yourself left to right so that the numbers are in order.}]
 
-{My point of view shifted to where I was in a body and walking with a red-haired girl through a vast room with high ceilings. It was like a place you'd use to make airplanes, but there were several pieces of medical equipment. She motioned me to sit on a cushioned examination table.}
+print {Chaos ensued. They seemed to be stuck in some kind of elevator and were scrambling with no real seeming purpose.}
 
-[girl: {To answer your question, this place once housed one of our projects. But there was a fire and most everything burned. We're finally getting things together and rebuilding it, a very exciting time!}]
+dialog [me: {That didn't work very well. All right, why don't you guys come forward towards me and get out of that elevator. Just keep walking forwards and... no, don't let the elevator door close... just come forward and... well some of you have it right, but some of you are still stuck in the elevator. Um, watch out for, uh oh... well why don't the five of you who made it out of the elevator come to where I am.}]
 
-[me: "I don't remember any of this."]
+print {They did walk toward me, but they were stil tiny. I felt like I was floating above all of them in some kind of giant Zeppelin, but it was somehow connected to the ground with wheels. We all went rolling down these vast corridors in some kind of warehouse with many ramps.}
 
-[girl: {Of course not, you're going to have to wait till tonight.}]
+dialog [me: {So long as we're rolling around in this giant warehouse, can anyone give me any background on where we are? Who you are? Who I am to you? That sort of thing.}]
 
-[me: {Nothing's going to happen tonight. It's going to be the same as always, same day, same life, no one comes...}]
+print {My point of view shifted to where I was in a body and walking with a red-haired girl through a vast room with high ceilings. It was like a place you'd use to make airplanes, but there were several pieces of medical equipment. She motioned me to sit on a cushioned examination table.}
 
-[girl: {No. I said *'you'll just have to wait till you die'*.}]
+dialog [
 
-[me: <angry> {Why should I have to die to get any information out of anyone?}]
+    girl: {To answer your question, this place once housed one of our projects. But there was a fire and most everything burned. We're finally getting things together and rebuilding it, a very exciting time!}
 
-{She seemed to stop and listen, as if someone were telling her what to say. Then she turned back to me.}
+    me: "I don't remember any of this."
 
-[girl: <smiling> {...she said to to tell you 'sorry for the inconvenience'.}]
+    girl: {Of course not, you're going to have to wait till tonight.}
 
-[me: <sarcastically> "Hmph, 'God's final words to mankind.'"]
+    me: {Nothing's going to happen tonight. It's going to be the same as always, same day, same life, no one comes...}
 
-[girl: "What? Oh, the Hitchhiker's Guide...I see."]
+    girl: {No. I said *'you'll just have to wait till you die'*.}
 
-[note {That was actually God's final words to "creation" in the Hitchhiker's Guide.}]
+    me: <angry> {Why should I have to die to get any information out of anyone?}
 
-{At this point it felt like we'd started moving and sliding around the room, I was holding onto her but it seemed a bit like her head was immersed in a bag of orange liquid.}
+]
 
-[me: {What about the people who are always attacking me in dreams, with injections and things?}]
+print {She seemed to stop and listen, as if someone were telling her what to say. Then she turned back to me.}
 
-[girl: {Truth be told, we don't know why they do it. But it's a chemical, you can take something every morning and it can be counteracted. MO for instance.}]
+dialog [
 
-[me: "Magnesium? Or wait... that's Mg."]
+    girl: <smiling> {...she said to to tell you 'sorry for the inconvenience'.}
 
-[note {MO is actually Molybdenum. It's a trace element and does have some biological purpose as a trace nutrient, but you aren't supposed to have very much of it. Apparently a Molybdenum deficiency is unheard of.}]
+    me: <sarcastically> "Hmph, 'God's final words to mankind.'"
 
-[girl: "There's also Supivina."]
+    girl: "What? Oh, the Hitchhiker's Guide...I see."
 
-[me: "Su-pi-vi-na?"]
+]
 
-[girl: "Don't ask me why they call it that, but yes."]
+note {That was actually God's final words to "creation" in the Hitchhiker's Guide.}
 
-{The room seemed to become more crowded, and she pointed to a guy walking past.}
+print {At this point it felt like we'd started moving and sliding around the room, I was holding onto her but it seemed a bit like her head was immersed in a bag of orange liquid.}
 
-[girl: {That's Matt, he used to work on TV commercials and I'm looking forward to you meeting him.}]
+dialog [
 
-[me: {Are the people here from the same Earth I'm from? Or, wait, is my Earth the first? Can you give me any more information...}]
+    me: {What about the people who are always attacking me in dreams, with injections and things?}
 
-"I woke up around this point."
+    girl: {Truth be told, we don't know why they do it. But it's a chemical, you can take something every morning and it can be counteracted. MO for instance.}
+
+    me: "Magnesium? Or wait... that's Mg."
+
+]
+
+note {MO is actually Molybdenum. It's a trace element and does have some biological purpose as a trace nutrient, but you aren't supposed to have very much of it. Apparently a Molybdenum deficiency is unheard of.}
+
+dialog [
+
+    girl: "There's also Supivina."
+
+    me: "Su-pi-vi-na?"
+
+    girl: "Don't ask me why they call it that, but yes."
+
+]
+
+print {The room seemed to become more crowded, and she pointed to a guy walking past.}
+
+dialog [
+
+    girl: {That's Matt, he used to work on TV commercials and I'm looking forward to you meeting him.}
+
+    me: {Are the people here from the same Earth I'm from? Or, wait, is my Earth the first? Can you give me any more information...}
+
+]
+
+print "I woke up around this point."

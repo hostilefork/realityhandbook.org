@@ -6,14 +6,22 @@ Draem [
     old: http://realityhandbook.livejournal.com/84618.html
 ]
 
-{I really needed to use the bathroom. I made my way through a bar to the men's room. Inside the bathroom was another door that said 'SECURITY', and felt sorry for the poor person whose security office was located inside the bathroom.}
+print << [
 
-{Proceeding to the stalls, I realized I was not wearing any shoes. The floor was dirty with small spots of feces, and I folded my pant leg underneath my foot to try to keep from stepping on it. I ran into a janitor who was making some slow progress on the bathroom floor.}
+    {I really needed to use the bathroom. I made my way through a bar to the men's room. Inside the bathroom was another door that said 'SECURITY', and felt sorry for the poor person whose security office was located inside the bathroom.}
 
-[me: {I don't get it. Why are bathrooms in dreams always so freakin' gross?}]
+    {Proceeding to the stalls, I realized I was not wearing any shoes. The floor was dirty with small spots of feces, and I folded my pant leg underneath my foot to try to keep from stepping on it. I ran into a janitor who was making some slow progress on the bathroom floor.}
 
-[janitor: <peeved> {Here's a better question for you. Why are you spending all this dream time in the bathroom? Get some control over the sensation. You won't wet yourself, and if you do it is easy to fix.}]
+]
 
-[me: {That is an interesting point. But why would it be possible to not use the bathroom in dreams but have it required while awake? Can I train myself to just not use the restroom EVER?}]
+dialog [
 
-[janitor: <shrugging> "Well, theoretically maybe."]
+    me: {I don't get it. Why are bathrooms in dreams always so freakin' gross?}
+
+    janitor: <peeved> {Here's a better question for you. Why are you spending all this dream time in the bathroom? Get some control over the sensation. You won't wet yourself, and if you do it is easy to fix.}
+
+    me: {That is an interesting point. But why would it be possible to not use the bathroom in dreams but have it required while awake? Can I train myself to just not use the restroom EVER?}
+
+    janitor: <shrugging> "Well, theoretically maybe."
+
+]

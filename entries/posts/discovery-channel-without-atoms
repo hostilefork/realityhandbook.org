@@ -6,18 +6,26 @@ Draem [
     old: http://realityhandbook.livejournal.com/41453.html
 ]
 
-{I was riding on some kind of Subway or Metro bus, and was inside the vehicle seated facing some of the people in the car. Their faces were morphing in strange ways and I was freaked out about it.}
+print << [
 
-{Wondered if I could do such things, I grew my fingers really long and tapped a guy on the head. Then I apologized, and started asking how such things were possible.}
+    {I was riding on some kind of Subway or Metro bus, and was inside the vehicle seated facing some of the people in the car. Their faces were morphing in strange ways and I was freaked out about it.}
 
-[me: {What kind of physics permits this? Do you know what an atom is?}]
+    {Wondered if I could do such things, I grew my fingers really long and tapped a guy on the head. Then I apologized, and started asking how such things were possible.}
 
-[man: "No."]
+]
 
-[me: {Do you know anything about science at all? Like, do you know the name of a famous scientist?}]
+dialog [
 
-[man: "I've watched the Discovery Channel."]
+    me: {What kind of physics permits this? Do you know what an atom is?}
 
-[me: "Really? What shows?"]
+    man: "No."
 
-{Then I awoke. Which is too bad, because I was sort of on a roll there.}
+    me: {Do you know anything about science at all? Like, do you know the name of a famous scientist?}
+
+    man: "I've watched the Discovery Channel."
+
+    me: "Really? What shows?"
+
+]
+
+print {Then I awoke. Which is too bad, because I was sort of on a roll there.}

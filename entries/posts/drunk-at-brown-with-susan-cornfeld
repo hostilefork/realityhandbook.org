@@ -6,52 +6,76 @@ Draem [
     old: http://realityhandbook.livejournal.com/116284.html
 ]
 
-{I was at some kind of dance club which had narrow stairways of mesh metal for getting from one area to another. They were something like fire escapes. While descending I was speaking to a girl who was traveling along with me.}
+print {I was at some kind of dance club which had narrow stairways of mesh metal for getting from one area to another. They were something like fire escapes. While descending I was speaking to a girl who was traveling along with me.}
 
-[me: "I should have known it was a dream from earlier."]
+dialog [
 
-[her: "How do you ever know for sure?"]
+    me: "I should have known it was a dream from earlier."
 
-[me: {Good question, I mean, what is a 'dream' anyway. But there are instabilities, for example, your hair color changed between the top of the stairs and here.}]
+    her: "How do you ever know for sure?"
 
-[her: "What were you doing drunk at Brown anyway?"]
+    me: {Good question, I mean, what is a 'dream' anyway. But there are instabilities, for example, your hair color changed between the top of the stairs and here.}
 
-[me: "Huh?"]
+    her: "What were you doing drunk at Brown anyway?"
 
-{She started looking like someone else I knew from the past, and others in the club started looking like familiar faces as well. I began asking if it was possible for anyone to get me information about the real people who they were resembling. I didn't get much, but at one point someone mentioned the name "Susan Cornfeld" right before I had a false awakening.}
+    me: "Huh?"
 
-{Believing myself to be in my room and using my computer, I decided to look up Susan Cornfeld. When I did, there was a page that was very fancy--a well laid out hi-tech portfolio of someone who seemed to dabble in a lot of different areas (music, technology). Checking my inbox, it was full of mail--much from people I don't know.}
+]
 
-[me: <frustrated> "Who are all these people?"]
+print << [
 
-{Someone, a guy, was now in my room and whispering in my ear. I was cued into realizing that it was still a dream.}
+    {She started looking like someone else I knew from the past, and others in the club started looking like familiar faces as well. I began asking if it was possible for anyone to get me information about the real people who they were resembling. I didn't get much, but at one point someone mentioned the name "Susan Cornfeld" right before I had a false awakening.}
 
-[me: "Hey, speak up, I can't hear you!"]
+    {Believing myself to be in my room and using my computer, I decided to look up Susan Cornfeld. When I did, there was a page that was very fancy--a well laid out hi-tech portfolio of someone who seemed to dabble in a lot of different areas (music, technology). Checking my inbox, it was full of mail--much from people I don't know.}
 
-[guy: <annoyed> {Look. If you do believe the Matrix is real and all that, and that we need to be careful...couldn't you try being a little more discreet?}]
+]
 
-[me: "Not my style. Someone has to shout."]
+dialog [me: <frustrated> "Who are all these people?"]
 
-[guy: "Well you need a hard line."]
+print {Someone, a guy, was now in my room and whispering in my ear. I was cued into realizing that it was still a dream.}
 
-{There was now another guy in the room, with a laptop, on my bed.}
+dialog [
 
-[me: {I can access the internet from more than one place. I don't see how installing a phone line at my apartment would make any difference. Why don't *YOU* get a new connection?}]
+    me: "Hey, speak up, I can't hear you!"
 
-[guy-one: {Because it's not *OUR* side that has the problem. It's yours.}]
+    guy: <annoyed> {Look. If you do believe the Matrix is real and all that, and that we need to be careful...couldn't you try being a little more discreet?}
 
-[guy-two: "We need you to run Skype."]
+    me: "Not my style. Someone has to shout."
 
-{I noticed there was an icon on the computer that was labeled Skype. The icon was incorrect--it was the icon for the audio editing program Audacity. I clicked it.}
+    guy: "Well you need a hard line."
 
-[guy-one: "I didn't realize there was Skype on this computer."]
+]
 
-[me: {Well, for your information, the icon isn't correct. That's the icon for an audio editing program called Audacity. You might want to get a copy of Skype from somewhere else.}]
+print {There was now another guy in the room, with a laptop, on my bed.}
 
-[picture %audacity-icon.jpg]
+dialog [
 
-{A small dwarfish man came in the door. He made me nervous, so I trapped him between the door and the wall. He was strong--so he pushed it back open to get out--and looked mad. The two guys on the bed told him to leave the room. He hesitated and they became more menacing, saying "you've been warned!" I shut the door after he left.}
+    me: {I can access the internet from more than one place. I don't see how installing a phone line at my apartment would make any difference. Why don't *YOU* get a new connection?}
 
-[me: "Who the heck was that?"]
+    guy-one: {Because it's not *OUR* side that has the problem. It's yours.}
 
-[guy-two: {Oh, they work in the building...they've been here a long time.}]
+    guy-two: "We need you to run Skype."
+
+]
+
+print {I noticed there was an icon on the computer that was labeled Skype. The icon was incorrect--it was the icon for the audio editing program Audacity. I clicked it.}
+
+dialog [
+
+    guy-one: "I didn't realize there was Skype on this computer."
+
+    me: {Well, for your information, the icon isn't correct. That's the icon for an audio editing program called Audacity. You might want to get a copy of Skype from somewhere else.}
+
+]
+
+picture %audacity-icon.jpg
+
+print {A small dwarfish man came in the door. He made me nervous, so I trapped him between the door and the wall. He was strong--so he pushed it back open to get out--and looked mad. The two guys on the bed told him to leave the room. He hesitated and they became more menacing, saying "you've been warned!" I shut the door after he left.}
+
+dialog [
+
+    me: "Who the heck was that?"
+
+    guy-two: {Oh, they work in the building...they've been here a long time.}
+
+]

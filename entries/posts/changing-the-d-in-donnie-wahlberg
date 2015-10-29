@@ -5,58 +5,82 @@ Draem [
     tags: [lucid-dream neutral conspiracy]
 ]
 
-{I was in a situation where I knew a friend and I were supposed to be running some kind of errand at a Home Depot, but we were taking separate cars.  The feeling I had was that I knew where it was, more or less, but had followed instructions on a cell phone.  When I arrived at the location it wasn't a Home Depot but some other store that sold home improvement supplies...like a Lowe's.  I figured "good enough".}
+print << [
 
-{My memory is a bit hazy about going in and going ahead and taking care of whatever the errand was and waiting for the friend to show up.  But she did not show up and I sat waiting in my car for a while.}
+    {I was in a situation where I knew a friend and I were supposed to be running some kind of errand at a Home Depot, but we were taking separate cars.  The feeling I had was that I knew where it was, more or less, but had followed instructions on a cell phone.  When I arrived at the location it wasn't a Home Depot but some other store that sold home improvement supplies...like a Lowe's.  I figured "good enough".}
 
-{Finally I decided to try and call her, but my cell phone was acting strangely.  I went towhat looked like the last text I had from her and tried to push "call".  But instead of actually initiating a call, it seemed to add a "call person" entry to the text.}
+    {My memory is a bit hazy about going in and going ahead and taking care of whatever the errand was and waiting for the friend to show up.  But she did not show up and I sat waiting in my car for a while.}
 
-{Trying to push another button to get out of this, I realized it was adding actions to a script.  I tried to execute the script, since it had "call" in it.  But when I did it called her and then started performing some other actions after the call, like it was automatically trying to navigate a phone menu system.  That caused her end of the line to hang up.}
+    {Finally I decided to try and call her, but my cell phone was acting strangely.  I went towhat looked like the last text I had from her and tried to push "call".  But instead of actually initiating a call, it seemed to add a "call person" entry to the text.}
 
-{She called me back, however.  We started talking even though I was driving, and I felt it was a bit unsafe.}
+    {Trying to push another button to get out of this, I realized it was adding actions to a script.  I tried to execute the script, since it had "call" in it.  But when I did it called her and then started performing some other actions after the call, like it was automatically trying to navigate a phone menu system.  That caused her end of the line to hang up.}
 
-[me: "Hey...I'm sorry if you've been looking for me...but I thought you would be using the same map."]
+    {She called me back, however.  We started talking even though I was driving, and I felt it was a bit unsafe.}
 
-[friend: <fuzzily> "I can only halfway hear you."]
+]
 
-[me: "Well hopefully half is enough to get this across.  I went to where the Home Depot was supposed to be and it was some other store...a Lowe's.  I figured you'd just get out and join me and not worry about it, but now I wonder if it's some kind of a hack.  Like my cell phone drove me to the wrong store.  But this is the place where it should be.  I'm pretty sure it was a Home Depot before, the map is recent, but this could be a hack..."]
+dialog [
 
-{My car made some kind of internal noise as I decelerated it, like a large part of the engine had fallen out and it lurched.}
+    me: {Hey...I'm sorry if you've been looking for me...but I thought you would be using the same map.}
 
-[me: "Jeeez, when I just braked there the car...it went nuts and something broke.  I'm going to need to take this into the garage now..."]
+    friend: <fuzzily> "I can only halfway hear you."
 
-{I tried to pull over but each road I'd pull over onto seemed to be another freeway.  My attempts to get off the freeway were failing badly.  As I tried to get off a freeway I precariously wound up on a road that just seemed to go higher and higher until it reached an apex that was something like it was going over the top of a roller-coaster at the beginning.  But there was something like a toll booth operator up there.}
+    me: {Well hopefully half is enough to get this across.  I went to where the Home Depot was supposed to be and it was some other store...a Lowe's.  I figured you'd just get out and join me and not worry about it, but now I wonder if it's some kind of a hack.  Like my cell phone drove me to the wrong store.  But this is the place where it should be.  I'm pretty sure it was a Home Depot before, the map is recent, but this could be a hack...}
 
-[toll-booth-operator: "You sure you want to go up?"]
+]
 
-[me: "No.  I was trying to get off the freeway.  I'd like to go back down.  Is that possible?"]
+print {My car made some kind of internal noise as I decelerated it, like a large part of the engine had fallen out and it lurched.}
 
-[toll-booth-operator: "Sure."]
+dialog [me: {Jeeez, when I just braked there the car...it went nuts and something broke.  I'm going to need to take this into the garage now...}]
 
-{I'd somehow gotten out of the car at this point and the operator put me on some kind of crane thing with straps that was going to move me over and down.  Confused, I stopped the process and went into the office behind the booth.}
+print {I tried to pull over but each road I'd pull over onto seemed to be another freeway.  My attempts to get off the freeway were failing badly.  As I tried to get off a freeway I precariously wound up on a road that just seemed to go higher and higher until it reached an apex that was something like it was going over the top of a roller-coaster at the beginning.  But there was something like a toll booth operator up there.}
 
-[me: "What...what is this all about?  I think there was some kind of trick."]
+dialog [
 
-[toll-booth-operator: "False hiring contract.  It happens.  You might call it 'future problems'."]
+    toll-booth-operator: "You sure you want to go up?"
 
-[me: "Don't employees have rights in the future?  Can't you...complain to other people in the office?"]
+    me: {No.  I was trying to get off the freeway.  I'd like to go back down.  Is that possible?}
 
-[toll-booth-operator: "There are no offices 'in the future'.  If you want to have a meeting with someone you can just...y'know...like walk into a chair, and zap.  Meeting done."]
+    toll-booth-operator: "Sure."
 
-[me: "Walk into a chair.  Okay.  Like some graph connected VR, I guess?"]
+]
 
-{I stopped and looked around the toll booth office.  There were a couple of CRT TVs running, and a soda vending machine.}
+print {I'd somehow gotten out of the car at this point and the operator put me on some kind of crane thing with straps that was going to move me over and down.  Confused, I stopped the process and went into the office behind the booth.}
 
-[note {The people around were dressed a little postmodern; it felt a bit like a scene out of the TV series "Max Headroom".}]
+dialog [
 
-[me: "But this isn't very futuristic.  Those are cathode ray tube televisions.  And you have vending machines."]
+    me: {What...what is this all about?  I think there was some kind of trick.}
 
-[toll-booth-operator: "This is a point that's on the edge.  Sometimes we interface to look into things."]
+    toll-booth-operator: {False hiring contract.  It happens.  You might call it 'future problems'.}
 
-{A stocky woman operated a soft-serve-ice cream machine and gave me a bowl of the ice cream.}
+    me: {Don't employees have rights in the future?  Can't you...complain to other people in the office?}
 
-[stocky-woman: "Or stop in and have ice cream!  Or sex.  Or fast food.  Or....have sex as if it was fast food.  I swear, the other day I was with these people and it was a sex scene, and it was like that.  Just 'I'll have one of those, and two of those, and can I have an extra penis on that'.  Heh heh."]
+    toll-booth-operator: {There are no offices 'in the future'.  If you want to have a meeting with someone you can just...y'know...like walk into a chair, and zap.  Meeting done.}
 
-[toll-booth-operator: {Sometimes there's manipulations for malicious purposes.  But sometimes there's no evil intended, it's just curiosity to see if something could be done.  This one person was arguing he could get the "D" in Donnie Wahlberg changed to some other letter.  I didn't believe he could pull it off, so we made a bet.  But then we have to have a way of going to check the bet.}]
+    me: {Walk into a chair.  Okay.  Like some graph connected VR, I guess?}
 
-[note {I wasn't aware but there is someone named Donnie Wahlberg.  It's not a name familiar to me--but apparently that person is listed as being in the band "New Kids on the Block"--a famous pseudo-band that I didn't listen to but was in the news a lot when I was a kid.  Whether a "Donnie Wahlberg" was always in it or not I wouldn't know, but it sounded like a crossed-up celebrity name.  In the dream I was confused because I thought this person was mixing up two people: Donnie Osmond and Mark Wahlberg.}]
+]
+
+print {I stopped and looked around the toll booth office.  There were a couple of CRT TVs running, and a soda vending machine.}
+
+note {The people around were dressed a little postmodern; it felt a bit like a scene out of the TV series "Max Headroom".}
+
+dialog [
+
+    me: {But this isn't very futuristic.  Those are cathode ray tube televisions.  And you have vending machines.}
+
+    toll-booth-operator: {This is a point that's on the edge.  Sometimes we interface to look into things.}
+
+]
+
+print {A stocky woman operated a soft-serve-ice cream machine and gave me a bowl of the ice cream.}
+
+dialog [
+
+    stocky-woman: {Or stop in and have ice cream!  Or sex.  Or fast food.  Or....have sex as if it was fast food.  I swear, the other day I was with these people and it was a sex scene, and it was like that.  Just 'I'll have one of those, and two of those, and can I have an extra penis on that'.  Heh heh.}
+
+    toll-booth-operator: {Sometimes there's manipulations for malicious purposes.  But sometimes there's no evil intended, it's just curiosity to see if something could be done.  This one person was arguing he could get the "D" in Donnie Wahlberg changed to some other letter.  I didn't believe he could pull it off, so we made a bet.  But then we have to have a way of going to check the bet.}
+
+]
+
+note {I wasn't aware but there is someone named Donnie Wahlberg.  It's not a name familiar to me--but apparently that person is listed as being in the band "New Kids on the Block"--a famous pseudo-band that I didn't listen to but was in the news a lot when I was a kid.  Whether a "Donnie Wahlberg" was always in it or not I wouldn't know, but it sounded like a crossed-up celebrity name.  In the dream I was confused because I thought this person was mixing up two people: Donnie Osmond and Mark Wahlberg.}

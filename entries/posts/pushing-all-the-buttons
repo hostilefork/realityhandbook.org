@@ -6,20 +6,24 @@ Draem [
     old: http://realityhandbook.livejournal.com/71154.html
 ]
 
-{I heard a phone ringing. It was a little difficult to find, and on a very messy desk...I was clued in that I was dreaming because of the abstractness of the scene. But I answered it anyway.}
+print {I heard a phone ringing. It was a little difficult to find, and on a very messy desk...I was clued in that I was dreaming because of the abstractness of the scene. But I answered it anyway.}
 
-[me: "Hello, who's this?"]
+dialog [
 
-[voice: "Social services."]
+    me: "Hello, who's this?"
 
-[me: "And who are you looking to be speaking to?"]
+    voice: "Social services."
 
-[voice: "We're looking for Michael (last name garbled)."]
+    me: "And who are you looking to be speaking to?"
 
-[me: {I'm not sure where he is, or if you mean me, or what.}]
+    voice: "We're looking for Michael (last name garbled)."
 
-[voice: "Come on. Will you just buzz us in?"]
+    me: {I'm not sure where he is, or if you mean me, or what.}
 
-[me: {My capabilities are limited at the moment. I'll push all the buttons on the phone, but that's about all I can do.}]
+    voice: "Come on. Will you just buzz us in?"
 
-"So I pushed the buttons and woke up."
+    me: {My capabilities are limited at the moment. I'll push all the buttons on the phone, but that's about all I can do.}
+
+]
+
+print "So I pushed the buttons and woke up."

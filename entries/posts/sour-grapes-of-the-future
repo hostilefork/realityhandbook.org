@@ -6,14 +6,18 @@ Draem [
     old: http://realityhandbook.livejournal.com/64499.html
 ]
 
-{I was in a room which looked very medical--clean white walls and white light--dashes of color--some monitoring equipment. Though everything was fuzzy, and I had some paranoia. But I just started talking it out. I explained to the people in the room that the reason I wasn't afraid of these kinds of situations in dreams (whatever they were) was that I'd already mentally processed some of the worst case scenarios and the coping was done.}
+print << [
 
-{Becoming curious about what was written on the wall, I walked over to it and saw it was labeled *Room 303: Scientists*. There was a computer display which showed several words and numbers. I began rattling them off, and a voice said "he's reading things from one display and putting them onto another". I also repeated that statement aloud.}
+    {I was in a room which looked very medical--clean white walls and white light--dashes of color--some monitoring equipment. Though everything was fuzzy, and I had some paranoia. But I just started talking it out. I explained to the people in the room that the reason I wasn't afraid of these kinds of situations in dreams (whatever they were) was that I'd already mentally processed some of the worst case scenarios and the coping was done.}
 
-{Some email addresses I'd used were up on the screen. An asian man who looked a bit like Mr. Sulu from Star Trek was looking through some files on another computer, seemingly old posts on the internet.}
+    {Becoming curious about what was written on the wall, I walked over to it and saw it was labeled *Room 303: Scientists*. There was a computer display which showed several words and numbers. I began rattling them off, and a voice said "he's reading things from one display and putting them onto another". I also repeated that statement aloud.}
 
-[asian-man: <mumbling> {Okay, that explains that comment. I wasn't clear on what that meant before.}]
+    {Some email addresses I'd used were up on the screen. An asian man who looked a bit like Mr. Sulu from Star Trek was looking through some files on another computer, seemingly old posts on the internet.}
 
-{He handed me something in a bowl, and began to speak:}
+]
 
-[asian-man: {There is something you need to understand about showing people *Future Things*. You have to be careful. It's a lot like if you are dealing with someone who has never had a grape before. When you give them their first grape you must be 100% sure it's not a sour one...because if it is sour, then every time they're asked if they want a grape after that they will say no.}]
+dialog [asian-man: <mumbling> {Okay, that explains that comment. I wasn't clear on what that meant before.}]
+
+print {He handed me something in a bowl, and began to speak:}
+
+dialog [asian-man: {There is something you need to understand about showing people *Future Things*. You have to be careful. It's a lot like if you are dealing with someone who has never had a grape before. When you give them their first grape you must be 100% sure it's not a sour one...because if it is sour, then every time they're asked if they want a grape after that they will say no.}]

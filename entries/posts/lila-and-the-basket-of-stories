@@ -6,180 +6,212 @@ Draem [
     old: http://realityhandbook.livejournal.com/43832.html
 ]
 
-{I've been trying to get someone to collaborate with me on hypnosis projects for the purpose of exploring my potential mediumistic abilities, while in a state that is not completely asleep. This isn't easy to find. Most hypnotists charge a lot of money, and their goals are therapeutic as opposed to trying to scientifically validate or confirm theories like past lives/etc.}
+print << [
 
-{Though I haven't found anyone who can hypnotize *me* yet, the ability of others to go into a hypnotic state under my guidance seems to be pretty good (see entry [Neo Alert](http://realityhandbook.org/hypnosis/neo-alert/)). My method is not too complicated... just talk to someone who's already tired and get them to tell a story that takes them to a place that they might reasonably remember from childhood. Worst case scenario you get to learn some things about their history. Slightly better case scenario: you get them to recall something they wouldn't be able to if they weren't deep into a visualization exercise. For me the best case scenario, they become a channel to speaking to someone who has information I can use.}
+    {I've been trying to get someone to collaborate with me on hypnosis projects for the purpose of exploring my potential mediumistic abilities, while in a state that is not completely asleep. This isn't easy to find. Most hypnotists charge a lot of money, and their goals are therapeutic as opposed to trying to scientifically validate or confirm theories like past lives/etc.}
 
-{This happened recently in an experiment with a friend, who was sleep deprived on a Saturday night and willing to indulge my interest in trances. Our conversation started with her recalling a playground, and then drifting into a recollection of a very specific day. This playground story went on for at least an hour or so, and I kept with it just to see what mental state it might lead to. Indeed, after I received silence in response to one of my questions, a few physical prods along with "Where are you now / What do you see?" took a sharp turn.}
+    {Though I haven't found anyone who can hypnotize *me* yet, the ability of others to go into a hypnotic state under my guidance seems to be pretty good (see entry [Neo Alert](http://realityhandbook.org/hypnosis/neo-alert/)). My method is not too complicated... just talk to someone who's already tired and get them to tell a story that takes them to a place that they might reasonably remember from childhood. Worst case scenario you get to learn some things about their history. Slightly better case scenario: you get them to recall something they wouldn't be able to if they weren't deep into a visualization exercise. For me the best case scenario, they become a channel to speaking to someone who has information I can use.}
 
-{Really I would have preferred to have my laptop set up to record the conversation, and in the future I will certainly make sure there's a recording--especially if it's me. I took some notes, but I'll try and summarize my lines of questioning and what she said. This is digested with personal details omitted; the questioning process was very, very slow and it often took many times asking a question to get it answered.}
+    {This happened recently in an experiment with a friend, who was sleep deprived on a Saturday night and willing to indulge my interest in trances. Our conversation started with her recalling a playground, and then drifting into a recollection of a very specific day. This playground story went on for at least an hour or so, and I kept with it just to see what mental state it might lead to. Indeed, after I received silence in response to one of my questions, a few physical prods along with "Where are you now / What do you see?" took a sharp turn.}
 
-[me: "Where are you now? What do you see?"]
+    {Really I would have preferred to have my laptop set up to record the conversation, and in the future I will certainly make sure there's a recording--especially if it's me. I took some notes, but I'll try and summarize my lines of questioning and what she said. This is digested with personal details omitted; the questioning process was very, very slow and it often took many times asking a question to get it answered.}
 
-[her: "We're in a gray bubble, the walls are like bone."]
+]
 
-[me: "Where am I?"]
+dialog [
 
-[her: "You are lounging asleep."]
+    me: "Where are you now? What do you see?"
 
-[me: "What am I wearing?"]
+    her: "We're in a gray bubble, the walls are like bone."
 
-[her: {You are wearing a red and blue striped shirt, all very dark colors.}]
+    me: "Where am I?"
 
-[me: "What is happening now?"]
+    her: "You are lounging asleep."
 
-[her: {The bubble just went down the path to the right. I expected it to go another way.}]
+    me: "What am I wearing?"
 
-[me: "Where are we going?"]
+    her: {You are wearing a red and blue striped shirt, all very dark colors.}
 
-[her: "To the city, I trade things."]
+    me: "What is happening now?"
 
-[me: "What do you trade?"]
+    her: {The bubble just went down the path to the right. I expected it to go another way.}
 
-[her: "Stories, they're in a basket."]
+    me: "Where are we going?"
 
-[me: "Describe the basket."]
+    her: "To the city, I trade things."
 
-[her: "It's simple, there's a napkin on top."]
+    me: "What do you trade?"
 
-[me: "What does a story look like, in the basket?"]
+    her: "Stories, they're in a basket."
 
-"She gave no answer for a long time."
+    me: "Describe the basket."
 
-[me: "How is a story carried? Describe where you are..."]
+    her: "It's simple, there's a napkin on top."
 
-{Again no answer, so I poked and prodded her even though I knew it might wake her up.}
+    me: "What does a story look like, in the basket?"
 
-[me: "What's your name?"]
+]
 
-[her: "Lila."]
+print "She gave no answer for a long time."
 
-[me: "What are you doing?"]
+dialog [me: "How is a story carried? Describe where you are..."]
 
-[her: "I deliver things."]
+print {Again no answer, so I poked and prodded her even though I knew it might wake her up.}
 
-[me: "What do you deliver?"]
+dialog [
 
-[her: "Bread. I like my job."]
+    me: "What's your name?"
 
-[me: "Where were you before we started talking?"]
+    her: "Lila."
 
-[her: "I don't know."]
+    me: "What are you doing?"
 
-[me: "What's my name?"]
+    her: "I deliver things."
 
-[her: "I don't know. It starts with an...S?"]
+    me: "What do you deliver?"
 
-[me: "What's your name?"]
+    her: "Bread. I like my job."
 
-[her: "Lila."]
+    me: "Where were you before we started talking?"
 
-[me: "Describe the city."]
+    her: "I don't know."
 
-[her: "It's like Seattle, but it has 3 space needles."]
+    me: "What's my name?"
 
-[me: "What do I look like?"]
+    her: "I don't know. It starts with an...S?"
 
-[her: "You're... an intrusion..."]
+    me: "What's your name?"
 
-[me: "I'm not trying to be bad or an inconvenience."]
+    her: "Lila."
 
-[her: "No, that's very apparent."]
+    me: "Describe the city."
 
-[me: {I'm just very curious, so I ask a lot of questions, and it helps if you answer them as best you can.}]
+    her: "It's like Seattle, but it has 3 space needles."
 
-[her: {I'm not who you should be talking to, I'm too simple.}]
+    me: "What do I look like?"
 
-[me: "Who should I be talking to?"]
+    her: "You're... an intrusion..."
 
-[her: "The council in the city."]
+    me: "I'm not trying to be bad or an inconvenience."
 
-[me: "Is the council good?"]
+    her: "No, that's very apparent."
 
-[her: "Mostly."]
+    me: {I'm just very curious, so I ask a lot of questions, and it helps if you answer them as best you can.}
 
-[me: "Who is the wisest on the council?"]
+    her: {I'm not who you should be talking to, I'm too simple.}
 
-[her: "He's...very long."]
+    me: "Who should I be talking to?"
 
-[me: "His name is very long?"]
+    her: "The council in the city."
 
-[her: {No, I don't know his name, but his body is very long.}]
+    me: "Is the council good?"
 
-{We had a conversational detour for a bit, as I asked her what she knew about the friend (whose name is NOT Lila). The gist was she only knew of her... and that she was "good".}
+    her: "Mostly."
 
-[me: "Do you have the internet?"]
+    me: "Who is the wisest on the council?"
 
-[her: "No, we don't need that."]
+    her: "He's...very long."
 
-[me: "How do you find out information you don't know?"]
+    me: "His name is very long?"
 
-[her: "We just think it."]
+    her: {No, I don't know his name, but his body is very long.}
 
-[me: {Well what if it's something that thinking can't produce, like for instance... you don't know my name... where would you look that up?}]
+]
 
-{She did, eventually, correctly give my name at some point in the conversation. I advised against being too literal about that, as I go by many names. I offered a few, including this journal.}
+print {We had a conversational detour for a bit, as I asked her what she knew about the friend (whose name is NOT Lila). The gist was she only knew of her... and that she was "good".}
 
-[me: "Do you know what Earth is?"]
+dialog [
 
-[her: "It's all integrated. It's a multiverse."]
+    me: "Do you have the internet?"
 
-{At this point, I decided to try and do some sanity checks. Hearing things about bubbles and transport and "bread", I often think I might be talking to a cell... or an ant... or something that is being translated through the human host. It's a pet theory of mine, probably wrong, but maybe having an open mind about that is useful.}
+    her: "No, we don't need that."
 
-[me: {I'm going to ask you what animal's name starts with A. If you can name an animal, any animal.}]
+    me: "How do you find out information you don't know?"
 
-"There was just silence."
+    her: "We just think it."
 
-[me: "For instance, do you know what an ant is?"]
+    me: {Well what if it's something that thinking can't produce, like for instance... you don't know my name... where would you look that up?}
 
-[her: "Yes."]
+]
 
-[me: {What's it like? How would you describe an ant to someone who had never seen one?}]
+print {She did, eventually, correctly give my name at some point in the conversation. I advised against being too literal about that, as I go by many names. I offered a few, including this journal.}
 
-[her: "It's very small."]
+dialog [
 
-[me: "Smaller than you?"]
+    me: "Do you know what Earth is?"
 
-[her: "A lot smaller."]
+    her: "It's all integrated. It's a multiverse."
 
-[me: "Okay, do you know what a cat is?"]
+]
 
-[her: "Yes."]
+print {At this point, I decided to try and do some sanity checks. Hearing things about bubbles and transport and "bread", I often think I might be talking to a cell... or an ant... or something that is being translated through the human host. It's a pet theory of mine, probably wrong, but maybe having an open mind about that is useful.}
 
-[me: "How big is a cat relative to an ant?"]
+dialog [me: {I'm going to ask you what animal's name starts with A. If you can name an animal, any animal.}]
 
-[her: "Bigger."]
+print "There was just silence."
 
-[me: "Do you have a cat?"]
+dialog [
 
-[note {This friend has three cats, a gray one, a brown one, and a tan one.}]
+    me: "For instance, do you know what an ant is?"
 
-[her: "Not in this world."]
+    her: "Yes."
 
-[me: {How is it meaningful to say you have a cat, if you don't have one in the world you live in?}]
+    me: {What's it like? How would you describe an ant to someone who had never seen one?}
 
-[her: "There are multiple overlapping lives."]
+    her: "It's very small."
 
-[me: "How many lives do you have?"]
+    me: "Smaller than you?"
 
-[her: "Just 2."]
+    her: "A lot smaller."
 
-[me: "And you have a cat in the other life?"]
+    me: "Okay, do you know what a cat is?"
 
-[her: "Yes."]
+    her: "Yes."
 
-[me: "What does it look like?"]
+    me: "How big is a cat relative to an ant?"
 
-[her: "White. Bright white."]
+    her: "Bigger."
 
-[me: {How do you switch between lives, is it like a button...you push it and then you're in the other life?}]
+    me: "Do you have a cat?"
 
-[her: "No, you intersect. You fly into each other."]
+]
 
-{There was some difficulty and silence following this bit, and I tried various lines of questioning which weren't getting anywhere.}
+note {This friend has three cats, a gray one, a brown one, and a tan one.}
 
-[her: {You need to relax, if you relaxed you would integrate better.}]
+dialog [
 
-[me: {I will integrate when I'm dead but until then, I'll keep asking questions.}]
+    her: "Not in this world."
 
-"This was essentially the end of the session."
+    me: {How is it meaningful to say you have a cat, if you don't have one in the world you live in?}
+
+    her: "There are multiple overlapping lives."
+
+    me: "How many lives do you have?"
+
+    her: "Just 2."
+
+    me: "And you have a cat in the other life?"
+
+    her: "Yes."
+
+    me: "What does it look like?"
+
+    her: "White. Bright white."
+
+    me: {How do you switch between lives, is it like a button...you push it and then you're in the other life?}
+
+    her: "No, you intersect. You fly into each other."
+
+]
+
+print {There was some difficulty and silence following this bit, and I tried various lines of questioning which weren't getting anywhere.}
+
+dialog [
+
+    her: {You need to relax, if you relaxed you would integrate better.}
+
+    me: {I will integrate when I'm dead but until then, I'll keep asking questions.}
+
+]
+
+print "This was essentially the end of the session."

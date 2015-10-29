@@ -5,72 +5,96 @@ Draem [
     tags: [non-lucid-dream technology neutral funny google obama]
 ]
 
-{I was some kind of futuristic school building, where a talk was being given by someone I perceived as President Obama.  I'd arrived and although, the talk was almost over, I wanted to ask him something.  There were people milling around the room and peeking in the door...which had rows of fairly old-school looking desks.}
+print << [
 
-{The crowd peeking around the door was talking about how they wished they'd gotten there earlier because soem kind of freebie was being given out to the first arrivals.  I noticed someone slipping out of one of the desks right by the door on the left side of the rows, by the door...and I shifted in to take their spot sitting at the desk.}
+    {I was some kind of futuristic school building, where a talk was being given by someone I perceived as President Obama.  I'd arrived and although, the talk was almost over, I wanted to ask him something.  There were people milling around the room and peeking in the door...which had rows of fairly old-school looking desks.}
 
-{It was a Q&A period and I wanted to ask my question, but someone else asked a question and announced what part of the school they were from.  Obama acknowledged them and brought up that they weren't supposed to be in that session, but answered their question anyway.  Perceiving myself to be similarly unauthorized to be there, I thought better of asking my question from that audience...and slipped back out the door to ask when he came out of the room.}
+    {The crowd peeking around the door was talking about how they wished they'd gotten there earlier because soem kind of freebie was being given out to the first arrivals.  I noticed someone slipping out of one of the desks right by the door on the left side of the rows, by the door...and I shifted in to take their spot sitting at the desk.}
 
-[note {The feeling I had was that I already knew that I wasn't actually supposed to be there, I just didn't want to be a second unauthorized person from our group asking something when it had been pointed out to the rest of the audience that we weren't supposed to be there.}]
+    {It was a Q&A period and I wanted to ask my question, but someone else asked a question and announced what part of the school they were from.  Obama acknowledged them and brought up that they weren't supposed to be in that session, but answered their question anyway.  Perceiving myself to be similarly unauthorized to be there, I thought better of asking my question from that audience...and slipped back out the door to ask when he came out of the room.}
 
-{I lounged for a bit in the lobby which was kind of like a spacious airport terminal, with large wide open doorways.  Obama came out followed by some security personnel who followed him, but didn't seem to take mind of my approach to ask him a question.}
+]
 
-[obama: <familiarly> {Oh, hey.  What's up?}]
+note {The feeling I had was that I already knew that I wasn't actually supposed to be there, I just didn't want to be a second unauthorized person from our group asking something when it had been pointed out to the rest of the audience that we weren't supposed to be there.}
 
-[me: {Sorry to be in the wrong section, guess I'm not the only one who has questions.  Isn't this a bit...silly to be limiting attendance, using...desks, what's with all the low-tech?  Why isn't this broadcast?  It's not like any of it is classified.}]
+print {I lounged for a bit in the lobby which was kind of like a spacious airport terminal, with large wide open doorways.  Obama came out followed by some security personnel who followed him, but didn't seem to take mind of my approach to ask him a question.}
 
-{Obama took a seat at a small desk and pulled out some long yellow lined legal pads with scrawled writing on them.}
+dialog [
 
-[obama: {No; but think of the desks as creating a sort of theater.  It's a space for a different kind of interaction.  Sometimes it makes sense to do it.}]
+    obama: <familiarly> "Oh, hey.  What's up?"
 
-{I began to start to ask my question when some worried and hurried person with more legal pads ran up to the desk.  The sense I had was that it was emergency information.  I heard some people giving instructions behind me that was interfering with hearing what was going on.}
+    me: {Sorry to be in the wrong section, guess I'm not the only one who has questions.  Isn't this a bit...silly to be limiting attendance, using...desks, what's with all the low-tech?  Why isn't this broadcast?  It's not like any of it is classified.}
 
-[me: <gesturing behind me> {Shhh!}]
+]
 
-{The worried man looked at me and pointed behind to indicate that the people I had just shhh'd were the security people from before.  He paused to address me.}
+print {Obama took a seat at a small desk and pulled out some long yellow lined legal pads with scrawled writing on them.}
 
-[worried-man: {You don't 'shhh' the secret service.}]
+dialog [obama: {No; but think of the desks as creating a sort of theater.  It's a space for a different kind of interaction.  Sometimes it makes sense to do it.}]
 
-[me: <to security people> {Oh, sorry.}]
+print {I began to start to ask my question when some worried and hurried person with more legal pads ran up to the desk.  The sense I had was that it was emergency information.  I heard some people giving instructions behind me that was interfering with hearing what was going on.}
 
-{Obama pulled out a blue pen and began writing down a long list of names after looking at the information on the worried man's legal pads.  I didn't catch any of the names.}
+dialog [me: <gesturing behind me> "Shhh!"]
 
-{Perceiving what they were doing was more important than my question, I excused myself and went into an attached room from the lounge.  Some kind of animatronic robotic music performance was being done, for a song called "Go Save Your Chrome".  A person there I perceived I knew I spoke with.}
+print {The worried man looked at me and pointed behind to indicate that the people I had just shhh'd were the security people from before.  He paused to address me.}
 
-[me: <grumbling> {I don't get this thing with the desks and legal pads.  Not that I'd get it even if they were using tablets or cell phones.  In retrospect it may seem a bit short-sighted of me to have not really pushed for that and having most of my interests in typewriters-attached to televisions.  Guess I didn't watch enough Star Trek with the tricorders and such.}]
+dialog [
 
-{I stopped to think a bit more.}
+    worried-man: "You don't 'shhh' the secret service."
 
-[me: {But who is to say.  Chasing one disposable technology after another instead of getting things solid...it might as well be legal pads, if it's something you carry around in monkey hands until you keel over and die.  My methods may well have solved the problem better by getting something really, really right...terra firma.  Then you don't have to worry as much.  Needed more investment to tell.}]
+    me: <to security people> "Oh, sorry."
 
-{I watched the odd metallic robots playing the song (or at least, "dancing" to it).}
+]
 
-[me: {And by the way, what does this song have to do with Chrome anyway?}]
+print << [
 
-{Looking around I saw there was a panel on the wall with a monochrome version of the Chrome logo.  The panel began moving in to recess into the wall, and split open to reveal a similar panel in which the center was blue and then the outer portion of the logo was still monochrome.  Then that panel similarly recessed and split to show three variants of blue in the outer versions.  The process continued until a full color model emerged and then it opened to a tunnel one could descend into.}
+    {Obama pulled out a blue pen and began writing down a long list of names after looking at the information on the worried man's legal pads.  I didn't catch any of the names.}
 
-[note {The composition of the Google Chrome logo does actually have this nature, in that the open source variant ("Chromium") uses blues, and Google's branded version "Chrome" has a blue center with Red/Green/Yellow.  To me, this has a lot of "design intent".}]
+    {Perceiving what they were doing was more important than my question, I excused myself and went into an attached room from the lounge.  Some kind of animatronic robotic music performance was being done, for a song called "Go Save Your Chrome".  A person there I perceived I knew I spoke with.}
 
-{The room transitioned into some advertisement for "Go Save Your Chrome" that was a video game.  You controlled a 3-D model of the Chrome logo that started out monochrome and could levitate in a dark cavernous space.} 
+]
 
-[note {Your character looked very much like ["Interactive Reaction"](http://vimeo.com/5217107), made by "Imaginary Forces".}]
+dialog [me: <grumbling> {I don't get this thing with the desks and legal pads.  Not that I'd get it even if they were using tablets or cell phones.  In retrospect it may seem a bit short-sighted of me to have not really pushed for that and having most of my interests in typewriters-attached to televisions.  Guess I didn't watch enough Star Trek with the tricorders and such.}]
 
-{I couldn't myself control the unit, and perceived I was watching an ad for the game.  The ball flew around a bit before going down and hitting the ground, where it began to roll.  When it rolled up to a particular section of a wall, the word "ZEN" appeared on it", and the wall became translucent to reveal a tunnel you could roll through to get into another room.}
+print "I stopped to think a bit more."
 
-[note {In this sense, the game resembled [Metroid Prime](http://en.wikipedia.org/wiki/Metroid_Prime) when you are rolled into a "Morph ball".}]
+dialog [me: {But who is to say.  Chasing one disposable technology after another instead of getting things solid...it might as well be legal pads, if it's something you carry around in monkey hands until you keel over and die.  My methods may well have solved the problem better by getting something really, really right...terra firma.  Then you don't have to worry as much.  Needed more investment to tell.}]
 
-{The secret "Zen room" didn't seem to have anything in it.  But whoever was controlling the ball rolled around in it to make some secret event happen...which basically turned the room into a store that had a number of handcrafted things on display in the room like a store.  Colorful handbags and things like that.}
+print {I watched the odd metallic robots playing the song (or at least, "dancing" to it).}
 
-[me: <laughing> {Well, I guess that's... pretty Zen.}]
+dialog [me: {And by the way, what does this song have to do with Chrome anyway?}]
 
-[voice: <laughing> {Quite.  Actually there's a lot of things you can get to happen in that room, it's really random.}]
+print {Looking around I saw there was a panel on the wall with a monochrome version of the Chrome logo.  The panel began moving in to recess into the wall, and split open to reveal a similar panel in which the center was blue and then the outer portion of the logo was still monochrome.  Then that panel similarly recessed and split to show three variants of blue in the outer versions.  The process continued until a full color model emerged and then it opened to a tunnel one could descend into.}
 
-{The Chrome ball ran around in a seemingly deserted world that looked like a series of stores, with no people but just a lot more items.  Like Alpaca woven jackets, or racks of puppets like you find in some toy stores.}
+note {The composition of the Google Chrome logo does actually have this nature, in that the open source variant ("Chromium") uses blues, and Google's branded version "Chrome" has a blue center with Red/Green/Yellow.  To me, this has a lot of "design intent".}
 
-[me: {Is this all the game is?  Just...empty stores?  This can't be official.  Who made it?}]
+print {The room transitioned into some advertisement for "Go Save Your Chrome" that was a video game.  You controlled a 3-D model of the Chrome logo that started out monochrome and could levitate in a dark cavernous space.}
 
-[voice: <bemused> {Y'know baby, it's not all bad here.  Yeah, we can make our own fun.}]
+note {Your character looked very much like ["Interactive Reaction"](http://vimeo.com/5217107), made by "Imaginary Forces".}
 
-{Without a hand in it, one of the puppets jumped up and started stroking another one of the puppets in the crotch.}
+print {I couldn't myself control the unit, and perceived I was watching an ad for the game.  The ball flew around a bit before going down and hitting the ground, where it began to roll.  When it rolled up to a particular section of a wall, the word "ZEN" appeared on it", and the wall became translucent to reveal a tunnel you could roll through to get into another room.}
 
-[me: <laughing> {And here I thought this was a G-rated game!  Well, if you can play with the puppets then at least there's something to do.  Just need a way to export to YouTube.}]
+note {In this sense, the game resembled [Metroid Prime](http://en.wikipedia.org/wiki/Metroid_Prime) when you are rolled into a "Morph ball".}
+
+print {The secret "Zen room" didn't seem to have anything in it.  But whoever was controlling the ball rolled around in it to make some secret event happen...which basically turned the room into a store that had a number of handcrafted things on display in the room like a store.  Colorful handbags and things like that.}
+
+dialog [
+
+    me: <laughing> "Well, I guess that's... pretty Zen."
+
+    voice: <laughing> {Quite.  Actually there's a lot of things you can get to happen in that room, it's really random.}
+
+]
+
+print {The Chrome ball ran around in a seemingly deserted world that looked like a series of stores, with no people but just a lot more items.  Like Alpaca woven jackets, or racks of puppets like you find in some toy stores.}
+
+dialog [
+
+    me: {Is this all the game is?  Just...empty stores?  This can't be official.  Who made it?}
+
+    voice: <bemused> {Y'know baby, it's not all bad here.  Yeah, we can make our own fun.}
+
+]
+
+print {Without a hand in it, one of the puppets jumped up and started stroking another one of the puppets in the crotch.}
+
+dialog [me: <laughing> {And here I thought this was a G-rated game!  Well, if you can play with the puppets then at least there's something to do.  Just need a way to export to YouTube.}]

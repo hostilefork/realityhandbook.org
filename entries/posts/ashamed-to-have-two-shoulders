@@ -6,54 +6,66 @@ Draem [
     old: http://realityhandbook.livejournal.com/8451.html
 ]
 
-{I had a dream where I was rambling in a semi-nonsensical nature to a male friend. He hugged me.}
+print {I had a dream where I was rambling in a semi-nonsensical nature to a male friend. He hugged me.}
 
-[friend: "I don't want to lose you."]
+dialog [friend: "I don't want to lose you."]
 
-{Becoming lucid of the dream environment, I headed down a hallway. Though the hallway seemed institutional, the rooms I was looking into seemed fairly normal bedrooms with non-hospital decor. No one was in the beds.}
+print << [
 
-{The first room I found looked like an office, and there was a guy who looked kind of doctor-ish inside.}
+    {Becoming lucid of the dream environment, I headed down a hallway. Though the hallway seemed institutional, the rooms I was looking into seemed fairly normal bedrooms with non-hospital decor. No one was in the beds.}
 
-[me: "Excuse me, is this a hospital?"]
+    {The first room I found looked like an office, and there was a guy who looked kind of doctor-ish inside.}
 
-{He looked at me as if I had asked him a dumb question, and I asked him dumb questions all the time.}
+]
 
-[doctor: <irked> "I don't have time, Richie. I'm busy."]
+dialog [me: "Excuse me, is this a hospital?"]
 
-[note {I noticed that the more I looked at him directly in the eyes, the closer I was to waking up. So I had to keep my glance averted.}]
+print {He looked at me as if I had asked him a dumb question, and I asked him dumb questions all the time.}
 
-{Walking in circles, I tried to focus and de-escalate any conflict...while still getting more information.}
+dialog [doctor: <irked> "I don't have time, Richie. I'm busy."]
 
-[me: {I'm sorry to ask stupid questions. It's just that I'm having some problems with my memory right now. Please...if you could answer...it would really help me.}]
+note {I noticed that the more I looked at him directly in the eyes, the closer I was to waking up. So I had to keep my glance averted.}
 
-[doctor: <relaxing> {Yes. This is a hospital. It is a place to get over your addictions.}]
+print {Walking in circles, I tried to focus and de-escalate any conflict...while still getting more information.}
 
-[me: "How many patients are being treated here?"]
+dialog [
 
-[doctor: "There are 40 on this floor."]
+    me: {I'm sorry to ask stupid questions. It's just that I'm having some problems with my memory right now. Please...if you could answer...it would really help me.}
 
-[me: "Is my presence here voluntary or involuntary?"]
+    doctor: <relaxing> {Yes. This is a hospital. It is a place to get over your addictions.}
 
-[doctor: {It is voluntary, but you have been here for five years.}]
+    me: "How many patients are being treated here?"
 
-[me: {If I've been here for five years, I must have some serious problem not being solved. What is it?}]
+    doctor: "There are 40 on this floor."
 
-[doctor: "Your main problem is that you hear voices."]
+    me: "Is my presence here voluntary or involuntary?"
 
-[me: {Oh. Voices is it? Ah, well, I suppose that would make sense.}]
+    doctor: {It is voluntary, but you have been here for five years.}
 
-[note {This struck me as humorous, because of course in this scenario--I'd be the voice! Having some sympathy for Richie, I decided not to leave my transdimensional calling card so he wouldn't appear any crazier than he already might.}]
+    me: {If I've been here for five years, I must have some serious problem not being solved. What is it?}
 
-[me: {Well I think I'm feeling a bit better about those voices these days. Thanks for all the information.}]
+    doctor: "Your main problem is that you hear voices."
 
-{Then I walked out of the room. A few people passed me in the hall, including a girl who saw me and ran up to me.}
+    me: {Oh. Voices is it? Ah, well, I suppose that would make sense.}
 
-[girl: "Are you ashamed to have two shoulders?"]
+]
 
-{Confused, I just sort of paused until I noticed that she was missing an arm.}
+note {This struck me as humorous, because of course in this scenario--I'd be the voice! Having some sympathy for Richie, I decided not to leave my transdimensional calling card so he wouldn't appear any crazier than he already might.}
 
-[me: <hedging> "Ummm...uh...yes?"]
+dialog [me: {Well I think I'm feeling a bit better about those voices these days. Thanks for all the information.}]
 
-[girl: <enthusiastic> "Well I'm not!!!"]
+print {Then I walked out of the room. A few people passed me in the hall, including a girl who saw me and ran up to me.}
 
-{I picked her up in a playful manner and awoke shortly thereafter.}
+dialog [girl: "Are you ashamed to have two shoulders?"]
+
+print {Confused, I just sort of paused until I noticed that she was missing an arm.}
+
+dialog [
+
+    me: <hedging> "Ummm...uh...yes?"
+
+    girl: <enthusiastic> "Well I'm not!!!"
+
+]
+
+print {I picked her up in a playful manner and awoke shortly thereafter.}

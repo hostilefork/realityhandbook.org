@@ -6,34 +6,46 @@ Draem [
     old: http://realityhandbook.livejournal.com/136079.html
 ]
 
-{I had run a piece of software with a name like "dragon", which was able to interactively do rough cropping of graphics on a text terminal. It was running on an image I didn't have a way to view in its original form. So wanting to demonstrate this for someone who was in the room with me on an image they already knew, I tried to load up the Google Logo as a sample.}
+print {I had run a piece of software with a name like "dragon", which was able to interactively do rough cropping of graphics on a text terminal. It was running on an image I didn't have a way to view in its original form. So wanting to demonstrate this for someone who was in the room with me on an image they already knew, I tried to load up the Google Logo as a sample.}
 
-[note {Though I've never seen such a program, it would be quite possible to write one. In fact, when I did a search for "jpeg to ascii" converters, I found one called [jp2a](http://csl.sublevel3.org/jp2a/). In its samples, it offers precisely the demonstration I tried in the dream--conversion of the Google logo:} [picture %textgoogle.png] {...so it's apparently a pretty obvious "first test" of such a program.}]
+note [
 
-{When I did this test, however, the conversion began to spit out a lot of extra data. This provoked me to load the image into a non-browser, and I saw it had a lot of stuff in it besides the picture.}
+    print {Though I've never seen such a program, it would be quite possible to write one. In fact, when I did a search for "jpeg to ascii" converters, I found one called [jp2a](http://csl.sublevel3.org/jp2a/). In its samples, it offers precisely the demonstration I tried in the dream--conversion of the Google logo:}
 
-[me: {A ha. Someone must have patched Firefox to pass this off as a normal image. Let's look at some other images...}]
+    picture %textgoogle.png
 
-{I tried to type in "http://images.google.com" but accidentally typed in something more like "http://video.images.google.com". The computer I was typing on suddenly went into a full screen mode of a fancy video website with a red background--it was very non-Googlish, even though it was on the Google domain. It was then that I noticed that the computer had become very flat and futuristic, with no keyboard...like a Crunchpad:}
+    print {...so it's apparently a pretty obvious "first test" of such a program.}
 
-[picture %crunchpad_600x415.jpg]
+]
 
-[me: {Whoa. This...changed right in my hands. So I'm in a dream? That's weird, because I didn't lay down or anything. I must not have been awake before either.}]
+print {When I did this test, however, the conversion began to spit out a lot of extra data. This provoked me to load the image into a non-browser, and I saw it had a lot of stuff in it besides the picture.}
 
-{I put the computer down and walked over to the girl who I'd wanted to show the image to. She was sitting on a sofa.}
+dialog [me: {A ha. Someone must have patched Firefox to pass this off as a normal image. Let's look at some other images...}]
 
-[girl: "Why don't you try grabbing your eyes?"]
+print {I tried to type in "http://images.google.com" but accidentally typed in something more like "http://video.images.google.com". The computer I was typing on suddenly went into a full screen mode of a fancy video website with a red background--it was very non-Googlish, even though it was on the Google domain. It was then that I noticed that the computer had become very flat and futuristic, with no keyboard...like a Crunchpad:}
 
-[me: {Grabbing? Well, I can touch them without much of a problem, I've learned to put in contacts.}]
+picture %crunchpad_600x415.jpg
 
-{Wetting my fingers a bit with my tongue, I reached up under what felt like glasses and tried to gently touch my eyeball. When I did so, my body seemed to physically flip over onto my head, and the view I had split into shards. Some of the shards were yellow and blue hues, while others were normal.}
+dialog [me: {Whoa. This...changed right in my hands. So I'm in a dream? That's weird, because I didn't lay down or anything. I must not have been awake before either.}]
 
-[girl: "Not really what I meant by 'grab', but... ok."]
+print {I put the computer down and walked over to the girl who I'd wanted to show the image to. She was sitting on a sofa.}
 
-{There was some fairly innocuous popular dance music playing--it wasn't anything I listen to (picking a random artist it might be like, I'd say "Shakira".) To try and keep myself in the dream and not focus on the visual anomalies, we got up and started dancing close.}
+dialog [
 
-[me: {What is the nature of this world? Sometimes I don't know. It's so random, that I wonder if I am actually alone inside my mind. Like maybe this is the default state of the universe, and that life as I know it is just me fooling myself into thinking I'm not alone. Who are you? Is it even *possible* for you and I to stay here long enough to figure it out?}]
+    girl: "Why don't you try grabbing your eyes?"
 
-"She thought for a second."
+    me: {Grabbing? Well, I can touch them without much of a problem, I've learned to put in contacts.}
 
-[girl: {Think of the Ocean. From the outside it can seem kind of Heavenly, but if you're a creature born into it...it's kind of a Hell. Random and cold, swimming around trying to fend for yourself, no obvious purpose given to you. I'd say that one should certainly be skeptical of any society that patterns itself after the ocean.}]
+]
+
+print {Wetting my fingers a bit with my tongue, I reached up under what felt like glasses and tried to gently touch my eyeball. When I did so, my body seemed to physically flip over onto my head, and the view I had split into shards. Some of the shards were yellow and blue hues, while others were normal.}
+
+dialog [girl: "Not really what I meant by 'grab', but... ok."]
+
+print {There was some fairly innocuous popular dance music playing--it wasn't anything I listen to (picking a random artist it might be like, I'd say "Shakira".) To try and keep myself in the dream and not focus on the visual anomalies, we got up and started dancing close.}
+
+dialog [me: {What is the nature of this world? Sometimes I don't know. It's so random, that I wonder if I am actually alone inside my mind. Like maybe this is the default state of the universe, and that life as I know it is just me fooling myself into thinking I'm not alone. Who are you? Is it even *possible* for you and I to stay here long enough to figure it out?}]
+
+print "She thought for a second."
+
+dialog [girl: {Think of the Ocean. From the outside it can seem kind of Heavenly, but if you're a creature born into it...it's kind of a Hell. Random and cold, swimming around trying to fend for yourself, no obvious purpose given to you. I'd say that one should certainly be skeptical of any society that patterns itself after the ocean.}]

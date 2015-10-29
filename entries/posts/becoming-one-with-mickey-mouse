@@ -6,52 +6,64 @@ Draem [
     old: http://realityhandbook.livejournal.com/112277.html
 ]
 
-{I was speaking to a white man with a beard in a kitchen, who was offering me some brandy and an energy drink.}
+print {I was speaking to a white man with a beard in a kitchen, who was offering me some brandy and an energy drink.}
 
-[me: "What is your name?"]
+dialog [
 
-[beard-man: "Gladwell."]
+    me: "What is your name?"
 
-[me: "Have we ever spoken before?"]
+    beard-man: "Gladwell."
 
-[beard-man: "Yes, we speak pretty much every day."]
+    me: "Have we ever spoken before?"
 
-[me: "Uh...what did we talk about last?"]
+    beard-man: "Yes, we speak pretty much every day."
 
-[beard-man: {You were speaking about becoming one with Mickey Mouse.}]
+    me: "Uh...what did we talk about last?"
 
-{There was a strange almost awakening, but ended up back in the same kitchen...this time talking to a black man, who introduced himself to me as Gladwell. He was fiddling around, putting some stuff in the microwave.}
+    beard-man: {You were speaking about becoming one with Mickey Mouse.}
 
-[me: {Wait. You weren't black before. Are you the same person I was talking to before?}]
+]
 
-[black-man: <sigh> {I really don't know how I can answer that question.}]
+print {There was a strange almost awakening, but ended up back in the same kitchen...this time talking to a black man, who introduced himself to me as Gladwell. He was fiddling around, putting some stuff in the microwave.}
 
-[me: {Why don't you just say what comes to mind and I'll try and interpret it?}]
+dialog [
 
-[black-man: "Okay. 'this is not a word', said the sensei."]
+    me: {Wait. You weren't black before. Are you the same person I was talking to before?}
 
-[me: {Uh...okay...so you think the question has no meaning. Does it only have no meaning when applied to you? Am *I* a person?}]
+    black-man: <sigh> {I really don't know how I can answer that question.}
 
-{Another strange almost-awakening reset the situation to the kitchen again, this time the beard man was there. He told some people around that I was back, and that I had more questions.}
+    me: {Why don't you just say what comes to mind and I'll try and interpret it?}
 
-[me: {So...my question never got answered. Am *I* a person?}]
+    black-man: "Okay. 'this is not a word', said the sensei."
 
-[beard-man: "No, you're not, because *I* am."]
+    me: {Uh...okay...so you think the question has no meaning. Does it only have no meaning when applied to you? Am *I* a person?}
 
-[me: {Are you being contradictory in order to unask the question?}]
+]
 
-[beard-man: "Un-ask? Oh. Hm. Yes, that's very good."]
+print {Another strange almost-awakening reset the situation to the kitchen again, this time the beard man was there. He told some people around that I was back, and that I had more questions.}
 
-[me: {What do you know about the mechanism by which I got here?}]
+dialog [
 
-[beard-man: "Got 'here' from 'where'?"]
+    me: {So...my question never got answered. Am *I* a person?}
 
-[me: "From Earth."]
+    beard-man: "No, you're not, because *I* am."
 
-[beard-man: "Why do you keep talking about 'Earth'?"]
+    me: {Are you being contradictory in order to unask the question?}
 
-[me: "Well, what would *you* call it?"]
+    beard-man: "Un-ask? Oh. Hm. Yes, that's very good."
 
-[beard-man: {Pointer offset to pointer delta. Or more essentially 'pointer outside'}]
+    me: {What do you know about the mechanism by which I got here?}
 
-[note {It is curious to read upon awakening that the very famous journalist [Malcolm Gladwell](http://en.wikipedia.org/wiki/Malcolm_Gladwell) had a white father and a black mother...}]
+    beard-man: "Got 'here' from 'where'?"
+
+    me: "From Earth."
+
+    beard-man: "Why do you keep talking about 'Earth'?"
+
+    me: "Well, what would *you* call it?"
+
+    beard-man: {Pointer offset to pointer delta. Or more essentially 'pointer outside'}
+
+]
+
+note {It is curious to read upon awakening that the very famous journalist [Malcolm Gladwell](http://en.wikipedia.org/wiki/Malcolm_Gladwell) had a white father and a black mother...}

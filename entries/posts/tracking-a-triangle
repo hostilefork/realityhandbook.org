@@ -6,30 +6,38 @@ Draem [
     old: http://realityhandbook.livejournal.com/33787.html
 ]
 
-{I was in a room in a house, and a girl in white lingerie was standing at the end of the room. I beckoned her to come closer and she refused.}
+print {I was in a room in a house, and a girl in white lingerie was standing at the end of the room. I beckoned her to come closer and she refused.}
 
-[her: {I didn't put this on just because I knew *you* were going to be here!}]
+dialog [her: {I didn't put this on just because I knew *you* were going to be here!}]
 
-{It wasn't clear whether that was a joke or not, but we sat at a table and she started talking about plans and how much someone named Katie was going to be happy about getting to have dinner with me. I sighed.}
+print {It wasn't clear whether that was a joke or not, but we sat at a table and she started talking about plans and how much someone named Katie was going to be happy about getting to have dinner with me. I sighed.}
 
-[me: {You shouldn't be making extended plans for my visit, because I'd probably be waking up any second. Unless you've got an idea of how to make it longer.}]
+dialog [
 
-[her: "Well, this should make things clearer."]
+    me: {You shouldn't be making extended plans for my visit, because I'd probably be waking up any second. Unless you've got an idea of how to make it longer.}
 
-{She pulled out some headphones and put them on my head. When she did, the sound instantly got very clear--and I tried to make out what I was hearing. There was a very distinctive, annoying sound that I knew...which sounds a bit like a dog whining, but is actually a bird outside my window.}
+    her: "Well, this should make things clearer."
 
-[me: {Hey, that's the bird outside my window!!! How did you do that!}]
+]
 
-{She smiled and we sat there looking at each other a bit. The sounds from my real world were playing crystal clear, with all the visual and tactile senses coming from the dream. I awoke for a moment, but sent myself right back to sleep and resumed communication with someone I perceived to be the same person.}
+print {She pulled out some headphones and put them on my head. When she did, the sound instantly got very clear--and I tried to make out what I was hearing. There was a very distinctive, annoying sound that I knew...which sounds a bit like a dog whining, but is actually a bird outside my window.}
 
-[me: "What are those headphones and how do they work?"]
+dialog [me: {Hey, that's the bird outside my window!!! How did you do that!}]
 
-[her: {Oh, wow, you don't know the password. I have to tell you.}]
+print {She smiled and we sat there looking at each other a bit. The sounds from my real world were playing crystal clear, with all the visual and tactile senses coming from the dream. I awoke for a moment, but sent myself right back to sleep and resumed communication with someone I perceived to be the same person.}
 
-{She led me into a dark room and kind of stumbled over the following phrase:}
+dialog [
 
-[quote {Great, great grandmother is tracking a triangle that might start asking questions about itself.}]
+    me: "What are those headphones and how do they work?"
 
-{I immediately forced myself awake to write it down.}
+    her: {Oh, wow, you don't know the password. I have to tell you.}
 
-[note {If that phrase is some kind of secret, then I'm sorry to be publishing it. I don't know if "triangle" refers to me or not. A 3-dimensional being might be called a "triangle" by higher dimensional entities.}]
+]
+
+print {She led me into a dark room and kind of stumbled over the following phrase:}
+
+quote {Great, great grandmother is tracking a triangle that might start asking questions about itself.}
+
+print {I immediately forced myself awake to write it down.}
+
+note {If that phrase is some kind of secret, then I'm sorry to be publishing it. I don't know if "triangle" refers to me or not. A 3-dimensional being might be called a "triangle" by higher dimensional entities.}

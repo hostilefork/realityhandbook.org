@@ -6,88 +6,120 @@ Draem [
     old: http://realityhandbook.livejournal.com/143724.html
 ]
 
-{I became lucid in a grocery store, and decided to try and think of something fun to do. I was in the produce section, and decided I'd just grab a vegetable and crunch on it as I looked. (It might have been a cucumber or squash.)}
+print << [
 
-{Almost immediately, a security announcement was made about the area being locked down. I had a feeling this pertained to my presence, that they were looking for "mind aliens". So I jumped into the air and... vanished. My next perception was being in a mall and talking to someone on a phone...}
+    {I became lucid in a grocery store, and decided to try and think of something fun to do. I was in the produce section, and decided I'd just grab a vegetable and crunch on it as I looked. (It might have been a cucumber or squash.)}
 
-[me: {Y'know they should be a lot more creative with structures when you can make them bigger on the inside than they are on the outside. This mall is a good example.}]
-
-[voice: {Isn't that kind of a goal in ordinary 3-D architecture anyway? To optimize perception of space?}]
-
-[me: {I guess that's true, but I just expect more impressive designs when you have more dimensions to work with.}]
-
-{Walking to an exit, I pushed through a door and ended up in a corridor. It was kind of an abandoned space, like a janitor's closet. I had an uncomfortable feeling and a man in green shirt attacked me. I held focus and looked for writing...and at first I fixated on a word that looked like "EVE" then I saw it was "EYES". The man seemed to be wearing an ID tag for a company called "Installed Eyes".}
-
-{I lost the fight but I appeared again outside the door, and pushed through it. This time I stopped to grab a grocery cart to use as a battering ram in case I ran up against anyone who was going to fight me. Loudly and obnoxiously, I sang a song as I probed the boiler-room like places which were near this exit. The song I sang was "Installed Eyes... are waaatching you..."}
-
-[note {I would have made it a longer parody instead of just repeating that over and over. But I didn't remember enough lyrics of the song [Private Eyes](http://en.wikipedia.org/wiki/Private_Eyes_(song)) by Hall & Oates.}]
-
-{A woman who seemed to be working with a large structure that was supporting the building looked at me with a confused stare.}
-
-[me: {You're not wearing a green shirt, and you're not attacking me. So you might not have anything to do with Installed Eyes. Sorry--I'm from another dimension, and I'm crazy.}]
-
-[her: {I think that should be obvious. But you have to look, we have a major structural problem here.}]
-
-[me: {Oh? Hmm... maybe that has something to do with why I'm here.}]
-
-[her: {When this support breaks, the biggest structure in Disneyland will fall down and destroy the entire place.}]
-
-[me: {Disneyland? Hm. Funny you would say that, I'm asleep in Anaheim California right now. What's the biggest structure in Disneyland?}]
-
-[her: "The Space Needle"]
-
-[me: {There's something at Disneyland that I know called *Space Mountain*... but it's a rollercoaster. It's not all that big. The Space Needle is in Seattle.}]
-
-[her: "Yes, but Disneyland also has one."]
-
-[me: {I'm sure it doesn't, and I'll check that when I get up. Anyway, I'm from 2009...like...December or thereabouts.}]
-
-[note {Don't know why I thought it was December already; maybe just messing up on the -ember. And indeed, there is no Space-Needle like structure at Disneyland}]
-
-{A guy who looked a bit like Brad Pitt's Character in 12 Monkeys walked up to me.}
-
-[picture %370.jpg]
-
-[me: "Hey... you look kind of like Brad Pitt."]
-
-[guy: <smiling> "Now there's a compliment!"]
-
-[me: {Well, when he played that character in 12 Monkeys who was crazy, Jeffrey Goines. I know you... why do I know you?}]
-
-[guy: {Things will come back to you, and you'll see me again.}]
-
-[me: {I don't buy into this erased-memory backstory. Who are we? Are we anybody?}]
-
-[guy: <laughing> "Of course not!"]
-
-{Three people who looked like people I knew from high school walked up. They were wearing blue jackets over each a red, a yellow, and a green shirt. Accompanying the group was a proper-looking Asian girl who seemed to have a small number tattooed under her right eye. It seemed the group in colors was going to talk to the construction people and discuss the structural problem. The Asian girl stopped to talk to me.}
-
-[me: {Why does that auditing group look like people I knew in High School? Do they have anything to do with the people I knew? Or is it a residual construct of my mind?}]
-
-[asian-girl: {Hard to answer the question of whether that's a fully random perception. Might be. Might not be.}]
-
-[me: {Hey, so you can explain things to me? What's going on?}]
-
-{**Asian girl**: "You're not finished yet, so it's not time."}
-
-[me: {Come ON, I could do a lot better with whatever this is. If only a few things were explained.}]
-
-[asian-girl: <sighing> {Fine, we can have dinner sometime and talk about it. Come see me, I'm in Ohio and Colorado some of the time.}]
-
-[me: "Are you a specific person?"]
-
-{**Asian girl**: I see your mind is going to questions of people you've met in your life. Its bringing up thoughts that you should probably sort out while you're awake. Why haven't you been investing in building ideal systems for men and women to meet?"}
-
-[me: {I've already spent time thinking about that problem. The technology we have is just fine if people actually used it.}]
-
-{I tried to follow her over to the group but lost focus, and wound up watching a music video which had all kinds of crazy 3D animation. The chorus of the song was something like:}
-
-[quote
-
-    "Know this inconvenient truth in battling unknowns"
-
-    "only humans go to Heaven, not their robot clones"
+    {Almost immediately, a security announcement was made about the area being locked down. I had a feeling this pertained to my presence, that they were looking for "mind aliens". So I jumped into the air and... vanished. My next perception was being in a mall and talking to someone on a phone...}
 
 ]
 
-{Though I don't remember the rest of the lyrics, they sort of outlined how whatever the details of your life were, it was important. Even if you spent your whole life as a janitor in Japan, it was fundamental to actually have that experience as opposed to just an implant.}
+dialog [
+
+    me: {Y'know they should be a lot more creative with structures when you can make them bigger on the inside than they are on the outside. This mall is a good example.}
+
+    voice: {Isn't that kind of a goal in ordinary 3-D architecture anyway? To optimize perception of space?}
+
+    me: {I guess that's true, but I just expect more impressive designs when you have more dimensions to work with.}
+
+]
+
+print << [
+
+    {Walking to an exit, I pushed through a door and ended up in a corridor. It was kind of an abandoned space, like a janitor's closet. I had an uncomfortable feeling and a man in green shirt attacked me. I held focus and looked for writing...and at first I fixated on a word that looked like "EVE" then I saw it was "EYES". The man seemed to be wearing an ID tag for a company called "Installed Eyes".}
+
+    {I lost the fight but I appeared again outside the door, and pushed through it. This time I stopped to grab a grocery cart to use as a battering ram in case I ran up against anyone who was going to fight me. Loudly and obnoxiously, I sang a song as I probed the boiler-room like places which were near this exit. The song I sang was "Installed Eyes... are waaatching you..."}
+
+]
+
+note {I would have made it a longer parody instead of just repeating that over and over. But I didn't remember enough lyrics of the song [Private Eyes](http://en.wikipedia.org/wiki/Private_Eyes_(song)) by Hall & Oates.}
+
+print {A woman who seemed to be working with a large structure that was supporting the building looked at me with a confused stare.}
+
+dialog [
+
+    me: {You're not wearing a green shirt, and you're not attacking me. So you might not have anything to do with Installed Eyes. Sorry--I'm from another dimension, and I'm crazy.}
+
+    her: {I think that should be obvious. But you have to look, we have a major structural problem here.}
+
+    me: {Oh? Hmm... maybe that has something to do with why I'm here.}
+
+    her: {When this support breaks, the biggest structure in Disneyland will fall down and destroy the entire place.}
+
+    me: {Disneyland? Hm. Funny you would say that, I'm asleep in Anaheim California right now. What's the biggest structure in Disneyland?}
+
+    her: "The Space Needle"
+
+    me: {There's something at Disneyland that I know called *Space Mountain*... but it's a rollercoaster. It's not all that big. The Space Needle is in Seattle.}
+
+    her: "Yes, but Disneyland also has one."
+
+    me: {I'm sure it doesn't, and I'll check that when I get up. Anyway, I'm from 2009...like...December or thereabouts.}
+
+]
+
+note {Don't know why I thought it was December already; maybe just messing up on the -ember. And indeed, there is no Space-Needle like structure at Disneyland}
+
+print {A guy who looked a bit like Brad Pitt's Character in 12 Monkeys walked up to me.}
+
+picture %370.jpg
+
+dialog [
+
+    me: "Hey... you look kind of like Brad Pitt."
+
+    guy: <smiling> "Now there's a compliment!"
+
+    me: {Well, when he played that character in 12 Monkeys who was crazy, Jeffrey Goines. I know you... why do I know you?}
+
+    guy: {Things will come back to you, and you'll see me again.}
+
+    me: {I don't buy into this erased-memory backstory. Who are we? Are we anybody?}
+
+    guy: <laughing> "Of course not!"
+
+]
+
+print {Three people who looked like people I knew from high school walked up. They were wearing blue jackets over each a red, a yellow, and a green shirt. Accompanying the group was a proper-looking Asian girl who seemed to have a small number tattooed under her right eye. It seemed the group in colors was going to talk to the construction people and discuss the structural problem. The Asian girl stopped to talk to me.}
+
+dialog [
+
+    me: {Why does that auditing group look like people I knew in High School? Do they have anything to do with the people I knew? Or is it a residual construct of my mind?}
+
+    asian-girl: {Hard to answer the question of whether that's a fully random perception. Might be. Might not be.}
+
+    me: {Hey, so you can explain things to me? What's going on?}
+
+]
+
+print {**Asian girl**: "You're not finished yet, so it's not time."}
+
+dialog [
+
+    me: {Come ON, I could do a lot better with whatever this is. If only a few things were explained.}
+
+    asian-girl: <sighing> {Fine, we can have dinner sometime and talk about it. Come see me, I'm in Ohio and Colorado some of the time.}
+
+    me: "Are you a specific person?"
+
+]
+
+print {**Asian girl**: I see your mind is going to questions of people you've met in your life. Its bringing up thoughts that you should probably sort out while you're awake. Why haven't you been investing in building ideal systems for men and women to meet?"}
+
+dialog [me: {I've already spent time thinking about that problem. The technology we have is just fine if people actually used it.}]
+
+print {I tried to follow her over to the group but lost focus, and wound up watching a music video which had all kinds of crazy 3D animation. The chorus of the song was something like:}
+
+quote [
+
+    print << [
+
+        "Know this inconvenient truth in battling unknowns"
+
+        "only humans go to Heaven, not their robot clones"
+
+    ]
+
+]
+
+print {Though I don't remember the rest of the lyrics, they sort of outlined how whatever the details of your life were, it was important. Even if you spent your whole life as a janitor in Japan, it was fundamental to actually have that experience as opposed to just an implant.}

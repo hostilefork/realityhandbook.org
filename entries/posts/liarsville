@@ -6,34 +6,48 @@ Draem [
     old: http://realityhandbook.livejournal.com/82392.html
 ]
 
-{I had witnessed a rather bizarre scene and then afterward was party to a conversation between two people. They had a rapid exchange and went to depart.}
+print {I had witnessed a rather bizarre scene and then afterward was party to a conversation between two people. They had a rapid exchange and went to depart.}
 
-[me: "Can you go back and say what you had to say again?"]
+dialog [
 
-[person1: "Hey, make sure you go visit Aman."]
+    me: "Can you go back and say what you had to say again?"
 
-[person2: "Ok, sure, I am the shop after all."]
+    person1: "Hey, make sure you go visit Aman."
 
-{Walking away with the guy who had proclaimed himself as the shop, I introduced myself and hit him with a couple of questions.}
+    person2: "Ok, sure, I am the shop after all."
 
-[me: "Where are we?"]
+]
 
-[person2: "Liarsville."]
+print {Walking away with the guy who had proclaimed himself as the shop, I introduced myself and hit him with a couple of questions.}
 
-[me: {Liarsville? Is that code to suggest that you can't tell the truth in response to my questions?}]
+dialog [
 
-"He sort of attacked me and I woke up."
+    me: "Where are we?"
 
-[note
+    person2: "Liarsville."
 
-    {There's actually a place in Alaska called Liarsville..}
+    me: {Liarsville? Is that code to suggest that you can't tell the truth in response to my questions?}
 
-    [quote
+]
 
-        {Liarsville was named after the journalists who came to Skagway during the Gold Rush and painted a more that rosy picture of the accessibility of} "gold and riches here."
+print "He sort of attacked me and I woke up."
+
+note [
+
+    print {There's actually a place in Alaska called Liarsville..}
+
+    quote [
+
+        print << [
+
+            {Liarsville was named after the journalists who came to Skagway during the Gold Rush and painted a more that rosy picture of the accessibility of}
+
+            "gold and riches here."
+
+        ]
 
     ]
 
-    "...though I doubt it's connected."
+    print "...though I doubt it's connected."
 
 ]

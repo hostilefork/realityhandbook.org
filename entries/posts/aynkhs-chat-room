@@ -5,70 +5,86 @@ Draem [
     tags: [lucid-dream helpful positive matrix obama death mall]
 ]
 
-{I was riding in a car (or something more like a van as it had three rows of seats). There was a girl in the seat to my left and I started to feel very crunched by the seat in front of me. My mom was in that seat, and so I asked if she could pull it forward. She did and I had vastly more room, but she seemed pushed against the back of the front seat.}
+print {I was riding in a car (or something more like a van as it had three rows of seats). There was a girl in the seat to my left and I started to feel very crunched by the seat in front of me. My mom was in that seat, and so I asked if she could pull it forward. She did and I had vastly more room, but she seemed pushed against the back of the front seat.}
 
-[me: {Well I don't need that much room! You can pull back about half of that.}]
+dialog [me: {Well I don't need that much room! You can pull back about half of that.}]
 
-{My field of view could sort of flip around to some chat programs that looked familiar, and I was getting a "Hi!" from someone listed as "Sarah". I had the feeling that this was someone who I had met recently who I was just starting to get to know, and that there was some romantic interest. But this car trip was me spontaneously deciding it was time for me to go home after an extended visit.}
+print {My field of view could sort of flip around to some chat programs that looked familiar, and I was getting a "Hi!" from someone listed as "Sarah". I had the feeling that this was someone who I had met recently who I was just starting to get to know, and that there was some romantic interest. But this car trip was me spontaneously deciding it was time for me to go home after an extended visit.}
 
-[me: <to group> {Hmmm. Well, now I got this message...I guess I really probably didn't need to leave in such a hurry. I could have met up with her for a drink or something, just to say goodbye instead of leaving without saying a word. But at the same time, it's a slippery slope...how long can I stay in San Antonio? I'd already been there a week, it was too long. But it's close, I can always go back.}]
+dialog [me: <to group> {Hmmm. Well, now I got this message...I guess I really probably didn't need to leave in such a hurry. I could have met up with her for a drink or something, just to say goodbye instead of leaving without saying a word. But at the same time, it's a slippery slope...how long can I stay in San Antonio? I'd already been there a week, it was too long. But it's close, I can always go back.}]
 
-[note {I did...oddly enough...take a trip to San Antonio recently. It was only over a weekend, however, and I didn't meet any new people while I was there.}]
+note {I did...oddly enough...take a trip to San Antonio recently. It was only over a weekend, however, and I didn't meet any new people while I was there.}
 
-{The group kind of kept poking at me and asking questions, I don't quite remember. My view was still flipping between the car and chat programs. Someone named "Aynkh" was trying to talk to me in the program, and seemed to know who I was from my current waking life. As I flipped into lucidity I began switching around in the various interfaces, and then the people in the car were amused by the conversation we had just had. The gist was that they had played along with my beliefs about who they were, when they were different people entirely.}
+print {The group kind of kept poking at me and asking questions, I don't quite remember. My view was still flipping between the car and chat programs. Someone named "Aynkh" was trying to talk to me in the program, and seemed to know who I was from my current waking life. As I flipped into lucidity I began switching around in the various interfaces, and then the people in the car were amused by the conversation we had just had. The gist was that they had played along with my beliefs about who they were, when they were different people entirely.}
 
-[aynkh: <laughing> {That could have gone on forever, if we had wanted to. I think I did a pretty good job as his mother!}]
+dialog [aynkh: <laughing> {That could have gone on forever, if we had wanted to. I think I did a pretty good job as his mother!}]
 
-[note {I know of--but don't know well--someone who goes by "Ankh" to a local club. So for a while my chat focused on questions like whether he was in any way connected to that person, and who were the other people *really* if they had faked me out into believing they were people I knew. Most of this took place in the multi-user chat room, which was an odd computer interface that had similarities to things I've seen...but wasn't identifiable as anything specific I know.}]
+note {I know of--but don't know well--someone who goes by "Ankh" to a local club. So for a while my chat focused on questions like whether he was in any way connected to that person, and who were the other people *really* if they had faked me out into believing they were people I knew. Most of this took place in the multi-user chat room, which was an odd computer interface that had similarities to things I've seen...but wasn't identifiable as anything specific I know.}
 
-[aynkh: <typed> {Hey, you have questions...and this conversation will be a whole lot easier if we can get you loaded in. Things will look a lot clearer. Hang on a second.}]
+dialog [aynkh: <typed> {Hey, you have questions...and this conversation will be a whole lot easier if we can get you loaded in. Things will look a lot clearer. Hang on a second.}]
 
-{The next thing I saw was a lot of panic in the chat room, the screen began to get garbage characters and everyone was really confused. The screen started to go dim as I watched error messages and countdowns, it seemed to do a "core dump".}
+print {The next thing I saw was a lot of panic in the chat room, the screen began to get garbage characters and everyone was really confused. The screen started to go dim as I watched error messages and countdowns, it seemed to do a "core dump".}
 
-[note {A core dump is where the computer encounters a problem and can't keep running a program, but it writes down as much of the state of the computer's memory as it can into a file...so that file can be forensically analyzed later to see what caused the problem.}]
+note {A core dump is where the computer encounters a problem and can't keep running a program, but it writes down as much of the state of the computer's memory as it can into a file...so that file can be forensically analyzed later to see what caused the problem.}
 
-{The chat interfaces gone, I was looking in darkness at something that seemed like an animated elephant charging at me. It disappeared and I found myself inside a house alone, but I could hear voices talking. I noticed that the voices got louder in one direction so I headed toward that. A voice I identified as Aynkh was talking and it seemed to be about the charging elephant, which had something to do with the computer crash.}
+print {The chat interfaces gone, I was looking in darkness at something that seemed like an animated elephant charging at me. It disappeared and I found myself inside a house alone, but I could hear voices talking. I noticed that the voices got louder in one direction so I headed toward that. A voice I identified as Aynkh was talking and it seemed to be about the charging elephant, which had something to do with the computer crash.}
 
-[aynkh: {The fortune teller told me I'd be meeting a bully today. Maybe I should have listened. I've never seen anything like that.}]
+dialog [aynkh: {The fortune teller told me I'd be meeting a bully today. Maybe I should have listened. I've never seen anything like that.}]
 
-"Another voice chimed in."
+print "Another voice chimed in."
 
-[voice: {I mean, now that we see what happened...what it did wasn't impossible. Obviously. It's just that the hacks ran so fast, even though the security was custom. Whatever did that has some kind of involuntary system for doing it--they didn't stop and take time to think about it--never tried anything that didn't work. They appeared and it was over as soon as it started.}]
+dialog [voice: {I mean, now that we see what happened...what it did wasn't impossible. Obviously. It's just that the hacks ran so fast, even though the security was custom. Whatever did that has some kind of involuntary system for doing it--they didn't stop and take time to think about it--never tried anything that didn't work. They appeared and it was over as soon as it started.}]
 
-{I saw a woman outside a screen window. She seemed to be talking to someone. I put my hand up against the screen to indicate I was there. She acknowledged me by placing her hand on the other side of the screen, but then seemed to be able to reach through it all the way to shake my hand--without breaking it. I found a door and stepped outside. I was in what seemed like the courtyard of a modern, nice looking shopping mall.}
+print {I saw a woman outside a screen window. She seemed to be talking to someone. I put my hand up against the screen to indicate I was there. She acknowledged me by placing her hand on the other side of the screen, but then seemed to be able to reach through it all the way to shake my hand--without breaking it. I found a door and stepped outside. I was in what seemed like the courtyard of a modern, nice looking shopping mall.}
 
-[woman: {The next time you have some time to spend here for real, we're going to have to go to this new spa. It's very nice. Good place to relax. Obama's here right now, by the way, if you want to talk to him.}]
+dialog [woman: {The next time you have some time to spend here for real, we're going to have to go to this new spa. It's very nice. Good place to relax. Obama's here right now, by the way, if you want to talk to him.}]
 
-{A man who I felt I recognized as a friend (but who was not Obama) was there. I addressed him.}
+print {A man who I felt I recognized as a friend (but who was not Obama) was there. I addressed him.}
 
-[me: {Hey...that thing that just happened. About some kind of unstoppable hacking entity with involuntary reflexes that doesn't even have to think about how to break into computer systems but tears through them automatically...what was that?}]
+dialog [
 
-[man: {Yes, that was quite alarming. Aynkh was just trying to load you into a game, nothing sinister. But it ripped things to shreds, didn't let that happen. Interesting.}]
+    me: {Hey...that thing that just happened. About some kind of unstoppable hacking entity with involuntary reflexes that doesn't even have to think about how to break into computer systems but tears through them automatically...what was that?}
 
-[me: {I didn't do anything. Did I get on the bad side of something powerful, and it has a grudge? Or is that some other part or aspect of me that I don't know about...like I'm an interdimensional investigator with amnesia. Is it doing that to defend me, operating on information I gather during the amnesiac state?}]
+    man: {Yes, that was quite alarming. Aynkh was just trying to load you into a game, nothing sinister. But it ripped things to shreds, didn't let that happen. Interesting.}
 
-{He shrugged. It was as if he didn't know the answer, or did know and thought saying more would just be more confusing.}
+    me: {I didn't do anything. Did I get on the bad side of something powerful, and it has a grudge? Or is that some other part or aspect of me that I don't know about...like I'm an interdimensional investigator with amnesia. Is it doing that to defend me, operating on information I gather during the amnesiac state?}
 
-[me: {To keep you here, or there, or anywhere...would be because of love. And a force driven by love would be the only kind that could keep you out.}]
+]
 
-{As we walked we ran into an attractive girl who looked like a friend I had gone on a few dates with. I noticed her before she noticed me, and I walked up and gave her a hug. She hugged me back and held as we talked a bit, I was a little bit gropey-affectionate on the back of her dress.}
+print {He shrugged. It was as if he didn't know the answer, or did know and thought saying more would just be more confusing.}
 
-[me: "Long time no see. What's going on?"]
+dialog [me: {To keep you here, or there, or anywhere...would be because of love. And a force driven by love would be the only kind that could keep you out.}]
 
-[girl: {Same as always. The thing with this incarnation, for you, is that you're really impacting a lot of people in a way that is causing them to be sad. Though I will say, although you're a bit on the edge, I've definitely seen you a lot crazier than this.}]
+print {As we walked we ran into an attractive girl who looked like a friend I had gone on a few dates with. I noticed her before she noticed me, and I walked up and gave her a hug. She hugged me back and held as we talked a bit, I was a little bit gropey-affectionate on the back of her dress.}
 
-{I did notice she was wearing a nametag around her neck. It looked like some names were crossed off, I found it hard to read. I asked her what name she was going by, and she said it was the same. Looking closely I could see her actual name as one of the non-crossed out names on the tag. I mentioned that I'd talked to a pretty girl the previous night at a club, who turned out to have the name as well.}
+dialog [
 
-{Once I brought up that I'd gone out the previous night, a bunch of people started joining into a conversation talking about it. They did so as if it were a TV show they'd all tuned in to see...and everyone had a different opinion about the forces behind it. At one point, a tall person who appeared to have only one eye (or it was hard to see the second in their hooded sweatshirt) made a comment I didn't understand. They seemed to go on, but the man I'd been talking to before noticed I was feeling questioning and paused the conversation.}
+    me: "Long time no see. What's going on?"
 
-[man: {That was over your head, but it was completely tangential. Just some crude humor. To put it in terms you'd understand...I guess it would be analogous to some joke where the punchline implied someone used a cat as a tampon. Along those lines.}]
+    girl: {Same as always. The thing with this incarnation, for you, is that you're really impacting a lot of people in a way that is causing them to be sad. Though I will say, although you're a bit on the edge, I've definitely seen you a lot crazier than this.}
 
-[me: "Oh, thanks."]
+]
 
-[cyclops: <laughing> {He interrupted to explain to you, because he could see the frowny face emoticon on top of your head when you didn't understand.}]
+print << [
 
-{There were some other concepts about games and chat rooms, and I interrupted.}
+    {I did notice she was wearing a nametag around her neck. It looked like some names were crossed off, I found it hard to read. I asked her what name she was going by, and she said it was the same. Looking closely I could see her actual name as one of the non-crossed out names on the tag. I mentioned that I'd talked to a pretty girl the previous night at a club, who turned out to have the name as well.}
 
-[me: {This has had a bunch of things about computers, and games, and notions of virtual reality that correspond to basic post-human stuff on Earth. But we have fancier chat technology, and no virtual reality. And Yet you're talking about reincarnations, too. Is this...technology for reincarnation something that is known to be very old? Are there any ways of reincarnation that are practiced without using technology I'd be familiar with? Or is it just one more tools that 'souls' have expanded to operate, that's modern and...}]
+    {Once I brought up that I'd gone out the previous night, a bunch of people started joining into a conversation talking about it. They did so as if it were a TV show they'd all tuned in to see...and everyone had a different opinion about the forces behind it. At one point, a tall person who appeared to have only one eye (or it was hard to see the second in their hooded sweatshirt) made a comment I didn't understand. They seemed to go on, but the man I'd been talking to before noticed I was feeling questioning and paused the conversation.}
 
-{I woke up right around the time I was going to finish the sentence and say something about a "soul census".}
+]
+
+dialog [
+
+    man: {That was over your head, but it was completely tangential. Just some crude humor. To put it in terms you'd understand...I guess it would be analogous to some joke where the punchline implied someone used a cat as a tampon. Along those lines.}
+
+    me: "Oh, thanks."
+
+    cyclops: <laughing> {He interrupted to explain to you, because he could see the frowny face emoticon on top of your head when you didn't understand.}
+
+]
+
+print {There were some other concepts about games and chat rooms, and I interrupted.}
+
+dialog [me: {This has had a bunch of things about computers, and games, and notions of virtual reality that correspond to basic post-human stuff on Earth. But we have fancier chat technology, and no virtual reality. And Yet you're talking about reincarnations, too. Is this...technology for reincarnation something that is known to be very old? Are there any ways of reincarnation that are practiced without using technology I'd be familiar with? Or is it just one more tools that 'souls' have expanded to operate, that's modern and...}]
+
+print {I woke up right around the time I was going to finish the sentence and say something about a "soul census".}

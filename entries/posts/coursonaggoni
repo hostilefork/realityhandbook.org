@@ -5,42 +5,58 @@ Draem [
     tags: [lucid-dream positive skynet technology]
 ]
 
-{I was watching an animated feature taking place in space on a screen.  Wondering if the people on the screen could hear me or not, I tapped on the glass and was talking to it.  I saw the screen was encased in a hard white frame with black writing on top of it.  The black writing said something like FLEET SHIP #135-Z.  I understood this to mean that I was on some kind of vessel, and this was indicating which ship the screen was supposed to be on.}
+print << [
 
-{The characters on the screen did not respond, but a man came up from behind me and tinkered with the controls.}
+    {I was watching an animated feature taking place in space on a screen.  Wondering if the people on the screen could hear me or not, I tapped on the glass and was talking to it.  I saw the screen was encased in a hard white frame with black writing on top of it.  The black writing said something like FLEET SHIP #135-Z.  I understood this to mean that I was on some kind of vessel, and this was indicating which ship the screen was supposed to be on.}
 
-[man: {That's a recorded show.  It's called "Disgusting Space".  It's actually a pretty good series.}]
+    {The characters on the screen did not respond, but a man came up from behind me and tinkered with the controls.}
 
-{He had flipped the display over to a navigational map.  The screen had lines connecting various icons, one of which caught my eye was SKY NET as two words in a box, one over the other.}
+]
 
-[me: {I've been told SkyNet is a real thing.  Is it?  From the Terminator movies?}]
+dialog [man: {That's a recorded show.  It's called "Disgusting Space".  It's actually a pretty good series.}]
 
-[man: {Yes, it's an artificial intelligence.  And quite formidable if you ever get in a conflict with it.  But it does have a weakness... in the initialization code.  There's a part in the constructor where there are two pegs split by an architon layer.  If you can manage to catch it while it's sciating on the side and pull the peg on the other at the right time then...}]
+print {He had flipped the display over to a navigational map.  The screen had lines connecting various icons, one of which caught my eye was SKY NET as two words in a box, one over the other.}
 
-[note {I'm trying to imprecisely capture the kind of language he was using.  There was more stuff here that went into weirdness, which doesn't sound like any kind of programming as I know it.  The only bit I really got was "initialization" and "constructor", which are things that computer science today involves.}]
+dialog [
 
-{The man was now seated and looking at the screen and at me.  He had very bright and detailed irises of his eyes.  One was blue, the other was red.}
+    me: {I've been told SkyNet is a real thing.  Is it?  From the Terminator movies?}
 
-[me: <confused> {I'm sorry but you're using terminology I've never heard of.  But if SkyNet is real AI, then were the movies made after it?  Or did the movies get made beforehand...then the AI or the people who named it were 'paying tribute'?  The latter seems more likely.}]
+    man: {Yes, it's an artificial intelligence.  And quite formidable if you ever get in a conflict with it.  But it does have a weakness... in the initialization code.  There's a part in the constructor where there are two pegs split by an architon layer.  If you can manage to catch it while it's sciating on the side and pull the peg on the other at the right time then...}
 
-[man: <shrugging> {You can't really jump to conclusions about which is more likely.  Things could be slipped into the timeline pretty easily without being detectable in those early days...it happened too long ago to say for absolute sure.  Even if we thought we could figure out which order it happened in...that would be purely academic.  It doesn't make a difference, there are much more important things to be concerned with.}]
+]
 
-[me: {So the world as I know it is a computer simulation?}]
+note {I'm trying to imprecisely capture the kind of language he was using.  There was more stuff here that went into weirdness, which doesn't sound like any kind of programming as I know it.  The only bit I really got was "initialization" and "constructor", which are things that computer science today involves.}
 
-[man: "Essentially, yes."]
+print {The man was now seated and looking at the screen and at me.  He had very bright and detailed irises of his eyes.  One was blue, the other was red.}
 
-[me: {Is it running on computers based on silicon?  Such as an outgrowth of technology as I know it...from a pre-simulator world, that is simulating a world similar to its own history?}]
+dialog [
 
-[man: "That's not the right question to be asking."]
+    me: <confused> {I'm sorry but you're using terminology I've never heard of.  But if SkyNet is real AI, then were the movies made after it?  Or did the movies get made beforehand...then the AI or the people who named it were 'paying tribute'?  The latter seems more likely.}
 
-[me: {But you said it *was* a simulation.  The simulation has to be executing on the basis of sime kind of technology or machinery.  What is it?}]
+    man: <shrugging> {You can't really jump to conclusions about which is more likely.  Things could be slipped into the timeline pretty easily without being detectable in those early days...it happened too long ago to say for absolute sure.  Even if we thought we could figure out which order it happened in...that would be purely academic.  It doesn't make a difference, there are much more important things to be concerned with.}
 
-{The man pointed something on the floor out to me; a small box.  I tried to get a focus on what it was.}
+    me: {So the world as I know it is a computer simulation?}
 
-[man: <sighing> "It's built on Coursonaggoni."]
+    man: "Essentially, yes."
 
-[me: "Coursonaggoni?  What?"]
+    me: {Is it running on computers based on silicon?  Such as an outgrowth of technology as I know it...from a pre-simulator world, that is simulating a world similar to its own history?}
 
-{I awoke before I could get a response.  But I got a good look at what he had been pointing out, which was an old and beaten-up tape backup unit...the kind they sold for making hard drive backups on early PCs.  It clicked that what he had actually said was "It's built on Cores and Agony."}
+    man: "That's not the right question to be asking."
 
-[note {Though "Core" has many different meanings in computers and elsewhere, I will mention that "Magnetic Core" is a very early technology for memory in computer systems.  I woke up before I could ask for clarification.  Yet the impression I carried away was that much like how a current computer isn't just built from all silicon (the chip is), that the underlying nature of reality is made up of a lot of different parts.  Some of them old and vulnerable.  The tangle; with weak points and failing old bits was about the "agony" of keeping it all working.}]
+    me: {But you said it *was* a simulation.  The simulation has to be executing on the basis of sime kind of technology or machinery.  What is it?}
+
+]
+
+print {The man pointed something on the floor out to me; a small box.  I tried to get a focus on what it was.}
+
+dialog [
+
+    man: <sighing> "It's built on Coursonaggoni."
+
+    me: "Coursonaggoni?  What?"
+
+]
+
+print {I awoke before I could get a response.  But I got a good look at what he had been pointing out, which was an old and beaten-up tape backup unit...the kind they sold for making hard drive backups on early PCs.  It clicked that what he had actually said was "It's built on Cores and Agony."}
+
+note {Though "Core" has many different meanings in computers and elsewhere, I will mention that "Magnetic Core" is a very early technology for memory in computer systems.  I woke up before I could ask for clarification.  Yet the impression I carried away was that much like how a current computer isn't just built from all silicon (the chip is), that the underlying nature of reality is made up of a lot of different parts.  Some of them old and vulnerable.  The tangle; with weak points and failing old bits was about the "agony" of keeping it all working.}

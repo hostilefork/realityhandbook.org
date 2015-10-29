@@ -6,32 +6,40 @@ Draem [
     old: http://realityhandbook.livejournal.com/46864.html
 ]
 
-"Talking to a friend in a dream."
+print "Talking to a friend in a dream."
 
-[me: {Come on tell me something here in the dream that people don't know, a secret--some kind of proof!}]
+dialog [
 
-[him: {We can only communicate in established points of view.}]
+    me: {Come on tell me something here in the dream that people don't know, a secret--some kind of proof!}
 
-[me: {Oh please, think! Just something you haven't told me and I'm unlikely to know. I'm not interested in convincing the world, it only has to convince *you*.}]
+    him: {We can only communicate in established points of view.}
 
-[him: "I can't think of anything."]
+    me: {Oh please, think! Just something you haven't told me and I'm unlikely to know. I'm not interested in convincing the world, it only has to convince *you*.}
 
-{I kept begging and trying not to wake myself up. But at some point he had faded out and turned into an good-looking and heavily tattooed girl.}
+    him: "I can't think of anything."
 
-[me: {I'm sorry, you're very attractive. But I was working on something. Can I speak to my friend again?}]
+]
 
-"He re-appeared in another part of the room."
+print {I kept begging and trying not to wake myself up. But at some point he had faded out and turned into an good-looking and heavily tattooed girl.}
 
-[me: {It doesn't have to be profound. Just say some stuff that comes to mind.}]
+dialog [me: {I'm sorry, you're very attractive. But I was working on something. Can I speak to my friend again?}]
 
-[him: "Crown Royal."]
+print "He re-appeared in another part of the room."
 
-[me: "The drink? A story about a drink?"]
+dialog [
 
-[him: {No, you know, the name of your... the name of your thermos, um, no... the, something you go by. Handle. Room alias!}]
+    me: {It doesn't have to be profound. Just say some stuff that comes to mind.}
 
-[me: {Oh. You're trying to tell me one of yours? Yours was?}]
+    him: "Crown Royal."
 
-[him: "New Roommate!"]
+    me: "The drink? A story about a drink?"
 
-[note {Crown Royal or a new roommate was not relevant to the friend in question when I asked.}]
+    him: {No, you know, the name of your... the name of your thermos, um, no... the, something you go by. Handle. Room alias!}
+
+    me: {Oh. You're trying to tell me one of yours? Yours was?}
+
+    him: "New Roommate!"
+
+]
+
+note {Crown Royal or a new roommate was not relevant to the friend in question when I asked.}

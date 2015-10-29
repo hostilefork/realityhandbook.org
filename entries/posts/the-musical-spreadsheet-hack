@@ -5,66 +5,90 @@ Draem [
     tags: [lucid-dream names neutral]
 ]
 
-{I was working at a desk with a computer and in mid-typing some kind of code and analysis.  A man and a woman who I perceived and asked me about what I was working on.  I began explaining what it was, and it was a kind of computer virus decompilation.}
+print {I was working at a desk with a computer and in mid-typing some kind of code and analysis.  A man and a woman who I perceived and asked me about what I was working on.  I began explaining what it was, and it was a kind of computer virus decompilation.}
 
-[me: {Well, we know it's not supposed to be there, and we know it does something...but not yet what.  The trigger condition could be anything really.  Naively you might think you could fake the clock time ahead into the future, but anyone sophisticated is too smart for that one.  Also, in terms of looking for linkages like seeing if it links to "DeleteFile" in the OS isn't good for this one either; whatever it executes it uses exploits.}]
+dialog [me: {Well, we know it's not supposed to be there, and we know it does something...but not yet what.  The trigger condition could be anything really.  Naively you might think you could fake the clock time ahead into the future, but anyone sophisticated is too smart for that one.  Also, in terms of looking for linkages like seeing if it links to "DeleteFile" in the OS isn't good for this one either; whatever it executes it uses exploits.}]
 
-{The man pointed to what I was typing.  There seemed to be a signature or comment at the bottom of the code which had my contact information and `Brought to you by the letter L (for Loser)` or something of the sort.}
+print {The man pointed to what I was typing.  There seemed to be a signature or comment at the bottom of the code which had my contact information and `Brought to you by the letter L (for Loser)` or something of the sort.}
 
-[man: {What is that about?}]
+dialog [
 
-[me: {Eh, when you're dealing with these people you need to throw in an insult now and again.  Might make them more likely to slip up.}]
+    man: "What is that about?"
 
-[note {I had a vague sense that I thought whoever I was dealing with was smart--smarter than the people I was working for--and wanted them to be able to contact me.}]
+    me: {Eh, when you're dealing with these people you need to throw in an insult now and again.  Might make them more likely to slip up.}
 
-{The woman walked away, seemingly annoyed, and the man put his hand on the top of my head and turned me to face him.}
+]
 
-[man: {Hey.  Look.  Listen, you can't go around doing that kind of thing, we have important customers.}]
+note {I had a vague sense that I thought whoever I was dealing with was smart--smarter than the people I was working for--and wanted them to be able to contact me.}
 
-{I started to get mad because I had the perception that I hadn't received any payment yet for the work I had done.  But the scene changed to where I was in a small theater-style conference room watching a presentation.  Something was going wrong with a spreadsheet program, and it had gotten stuck.}
+print {The woman walked away, seemingly annoyed, and the man put his hand on the top of my head and turned me to face him.}
 
-[presenter: {Hm, the right click menu won't go down.}]
+dialog [man: {Hey.  Look.  Listen, you can't go around doing that kind of thing, we have important customers.}]
 
-{In a few seconds the spreadsheet reconfigured itself, and mutated the cells into an interface like an old-school Amiga MOD musical "tracker" program.  The notes ran by and it began playing a cool techno song, while windows for graphs opened that instead started writing some kind of text that I gathered was to embarass or discredit the people giving the presentation.}
+print {I started to get mad because I had the perception that I hadn't received any payment yet for the work I had done.  But the scene changed to where I was in a small theater-style conference room watching a presentation.  Something was going wrong with a spreadsheet program, and it had gotten stuck.}
 
-{I began to slip into lucidity.}
+dialog [presenter: "Hm, the right click menu won't go down."]
 
-[me: <laughing> {That's some pretty good music.  I should memorize that and hum it into my cell phone.  Oh, crap, I left it in the living room and it's not by the bed.}]
+print << [
 
-[note {That was actually true.}]
+    {In a few seconds the spreadsheet reconfigured itself, and mutated the cells into an interface like an old-school Amiga MOD musical "tracker" program.  The notes ran by and it began playing a cool techno song, while windows for graphs opened that instead started writing some kind of text that I gathered was to embarass or discredit the people giving the presentation.}
 
-{I got up and hummed the tune and wandered out of my seat, as if I was going to go get my cell phone.  Then I looked at the room full of people and noticed I was still there.}
+    "I began to slip into lucidity."
 
-[me: {Um.  Okay, I'm still asleep.  So I guess I should ask questions and try and figure this out.  Who do you guys think I am?  What's my name?}]
+]
 
-[audience-member: <slightly sneering> {Dean Martin}]
+dialog [me: <laughing> {That's some pretty good music.  I should memorize that and hum it into my cell phone.  Oh, crap, I left it in the living room and it's not by the bed.}]
 
-[note {I don't know anything about Dean Martin, had to look him up after waking.  Entertainer from a long time ago, sang "Ain't that a kick in the head" and "That's Amore".  Before my time.}]
+note "That was actually true."
 
-[me: <skeptical> {So if I pull out my wallet and look at the ID it will say "Dean Martin"?  I guess I can try and check that.}]
+print {I got up and hummed the tune and wandered out of my seat, as if I was going to go get my cell phone.  Then I looked at the room full of people and noticed I was still there.}
 
-{Reaching into my pocket I pulled out a wallet and some kind of ID card was in it.  It didn't seem to have a picture I could see, but it had my name with a different middle name.  I tilted it and could see various reflectivities of information, and read it aloud to the room.}
+dialog [
 
-[me: {Ignition...Software?  What's Ignition Software?}]
+    me: {Um.  Okay, I'm still asleep.  So I guess I should ask questions and try and figure this out.  Who do you guys think I am?  What's my name?}
 
-[presenter: {That's this company.  And you are *one of them*.  Guards!}]
+    audience-member: <slightly sneering> "Dean Martin"
 
-[me: {Hey!  Look.  I'm trying to find answers here.}]
+]
 
-{A woman stood up and approached me.}
+note {I don't know anything about Dean Martin, had to look him up after waking.  Entertainer from a long time ago, sang "Ain't that a kick in the head" and "That's Amore".  Before my time.}
 
-[woman: {You need to get out of here, fast.  Or you're going to get him killed.}]
+dialog [me: <skeptical> {So if I pull out my wallet and look at the ID it will say "Dean Martin"?  I guess I can try and check that.}]
 
-{I sighed and went toward what appeared to be exit doors down by the screen, like the exit doors in a movie theater.  Looking behind me I tried to think about how I could block the doors for anyone coming after me, but decided that I didn't have any good options for that.}
+print {Reaching into my pocket I pulled out a wallet and some kind of ID card was in it.  It didn't seem to have a picture I could see, but it had my name with a different middle name.  I tilted it and could see various reflectivities of information, and read it aloud to the room.}
 
-{Phasing out, I did not wake up, but returned to the conference room from the top of the stairs.  I perceived they were talking about me angrily.}
+dialog [
 
-[presenter: {This is an outrage and blatantly against the law.  We drew the lines, they can't change the deal.  Something with no skin and no brain invading here is an act of war; *we have basic rights*.}]
+    me: "Ignition...Software?  What's Ignition Software?"
 
-{I walked back the the front of the room, and stood in front of the screen to face the audience.}
+    presenter: {That's this company.  And you are *one of them*.  Guards!}
 
-[me: {Hey!  Look, calm down!  I don't know if I have skin or a brain or what.  But I do know who I think I am, and I have lived 40 years with some basic assumptions about that...which involve what I would call skin and a brain.  I'll admit I haven't *seen* the brain, but I bet it's there.  Can't we talk about this?}]
+    me: "Hey!  Look.  I'm trying to find answers here."
 
-[presenter: {There is no point in listening to you.}]
+]
 
-[me: {How do you know that?  If you think a law is being broken here, maybe I'm the result of a slip-up and I could provide the evidence you need to prove it.  Something is *obviously weird* going on...I don't think you really understand it, and I certainly don't.  Maybe I'm a simulated being and popping all over the place has something to do with a security check; that there's an even worse problem than the one you're up in arms about.  I might be here to help.}]
+print "A woman stood up and approached me."
+
+dialog [woman: {You need to get out of here, fast.  Or you're going to get him killed.}]
+
+print << [
+
+    {I sighed and went toward what appeared to be exit doors down by the screen, like the exit doors in a movie theater.  Looking behind me I tried to think about how I could block the doors for anyone coming after me, but decided that I didn't have any good options for that.}
+
+    {Phasing out, I did not wake up, but returned to the conference room from the top of the stairs.  I perceived they were talking about me angrily.}
+
+]
+
+dialog [presenter: {This is an outrage and blatantly against the law.  We drew the lines, they can't change the deal.  Something with no skin and no brain invading here is an act of war; *we have basic rights*.}]
+
+print {I walked back the the front of the room, and stood in front of the screen to face the audience.}
+
+dialog [
+
+    me: {Hey!  Look, calm down!  I don't know if I have skin or a brain or what.  But I do know who I think I am, and I have lived 40 years with some basic assumptions about that...which involve what I would call skin and a brain.  I'll admit I haven't *seen* the brain, but I bet it's there.  Can't we talk about this?}
+
+    presenter: "There is no point in listening to you."
+
+    me: {How do you know that?  If you think a law is being broken here, maybe I'm the result of a slip-up and I could provide the evidence you need to prove it.  Something is *obviously weird* going on...I don't think you really understand it, and I certainly don't.  Maybe I'm a simulated being and popping all over the place has something to do with a security check; that there's an even worse problem than the one you're up in arms about.  I might be here to help.}
+
+]

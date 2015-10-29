@@ -5,48 +5,68 @@ Draem [
     tags: [lucid-dream helpful neutral skynet technology]
 ]
 
-{I awoke to find myself between some sheets, laying on the ground in the yard of a house.  There was a stone fire pit between where I was laying and the door to the house, which was open and there was light coming from inside.}
+print << [
 
-{Next to me was my Nikon camera and flash.  I picked it up and noticed it wasn't quite right, and having come from a previous lucid dream scenario I quickly snapped into realizing it was a false awakening.}
+    {I awoke to find myself between some sheets, laying on the ground in the yard of a house.  There was a stone fire pit between where I was laying and the door to the house, which was open and there was light coming from inside.}
 
-{I noticed that right when I got up a dark haired man in a white outfit seemed to react by dashing inside the house to mess with some items in containers.  I walked up to the house and took a picture.}
+    {Next to me was my Nikon camera and flash.  I picked it up and noticed it wasn't quite right, and having come from a previous lucid dream scenario I quickly snapped into realizing it was a false awakening.}
 
-[me: {Since I know this is a dream scenario already, should I be concerned that you seemed to react to my arrival by immediately messing with those things?  Is this bad news?}]
+    {I noticed that right when I got up a dark haired man in a white outfit seemed to react by dashing inside the house to mess with some items in containers.  I walked up to the house and took a picture.}
 
-[dark-haired-man: <laughing> {No, I wouldn't worry about it.  I'd say in fact things are pretty much the best case possible scenario.}]
+]
 
-[me: {I just got stabbed by a zombie, and I live life in a disconnected blur of incoherent experiences.  How is that the best case?}]
+dialog [
 
-[dark-haired-man: {It's the best case because SkyNet has pretty much everybody taken care of.  A quadrillion beings all protected with zero losses is a pretty solid track record.  It's just that usually, SkyNet doesn't want anyone to see more than they're ready for.}]
+    me: {Since I know this is a dream scenario already, should I be concerned that you seemed to react to my arrival by immediately messing with those things?  Is this bad news?}
 
-{The dark haired man had either switched (or my attention switched) to a decorative Buddha head, with a green patina pattern that was sitting on a stand.  The house was overall very opulent and nicely decorated.  There were people mingling in the kitchen.}
+    dark-haired-man: <laughing> {No, I wouldn't worry about it.  I'd say in fact things are pretty much the best case possible scenario.}
 
-[buddha-head: {That caution can be a bit of a bummer.  For instance, if you could never afford a car then you won't get the familiarity to start being shown the ladder of more and more advanced cars.  That's a shame, because the higher tiers of racing is truly an art form.}]
+    me: {I just got stabbed by a zombie, and I live life in a disconnected blur of incoherent experiences.  How is that the best case?}
 
-[me: {Okay, so there's a superintelligent AI running the world as you know it, and it isn't dangerous?}]
+    dark-haired-man: {It's the best case because SkyNet has pretty much everybody taken care of.  A quadrillion beings all protected with zero losses is a pretty solid track record.  It's just that usually, SkyNet doesn't want anyone to see more than they're ready for.}
 
-[buddha-head: "Nope, it can't be.  It has an abstract."]
+]
 
-[note {I don't really know what he meant by "abstract", but I heard it in the sense of meaning something about it being designed with failsafe laws or a "contract" of some kind.}]
+print {The dark haired man had either switched (or my attention switched) to a decorative Buddha head, with a green patina pattern that was sitting on a stand.  The house was overall very opulent and nicely decorated.  There were people mingling in the kitchen.}
 
-[me: "So...what am I supposed to do?"]
+dialog [
 
-[buddha-head: <laughing> {Well I guess you could do like in Oblivion, and get involved in drone repair.}]
+    buddha-head: {That caution can be a bit of a bummer.  For instance, if you could never afford a car then you won't get the familiarity to start being shown the ladder of more and more advanced cars.  That's a shame, because the higher tiers of racing is truly an art form.}
 
-[note {The movie Oblivion has Tom Cruise playing an unwitting clone who believes himself to be one of the last two humans on Earth, maintaining drones to eliminate aliens.  The aliens turn out to be humans who have had to use disguising techniques to hide themselves from the evil AI that Tom is unknowingly working for.}]
+    me: {Okay, so there's a superintelligent AI running the world as you know it, and it isn't dangerous?}
 
-[me: <sighing> {That might be okay, depends on what the drones look like.}]
+    buddha-head: "Nope, it can't be.  It has an abstract."
 
-{The head disappeared and I was talking to the dark-haired man again.}
+]
 
-[dark-haired-man: "For example...?"]
+note {I don't really know what he meant by "abstract", but I heard it in the sense of meaning something about it being designed with failsafe laws or a "contract" of some kind.}
 
-[me: {Oh, I dunno.  Danni Minogue from some years back, that would be okay.}]
+dialog [
 
-[dark-haired-man: <shaking his head> "Oh come on.  Not *her*.  She's lazy!"]
+    me: "So...what am I supposed to do?"
 
-[me: {I just meant physically.  But look, anyway, so you've told me your point of view--but that doesn't explain my experiences.  Who am I, and what's my relationship to SkyNet?}]
+    buddha-head: <laughing> {Well I guess you could do like in Oblivion, and get involved in drone repair.}
 
-[dark-haired-man: <amusedly> {To SkyNet... you... are a legendary software developer.  And your main claim to fame is being the world leader at being able to lie to it!}]
+]
 
-[note {At this point I awoke.  However, I wonder if this remark was tied into what he had said before about how there was some kind of safety mechanism to keep people from coming into contact with things they weren't ready for.  My experiences would thus tie in with somehow breaking the mechanisms of that, so I purposefully would be exposed to things it didn't think were safe enough.}]
+note {The movie Oblivion has Tom Cruise playing an unwitting clone who believes himself to be one of the last two humans on Earth, maintaining drones to eliminate aliens.  The aliens turn out to be humans who have had to use disguising techniques to hide themselves from the evil AI that Tom is unknowingly working for.}
+
+dialog [me: <sighing> {That might be okay, depends on what the drones look like.}]
+
+print {The head disappeared and I was talking to the dark-haired man again.}
+
+dialog [
+
+    dark-haired-man: "For example...?"
+
+    me: {Oh, I dunno.  Danni Minogue from some years back, that would be okay.}
+
+    dark-haired-man: <shaking his head> "Oh come on.  Not *her*.  She's lazy!"
+
+    me: {I just meant physically.  But look, anyway, so you've told me your point of view--but that doesn't explain my experiences.  Who am I, and what's my relationship to SkyNet?}
+
+    dark-haired-man: <amusedly> {To SkyNet... you... are a legendary software developer.  And your main claim to fame is being the world leader at being able to lie to it!}
+
+]
+
+note {At this point I awoke.  However, I wonder if this remark was tied into what he had said before about how there was some kind of safety mechanism to keep people from coming into contact with things they weren't ready for.  My experiences would thus tie in with somehow breaking the mechanisms of that, so I purposefully would be exposed to things it didn't think were safe enough.}

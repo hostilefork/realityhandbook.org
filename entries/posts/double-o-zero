@@ -6,8 +6,12 @@ Draem [
     old: http://realityhandbook.livejournal.com/136369.html
 ]
 
-{As part of a dream-sequence, I was working through composing a fairly elaborate plot for a comedy movie. It centered around the son of a famous hotel mogul (I was calling him James Ritz)--loosely based on Paris Hilton.}
+print << [
 
-{He was recruited to be a secret agent. Through his family's connections he was able to get access to important people. The reputation he had as an out-of-control party animal (crashing cars, etc) was actually just cover for the fact that he was actually on missions.}
+    {As part of a dream-sequence, I was working through composing a fairly elaborate plot for a comedy movie. It centered around the son of a famous hotel mogul (I was calling him James Ritz)--loosely based on Paris Hilton.}
 
-{A joke in the movie involved the discussion of "Double-O Zero" status, and why it wasn't just contracted to "Triple Zero".}
+    {He was recruited to be a secret agent. Through his family's connections he was able to get access to important people. The reputation he had as an out-of-control party animal (crashing cars, etc) was actually just cover for the fact that he was actually on missions.}
+
+    {A joke in the movie involved the discussion of "Double-O Zero" status, and why it wasn't just contracted to "Triple Zero".}
+
+]

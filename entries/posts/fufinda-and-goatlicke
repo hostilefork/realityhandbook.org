@@ -6,22 +6,26 @@ Draem [
     old: http://realityhandbook.livejournal.com/59910.html
 ]
 
-{I was chatting with someone when I realized I was dreaming. I couldn't see or perceive much, so I began asking questions about where I was. The voice had a heavy accent, perhaps Indian. (India-Indian, not Native American).}
+print {I was chatting with someone when I realized I was dreaming. I couldn't see or perceive much, so I began asking questions about where I was. The voice had a heavy accent, perhaps Indian. (India-Indian, not Native American).}
 
-[voice: {I don't know where you are. But I know you have a condo in Fufinda.}]
+dialog [
 
-[me: "What country is Fufinda in?"]
+    voice: {I don't know where you are. But I know you have a condo in Fufinda.}
 
-[voice: "I don't know."]
+    me: "What country is Fufinda in?"
 
-[me: "What do you think my name is?"]
+    voice: "I don't know."
 
-[voice: {I don't know your name, I only know your user ID, which is goat lick.}]
+    me: "What do you think my name is?"
 
-[me: "Huh?!? goat lick?!?"]
+    voice: {I don't know your name, I only know your user ID, which is goat lick.}
 
-[voice: "It's one word, spelled g-o-a-t-l-i-c-k-e"]
+    me: "Huh?!? goat lick?!?"
 
-[me: "What the hell does that mean?"]
+    voice: "It's one word, spelled g-o-a-t-l-i-c-k-e"
 
-[voice: "I don't know."]
+    me: "What the hell does that mean?"
+
+    voice: "I don't know."
+
+]

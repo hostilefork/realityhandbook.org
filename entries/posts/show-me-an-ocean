@@ -5,58 +5,78 @@ Draem [
     tags: [lucid-dream helpful neutral food technology elevators]
 ]
 
-{I had a sort of false awakening, or semi-awakening, where I was laying somewhat paralyzed and staring at the wall of the room.  But the wall had patterns that looked a bit like a projected image.  There was some kind of control code or "play" button icon on it.}
+print << [
 
-{Though I couldn't move, I decided to "talk" to the wall.}
+    {I had a sort of false awakening, or semi-awakening, where I was laying somewhat paralyzed and staring at the wall of the room.  But the wall had patterns that looked a bit like a projected image.  There was some kind of control code or "play" button icon on it.}
 
-[me: "Show me...an ocean!"]
+    {Though I couldn't move, I decided to "talk" to the wall.}
 
-{The projection began to solidify and I was running through marshy lily-pads out toward the ocean.  A strange large frog floating on a lily pad.}
+]
 
-[me: "I don't think...there are lily pads...in the ocean."]
+dialog [me: "Show me...an ocean!"]
 
-[note {It turns out I was correct about this.  Lily pads cannot grow in salt water.}]
+print {The projection began to solidify and I was running through marshy lily-pads out toward the ocean.  A strange large frog floating on a lily pad.}
 
-{The challenge didn't bother the frog, and it approached closer and had an alien look to it I can't quite remember.}
+dialog [me: {I don't think...there are lily pads...in the ocean.}]
 
-[me: {My name is Brian.  What is your name?}]
+note {It turns out I was correct about this.  Lily pads cannot grow in salt water.}
 
-[frog: "I'm Seth.  I interview people.  And I'm wondering what you think of this?"]
+print {The challenge didn't bother the frog, and it approached closer and had an alien look to it I can't quite remember.}
 
-{My field of view changed so I was watching some sort of isometric game with little cubes and things.  It wasn't clear to me what was going on.  There were no human or animal characters, just pools of bricks and wiring of various kinds.}
+dialog [
 
-[me: {What is the point of this game?}]
+    me: "My name is Brian.  What is your name?"
 
-[voice: {It isn't a game, it is a configurator.  You can route some noise over here, move things around.  You use it on the slabs, here.}]
+    frog: {I'm Seth.  I interview people.  And I'm wondering what you think of this?}
 
-{Suddenly I seemed to transition to a body walking alongside a tall Indian man, to whom the voice belonged.  We were in a kind of industrial warehouse or workshop.  He picked up something like a tablet computer and showed it to me.}
+]
 
-[me: {So when you said "slab"...you meant, like a "slate"?  Like a "tablet computer"?}]
+print {My field of view changed so I was watching some sort of isometric game with little cubes and things.  It wasn't clear to me what was going on.  There were no human or animal characters, just pools of bricks and wiring of various kinds.}
 
-[man: "You're not going to be able to see this right.  There's too much contamination coming from what you expect to see.  I'll cut one of them along a diagonal for you next time when I have proper time to prepare, that will be much more communicative."]
+dialog [
 
-[me: "All right, but what is seeing it right?  If I don't see right, what am I to not see it?"]
+    me: "What is the point of this game?"
 
-[man: <smirking> "I'm quite certain the answer you are willing to give out to such questions depends completely on whether there are any humans involved when you are interviewed.  As long as they are, you will keep all this up indefinitely."]
+    voice: {It isn't a game, it is a configurator.  You can route some noise over here, move things around.  You use it on the slabs, here.}
 
-[me: "Could you be more helpful here?  What is this about?"]
+]
 
-[man: "It started when you joined up with Karen, and managed to get clearance on the Earth weather patterns experiment.  Panib authorized it."]
+print {Suddenly I seemed to transition to a body walking alongside a tall Indian man, to whom the voice belonged.  We were in a kind of industrial warehouse or workshop.  He picked up something like a tablet computer and showed it to me.}
 
-[note {He pronounced it PAH-NIB.  Because he was Indian I guess I thought Panib was the most natural spelling.  Google noise bucket for this find things like an anticancer agent called "pazopanib", "Pastoral Nipo-brasileira" which is some religious thing, and characters on the Star Wars Wiki.  But indeed it does seem to be an Indian name as well.}]
+dialog [
 
-{He walked me into a room with a bunch of strange looking computers, old and hooked up to CRT monitors.}
+    me: {So when you said "slab"...you meant, like a "slate"?  Like a "tablet computer"?}
 
-[man: {And you bought this machine and hooked it up to the network, along with this tremendous drive.}]
+    man: {You're not going to be able to see this right.  There's too much contamination coming from what you expect to see.  I'll cut one of them along a diagonal for you next time when I have proper time to prepare, that will be much more communicative.}
 
-{The monitor on the machine was showing an old man who was kind of cartoon-ish.  He was dancing in a hallway, but the video was being distorted in a very stylized way.}
+    me: {All right, but what is seeing it right?  If I don't see right, what am I to not see it?}
 
-[update 5-Nov-2014 {The stylistic distortion I saw from the video is something I had very much a deja-vu feeling when I saw the video for [Drop Black Sky's "Ctrl-Z"](https://www.youtube.com/watch?v=qG_YxYxEcTs).  I was involved in promoting the band at one point, so it was particularly weird to come back and find this somewhat stylized pattern put on top of video that I cannot claim to understand}]
+    man: <smirking> {I'm quite certain the answer you are willing to give out to such questions depends completely on whether there are any humans involved when you are interviewed.  As long as they are, you will keep all this up indefinitely.}
 
-[me: <frustrated> "Okay, so I buy an old junky looking computer with a big hard drive, that has distorted videos of old dancing man.  Sorry to rush this, but I could wake up at any moment.  Where does this wind up with me being on Earth?"]
+    me: {Could you be more helpful here?  What is this about?}
 
-[man: "That's where things get fuzzy.  When I heard that was where you were, I figured it must have been to get more electrical experience."]
+    man: {It started when you joined up with Karen, and managed to get clearance on the Earth weather patterns experiment.  Panib authorized it.}
 
-[me: "Well when did all this happen?  Am I a body-snatching mind alien or was I always a human even from being born?  Because in my narrative, I've been on Earth all my life."]
+]
 
-[man: <smirking> "Yes, your 'narrative'.  That's a good word for it...well put.  It's kind of a neither/both situation regarding body snatching."]
+note {He pronounced it PAH-NIB.  Because he was Indian I guess I thought Panib was the most natural spelling.  Google noise bucket for this find things like an anticancer agent called "pazopanib", "Pastoral Nipo-brasileira" which is some religious thing, and characters on the Star Wars Wiki.  But indeed it does seem to be an Indian name as well.}
+
+print {He walked me into a room with a bunch of strange looking computers, old and hooked up to CRT monitors.}
+
+dialog [man: {And you bought this machine and hooked it up to the network, along with this tremendous drive.}]
+
+print {The monitor on the machine was showing an old man who was kind of cartoon-ish.  He was dancing in a hallway, but the video was being distorted in a very stylized way.}
+
+update 5-Nov-2014 {The stylistic distortion I saw from the video is something I had very much a deja-vu feeling when I saw the video for [Drop Black Sky's "Ctrl-Z"](https://www.youtube.com/watch?v=qG_YxYxEcTs).  I was involved in promoting the band at one point, so it was particularly weird to come back and find this somewhat stylized pattern put on top of video that I cannot claim to understand}
+
+dialog [
+
+    me: <frustrated> {Okay, so I buy an old junky looking computer with a big hard drive, that has distorted videos of old dancing man.  Sorry to rush this, but I could wake up at any moment.  Where does this wind up with me being on Earth?}
+
+    man: {That's where things get fuzzy.  When I heard that was where you were, I figured it must have been to get more electrical experience.}
+
+    me: {Well when did all this happen?  Am I a body-snatching mind alien or was I always a human even from being born?  Because in my narrative, I've been on Earth all my life.}
+
+    man: <smirking> {Yes, your 'narrative'.  That's a good word for it...well put.  It's kind of a neither/both situation regarding body snatching.}
+
+]

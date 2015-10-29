@@ -6,62 +6,90 @@ Draem [
     old: http://realityhandbook.livejournal.com/46182.html
 ]
 
-{I was using a piece of software and it was generating some kind of spam report automatically based on the data in it. A man was complaining at me.}
+print {I was using a piece of software and it was generating some kind of spam report automatically based on the data in it. A man was complaining at me.}
 
-[him: {Importing your project is generating tons of bind warnings. What is all this garbage about vitamins?}]
+dialog [
 
-[me: {This isn't spam. It's a legitimate project for a vitamin company.}]
+    him: {Importing your project is generating tons of bind warnings. What is all this garbage about vitamins?}
 
-{We had a bit of a debate I don't remember very well, but at one point we came to an agreement of some sort of how to work around it.}
+    me: {This isn't spam. It's a legitimate project for a vitamin company.}
 
-[him: {You should really bring up your problem at the next meeting. Your most important audience is going to be the sales representative, because he actually goes out and meets with groups and can evangelize. It will help the most people if you convince him.}]
+]
 
-{Another person in the room was installing [DirectX 8.1](http://en.wikipedia.org/wiki/DirectX) onto a computer. A friend of mine who is dead was there answering questions, which cued me into some lucid questioning of my own.}
+print {We had a bit of a debate I don't remember very well, but at one point we came to an agreement of some sort of how to work around it.}
 
-[me: {What is it like now that you do not have an earthly existence?}]
+dialog [him: {You should really bring up your problem at the next meeting. Your most important audience is going to be the sales representative, because he actually goes out and meets with groups and can evangelize. It will help the most people if you convince him.}]
 
-[friend: "I have puppies now, it's good."]
+print {Another person in the room was installing [DirectX 8.1](http://en.wikipedia.org/wiki/DirectX) onto a computer. A friend of mine who is dead was there answering questions, which cued me into some lucid questioning of my own.}
 
-[me: {How can you have a physical object here in the dream-state? Doesn't it change uncontrollably?}]
+dialog [
 
-[friend: {Well, even though I can't see the separation clearly, I know there are two puppies.}]
+    me: {What is it like now that you do not have an earthly existence?}
 
-{I lost him as he went around a corner, but found someone else to continue interviewing--a bald man in a Hawaiian shirt.}
+    friend: "I have puppies now, it's good."
 
-[me: {How can a physical object exist here? Why do things keep changing in the environment? Everything is unstable.}]
+    me: {How can you have a physical object here in the dream-state? Doesn't it change uncontrollably?}
 
-[bald-man: {It's simple relativity. A very light object can hit you but if it's going extremely fast it will cream you. Everything is being affected.}]
+    friend: {Well, even though I can't see the separation clearly, I know there are two puppies.}
 
-{I picked up a glass plate off a nearby table. As I held it in my hand to inspect it, the plate started getting smaller and smaller.}
+]
 
-[me: {Okay, this is a perfect example. I'm holding it and looking at it, and it just keeps getting smaller. Why?}]
+print {I lost him as he went around a corner, but found someone else to continue interviewing--a bald man in a Hawaiian shirt.}
 
-[him: {That's because of a drying effect. You holding it is drying it, and it shrinks and becomes brittle.}]
+dialog [
 
-[me: <shaking his hand> {Well, thank you for trying to give me a straight answer that makes some sense. I am trying to get a handle on things. I'm from Earth, and am asleep at this very moment, and this is very disorienting. So I'd like to find the science behind it.}]
+    me: {How can a physical object exist here? Why do things keep changing in the environment? Everything is unstable.}
 
-{A small figurine in a nearby china closet became angered.}
+    bald-man: {It's simple relativity. A very light object can hit you but if it's going extremely fast it will cream you. Everything is being affected.}
 
-[figurine: "Oh, that's annoying."]
+]
 
-[me: {You're not saying I'm annoying, but rather it must be annoying to *me* to be put in such a state of flux?}]
+print {I picked up a glass plate off a nearby table. As I held it in my hand to inspect it, the plate started getting smaller and smaller.}
 
-{But the answer must have been that I was annoying, because a large man with a beard began pinching me in an attack and pushing me.}
+dialog [
 
-[me: "Whoa! Hold up! Stop it! Why are you doing this?"]
+    me: {Okay, this is a perfect example. I'm holding it and looking at it, and it just keeps getting smaller. Why?}
 
-{I continued to demand a response, as he persisted in his attack. Another man walking beside him looked on, but remained silent. I addressed the second man.}
+    him: {That's because of a drying effect. You holding it is drying it, and it shrinks and becomes brittle.}
 
-[me: "Why is he doing this? I deserve an answer!"]
+    me: <shaking his hand> {Well, thank you for trying to give me a straight answer that makes some sense. I am trying to get a handle on things. I'm from Earth, and am asleep at this very moment, and this is very disorienting. So I'd like to find the science behind it.}
 
-[second-man: "We're not allowed to talk."]
+]
 
-[me: "You mean like a law? Says who!!?!"]
+print {A small figurine in a nearby china closet became angered.}
 
-[second-man: {It's an agreement we made with our god. We have to give them back to Earth.}]
+dialog [
 
-[me: "Who is your god?!!"]
+    figurine: "Oh, that's annoying."
 
-{There was a jumbled response, they both kind of tried to reply at the same time--and it seemed they thought the question was funny. I can't really characterize the answer since it was a jumble and it woke me up trying to get it, but it was something like "Pluto" or "Krypton"...something weird and planet-like.}
+    me: {You're not saying I'm annoying, but rather it must be annoying to *me* to be put in such a state of flux?}
 
-{I held out remarkably long against this attack, and probably could have done so longer if I wasn't so busy begging for information.}
+]
+
+print {But the answer must have been that I was annoying, because a large man with a beard began pinching me in an attack and pushing me.}
+
+dialog [me: "Whoa! Hold up! Stop it! Why are you doing this?"]
+
+print {I continued to demand a response, as he persisted in his attack. Another man walking beside him looked on, but remained silent. I addressed the second man.}
+
+dialog [
+
+    me: "Why is he doing this? I deserve an answer!"
+
+    second-man: "We're not allowed to talk."
+
+    me: "You mean like a law? Says who!!?!"
+
+    second-man: {It's an agreement we made with our god. We have to give them back to Earth.}
+
+    me: "Who is your god?!!"
+
+]
+
+print << [
+
+    {There was a jumbled response, they both kind of tried to reply at the same time--and it seemed they thought the question was funny. I can't really characterize the answer since it was a jumble and it woke me up trying to get it, but it was something like "Pluto" or "Krypton"...something weird and planet-like.}
+
+    {I held out remarkably long against this attack, and probably could have done so longer if I wasn't so busy begging for information.}
+
+]

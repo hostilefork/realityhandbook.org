@@ -5,58 +5,74 @@ Draem [
     tags: [lucid-dream conspiracy negative technology]
 ]
 
-{I was at some kind of banquet, celebrating the release of a video game.  People were passing food around, none of it very appetizing to me.  As people broke into groups and showed off gadgets or played tunes on guitars, I wandered out of the banquet room to explore the environment.}
+print << [
 
-{There was a sale counter which didn't have anything particularly appealing at it.  They had a bag of raisin cookies for sale, and somehow I felt like I should buy it and take it back so I had something to share with people.  A mixup over the price led me to leave it, also I began to become lucid so I wandered off.}
+    {I was at some kind of banquet, celebrating the release of a video game.  People were passing food around, none of it very appetizing to me.  As people broke into groups and showed off gadgets or played tunes on guitars, I wandered out of the banquet room to explore the environment.}
 
-{I went outside and began to follow a crowd.  I noticed the environment was kind of tropical, it had something of an island theme.  The crowd walked on a stone trail that started to leave the commerce area and entered into a place that looked like an overgrown jungle, but in more of a Disney style than a real one.}
+    {There was a sale counter which didn't have anything particularly appealing at it.  They had a bag of raisin cookies for sale, and somehow I felt like I should buy it and take it back so I had something to share with people.  A mixup over the price led me to leave it, also I began to become lucid so I wandered off.}
 
-{There was a left turn the people walking ahead of me didn't take, so I did.  It led to an odd-looking series of shops that appeared to be closed; again very much like something out of a theme park.  I went around the detour on a loop, and found as it rejoined with the path I was on that it went past a row of about 5 giant Easter-Island-looking heads that were all packed together to form some kind of wall.}
+    {I went outside and began to follow a crowd.  I noticed the environment was kind of tropical, it had something of an island theme.  The crowd walked on a stone trail that started to leave the commerce area and entered into a place that looked like an overgrown jungle, but in more of a Disney style than a real one.}
 
-{Rather than forge onward in the direction I was going, I decided to go back toward where the banquet had been.  But when I reached the place, it was closing.  I looked at the time and it said their hours were only until 9:30.}
+    {There was a left turn the people walking ahead of me didn't take, so I did.  It led to an odd-looking series of shops that appeared to be closed; again very much like something out of a theme park.  I went around the detour on a loop, and found as it rejoined with the path I was on that it went past a row of about 5 giant Easter-Island-looking heads that were all packed together to form some kind of wall.}
 
-{Going into another nearby doorway I found a kind of dive-bar looking place, that said it was open until 11:00.  It was spacious with high ceilings, and the crowd seemed fairly laid-back.  I ordered a drink, and began to talk to them.}
+    {Rather than forge onward in the direction I was going, I decided to go back toward where the banquet had been.  But when I reached the place, it was closing.  I looked at the time and it said their hours were only until 9:30.}
 
-[note {At this point I don't remember what conversation I was having, it went on for a while about life, normal stuff.}]
+    {Going into another nearby doorway I found a kind of dive-bar looking place, that said it was open until 11:00.  It was spacious with high ceilings, and the crowd seemed fairly laid-back.  I ordered a drink, and began to talk to them.}
 
-{At some point the topic of organizing one's life came up.  I mentioned I'd been using a service called Trello for getting my tasks laid out so I could look at them and arrange them, and felt it was helpful.}
+]
 
-[note {It really is helpful, you should try it: [Trello.com](http://trello.com)}]
+note {At this point I don't remember what conversation I was having, it went on for a while about life, normal stuff.}
 
-{I pulled out my cell phone and fired up Trello to demonstrate it, but noticed things were unfamiliar.  None of my boards were there, and many of them were dealing with contacts and issues at IBM.  As I noticed it was having server errors, I was triggered into lucidity.}
+print {At some point the topic of organizing one's life came up.  I mentioned I'd been using a service called Trello for getting my tasks laid out so I could look at them and arrange them, and felt it was helpful.}
 
-[me: <thinking quickly> {It has a local cache, but then it tries to hit the server.  Right, it's got to have a network connection.  And we're picking up Wi-Fi networks here.  But...hold on.}]
+note {It really is helpful, you should try it: [Trello.com](http://trello.com)}
 
-{I turned to address a group of older people who were seated on a bench by the bar.}
+print {I pulled out my cell phone and fired up Trello to demonstrate it, but noticed things were unfamiliar.  None of my boards were there, and many of them were dealing with contacts and issues at IBM.  As I noticed it was having server errors, I was triggered into lucidity.}
 
-[me: {This is supposed to look like a tropical place, but it isn't really.  It's not Hawaii, I know that; it's done up like a theme park.  Where do you think you are?  What's the name of this island, of this place?}]
+dialog [me: <thinking quickly> {It has a local cache, but then it tries to hit the server.  Right, it's got to have a network connection.  And we're picking up Wi-Fi networks here.  But...hold on.}]
 
-{The older people looked at each other and were confused, a little groggy.}
+print {I turned to address a group of older people who were seated on a bench by the bar.}
 
-[older-woman: {We... well, I heard... I heard someone call it something once.  I don't remember.}]
+dialog [me: {This is supposed to look like a tropical place, but it isn't really.  It's not Hawaii, I know that; it's done up like a theme park.  Where do you think you are?  What's the name of this island, of this place?}]
 
-[older-man: {Something, something... I think it started with a "B" maybe?}]
+print {The older people looked at each other and were confused, a little groggy.}
 
-{A guy who looked like one of my high-tech friends was sitting there tapping around on his phone or tablet, scrutinizing what it said.}
+dialog [
 
-[tech-guy: {Pretty sure they're trying to make it out to be filed as "Borneo".}]
+    older-woman: {We... well, I heard... I heard someone call it something once.  I don't remember.}
 
-[note {Not a place I think much about, or could have even told you where it was or anything about it.  But [Borneo](http://en.wikipedia.org/wiki/Borneo) is the third-largest island in the world and the largest island of Asia. At the geographic centre of Maritime Southeast Asia, in relation to major Indonesian islands, it is located north of Java, west of Sulawesi, and east of Sumatra.}]
+    older-man: {Something, something... I think it started with a "B" maybe?}
 
-[me: "And what year is it supposed to be?"]
+]
 
-[tech-guy: <tapping screen, grimacing> "1944."]
+print {A guy who looked like one of my high-tech friends was sitting there tapping around on his phone or tablet, scrutinizing what it said.}
 
-[me: {Well great.  So here we are, in "Borneo", in 1944, with "wireless networks available".  This is no sophisticated alien zoo if the bastards running it have to use WiFi.  Who are we dealing with?}]
+dialog [tech-guy: {Pretty sure they're trying to make it out to be filed as "Borneo".}]
 
-{One wall of the bar had changed into sliding glass doors of some kind and a frustrated woman walked through them to join us.}
+note {Not a place I think much about, or could have even told you where it was or anything about it.  But [Borneo](http://en.wikipedia.org/wiki/Borneo) is the third-largest island in the world and the largest island of Asia. At the geographic centre of Maritime Southeast Asia, in relation to major Indonesian islands, it is located north of Java, west of Sulawesi, and east of Sumatra.}
 
-[woman: <angrily> {We're dealing with some of the most amoral scumbags I think I've ever seen.  Absolutely terrible.}]
+dialog [
 
-[me: {Well, this Trello hit triggered data out...it looks like it actually generated an error message for an unsupported protocol.  We'll get it traced.  But unfortunately...}]
+    me: "And what year is it supposed to be?"
 
-"The lights began to go out in rapid succession."
+    tech-guy: <tapping screen, grimacing> "1944."
 
-[me: "...as I was saying: unfortunately, *this*."]
+    me: {Well great.  So here we are, in "Borneo", in 1944, with "wireless networks available".  This is no sophisticated alien zoo if the bastards running it have to use WiFi.  Who are we dealing with?}
 
-{In the total darkness, a blue-white light on my phone shone brightly right as some kind of explosion ripped through.  My body vibrated in darkness a while and I awoke.}
+]
+
+print {One wall of the bar had changed into sliding glass doors of some kind and a frustrated woman walked through them to join us.}
+
+dialog [
+
+    woman: <angrily> {We're dealing with some of the most amoral scumbags I think I've ever seen.  Absolutely terrible.}
+
+    me: {Well, this Trello hit triggered data out...it looks like it actually generated an error message for an unsupported protocol.  We'll get it traced.  But unfortunately...}
+
+]
+
+print "The lights began to go out in rapid succession."
+
+dialog [me: "...as I was saying: unfortunately, *this*."]
+
+print {In the total darkness, a blue-white light on my phone shone brightly right as some kind of explosion ripped through.  My body vibrated in darkness a while and I awoke.}

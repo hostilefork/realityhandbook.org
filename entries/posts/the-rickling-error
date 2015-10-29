@@ -6,72 +6,100 @@ Draem [
     old: http://realityhandbook.livejournal.com/114517.html
 ]
 
-{After a long dream sequence I don't remember very clearly, I went over to a windowsill in a room and saw two DVD cases. I picked up one of them, it was the video game "Rez"--which I have played recently. The box was a uniform shade of orange.}
+print {After a long dream sequence I don't remember very clearly, I went over to a windowsill in a room and saw two DVD cases. I picked up one of them, it was the video game "Rez"--which I have played recently. The box was a uniform shade of orange.}
 
-[note {That does not correspond to the game's official packaging that I've seen.}]
+note {That does not correspond to the game's official packaging that I've seen.}
 
-[picture %rez-hd.jpg]
+picture %rez-hd.jpg
 
-{I was speaking with the person who showed me the game.}
+print {I was speaking with the person who showed me the game.}
 
-[me: {Thanks for loaning this to me, but I don't think it will play on my iMac.}]
+dialog [
 
-[her: {I brought you an Xbox. You might be able to plug it into the mac, or maybe the TV in the living room?}]
+    me: {Thanks for loaning this to me, but I don't think it will play on my iMac.}
 
-[me: {Oh? Thanks. I think the iMac has some kind of video input, just not a VGA in. I'll look.}]
+    her: {I brought you an Xbox. You might be able to plug it into the mac, or maybe the TV in the living room?}
 
-{I wandered into the living room and saw an Xbox sitting on a sofa. Examining the back for video connectors, I saw a VGA out and there were others I didn't specifically recognize but were labeled "HDMI".}
+    me: {Oh? Thanks. I think the iMac has some kind of video input, just not a VGA in. I'll look.}
 
-[note {I've never used an HDMI cable, but the ports I saw looked more like USB than the HDMI cables I see on the web.}]
+]
 
-{When I returned to the room, she was playing the Rez game on my iMac. The gameplay was correct but the backdrop graphics were substituted with porn. You couldn't target the porn characters, only objects layered on top of them. Notably, there was a couple having sex in a bathtub. After a bit I noticed the disc wasn't even in the iMac.}
+print {I wandered into the living room and saw an Xbox sitting on a sofa. Examining the back for video connectors, I saw a VGA out and there were others I didn't specifically recognize but were labeled "HDMI".}
 
-[me: {How can this be playing if the disc isn't even in the computer?}]
+note {I've never used an HDMI cable, but the ports I saw looked more like USB than the HDMI cables I see on the web.}
 
-[her: "I downloaded it."]
+print {When I returned to the room, she was playing the Rez game on my iMac. The gameplay was correct but the backdrop graphics were substituted with porn. You couldn't target the porn characters, only objects layered on top of them. Notably, there was a couple having sex in a bathtub. After a bit I noticed the disc wasn't even in the iMac.}
 
-[me: "We need to take this back to the store."]
+dialog [
 
-{The scene changed to a situation at a game counter, and we were returning the game to a guy behind a counter.}
+    me: {How can this be playing if the disc isn't even in the computer?}
 
-[me: {You might want to look at that game before you restock it, and make sure it's what you think it is.}]
+    her: "I downloaded it."
 
-"He turned to the girl."
+    me: "We need to take this back to the store."
 
-[man: {I saw on your records you worked on researching the Rickling error. That's fairly infamous as an area of interest to the government.}]
+]
 
-[me: {Rickling error? Ah, I'm going to need to write that one down.}]
+print {The scene changed to a situation at a game counter, and we were returning the game to a guy behind a counter.}
 
-{By this point I was lucid and knew I was in a dream situation. I took a piece of paper, turned it over, and began writing "Rickling error" on it.}
+dialog [me: {You might want to look at that game before you restock it, and make sure it's what you think it is.}]
 
-[note {I knew I wouldn't be able to keep the paper, but I thought that writing it down would help me remember it after I woke up.}]
+print "He turned to the girl."
 
-[man: <looking at me writing> "What are you doing?"]
+dialog [
 
-[girl: {He's... sort of a collector of words, you might say. Likes to write them down when he hears a new one.}]
+    man: {I saw on your records you worked on researching the Rickling error. That's fairly infamous as an area of interest to the government.}
 
-[me: <to girl> "What's your name?"]
+    me: {Rickling error? Ah, I'm going to need to write that one down.}
 
-[girl: "Near."]
+]
 
-{Flipping the paper over I noticed I'd been writing a note of some sort to her, and it opened with "Dear Rickling [name]". Noting it was my friend's name, I erased it and handed her the paper.}
+print {By this point I was lucid and knew I was in a dream situation. I took a piece of paper, turned it over, and began writing "Rickling error" on it.}
 
-[me: {You should write your name there, I'm better at reading than I am at writing.}]
+note {I knew I wouldn't be able to keep the paper, but I thought that writing it down would help me remember it after I woke up.}
 
-{She did, and wrote "Near".}
+dialog [
 
-[note {Although 'Near' doesn't seem like a name, LiveJournal user ["penmill_dreams"](http://penmill_dreams.livejournal.com/) points out that there is a character in the [Death Note](http://en.wikipedia.org/wiki/Death_Note) Anime with that name:} [picture %41UeM1OJYPL_AA280_.jpg] {...and apparently it's well known enough that they sell toys of it on Amazon.}]
+    man: <looking at me writing> "What are you doing?"
 
-[me: {That's an unusual name. It means to be close to something. You know, like the Sesame Street monsters.}]
+    girl: {He's... sort of a collector of words, you might say. Likes to write them down when he hears a new one.}
 
-{I began re-enacting the "Near"... "Far" puppet sketch from Sesame Street. Some people watched and pointed, acknowledging they knew it. I walked over to the people and noticed they were wearing nametags. I asked if I could see them. One kid looked at me kind of nervously but showed me that his tag was constructed out of two layers of paper. The outer one had black writing and was constructed so it had a window you could open, and it said "V.I.P." Under the window flap was written V.I.P. -- except in red.}
+    me: <to girl> "What's your name?"
 
-[me: <laughing> {Well, nice work on that. But be careful, and use it only for good.}]
+    girl: "Near."
 
-{Feeling kind of a rush of some kind of authority, I grabbed a nearby woman who I perceived as an authority by the wrist and stared at her.}
+]
 
-[me: {There are things going on in this universe that are beyond comprehension.}]
+print {Flipping the paper over I noticed I'd been writing a note of some sort to her, and it opened with "Dear Rickling [name]". Noting it was my friend's name, I erased it and handed her the paper.}
 
-[her: "And you're only just now figuring that out?"]
+dialog [me: {You should write your name there, I'm better at reading than I am at writing.}]
 
-{A disabled-seeming black woman was trying to make her way with the help of some people, and I offered to help, but they refused. I struck up a conversation with someone that I don't remember entirely before I woke up.}
+print {She did, and wrote "Near".}
+
+note [
+
+    print {Although 'Near' doesn't seem like a name, LiveJournal user ["penmill_dreams"](http://penmill_dreams.livejournal.com/) points out that there is a character in the [Death Note](http://en.wikipedia.org/wiki/Death_Note) Anime with that name:}
+
+    picture %41UeM1OJYPL_AA280_.jpg
+
+    print {...and apparently it's well known enough that they sell toys of it on Amazon.}
+
+]
+
+dialog [me: {That's an unusual name. It means to be close to something. You know, like the Sesame Street monsters.}]
+
+print {I began re-enacting the "Near"... "Far" puppet sketch from Sesame Street. Some people watched and pointed, acknowledging they knew it. I walked over to the people and noticed they were wearing nametags. I asked if I could see them. One kid looked at me kind of nervously but showed me that his tag was constructed out of two layers of paper. The outer one had black writing and was constructed so it had a window you could open, and it said "V.I.P." Under the window flap was written V.I.P. -- except in red.}
+
+dialog [me: <laughing> {Well, nice work on that. But be careful, and use it only for good.}]
+
+print {Feeling kind of a rush of some kind of authority, I grabbed a nearby woman who I perceived as an authority by the wrist and stared at her.}
+
+dialog [
+
+    me: {There are things going on in this universe that are beyond comprehension.}
+
+    her: "And you're only just now figuring that out?"
+
+]
+
+print {A disabled-seeming black woman was trying to make her way with the help of some people, and I offered to help, but they refused. I struck up a conversation with someone that I don't remember entirely before I woke up.}

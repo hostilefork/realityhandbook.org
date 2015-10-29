@@ -5,44 +5,64 @@ Draem [
     tags: [lucid-dream sexual positive technology]
 ]
 
-{I had wandered out the front door of a house. There were three kittens feeding at a bowl on the front steps, and something about the oddity of the kittens appearing and vanishing cued me into lucidity.}
+print << [
 
-{Finding a computer, I tried talking out loud to it.  It would type things back at me.  I'd tell it to execute some command lines, but the lines it typed didn't work.  I asked it to do a `sudo apache2ctl restart` to restart a web server for some reason, but prononced it as `sudo apache two control restart`.  So the typing said `sudo apache2 ctrl restart`.}
+    {I had wandered out the front door of a house. There were three kittens feeding at a bowl on the front steps, and something about the oddity of the kittens appearing and vanishing cued me into lucidity.}
 
-[me: {No, it's "CTL for control, not CTRL"}]
+    {Finding a computer, I tried talking out loud to it.  It would type things back at me.  I'd tell it to execute some command lines, but the lines it typed didn't work.  I asked it to do a `sudo apache2ctl restart` to restart a web server for some reason, but prononced it as `sudo apache two control restart`.  So the typing said `sudo apache2 ctrl restart`.}
 
-[screen: <typed> "It would be easier if you made me a user account on the machine."]
+]
 
-[me: "Hmm.  Well, who are you?"]
+dialog [
 
-[screen: "My name is Florian."]
+    me: {No, it's "CTL for control, not CTRL"}
 
-{The situation sort of shifted a bit, and sometimes I was reading the communication on the side of a piece of glass...sometimes it shifted back to being in a terminal.  A cartoon character of a king, perhaps a bit like a playing card, started talking to me as I was losing focus on the environment.}
+    screen: <typed> {It would be easier if you made me a user account on the machine.}
 
-[king: "What have I told you before about just trusting people for no reason?  At the minimum, you should be getting *some* kind of vibe of them giving you an advantage or otherwise being sensitive to what you want.  You should always be cautious...but when there's been zero value offered or given, *definitely* don't make yourself vulnerable!"]
+    me: "Hmm.  Well, who are you?"
 
-[me: "I didn't do anything!  I was asking questions!  What do you think I have done wrong?"]
+    screen: "My name is Florian."
 
-{I was lucid enough, and genuinely mad that this cartoon king was taking this judging attitude on me when I had explicitly *not* created any account for this person.  He seemed to want to ignore my question and disappeared down a stairway, as I pulled myself along.}
+]
 
-{Trying to stay coherent I reached for the hand of a girl who seemed to be ahead of me on the stairway, but she disappeared as I descended it.  When I reached the bottom of the stairs it seemed like I was in a house's hallway, and one of the doors was open but had a beaded curtain on it that reminded me of a similar curtain an ex-girlfriend had.  I went into the room and thought of her, and someone looking like her entered the room after me.}
+print {The situation sort of shifted a bit, and sometimes I was reading the communication on the side of a piece of glass...sometimes it shifted back to being in a terminal.  A cartoon character of a king, perhaps a bit like a playing card, started talking to me as I was losing focus on the environment.}
 
-{Knowing it was a dream, and feeling like I wanted to, I initiated a pleasant sexual contact with her which lasted a fairly long time in lucid-dream terms.  There were some oddities to it but I worked with those, until finally deciding that we should give it a rest and I should ask questions.}
+dialog [
 
-[me: "I'm afraid we're not going to be able to finish this, because it just won't work.  I am asleep, actually, in a bed elsewhere.  And the girl you look like I haven't seen in a long, long time.  So who are you?"]
+    king: {What have I told you before about just trusting people for no reason?  At the minimum, you should be getting *some* kind of vibe of them giving you an advantage or otherwise being sensitive to what you want.  You should always be cautious...but when there's been zero value offered or given, *definitely* don't make yourself vulnerable!}
 
-[girl: "No."]
+    me: {I didn't do anything!  I was asking questions!  What do you think I have done wrong?}
 
-[me: "Uh.  How is 'no' an answer to the question 'who are you'?"]
+]
 
-[girl: "It's a premise of the IDMA. I can't be anyone, there's no way to define me as having an age."]
+print << [
 
-[me: "What's the IDMA?"]
+    {I was lucid enough, and genuinely mad that this cartoon king was taking this judging attitude on me when I had explicitly *not* created any account for this person.  He seemed to want to ignore my question and disappeared down a stairway, as I pulled myself along.}
 
-[girl: "It's the Hotmail International Distrubuted Mail Archive.  Earlier did you see some things that looked like PDFs?  That's what we're working on going over right now, with programs."]
+    {Trying to stay coherent I reached for the hand of a girl who seemed to be ahead of me on the stairway, but she disappeared as I descended it.  When I reached the bottom of the stairs it seemed like I was in a house's hallway, and one of the doors was open but had a beaded curtain on it that reminded me of a similar curtain an ex-girlfriend had.  I went into the room and thought of her, and someone looking like her entered the room after me.}
 
-[me: "So you write computer programs?"]
+    {Knowing it was a dream, and feeling like I wanted to, I initiated a pleasant sexual contact with her which lasted a fairly long time in lucid-dream terms.  There were some oddities to it but I worked with those, until finally deciding that we should give it a rest and I should ask questions.}
 
-[girl: "Yes."]
+]
 
-{She had a computer and a web browser, I tried to bring up my name but it kept completing it incorrectly.  We went through some back and forth as I tried to convey to her what my name was.}
+dialog [
+
+    me: {I'm afraid we're not going to be able to finish this, because it just won't work.  I am asleep, actually, in a bed elsewhere.  And the girl you look like I haven't seen in a long, long time.  So who are you?}
+
+    girl: "No."
+
+    me: {Uh.  How is 'no' an answer to the question 'who are you'?}
+
+    girl: {It's a premise of the IDMA. I can't be anyone, there's no way to define me as having an age.}
+
+    me: "What's the IDMA?"
+
+    girl: {It's the Hotmail International Distrubuted Mail Archive.  Earlier did you see some things that looked like PDFs?  That's what we're working on going over right now, with programs.}
+
+    me: "So you write computer programs?"
+
+    girl: "Yes."
+
+]
+
+print {She had a computer and a web browser, I tried to bring up my name but it kept completing it incorrectly.  We went through some back and forth as I tried to convey to her what my name was.}

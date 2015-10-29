@@ -6,76 +6,104 @@ Draem [
     old: http://realityhandbook.livejournal.com/93412.html
 ]
 
-{I was sitting in the front right row of an auditorium, wearing a bathrobe. But somehow it kept slipping off, and this preoccupied me. A girl behind me was leaning over my shoulder onto my row, and I had the feeling that we knew each other well but had just picked different rows to sit in. Also, I sensed from an earlier context that I had sort of unwittingly gone to a meeting for Christians, just because there was a sign that said "meeting downstairs" and I thought "oh, ok" and went.}
+print {I was sitting in the front right row of an auditorium, wearing a bathrobe. But somehow it kept slipping off, and this preoccupied me. A girl behind me was leaning over my shoulder onto my row, and I had the feeling that we knew each other well but had just picked different rows to sit in. Also, I sensed from an earlier context that I had sort of unwittingly gone to a meeting for Christians, just because there was a sign that said "meeting downstairs" and I thought "oh, ok" and went.}
 
-[speaker: {I want to thank you all for coming, you made the right choice.}]
+dialog [
 
-[girl: <whispered, to me> "Well, at least we got to skip math class."]
+    speaker: {I want to thank you all for coming, you made the right choice.}
 
-[speaker: {We met our fundraising goal and we'll certainly be winning the $50. But we're not content to stop there. We'll do whatever we can, we'll sell cookies. Heck...we'll even write on the cookies 'the Christian Club sucks' if it will get more people to buy them!}]
+    girl: <whispered, to me> "Well, at least we got to skip math class."
 
-{Still trying to manage the robe that was slipping off, I slouched in the seat so I touched the ground. While I was down there, a small yellowish dog came up to me. He/she was very interested in something that was in my hand, and started licking at it. I realized it was the tip of a pencil that the dog was interested in. A girl came and pulled him away.}
+    speaker: {We met our fundraising goal and we'll certainly be winning the $50. But we're not content to stop there. We'll do whatever we can, we'll sell cookies. Heck...we'll even write on the cookies 'the Christian Club sucks' if it will get more people to buy them!}
 
-[dog-girl: {Oh, we need to get more litter for the litterbox. But we don't know where to find any.}]
+]
 
-{I decided to leave and find some proper clothes, or a bed in any case so I could lay down. Somehow I was outdoors on a very large and pretty-seeming farm, with lots of greenery...although I was walking on a path built from towering piles of small boxes that were collapsing underneath me as I went. The path seemed to lead to a small house which I entered. It was a single room, and inside was a girl with dark hair in a bed. She looked like someone I once dated briefly.}
+print {Still trying to manage the robe that was slipping off, I slouched in the seat so I touched the ground. While I was down there, a small yellowish dog came up to me. He/she was very interested in something that was in my hand, and started licking at it. I realized it was the tip of a pencil that the dog was interested in. A girl came and pulled him away.}
 
-[me: "Hi there! Long time no see!"]
+dialog [dog-girl: {Oh, we need to get more litter for the litterbox. But we don't know where to find any.}]
 
-[dark-hair-girl: <nervously> "You shouldn't touch me."]
+print {I decided to leave and find some proper clothes, or a bed in any case so I could lay down. Somehow I was outdoors on a very large and pretty-seeming farm, with lots of greenery...although I was walking on a path built from towering piles of small boxes that were collapsing underneath me as I went. The path seemed to lead to a small house which I entered. It was a single room, and inside was a girl with dark hair in a bed. She looked like someone I once dated briefly.}
 
-[me: {Why not? What's wrong? Do you have a boyfriend now?}]
+dialog [
 
-[dark-hair-girl: {No it's not that. It's because I have liquid coming off of me...and...uh, it has eyes.}]
+    me: "Hi there! Long time no see!"
 
-{I didn't feel any liquid, but I looked and saw a dark spot by the oven. She pointed me away from that, which apparently wasn't what she was talking about...and I saw a few large flatworm-type creatures zig-zagging across the floor. They were luminescent, and changing colors at a rapid pace.}
+    dark-hair-girl: <nervously> "You shouldn't touch me."
 
-[picture %PlanariaOrFlatworm.jpg]
+    me: {Why not? What's wrong? Do you have a boyfriend now?}
 
-[me: {Oh. Sorry to hear about that. Well, I've seen worse. Oh...I just realized...that Christian guy from before, I knew him from my waking life. I should have said something, to prove to him what's going on! Not that he's ever doubted my dream accounts, he just sees it all as tying in with God.}]
+    dark-hair-girl: {No it's not that. It's because I have liquid coming off of me...and...uh, it has eyes.}
 
-{Then there was a second bed with two people under covers I couldn't see at first...but two more girls with dark hair who looked different threw off the sheets and got up. After greeting them with hugs and sort of inspecting them to see who they were (no one I recognized), I began following them through a series of spacious hallways. The one girl who I was following now looked like a very small Middle-Eastern woman.}
+]
 
-[me: {Anyway... I need to know some information. Do you guys live here, on this farm or whatever it is?}]
+print {I didn't feel any liquid, but I looked and saw a dark spot by the oven. She pointed me away from that, which apparently wasn't what she was talking about...and I saw a few large flatworm-type creatures zig-zagging across the floor. They were luminescent, and changing colors at a rapid pace.}
 
-[small-woman: "No, I am not... not a full Sufi."]
+picture %PlanariaOrFlatworm.jpg
 
-[me: {A Sufi? You're not one? If you were one, would you live here all the time?}]
+dialog [me: {Oh. Sorry to hear about that. Well, I've seen worse. Oh...I just realized...that Christian guy from before, I knew him from my waking life. I should have said something, to prove to him what's going on! Not that he's ever doubted my dream accounts, he just sees it all as tying in with God.}]
 
-{Her speech became incredibly thick and in a foreign language, with only a few words coming out that I recognized. Since we were walking through some kind of large ballroom or banquet hall with many other people, I decided to try talking to someone else. A man dressed in priestly robes and holding a book was sitting alone and looking at me.}
+print {Then there was a second bed with two people under covers I couldn't see at first...but two more girls with dark hair who looked different threw off the sheets and got up. After greeting them with hugs and sort of inspecting them to see who they were (no one I recognized), I began following them through a series of spacious hallways. The one girl who I was following now looked like a very small Middle-Eastern woman.}
 
-[robe-guy: "Oh *you're* here! How deserving of you!"]
+dialog [
 
-[me: {Sorry...I don't know if that was sarcasm or...uh...do I know you?}]
+    me: {Anyway... I need to know some information. Do you guys live here, on this farm or whatever it is?}
 
-[robe-guy: <surprised> "You don't remember? I am Ed's friend Brian."]
+    small-woman: "No, I am not... not a full Sufi."
 
-[me: {Okay, now I remember when you came for dinner once, but didn't you have much darker skin?}]
+    me: {A Sufi? You're not one? If you were one, would you live here all the time?}
 
-[robe-guy: {Yes, when I was younger my skin was dark, but this is what it has become. Here, you should have some food.}]
+]
 
-[note {Though I had a vague sense I knew who he was from that information at the time, I don't know any "Ed's friend Brian"...so no clue what I was talking about.}]
+print {Her speech became incredibly thick and in a foreign language, with only a few words coming out that I recognized. Since we were walking through some kind of large ballroom or banquet hall with many other people, I decided to try talking to someone else. A man dressed in priestly robes and holding a book was sitting alone and looking at me.}
 
-{He indicated a glass plate which had fancy looking sliced citrus of some kind, the rinds had been removed and it looked very perfect. Not entirely intentionally I ate something that tasted like a piece of pepperoni and resumed questioning.}
+dialog [
 
-[me: {Thank you but, I continue to want to know. Who are the people here, and do they live here regularly...or, what? Why is it that I blip in and out of existence, is that happening to everyone else here too? Does it happen to *anyone* else?}]
+    robe-guy: "Oh *you're* here! How deserving of you!"
 
-[robe-guy: {This happens to people when others are dependent on them. We are connected and those connections pull on us.}]
+    me: {Sorry...I don't know if that was sarcasm or...uh...do I know you?}
 
-[me: {Wait, so something happens to call me back? All the time? But I wake up and don't notice any particular event that would have triggered it. It's more like I'm being pushed out of here than being pulled back.}]
+    robe-guy: <surprised> "You don't remember? I am Ed's friend Brian."
 
-{He guided me toward an informational sign that was posted on a podium to our right. It had small diagrams of different types of food on it. The top had a disclaimer--something about how their powers were limited, although patents were pending to grant them more.}
+    me: {Okay, now I remember when you came for dinner once, but didn't you have much darker skin?}
 
-[note {I got a slight sense that this may have been a joke. Kind of like someone saying "Until my patent for a time machine comes through, my status as ruler of the space-time continuum is only informally recognized by Bob, Susie, and myself."}]
+    robe-guy: {Yes, when I was younger my skin was dark, but this is what it has become. Here, you should have some food.}
 
-{Trying to read more of the sign, I could only make out a part that said "Unfortunately, The Koreans are in a condition of no wheat sandwich." The two letter "U"s in "unfortunately" were white while the rest of the letters were black.}
+]
 
-{There was some sort of warning that was set off, and a red alarm light began to strobe. Either instinctually or due to some audible message, I got the sense that I was about to be attacked by something very big and scary, like a Tyrannosaurus Rex. I looked at the robe guy, who didn't really seem too concerned.}
+note {Though I had a vague sense I knew who he was from that information at the time, I don't know any "Ed's friend Brian"...so no clue what I was talking about.}
 
-[robe-guy: <smiling weakly> "Good luck."]
+print {He indicated a glass plate which had fancy looking sliced citrus of some kind, the rinds had been removed and it looked very perfect. Not entirely intentionally I ate something that tasted like a piece of pepperoni and resumed questioning.}
 
-[me: "Oh, well. Whatever comes I'll just stare it down."]
+dialog [
 
-[note {Though appearances made it seem like the facility we were in was under a large-scale attack, I wasn't sure if his lack of concern was due to the attack only applying to me...or if he and others were just less vulnerable to what was about to happen...or if they'd all made peace with the destruction that was about to ensue.}]
+    me: {Thank you but, I continue to want to know. Who are the people here, and do they live here regularly...or, what? Why is it that I blip in and out of existence, is that happening to everyone else here too? Does it happen to *anyone* else?}
 
-{I waited and watched the wall where the warning light was coming from. The wall cracked and I was bracing for some huge beast to come out of it. But instead, an unusual boxy car which seemed to be covered in plastic wrap came barreling out, like it was fleeing from something. I thought it was fleeing from a Tyrannosaurus, and that I'd be having to deal with that soon...but I didn't because the car came careening in my direction and woke me up.}
+    robe-guy: {This happens to people when others are dependent on them. We are connected and those connections pull on us.}
+
+    me: {Wait, so something happens to call me back? All the time? But I wake up and don't notice any particular event that would have triggered it. It's more like I'm being pushed out of here than being pulled back.}
+
+]
+
+print {He guided me toward an informational sign that was posted on a podium to our right. It had small diagrams of different types of food on it. The top had a disclaimer--something about how their powers were limited, although patents were pending to grant them more.}
+
+note {I got a slight sense that this may have been a joke. Kind of like someone saying "Until my patent for a time machine comes through, my status as ruler of the space-time continuum is only informally recognized by Bob, Susie, and myself."}
+
+print << [
+
+    {Trying to read more of the sign, I could only make out a part that said "Unfortunately, The Koreans are in a condition of no wheat sandwich." The two letter "U"s in "unfortunately" were white while the rest of the letters were black.}
+
+    {There was some sort of warning that was set off, and a red alarm light began to strobe. Either instinctually or due to some audible message, I got the sense that I was about to be attacked by something very big and scary, like a Tyrannosaurus Rex. I looked at the robe guy, who didn't really seem too concerned.}
+
+]
+
+dialog [
+
+    robe-guy: <smiling weakly> "Good luck."
+
+    me: "Oh, well. Whatever comes I'll just stare it down."
+
+]
+
+note {Though appearances made it seem like the facility we were in was under a large-scale attack, I wasn't sure if his lack of concern was due to the attack only applying to me...or if he and others were just less vulnerable to what was about to happen...or if they'd all made peace with the destruction that was about to ensue.}
+
+print {I waited and watched the wall where the warning light was coming from. The wall cracked and I was bracing for some huge beast to come out of it. But instead, an unusual boxy car which seemed to be covered in plastic wrap came barreling out, like it was fleeing from something. I thought it was fleeing from a Tyrannosaurus, and that I'd be having to deal with that soon...but I didn't because the car came careening in my direction and woke me up.}

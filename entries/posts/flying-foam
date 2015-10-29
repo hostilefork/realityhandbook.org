@@ -6,46 +6,62 @@ Draem [
     old: http://realityhandbook.livejournal.com/34374.html
 ]
 
-{I got into a fight with someone in a dream, and though I was holding out fairly well I realized that it was a losing battle. So I backed off and called a truce. Almost instantly the dream solidified, and the same person I had been fighting started giving me information about someone I had known in the past.}
+print {I got into a fight with someone in a dream, and though I was holding out fairly well I realized that it was a losing battle. So I backed off and called a truce. Almost instantly the dream solidified, and the same person I had been fighting started giving me information about someone I had known in the past.}
 
-[me: {Hmmm...that doesn't sound like something he would do. But I'll ask you this: what is MY name?}]
+dialog [
 
-[him: "I don't like that question."]
+    me: {Hmmm...that doesn't sound like something he would do. But I'll ask you this: what is MY name?}
 
-[me: {If you can't tell me my name, then I really doubt it would be possible to give me detailed factual information about people from my past. Knowing my name seems much easier.}]
+    him: "I don't like that question."
 
-{A short while later I was in an industrial building that I knew to be full of explosives. There was a guy there who I perceived as being like Edward Norton's character in Fight Club who was masterminding the bombs. The police came in with plans to arrest him but he made a menacing gesture like he was going to light a cigarette, and they realized the slightest fire would cause the building to explode.}
+    me: {If you can't tell me my name, then I really doubt it would be possible to give me detailed factual information about people from my past. Knowing my name seems much easier.}
 
-{Several bomb-squad scientists came in and were mixing together chemicals. There was a roster of where they were from, and I noticed some were from Finland. Realizing that they weren't going to be able to stop the pyromaniac, I confronted him.}
+]
 
-[me: {I'm about to wake up. So why don't you just tell me how this story is going to end?}]
+print << [
 
-{In response, he threw something that caused a fire and the whole place exploded. People were running for their lives, but I decided to walk into the fire. It wasn't painful but it made me feel static-y, like when your foot falls asleep. As parts of my body were replaced with a white frothing foam, I flew uncontrollably into the air, where I met another flying guy.}
+    {A short while later I was in an industrial building that I knew to be full of explosives. There was a guy there who I perceived as being like Edward Norton's character in Fight Club who was masterminding the bombs. The police came in with plans to arrest him but he made a menacing gesture like he was going to light a cigarette, and they realized the slightest fire would cause the building to explode.}
 
-[me: "How do I stop flying and get back to the ground?"]
+    {Several bomb-squad scientists came in and were mixing together chemicals. There was a roster of where they were from, and I noticed some were from Finland. Realizing that they weren't going to be able to stop the pyromaniac, I confronted him.}
 
-{He turned upside down so his head pointed at the ground and we both went down and touched the ground.}
+]
 
-[him: {I advise you to pick up a stick or some other object.}]
+dialog [me: {I'm about to wake up. So why don't you just tell me how this story is going to end?}]
 
-[me: {Does that then imply a commitment to being on the ground so you stop flying?}]
+print {In response, he threw something that caused a fire and the whole place exploded. People were running for their lives, but I decided to walk into the fire. It wasn't painful but it made me feel static-y, like when your foot falls asleep. As parts of my body were replaced with a white frothing foam, I flew uncontrollably into the air, where I met another flying guy.}
 
-{He didn't answer, but we had landed in a cluster of people pointing at the tiny moths crawling around on the dirt.}
+dialog [me: "How do I stop flying and get back to the ground?"]
 
-[people: {These moths are lousy pets, they don't come when you call.}]
+print {He turned upside down so his head pointed at the ground and we both went down and touched the ground.}
 
-[me: {Er, yeah. Ok. Well, if you call that a 'MOTH'... what would you call ME?}]
+dialog [
 
-[person1: "A mirror!"]
+    him: {I advise you to pick up a stick or some other object.}
 
-[person2: "A frog!"]
+    me: {Does that then imply a commitment to being on the ground so you stop flying?}
 
-[me: <to person2> "You said frog. Do you know what a mirror was?"]
+]
 
-[note {My line of thinking there was that if a mirror reflects what you show it then maybe the first person was right...I was a mirror and person2 was a frog seeing itself.}]
+print {He didn't answer, but we had landed in a cluster of people pointing at the tiny moths crawling around on the dirt.}
 
-{This was interrupted when George Clooney and some other celebrity (possibly Edward Norton, as from earlier) walked by. They paused and looked at me...and then continued to walk. I decided to follow them.}
+dialog [
 
-[me: {What's the deal here? What's going on? I need to know because I'll be waking up any moment.}]
+    people: {These moths are lousy pets, they don't come when you call.}
 
-"Shortly thereafter I did wake up."
+    me: {Er, yeah. Ok. Well, if you call that a 'MOTH'... what would you call ME?}
+
+    person1: "A mirror!"
+
+    person2: "A frog!"
+
+    me: <to person2> "You said frog. Do you know what a mirror was?"
+
+]
+
+note {My line of thinking there was that if a mirror reflects what you show it then maybe the first person was right...I was a mirror and person2 was a frog seeing itself.}
+
+print {This was interrupted when George Clooney and some other celebrity (possibly Edward Norton, as from earlier) walked by. They paused and looked at me...and then continued to walk. I decided to follow them.}
+
+dialog [me: {What's the deal here? What's going on? I need to know because I'll be waking up any moment.}]
+
+print "Shortly thereafter I did wake up."

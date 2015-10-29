@@ -6,72 +6,96 @@ Draem [
     old: http://realityhandbook.livejournal.com/139668.html
 ]
 
-[html {<div class="exposition">In the dream <a href="http://realityhandbook.org/lucid-dream/marcus-marco-marcami/">"Marcus Marco Marcami"</a>, I was told I should write an essay about purple. That this was somehow important, and that <font color="purple">purple things that are somehow "in-between"</font>.</div>}]
+html {<div class="exposition">In the dream <a href="http://realityhandbook.org/lucid-dream/marcus-marco-marcami/">"Marcus Marco Marcami"</a>, I was told I should write an essay about purple. That this was somehow important, and that <font color="purple">purple things that are somehow "in-between"</font>.</div>}
 
-{Speaking in terms of the color spectrum, what purple is most clearly "between" is blue and red. It's particularly symmetric, because you get a kind of purple if you mixed blue+red *paint* -OR- if you mix blue+red *light*. Being "in-between" blue and red is specifically interesting considering the popularity of that differentiation in "The Matrix Choice" of red pill vs. blue pill.}
+print << [
 
-{Time is a somewhat artificial construct in the Matrix world. For instance, we casually accept that the music video for [Nelson's "After The Rain"](http://www.youtube.com/watch?v=qTDiUmSv5kg) was released in 1990. But what's the deal with meeting a Native American who holds up a red and blue pill, then hands him a feather that appears in a purple flash of light?}
+    {Speaking in terms of the color spectrum, what purple is most clearly "between" is blue and red. It's particularly symmetric, because you get a kind of purple if you mixed blue+red *paint* -OR- if you mix blue+red *light*. Being "in-between" blue and red is specifically interesting considering the popularity of that differentiation in "The Matrix Choice" of red pill vs. blue pill.}
 
-[picture %aftertherain_bluered.png]
+    {Time is a somewhat artificial construct in the Matrix world. For instance, we casually accept that the music video for [Nelson's "After The Rain"](http://www.youtube.com/watch?v=qTDiUmSv5kg) was released in 1990. But what's the deal with meeting a Native American who holds up a red and blue pill, then hands him a feather that appears in a purple flash of light?}
 
-{I would assume this was some weird thing that Matrix-fans had added after the fact as some kind of joke. Except...*I saw this lame video on MTV in the early 90's*...and I remember the weird red/blue spheres! (I don't remember noting the feather being purple). Certainly if the Matrix were for real, and we are in it...then it wouldn't be very surprising if media seemed to be in the wrong order. But if our new hypothetical purple pill has any point, it is perhaps to realize that there is no one legitimate reality...the truth is somewhere "in-between".}
+]
 
-[note {For more on the "your chronology is false and watch out for technology used to fake you out" theme, watch Apoptygma Berzerk's [Apollo](http://www.youtube.com/watch?v=Hy0cP7SlDEM). The red and blue pills make an appearance on the drummer's shirt, among other things to think about...}]
+picture %aftertherain_bluered.png
 
-[heading "Red, Blue and our Sexual Identity Matrix"]
+print {I would assume this was some weird thing that Matrix-fans had added after the fact as some kind of joke. Except...*I saw this lame video on MTV in the early 90's*...and I remember the weird red/blue spheres! (I don't remember noting the feather being purple). Certainly if the Matrix were for real, and we are in it...then it wouldn't be very surprising if media seemed to be in the wrong order. But if our new hypothetical purple pill has any point, it is perhaps to realize that there is no one legitimate reality...the truth is somewhere "in-between".}
 
-[html {<div class="exposition">Another use of these colors that I have noticed is that it seems there's a pervasive attempt to signal <font color="blue">blue means male</font> and <font color="red">red means female</font>. Going flat up to the "duh" level of obviousness with this signal issue, how about the music video for Regina Spektor's <i>Fidelity</i>.</div>}]
+note {For more on the "your chronology is false and watch out for technology used to fake you out" theme, watch Apoptygma Berzerk's [Apollo](http://www.youtube.com/watch?v=Hy0cP7SlDEM). The red and blue pills make an appearance on the drummer's shirt, among other things to think about...}
 
-[youtube http://www.youtube.com/watch?v=SGTDRztaCCw 420x315]
+heading "Red, Blue and our Sexual Identity Matrix"
 
-{We start with Regina Spektor's character--a presumed human female--alone in a room colored in all black and white. She sits at the right side of a table (from the camera's point of view) with the left chair unoccupied. Over her at a mantel sits two iconized abstractions of stereotypical male and female heads (silhouettes). The male head is on the left and the female head is on the right, which seems fitting for the seating arrangement:}
+html {<div class="exposition">Another use of these colors that I have noticed is that it seems there's a pervasive attempt to signal <font color="blue">blue means male</font> and <font color="red">red means female</font>. Going flat up to the "duh" level of obviousness with this signal issue, how about the music video for Regina Spektor's <i>Fidelity</i>.</div>}
 
-[picture %boy_left_girl_right.jpg]
+youtube [http://www.youtube.com/watch?v=SGTDRztaCCw 420x315]
 
-{Regina seems a bit cosmically alone, but starts talking to the empty chair and pretending like she's with someone. Periodically she'll pick up a phone and talk into it... finding that this has resulted in getting a slightly more real companion. This companion shows up one body part at a time, until finally he is brought to life by her smashing a heart-shaped locket onto the ground.}
+print {We start with Regina Spektor's character--a presumed human female--alone in a room colored in all black and white. She sits at the right side of a table (from the camera's point of view) with the left chair unoccupied. Over her at a mantel sits two iconized abstractions of stereotypical male and female heads (silhouettes). The male head is on the left and the female head is on the right, which seems fitting for the seating arrangement:}
 
-{This not only brings him to life, but gives them a lot of colored dust to play in. But what's interesting to note is what they choose to do with the colored dust as it concerns those silhouettes:}
+picture %boy_left_girl_right.jpg
 
-[picture %girl_left_boy_right.jpg]
+print << [
 
-{The silhouettes have switched sides on the mantel--the male one is on the right now. Regina blows <font color="red">red</font> dust onto the female silhouette, while her new male friend blows <font color="blue">blue</font> dust onto the male silhouette.}
+    {Regina seems a bit cosmically alone, but starts talking to the empty chair and pretending like she's with someone. Periodically she'll pick up a phone and talk into it... finding that this has resulted in getting a slightly more real companion. This companion shows up one body part at a time, until finally he is brought to life by her smashing a heart-shaped locket onto the ground.}
 
-{A dream coach from the Netherlands ([droomcoach.com](http://droomcoach.com)) shared with me what looks like a video with the exact same story through the male point of view. A man is trying to connect with a woman who he encounters in dreams, but as per Regina's conundrum he gets a cardboard girl instead of the one who he's looking for. (You can [watch it here on YouTube](http://www.youtube.com/watch?v=T6YE5h2Xtow))}
+    {This not only brings him to life, but gives them a lot of colored dust to play in. But what's interesting to note is what they choose to do with the colored dust as it concerns those silhouettes:}
 
-[picture %red_slaap.jpg]
+]
 
-[picture %blue_slaap.jpg]
+picture %girl_left_boy_right.jpg
 
-{To continue with a music video on the theme studied so far, I'll pick Dave Gahan's video for "I Need You". (Couldn't find it on YouTube, but you can watch it here on something called [myvideo.de](http://www.myvideo.de/watch/2145093/Dave_Gahan_I_Need_You))}
+print << [
 
-{Same lonely perspective: Dave Gahan is at a telescope by himself, looking off into space at some stars. His monitors are blue and when he looks through the telescope there's a blue color reflected when you see his face:}
+    {The silhouettes have switched sides on the mantel--the male one is on the right now. Regina blows <font color="red">red</font> dust onto the female silhouette, while her new male friend blows <font color="blue">blue</font> dust onto the male silhouette.}
 
-[picture %ineedyou_blue.png]
+    {A dream coach from the Netherlands ([droomcoach.com](http://droomcoach.com)) shared with me what looks like a video with the exact same story through the male point of view. A man is trying to connect with a woman who he encounters in dreams, but as per Regina's conundrum he gets a cardboard girl instead of the one who he's looking for. (You can [watch it here on YouTube](http://www.youtube.com/watch?v=T6YE5h2Xtow))}
 
-{As he watches the stars, he sees some of them moving. This causes him to interpret it as a dance. The dance is something that he interprets as a black woman with an Afro haircut who is dancing in space, wearing red wispy clothing:}
+]
 
-[picture %ineedyou_red.png]
+picture %red_slaap.jpg
 
-{Eventually Dave's solution is to stop looking at the monitors and go right up to the telescope itself and start climbing into it. When he does, he sees the figure from earlier--this time in purple--climbing down to meet him. He climbs in with her and vanishes:}
+picture %blue_slaap.jpg
 
-[picture %ineedyou_purple.png]
+print << [
 
-[heading "And this means... what?"]
+    {To continue with a music video on the theme studied so far, I'll pick Dave Gahan's video for "I Need You". (Couldn't find it on YouTube, but you can watch it here on something called [myvideo.de](http://www.myvideo.de/watch/2145093/Dave_Gahan_I_Need_You))}
 
-{Now I'm not saying that you'll find this convention adhered to rigorously. For every video like Jewel's [I Do](http://www.youtube.com/watch?v=z42jA3OOECc) there's plenty that don't seem to map colors to genders at all. All I'm saying is that it seems to be a convention or code that is involved in some prominent media I've seen. I believe in the cases I've seen that it is intentional. But whose intention? To what end?}
+    {Same lonely perspective: Dave Gahan is at a telescope by himself, looking off into space at some stars. His monitors are blue and when he looks through the telescope there's a blue color reflected when you see his face:}
 
-{I don't claim to know--this journal doesn't usually have much in the way of answers, just data and questions. But given the bias of the examples I picked here, I wonder if it is an alien attempt to sort out coding of an important thing to humans (male/female)...that is not going to be innately obvious to non-human minds. Perhaps the motive of this is to be able to appear in a form palatable to the seeker.}
+]
 
-{I am reminded of this poem by the late humorist Stephen Leacock:}
+picture %ineedyou_blue.png
 
-[quote
+print {As he watches the stars, he sees some of them moving. This causes him to interpret it as a dance. The dance is something that he interprets as a black woman with an Afro haircut who is dancing in space, wearing red wispy clothing:}
 
-    "And here's the bounding little flea."
+picture %ineedyou_red.png
 
-    "You cannot tell the he from she;"
+print {Eventually Dave's solution is to stop looking at the monitors and go right up to the telescope itself and start climbing into it. When he does, he sees the figure from earlier--this time in purple--climbing down to meet him. He climbs in with her and vanishes:}
 
-    "The sexes look alike, you see."
+picture %ineedyou_purple.png
 
-    "But she can tell; and so can he."
+heading "And this means... what?"
+
+print << [
+
+    {Now I'm not saying that you'll find this convention adhered to rigorously. For every video like Jewel's [I Do](http://www.youtube.com/watch?v=z42jA3OOECc) there's plenty that don't seem to map colors to genders at all. All I'm saying is that it seems to be a convention or code that is involved in some prominent media I've seen. I believe in the cases I've seen that it is intentional. But whose intention? To what end?}
+
+    {I don't claim to know--this journal doesn't usually have much in the way of answers, just data and questions. But given the bias of the examples I picked here, I wonder if it is an alien attempt to sort out coding of an important thing to humans (male/female)...that is not going to be innately obvious to non-human minds. Perhaps the motive of this is to be able to appear in a form palatable to the seeker.}
+
+    {I am reminded of this poem by the late humorist Stephen Leacock:}
+
+]
+
+quote [
+
+    print << [
+
+        "And here's the bounding little flea."
+
+        "You cannot tell the he from she;"
+
+        "The sexes look alike, you see."
+
+        "But she can tell; and so can he."
+
+    ]
 
 ]

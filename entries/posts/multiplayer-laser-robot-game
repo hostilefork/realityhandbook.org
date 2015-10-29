@@ -5,72 +5,96 @@ Draem [
     tags: [non-lucid-dream neutral attack technology]
 ]
 
-{I was following a group of people toward what looked like escalators in a building.  Some were moving faster, others slower.}
+print {I was following a group of people toward what looked like escalators in a building.  Some were moving faster, others slower.}
 
-[girl: <examining escalator> "Okay, I don't think these are the dangerous ones that kill you."]
+dialog [girl: <examining escalator> {Okay, I don't think these are the dangerous ones that kill you.}]
 
-{I cautiously approached the escalator, which didn't seem to have any steps but just be some kind of moving grate on an incline.  There was sort of a feeling of a whoosh of air as it took me up to the next level.}
+print << [
 
-{At one of the levels we passed by a banjo-playing man who just seemed to be sitting in the middle of this chamber-like connecting area.  It had windows to the outside behind him, but he was facing toward a series of interior windows to another hallway that continued on the other side.}
+    {I cautiously approached the escalator, which didn't seem to have any steps but just be some kind of moving grate on an incline.  There was sort of a feeling of a whoosh of air as it took me up to the next level.}
 
-{We didn't say anything to the banjo man, but just passed him to a little corner area before continuing down the hallway he was facing.}
+    {At one of the levels we passed by a banjo-playing man who just seemed to be sitting in the middle of this chamber-like connecting area.  It had windows to the outside behind him, but he was facing toward a series of interior windows to another hallway that continued on the other side.}
 
-{A guy who I felt was in the group with me stopped to point out some of the architectural features.  There were symbols on the building walls; they had some chunky geometric features that made them seem like the building was made out of something modular and LEGO-like.}
+    {We didn't say anything to the banjo man, but just passed him to a little corner area before continuing down the hallway he was facing.}
 
-[guy: "Hmmm...this looks familiar.  Have we been here before already?"]
+    {A guy who I felt was in the group with me stopped to point out some of the architectural features.  There were symbols on the building walls; they had some chunky geometric features that made them seem like the building was made out of something modular and LEGO-like.}
 
-{I noticed a wheel mounted on the wall with a lever.  I went and pulled the lever a few times and it made the wheel spin, there was a loud noise.}
+]
 
-[me: "Ah yes.  This was the hallway where, oh crap."]
+dialog [guy: {Hmmm...this looks familiar.  Have we been here before already?}]
 
-{There was a flash of memory of a difficult sequence of maneuvers you had to go through in order to avoid some Dalek-like jet black robots that would roll up and down the hallway.  I seemed to remember at the same time one of those robots came on patrol, and began shooting at our group.  When people were shot, they turned into wispy white sparkles floating in midair.}
+print {I noticed a wheel mounted on the wall with a lever.  I went and pulled the lever a few times and it made the wheel spin, there was a loud noise.}
 
-{We were cornered and I lunged at it and got shot, but somehow managed to evade and get back around the corner to the section of the tunnel with the banjo guy.  I believed this was a safe point, and that the robot would go back on its patrol.}
+dialog [me: "Ah yes.  This was the hallway where, oh crap."]
 
-[me: "Okay, yes this part.  You aren't supposed to fight the robot, you trick it.  It patrols the halls on a fixed path; there are some rooms you can dodge in further down the hall.  But it's really a pain.  I don't know if I have time to go through this level right now; you might have to do it without me."]
+print << [
 
-[note {Somehow I knew it was a game I was logged into from where I had other responsibilities.}]
+    {There was a flash of memory of a difficult sequence of maneuvers you had to go through in order to avoid some Dalek-like jet black robots that would roll up and down the hallway.  I seemed to remember at the same time one of those robots came on patrol, and began shooting at our group.  When people were shot, they turned into wispy white sparkles floating in midair.}
 
-{The banjo man spoke up to us.}
+    {We were cornered and I lunged at it and got shot, but somehow managed to evade and get back around the corner to the section of the tunnel with the banjo guy.  I believed this was a safe point, and that the robot would go back on its patrol.}
 
-[banjo-man: "So do you have a peering system in your game?"]
+]
 
-[me: "Pardon?  It's multiplayer, yes.  There's a server though, it's not peer-to-peer."]
+dialog [me: {Okay, yes this part.  You aren't supposed to fight the robot, you trick it.  It patrols the halls on a fixed path; there are some rooms you can dodge in further down the hall.  But it's really a pain.  I don't know if I have time to go through this level right now; you might have to do it without me.}]
 
-[banjo-man: "No, I meant if your party is at capacity and someone logs out, how do new people join the party?  Is it just first-come-first-serve if you happen to be available?  Or are there quanta involved in order to make it more fair for those interested?"]
+note {Somehow I knew it was a game I was logged into from where I had other responsibilities.}
 
-{I almost became lucid at the realization that I really had no answer to his question, or real memory of how I'd gotten to be there.  But we could see the robot sliding down the hallway through the window on its patrol.}
+print "The banjo man spoke up to us."
 
-[me: <to my group> {Okay, so here comes the robot again.  You've got to time it and then follow it down the hallway after it turns a corner, there's a loop down there.  It can't see you from here...}]
+dialog [
 
-{The robot stopped and turned and pointed its laser at us through the window.}
+    banjo-man: "So do you have a peering system in your game?"
 
-[me: {Hey!  It's not supposed to see us here!}]
+    me: {Pardon?  It's multiplayer, yes.  There's a server though, it's not peer-to-peer.}
 
-{At my saying this the robot turned into a guy with a gun who started to come around the corner after us.}
+    banjo-man: {No, I meant if your party is at capacity and someone logs out, how do new people join the party?  Is it just first-come-first-serve if you happen to be available?  Or are there quanta involved in order to make it more fair for those interested?}
 
-[me: {Uh oh, run!}]
+]
 
-{We started running back down the escalators to get out.  But the girl didn't run, she stopped to talk to the guy.  The other members of the party and I waited by the door at the outside entrance to the building.  Eventually the girl poked out the entrance to talk to us.}
+print {I almost became lucid at the realization that I really had no answer to his question, or real memory of how I'd gotten to be there.  But we could see the robot sliding down the hallway through the window on its patrol.}
 
-[girl: {Hey, hold on.  That guy is cool, turns out he likes this artist I like.  I have one of the pictures he doesn't, I'm going to get it and show it to him.  Also, he's cute and has six pack abs.}]
+dialog [me: <to my group> {Okay, so here comes the robot again.  You've got to time it and then follow it down the hallway after it turns a corner, there's a loop down there.  It can't see you from here...}]
 
-{I grumbled.  The girl herself was attractive, though I noticed she was a little bit fat.}
+print {The robot stopped and turned and pointed its laser at us through the window.}
 
-{We went back into the lobby and sat down in some area.  My gaze idly went to a little white box that had a hole on it and said "Admission: One Quarter".}
+dialog [me: "Hey!  It's not supposed to see us here!"]
 
-[me: {Hey, I didn't see that box when we ran in.  Hm, I wonder if that's important and if you don't pay you get attacked?}]
+print {At my saying this the robot turned into a guy with a gun who started to come around the corner after us.}
 
-[guy: {The rest of us paid.}]
+dialog [me: "Uh oh, run!"]
 
-[me: {Well I didn't.}]
+print {We started running back down the escalators to get out.  But the girl didn't run, she stopped to talk to the guy.  The other members of the party and I waited by the door at the outside entrance to the building.  Eventually the girl poked out the entrance to talk to us.}
 
-{The girl returned and suggested we go through a door and fight some kind of enemy that was important.  When we went into the door the perspective changed so some kind of selection screen, where I was indicated by a small animated avatar.}
+dialog [girl: {Hey, hold on.  That guy is cool, turns out he likes this artist I like.  I have one of the pictures he doesn't, I'm going to get it and show it to him.  Also, he's cute and has six pack abs.}]
 
-[note {The game looked a bit like *Final Fantasy: Tactics*.}]
+print << [
 
-{My character had some strange icon about "Server Transfer Initiated" and an apparent indication about needing to transfer settings.  The game seemed to be turn-based and our team was being held up because I couldn't seem to get anything to function the way I wanted on my controller.}
+    {I grumbled.  The girl herself was attractive, though I noticed she was a little bit fat.}
 
-{I yelled out about how none of the buttons on my gamepad were working right, and I think it had to do with that server transfer message.  I wanted to type or otherwise communicate that it wasn't my fault, but little game graphics were bashing at me.  Our team wound up losing the battle and getting killed.}
+    {We went back into the lobby and sat down in some area.  My gaze idly went to a little white box that had a hole on it and said "Admission: One Quarter".}
 
-{There were some explosions and a graphic that looked like a ham, which was eaten by some character.  My character was stuck alone in front of some pixelated tavern-like building.  I tried to walk into it but when I did, the door stuck to my character.  So when I moved away from it the door moved with me.  I couldn't actually get inside the building.}
+]
+
+dialog [
+
+    me: {Hey, I didn't see that box when we ran in.  Hm, I wonder if that's important and if you don't pay you get attacked?}
+
+    guy: "The rest of us paid."
+
+    me: "Well I didn't."
+
+]
+
+print {The girl returned and suggested we go through a door and fight some kind of enemy that was important.  When we went into the door the perspective changed so some kind of selection screen, where I was indicated by a small animated avatar.}
+
+note {The game looked a bit like *Final Fantasy: Tactics*.}
+
+print << [
+
+    {My character had some strange icon about "Server Transfer Initiated" and an apparent indication about needing to transfer settings.  The game seemed to be turn-based and our team was being held up because I couldn't seem to get anything to function the way I wanted on my controller.}
+
+    {I yelled out about how none of the buttons on my gamepad were working right, and I think it had to do with that server transfer message.  I wanted to type or otherwise communicate that it wasn't my fault, but little game graphics were bashing at me.  Our team wound up losing the battle and getting killed.}
+
+    {There were some explosions and a graphic that looked like a ham, which was eaten by some character.  My character was stuck alone in front of some pixelated tavern-like building.  I tried to walk into it but when I did, the door stuck to my character.  So when I moved away from it the door moved with me.  I couldn't actually get inside the building.}
+
+]

@@ -6,22 +6,30 @@ Draem [
     old: http://realityhandbook.livejournal.com/36089.html
 ]
 
-{The company Steorn made headlines a while back, claiming to have invented a sort-of battery that doesn't need recharging, and just provides power...forever. Though few people took them seriously, they've spent an unusual amount of money promoting it--and the company doesn't seem to be made up of the sort of people who you'd generally expect to be crazy or scammers (although their methods are not transparent, which certainly fuels skepticism).}
+print << [
 
-{I've kept tabs on this, because they said they'd be demonstrating it in July...and some recent news makes it sound like perhaps it will actually happen.}
+    {The company Steorn made headlines a while back, claiming to have invented a sort-of battery that doesn't need recharging, and just provides power...forever. Though few people took them seriously, they've spent an unusual amount of money promoting it--and the company doesn't seem to be made up of the sort of people who you'd generally expect to be crazy or scammers (although their methods are not transparent, which certainly fuels skepticism).}
 
-[note {The demo has been [indefinitely delayed](http://freeenergytracker.blogspot.com/2007/07/steorns-screwup-in-news.html) due to "technical difficulties", which has led to no shortage of ridicule.}]
+    {I've kept tabs on this, because they said they'd be demonstrating it in July...and some recent news makes it sound like perhaps it will actually happen.}
 
-{Be that as it may, I found [a curious MP3](http://www.evworld.com/evworld_audio/sschwartz_steorn.mp3) of someone interviewed on Coast to Coast AM who practices "Remote Viewing" (the idea of going into trances or dreamstate in order to visit other times, places, planets, etc.) He believes that Steorn's invention might be a device which he has talked to people in the future about. This is what he says:}
+]
 
-[quote {One of the things they tell me about 2050 is that there's been this energy revolution, and energy is just no longer an issue. And I said: "Well, what do you mean it's no longer an issue?" Well you go down to the store and you buy one of these boxes, and you buy a little box for a little purpose and a big box for y'know, to power an apartment building. And you just plug it in. And I said: 'what do you mean, plug it in?' Well it's this box, and you kind of plug it into the system, and it provides energy. Energy is not an issue.}]
+note {The demo has been [indefinitely delayed](http://freeenergytracker.blogspot.com/2007/07/steorns-screwup-in-news.html) due to "technical difficulties", which has led to no shortage of ridicule.}
 
-{An interesting thing he says about the conversations he has during remote viewing is that his own mental model clogs or clouds his ability to comprehend what he is being told. In the 70's when asking the future about nuclear proliferation and the Soviet Union, he got back a response that the Soviet Union had 'disappeared'. Later he realized the proper interpretation was that the geopolitical entity had dissolved. Another thing he says is that conversations with entities after 2050 cease to make sense.}
+print {Be that as it may, I found [a curious MP3](http://www.evworld.com/evworld_audio/sschwartz_steorn.mp3) of someone interviewed on Coast to Coast AM who practices "Remote Viewing" (the idea of going into trances or dreamstate in order to visit other times, places, planets, etc.) He believes that Steorn's invention might be a device which he has talked to people in the future about. This is what he says:}
 
-{Steorn claims to be able to generate 0.5 watts/cm^^3 for the electrical generator version, and about 10 times that for the mechanical output version. To put that in perspective, I saw on a website: "Most airplane power systems are limited to approximately 75 Watts of power draw per seat. This means that your new 17" laptop, with the power-hungry processor, might not get enough juice to operate." So if you needed an Orbo to power your laptop, it would have to be 150 cubic centimeters, so let's say 10cm x 1cm x 15cm.}
+quote {One of the things they tell me about 2050 is that there's been this energy revolution, and energy is just no longer an issue. And I said: "Well, what do you mean it's no longer an issue?" Well you go down to the store and you buy one of these boxes, and you buy a little box for a little purpose and a big box for y'know, to power an apartment building. And you just plug it in. And I said: 'what do you mean, plug it in?' Well it's this box, and you kind of plug it into the system, and it provides energy. Energy is not an issue.}
 
-{The mechanism doesn't seem to involve any fancy radioactive or weird components. It involves a phenomenon they call Magnetic Viscosity, where the stregth of a magnetic field varies slightly depending on how an object moves through it. To make an analogy with gravity: "this would be as if jerking an object up in some way could weaken, temporarily, the gravitational pull on it."}
+print << [
 
-[quote {"The magnetic gradient created by the stator array is changed by shifting the array in the direction of the axis of rotation at the correct moment allowing the attractive gradient to help lift the heavier weight and the repulsive gradient to help push the weight. The claim is that the energy needed to shift the array is less than the energy created by the magnetic gradient."}]
+    {An interesting thing he says about the conversations he has during remote viewing is that his own mental model clogs or clouds his ability to comprehend what he is being told. In the 70's when asking the future about nuclear proliferation and the Soviet Union, he got back a response that the Soviet Union had 'disappeared'. Later he realized the proper interpretation was that the geopolitical entity had dissolved. Another thing he says is that conversations with entities after 2050 cease to make sense.}
 
-{Increasingly Steorn is looking like a hoax or error.}
+    {Steorn claims to be able to generate 0.5 watts/cm^^3 for the electrical generator version, and about 10 times that for the mechanical output version. To put that in perspective, I saw on a website: "Most airplane power systems are limited to approximately 75 Watts of power draw per seat. This means that your new 17" laptop, with the power-hungry processor, might not get enough juice to operate." So if you needed an Orbo to power your laptop, it would have to be 150 cubic centimeters, so let's say 10cm x 1cm x 15cm.}
+
+    {The mechanism doesn't seem to involve any fancy radioactive or weird components. It involves a phenomenon they call Magnetic Viscosity, where the stregth of a magnetic field varies slightly depending on how an object moves through it. To make an analogy with gravity: "this would be as if jerking an object up in some way could weaken, temporarily, the gravitational pull on it."}
+
+]
+
+quote {"The magnetic gradient created by the stator array is changed by shifting the array in the direction of the axis of rotation at the correct moment allowing the attractive gradient to help lift the heavier weight and the repulsive gradient to help push the weight. The claim is that the energy needed to shift the array is less than the energy created by the magnetic gradient."}
+
+print {Increasingly Steorn is looking like a hoax or error.}

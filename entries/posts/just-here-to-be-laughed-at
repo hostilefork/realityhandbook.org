@@ -6,80 +6,112 @@ Draem [
     old: http://realityhandbook.livejournal.com/122222.html
 ]
 
-{I was sitting down at a table with some people and there was a strange rubbery stack of colored square sheets of paper. The corners had some kind of snap on them. A man who looked a little bit like Morgan Freeman was attaching them together, and as he did, it made a larger sheet that could be folded and flipped around in some odd ways. As a first step in assembling them, you'd place the corner of one into the center of another... then attach the corner snaps to each other.}
+print {I was sitting down at a table with some people and there was a strange rubbery stack of colored square sheets of paper. The corners had some kind of snap on them. A man who looked a little bit like Morgan Freeman was attaching them together, and as he did, it made a larger sheet that could be folded and flipped around in some odd ways. As a first step in assembling them, you'd place the corner of one into the center of another... then attach the corner snaps to each other.}
 
-[note {The result of snapping the pieces together seemed to act a little bit like a Rubik's Magic toy...} [picture %magic.jpg] {...though it was more like some kind of modular origami, where you could make any size sheet you wanted, and its pattern properties had to do with which kinds of component sheets you had used.}]
+note [
 
-[me: {Hey, wait. It seems kind of like modular origami, where you can make any size sheet you want. But how does it work? Can you show me again?}]
+    print {The result of snapping the pieces together seemed to act a little bit like a Rubik's Magic toy...}
 
-[man: {The material is made some out of cinnamon, and another bit is a rubber with a high globulus coefficient, and...}]
+    picture %magic.jpg
 
-[note {He was rattling off something that sounded like half science, half-cookie recipe. I made up "globulus" just to give a sense of the weird terms he was using.}]
+    print {...though it was more like some kind of modular origami, where you could make any size sheet you wanted, and its pattern properties had to do with which kinds of component sheets you had used.}
 
-[me: {Okay, maybe I'll just focus on the folding. One step at a time, though. I couldn't quite see what you just did. I'll try one of my own.}]
+]
 
-{I picked up a pair of sheets and tried the same thing. When I did, the snaps seemed more complex. I tried to push them down like he'd done, but wound up with the thing springing up and not compressing into a sheet. It seemed more like a failed project to hook together the poles in a tent, with the material all over the place.}
+dialog [
 
-[man: {Sometimes if that happens you have to push it down with your shoe, give it some good force.}]
+    me: {Hey, wait. It seems kind of like modular origami, where you can make any size sheet you want. But how does it work? Can you show me again?}
 
-{When I attempted to step on it, my toe was pinched. I tried not to wake up, but I did...and then tried to get back into the scene. There were some dark shapes moving around.}
+    man: {The material is made some out of cinnamon, and another bit is a rubber with a high globulus coefficient, and...}
 
-[voice: "Reach for my hand!"]
+]
 
-{Grabbing out into the shadow, something pulled me up into a full color 3d scene, and I'd grabbed the arm of one of the girls--and we tumbled naked onto a bed. There was another bed beside it where a second girl was laying.}
+note {He was rattling off something that sounded like half science, half-cookie recipe. I made up "globulus" just to give a sense of the weird terms he was using.}
 
-[girl-one: "Could you be cuter?"]
+dialog [me: {Okay, maybe I'll just focus on the folding. One step at a time, though. I couldn't quite see what you just did. I'll try one of my own.}]
 
-[me: {Uh... sorry, I don't know; not sure what I look like at all.}]
+print {I picked up a pair of sheets and tried the same thing. When I did, the snaps seemed more complex. I tried to push them down like he'd done, but wound up with the thing springing up and not compressing into a sheet. It seemed more like a failed project to hook together the poles in a tent, with the material all over the place.}
 
-[girl-two: "By that she means you *are* cute."]
+dialog [man: {Sometimes if that happens you have to push it down with your shoe, give it some good force.}]
 
-[me: {Oh, thanks. Are you the same people I was just talking with?}]
+print {When I attempted to step on it, my toe was pinched. I tried not to wake up, but I did...and then tried to get back into the scene. There were some dark shapes moving around.}
 
-[girl-two: {We've talked several times, but you don't remember all the conversations we've had.}]
+dialog [voice: "Reach for my hand!"]
 
-[me: {I was just trying to put together some origami things and see how they worked.}]
+print {Grabbing out into the shadow, something pulled me up into a full color 3d scene, and I'd grabbed the arm of one of the girls--and we tumbled naked onto a bed. There was another bed beside it where a second girl was laying.}
 
-[girl-two: "Oh, well you remember *that* one!"]
+dialog [
 
-[me: {To me, it was just moments ago. What time was it for you? I mean...'What time was it from your point of view?'}]
+    girl-one: "Could you be cuter?"
 
-{I made air quotes to emphasize that I realized that perhaps the concept of time wasn't the right question to be asking. Girl #2 pointed.}
+    me: {Uh... sorry, I don't know; not sure what I look like at all.}
 
-[girl-two: "Ah, that was in my crab, that's all I know."]
+    girl-two: "By that she means you *are* cute."
 
-[me: "Huh?"]
+    me: {Oh, thanks. Are you the same people I was just talking with?}
 
-{She sort of lazily pointed across her body, and I noticed that she was naked and her hand was stopping right around her crotch. I wondered for a moment if she was talking about measuring time with some STD she had.}
+    girl-two: {We've talked several times, but you don't remember all the conversations we've had.}
 
-[girl-two: "No...no! The crab! On the clock."]
+    me: {I was just trying to put together some origami things and see how they worked.}
 
-[me: "Wait, you have AN ASTROLOGICAL CLOCK?!?!"]
+    girl-two: "Oh, well you remember *that* one!"
 
-[girl-two: {Yes, it makes a different tone during each period, that's how you know what the purpose is.}]
+    me: {To me, it was just moments ago. What time was it for you? I mean...'What time was it from your point of view?'}
 
-[me: {Oh no, not astrology. That's considered really useless where I'm from. Have you ever lived physical lives, like me, before?}]
+]
 
-[girl-one: "No, never. We've always been here."]
+print {I made air quotes to emphasize that I realized that perhaps the concept of time wasn't the right question to be asking. Girl #2 pointed.}
 
-[me: "Is it something you know about?"]
+dialog [
 
-[girl-two: {Yes...but it was just this thing that was there, for you to laugh at. Nothing you'd take seriously.}]
+    girl-two: "Ah, that was in my crab, that's all I know."
 
-{A boy appeared out of nowhere, and climbed into bed with girl #2.}
+    me: "Huh?"
 
-[boy: {Hi, my name is Tim. We'll be your date this evening.}]
+]
 
-[me: <to girl #1> "Uh... ok... what is your name?"]
+print {She sort of lazily pointed across her body, and I noticed that she was naked and her hand was stopping right around her crotch. I wondered for a moment if she was talking about measuring time with some STD she had.}
 
-[girl-one: "Elegin."]
+dialog [
 
-[me: <to girl #2> "What is your name?"]
+    girl-two: "No...no! The crab! On the clock."
 
-[girl-two: "Bea."]
+    me: "Wait, you have AN ASTROLOGICAL CLOCK?!?!"
 
-{I mentioned that they looked sort of like people I knew, with similar names.}
+    girl-two: {Yes, it makes a different tone during each period, that's how you know what the purpose is.}
 
-[girl-one: "Who are they?"]
+    me: {Oh no, not astrology. That's considered really useless where I'm from. Have you ever lived physical lives, like me, before?}
 
-[girl-two: "Spiritual friends of his."]
+    girl-one: "No, never. We've always been here."
+
+    me: "Is it something you know about?"
+
+    girl-two: {Yes...but it was just this thing that was there, for you to laugh at. Nothing you'd take seriously.}
+
+]
+
+print {A boy appeared out of nowhere, and climbed into bed with girl #2.}
+
+dialog [
+
+    boy: {Hi, my name is Tim. We'll be your date this evening.}
+
+    me: <to girl #1> "Uh... ok... what is your name?"
+
+    girl-one: "Elegin."
+
+    me: <to girl #2> "What is your name?"
+
+    girl-two: "Bea."
+
+]
+
+print {I mentioned that they looked sort of like people I knew, with similar names.}
+
+dialog [
+
+    girl-one: "Who are they?"
+
+    girl-two: "Spiritual friends of his."
+
+]

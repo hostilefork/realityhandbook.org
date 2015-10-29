@@ -5,20 +5,28 @@ Draem [
     tags: [lucid-dream negative attack]
 ]
 
-{I had some old 3.5" floppy disks that I wanted to read the data off of for some reason.  A person I know from a technical meetup group had moved into an old apartment where I had been living, and invited me to use his computer.}
+print << [
 
-{Everything was pretty much a disaster with clothes and junk everywhere, but he did get me to his computer desk and pulled out an old drive to use.  Various things happened but eventually it seemed he came and attacked me.}
+    {I had some old 3.5" floppy disks that I wanted to read the data off of for some reason.  A person I know from a technical meetup group had moved into an old apartment where I had been living, and invited me to use his computer.}
 
-{However, when I managed to fight off and face the attacker...he looked like what I look like when I look in the mirror.  Lucid, I stopped to ask about the meaning.}
+    {Everything was pretty much a disaster with clothes and junk everywhere, but he did get me to his computer desk and pulled out an old drive to use.  Various things happened but eventually it seemed he came and attacked me.}
 
-[me: {All right, explain why you look like me and why you're attacking.  Who are you?}]
+    {However, when I managed to fight off and face the attacker...he looked like what I look like when I look in the mirror.  Lucid, I stopped to ask about the meaning.}
 
-{The attacker didn't answer, he just seemed to keep morphing his form in small ways...and continued to attack.}
+]
 
-[me: {Well I don't know what the point of this is, what commentary is it trying to make?}]
+dialog [me: {All right, explain why you look like me and why you're attacking.  Who are you?}]
 
-{Silently the attacker just turned his entire head into a large mouth that seemed to come at me and try to bite me.  I just held my hands out and stared it down.  It seemed like my thumbs were being chewed on...but as I pushed no mouth consumed me.}
+print {The attacker didn't answer, he just seemed to keep morphing his form in small ways...and continued to attack.}
 
-{Pushing against the mouth seemed to be like pushing against a laptop screen.  As I pushed the mouth gnashed at me but I could see it just as a video of a mouth, and it seemed to have some overlaid text (like the little watermarks that TV stations put on videos) that said "Toto for a Tooth"}
+dialog [me: {Well I don't know what the point of this is, what commentary is it trying to make?}]
 
-{As the fight dissolved, experience seemed less and less 3-dimensional...and the mouth seemed to decohere into a grid of frames or layers of the mouth image.}
+print << [
+
+    {Silently the attacker just turned his entire head into a large mouth that seemed to come at me and try to bite me.  I just held my hands out and stared it down.  It seemed like my thumbs were being chewed on...but as I pushed no mouth consumed me.}
+
+    {Pushing against the mouth seemed to be like pushing against a laptop screen.  As I pushed the mouth gnashed at me but I could see it just as a video of a mouth, and it seemed to have some overlaid text (like the little watermarks that TV stations put on videos) that said "Toto for a Tooth"}
+
+    {As the fight dissolved, experience seemed less and less 3-dimensional...and the mouth seemed to decohere into a grid of frames or layers of the mouth image.}
+
+]

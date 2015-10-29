@@ -5,110 +5,146 @@ Draem [
     tags: [lucid-dream positive god sexual depeche-mode dogs]
 ]
 
-{I was riding in a car with someone through a winter landscape, and a Depeche Mode song I didn't know came on the radio.}
+print {I was riding in a car with someone through a winter landscape, and a Depeche Mode song I didn't know came on the radio.}
 
-[driver: {I suppose this is playing because you're here.  Do you really think it's necessary to play this music everywhere in the Universe?}]
+dialog [
 
-[me: {Well I think it would be a sadder universe if there were no Depeche Mode.  Might as well make sure.}]
+    driver: {I suppose this is playing because you're here.  Do you really think it's necessary to play this music everywhere in the Universe?}
 
-{Our car got onto an onramp, where there was a lot of traffic.  Apparently there had been a rather large car accident on an icy bridge.}
+    me: {Well I think it would be a sadder universe if there were no Depeche Mode.  Might as well make sure.}
 
-[me: {You might want to try driving slowly.  Looks like the whole road is made out of solid ice.}]
+]
 
-{When the accident cleared, we drove forward past that bridge, and quickly toward another one.  When we crossed it, the car careened clear off into the air and went flying way up into the air.  We were aloft like a plane taking off, and started to descend rapidly toward a grove of trees.}
+print {Our car got onto an onramp, where there was a lot of traffic.  Apparently there had been a rather large car accident on an icy bridge.}
 
-[me: {AAAAaaaaaaauuuuu... uhmmm.  You know, ordinarily I'd say we wouldn't have much of a chance of surviving this crash.  But given that the takeoff we just had is impossible, and this is a dream, I guess our chances may be pretty good if we just stay calm.}]
+dialog [me: {You might want to try driving slowly.  Looks like the whole road is made out of solid ice.}]
 
-{The car bounced off of the trees and back into the air, and then started descending down toward a lake of icy water.}
+print {When the accident cleared, we drove forward past that bridge, and quickly toward another one.  When we crossed it, the car careened clear off into the air and went flying way up into the air.  We were aloft like a plane taking off, and started to descend rapidly toward a grove of trees.}
 
-[me: {Okay, being plunged from the air down deep into an icy lake, that sounds kind of lame but I'm sure if we just keep it under contrAAAAAAAARRRGGHHHH!}]
+dialog [me: {AAAAaaaaaaauuuuu... uhmmm.  You know, ordinarily I'd say we wouldn't have much of a chance of surviving this crash.  But given that the takeoff we just had is impossible, and this is a dream, I guess our chances may be pretty good if we just stay calm.}]
 
-{Impacting the water and plunging down underneath it created a shock that I tried to keep calm about but had a hard time, and I sort of lost visuals for a bit.  I managed to regain them and was swimming in relatively warm water in a summery environment.  There were several wooden decks built out onto the water that people were sitting on.}
+print {The car bounced off of the trees and back into the air, and then started descending down toward a lake of icy water.}
 
-{I swam to one of the decks but somehow my arms couldn't pull me onto it.  While people watched, I kind of slithered out of the water in an extremely undignified fashion.}
+dialog [me: {Okay, being plunged from the air down deep into an icy lake, that sounds kind of lame but I'm sure if we just keep it under contrAAAAAAAARRRGGHHHH!}]
 
-[me: <to group> "I guess I don't have a lot of upper body strength."]
+print << [
 
-[deck-guy: "Why don't you work out, and pump some iron?"]
+    {Impacting the water and plunging down underneath it created a shock that I tried to keep calm about but had a hard time, and I sort of lost visuals for a bit.  I managed to regain them and was swimming in relatively warm water in a summery environment.  There were several wooden decks built out onto the water that people were sitting on.}
 
-[me: {I wouldn't mind having more strength, all things being equal.  But I find that sort of exercise to be quite repetitive and boring.  And I wouldn't do it to the point of purposeful bodybuilding, as I don't think the bulgy muscle look is very attractive.}]
+    {I swam to one of the decks but somehow my arms couldn't pull me onto it.  While people watched, I kind of slithered out of the water in an extremely undignified fashion.}
 
-{A somewhat stocky looking blond girl came over toward me, took off her shirt, and flexed.  She had large, unusually faceted arms that seemed to be a bit bruised.}
+]
 
-[muscle-girl: "So you don't like that?  I think it looks good."]
+dialog [
 
-[me: {Well it's just a matter of taste, I'm sure someone would go for that.}]
+    me: <to group> "I guess I don't have a lot of upper body strength."
 
-[deck-guy: "I would!"]
+    deck-guy: "Why don't you work out, and pump some iron?"
 
-{There was some song I could hear playing about the Prince of the Sea, who had built a castle in the ocean.  Wandering onto the land I somehow got caught onto something that looked like nothing more than a square board about 3 feet on a side.  It flew me up into the air and seemed to be going on an odd course out over the water.}
+    me: {I wouldn't mind having more strength, all things being equal.  But I find that sort of exercise to be quite repetitive and boring.  And I wouldn't do it to the point of purposeful bodybuilding, as I don't think the bulgy muscle look is very attractive.}
 
-[me: <nervously> {Um... hey board... can you take me somewhere.  What about this Prince of the Sea castle?}]
+]
 
-{The board didn't say anything, but it changed course and lofted us speedily into the air toward an island area in the distance.  As we approached it, the board seemed to cling very closely to the interior of a wall at the edge of the island, as if it were trying to evade notice.}
+print {A somewhat stocky looking blond girl came over toward me, took off her shirt, and flexed.  She had large, unusually faceted arms that seemed to be a bit bruised.}
 
-[me: "So is this Prince of the Sea dangerous?"]
+dialog [
 
-{This time the board replied, though it had no obvious mouth.}
+    muscle-girl: "So you don't like that?  I think it looks good."
 
-[board: {Yes, very dangerous.  And he has been looking for you, specifically.}]
+    me: {Well it's just a matter of taste, I'm sure someone would go for that.}
 
-[me: {Well don't worry about me, just put me down on some solid ground somewhere.}]
+    deck-guy: "I would!"
 
-{At first the board set me down somewhere kind of marshy.  But before I could get my bearings, it picked me back up again and whisked me in between the leaves of a giant plant that were folded up against the edge wall.  It tucked me in and hauled off into the sky.}
+]
 
-{I could hear see the shadow of someone with a threatening voice.  It was as if some kind of creepy cartoon fingers were trying to reach at the boundary of the plant to get at me.  The plant seemed to be offering protection to some extent.}
+print {There was some song I could hear playing about the Prince of the Sea, who had built a castle in the ocean.  Wandering onto the land I somehow got caught onto something that looked like nothing more than a square board about 3 feet on a side.  It flew me up into the air and seemed to be going on an odd course out over the water.}
 
-[voice: "I can tell it's you, I can smell you..."]
+dialog [me: <nervously> {Um... hey board... can you take me somewhere.  What about this Prince of the Sea castle?}]
 
-{At this point, somehow, the face of the wall I was pushed up against became a screen.  It began to play an old-style black and white comic.  Not quite "Steamboat Willy" old, but still closer to that sort of era than what modern cartoons look like.  A narrator began to talk.}
+print {The board didn't say anything, but it changed course and lofted us speedily into the air toward an island area in the distance.  As we approached it, the board seemed to cling very closely to the interior of a wall at the edge of the island, as if it were trying to evade notice.}
 
-[narrator: {Once there was a man, and when he was created there was also created a *sacred copy*.  They did not take the same form.}]
+dialog [me: "So is this Prince of the Sea dangerous?"]
 
-{The cartoon depicted a cartoon man and some small impish creature that looked a bit like some kind of cartoonified cross between a crab and a teddy bear.}
+print {This time the board replied, though it had no obvious mouth.}
 
-[narrator: {They were perfectly matched... and perfect for destroying each other.}]
+dialog [
 
-{In the cartoon the creature and the man seemed to be getting along watching TV or something, and then the creature would get up and knock something like a clock off a shelf onto the man's head.}
+    board: {Yes, very dangerous.  And he has been looking for you, specifically.}
 
-[narrator: {The man could not change form, but the sacred copy would.  In every form it came, it would eventually go wrong.}]
+    me: {Well don't worry about me, just put me down on some solid ground somewhere.}
 
-{The cartoon depicted the man being chased by a grotesque looking combination of a woman's body with a man's head.  The woman-body-with-man's-head was going after him with a rolling pin, yelling at him for finding some French girl (or girl in a French maid's outfit?) more attractive.}
+]
 
-{This show ended some way or another and the voice from outside spoke.}
+print << [
 
-[voice: <angrily> {It has been like this for as long as I can remember.  You have tortured my existence, and never showed your true form.  But I have found your hiding place.  And I can finally destroy you.  But let me look at you first.}]
+    {At first the board set me down somewhere kind of marshy.  But before I could get my bearings, it picked me back up again and whisked me in between the leaves of a giant plant that were folded up against the edge wall.  It tucked me in and hauled off into the sky.}
 
-{The plant protection opened up, revealing an attractive woman's body with a mirror for a head.  This lasted for a moment or two until the figure took off a sort of helmet with the mirror glued on the front of it.  This revealed an attractive Disney-esque feminine head to match the body.}
+    {I could hear see the shadow of someone with a threatening voice.  It was as if some kind of creepy cartoon fingers were trying to reach at the boundary of the plant to get at me.  The plant seemed to be offering protection to some extent.}
 
-[me: <nonchalant> {Kind of Disney, don't you think?  The look and the story, I mean.  Had me scared there for a bit, though.}]
+]
 
-{She pulled out a sword or weapon of some kind to show me she had it.}
+dialog [voice: "I can tell it's you, I can smell you..."]
 
-[girl: {Think you were scared?  I had no idea who was showing up, and then *sudden alert*.  It could have been anything.  I had no time to close shops or warn anyone.}]
+print {At this point, somehow, the face of the wall I was pushed up against became a screen.  It began to play an old-style black and white comic.  Not quite "Steamboat Willy" old, but still closer to that sort of era than what modern cartoons look like.  A narrator began to talk.}
 
-{Before we could talk about anything else, some odd people who looked a bit like playing cards from Alice in Wonderland bounded up to me.  She tried to get in their way to block them, but they pushed past.}
+dialog [narrator: {Once there was a man, and when he was created there was also created a *sacred copy*.  They did not take the same form.}]
 
-[cards: <to her> {No no no!  You're not who we're here to see!  We want to see him!}]
+print {The cartoon depicted a cartoon man and some small impish creature that looked a bit like some kind of cartoonified cross between a crab and a teddy bear.}
 
-"She kind of rolled her eyes and stepped back."
+dialog [narrator: {They were perfectly matched... and perfect for destroying each other.}]
 
-[card-one: <excitedly> {We hear you've been on Earth!  And you met Aunt Tapa!}]
+print {In the cartoon the creature and the man seemed to be getting along watching TV or something, and then the creature would get up and knock something like a clock off a shelf onto the man's head.}
 
-[note {Tapa is the name of one of the two dogs I dogsat for last Christmas.}]
+dialog [narrator: {The man could not change form, but the sacred copy would.  In every form it came, it would eventually go wrong.}]
 
-[me: <confused> {Um, Tapa?  You mean as in...Tapa and Pablo, the dogs?}]
+print << [
 
-[card-two: "Yes, yes!"]
+    {The cartoon depicted the man being chased by a grotesque looking combination of a woman's body with a man's head.  The woman-body-with-man's-head was going after him with a rolling pin, yelling at him for finding some French girl (or girl in a French maid's outfit?) more attractive.}
 
-[me: {So dogs have like, souls in the afterlife, and get into Heaven, or something?  Didn't know that.}]
+    {This show ended some way or another and the voice from outside spoke.}
 
-"The cards looked a bit cross."
+]
 
-[me: {I'm not saying I'm against that, or thinking that humans should be anything special.  I just mean that this is really making me feel it probably was a good idea evicting those spiders in cups and stuff.  But then, jeez... what about all the meat?  And are the souls of all the broccoli I ever ate come running in here next?}]
+dialog [voice: <angrily> {It has been like this for as long as I can remember.  You have tortured my existence, and never showed your true form.  But I have found your hiding place.  And I can finally destroy you.  But let me look at you first.}]
 
-[card-one: {No, no.  Dogs and humans are close, we're just closer so we see each other.  And it isn't simple about meat, God likes meat, just like dogs do.}]
+print {The plant protection opened up, revealing an attractive woman's body with a mirror for a head.  This lasted for a moment or two until the figure took off a sort of helmet with the mirror glued on the front of it.  This revealed an attractive Disney-esque feminine head to match the body.}
 
-[me: {So you're tight with God then?  How about the Devil, is he real?}]
+dialog [me: <nonchalant> {Kind of Disney, don't you think?  The look and the story, I mean.  Had me scared there for a bit, though.}]
 
-[card-two: {Yes, the Devil is real.  But unlike what some people think he cannot leave Hell.  Then it's like being inside a chain link fence...you might not be allowed to leave it, but you can still cast a shadow outside of it.}]
+print {She pulled out a sword or weapon of some kind to show me she had it.}
+
+dialog [girl: {Think you were scared?  I had no idea who was showing up, and then *sudden alert*.  It could have been anything.  I had no time to close shops or warn anyone.}]
+
+print {Before we could talk about anything else, some odd people who looked a bit like playing cards from Alice in Wonderland bounded up to me.  She tried to get in their way to block them, but they pushed past.}
+
+dialog [cards: <to her> {No no no!  You're not who we're here to see!  We want to see him!}]
+
+print "She kind of rolled her eyes and stepped back."
+
+dialog [card-one: <excitedly> {We hear you've been on Earth!  And you met Aunt Tapa!}]
+
+note {Tapa is the name of one of the two dogs I dogsat for last Christmas.}
+
+dialog [
+
+    me: <confused> {Um, Tapa?  You mean as in...Tapa and Pablo, the dogs?}
+
+    card-two: "Yes, yes!"
+
+    me: {So dogs have like, souls in the afterlife, and get into Heaven, or something?  Didn't know that.}
+
+]
+
+print "The cards looked a bit cross."
+
+dialog [
+
+    me: {I'm not saying I'm against that, or thinking that humans should be anything special.  I just mean that this is really making me feel it probably was a good idea evicting those spiders in cups and stuff.  But then, jeez... what about all the meat?  And are the souls of all the broccoli I ever ate come running in here next?}
+
+    card-one: {No, no.  Dogs and humans are close, we're just closer so we see each other.  And it isn't simple about meat, God likes meat, just like dogs do.}
+
+    me: {So you're tight with God then?  How about the Devil, is he real?}
+
+    card-two: {Yes, the Devil is real.  But unlike what some people think he cannot leave Hell.  Then it's like being inside a chain link fence...you might not be allowed to leave it, but you can still cast a shadow outside of it.}
+
+]

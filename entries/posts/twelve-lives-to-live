@@ -6,82 +6,106 @@ Draem [
     old: http://realityhandbook.livejournal.com/100610.html
 ]
 
-{There was a long segment of a lucid dream I couldn't remember, but it concluded with me talking with two men outdoors at an urban picnic table. One was tall and the other was short. There were a couple of small paintings on the table in a stack.}
+print {There was a long segment of a lucid dream I couldn't remember, but it concluded with me talking with two men outdoors at an urban picnic table. One was tall and the other was short. There were a couple of small paintings on the table in a stack.}
 
-[me: {That's interesting, but I really need you to focus on relating this world to the one I experience while awake? What's the connection?}]
+dialog [
 
-[short-man: {This is really a discussion we should be having at lunch.}]
+    me: {That's interesting, but I really need you to focus on relating this world to the one I experience while awake? What's the connection?}
 
-[me: {I probably won't be here at lunch, I'll probably only have another minute!}]
+    short-man: {This is really a discussion we should be having at lunch.}
 
-[tall-man: {What he meant to say is that it needs to be talked about at a table with lots of people, not just us and you.}]
+    me: {I probably won't be here at lunch, I'll probably only have another minute!}
 
-{We started walking into an indoor type of condominum.}
+    tall-man: {What he meant to say is that it needs to be talked about at a table with lots of people, not just us and you.}
 
-[tall-man: {A lot of people find out that decisions you thought were the wrong ones actually turned out to be right.}]
+]
 
-[me: "Well what is an example?"]
+print {We started walking into an indoor type of condominum.}
 
-[short-man: "An example of what?"]
+dialog [
 
-[me: {One of those situations. A story from someone's life about a decision you thought was wrong that actually turned out to be right?}]
+    tall-man: {A lot of people find out that decisions you thought were the wrong ones actually turned out to be right.}
 
-[short-man: "The women you date."]
+    me: "Well what is an example?"
 
-[me: "How does that matter?"]
+    short-man: "An example of what?"
 
-[tall-man: "Such choices matter a lot, it's about your center."]
+    me: {One of those situations. A story from someone's life about a decision you thought was wrong that actually turned out to be right?}
 
-[me: "Well, is there a hell?"]
+    short-man: "The women you date."
 
-[tall-man: "Oh certainly!"]
+    me: "How does that matter?"
 
-[me: "Why would that be necessary?"]
+    tall-man: "Such choices matter a lot, it's about your center."
 
-[tall-man: {It's not... well maybe not hell in the sense you are thinking. Perhaps you can think of it more as an aqualung.}]
+    me: "Well, is there a hell?"
 
-[note {Aqualung refers to scuba equipment, I'm not sure what he meant in this context.}]
+    tall-man: "Oh certainly!"
 
-{We had come into the company of others in a nice living room. They led me over to a window or screen on the wall, through which I could see dark swirling outsides. Everything was gray and misty, and I could see silhouetted witches on broomsticks flying by. We got into some kind of clear box, reminding me of the Great Glass Elevator from Charlie and the Chocolate Factory. It went flying out, erratically.}
+    me: "Why would that be necessary?"
 
-[picture %ele02.jpg]
+    tall-man: {It's not... well maybe not hell in the sense you are thinking. Perhaps you can think of it more as an aqualung.}
 
-[me: {Whoa! This is making me queasy, I'd prefer it if you didn't make it drop so fast.}]
+]
 
-[driver: <chuckling> "Yes that happens, always has."]
+note {Aqualung refers to scuba equipment, I'm not sure what he meant in this context.}
 
-[me: "Does it happen to you guys?"]
+print {We had come into the company of others in a nice living room. They led me over to a window or screen on the wall, through which I could see dark swirling outsides. Everything was gray and misty, and I could see silhouetted witches on broomsticks flying by. We got into some kind of clear box, reminding me of the Great Glass Elevator from Charlie and the Chocolate Factory. It went flying out, erratically.}
 
-[someone: "No, not at all."]
+picture %ele02.jpg
 
-[me: "Why not? Are you biological? Digital?"]
+dialog [
 
-{I noticed the rods that were coming together to form the corner I was huddling in looked like they were going to come apart.}
+    me: {Whoa! This is making me queasy, I'd prefer it if you didn't make it drop so fast.}
 
-[me: {The corner of this thing seems like it's going to break. And I'm going to have one hell of a fall if it does. How many times can one die?}]
+    driver: <chuckling> "Yes that happens, always has."
 
-[woman: {Twelve. And then you are taken to the care division for assessment. You can usually get renewed with your employer, if you die.}]
+    me: "Does it happen to you guys?"
 
-{Either they didn't understand my question or didn't answer it. At some point we landed and I was walking through hallways. A woman in blue with a clipboard walked into the room. The badge said she was with "care division".}
+    someone: "No, not at all."
 
-[blue: "I'm looking for a mirror."]
+    me: "Why not? Are you biological? Digital?"
 
-[me: "That...might be me?"]
+]
 
-{I started mimicing the reverse of things she did. She was amused for a moment and then walked off. Then I saw person had many signs on them, handwritten on paper. They were obese and a bit disheveled. The hat said "The Record Room" and others said things like "This woman is not a man".}
+print {I noticed the rods that were coming together to form the corner I was huddling in looked like they were going to come apart.}
 
-[me: "Excuse me, are you from the record room?"]
+dialog [
 
-[person: "What's that question for?"]
+    me: {The corner of this thing seems like it's going to break. And I'm going to have one hell of a fall if it does. How many times can one die?}
 
-[me: {Well, you might be illiterate and someone could have put a lot of signs on you that you can't read which say you're from the Record Room.}]
+    woman: {Twelve. And then you are taken to the care division for assessment. You can usually get renewed with your employer, if you die.}
 
-[person: "That's a good point."]
+]
 
-[me: {I'd like to see some records. Can you take me there?}]
+print {Either they didn't understand my question or didn't answer it. At some point we landed and I was walking through hallways. A woman in blue with a clipboard walked into the room. The badge said she was with "care division".}
 
-[person: {Get on that elevator and follow the man in the gray shirt, he'll take you there.}]
+dialog [
 
-[me: {Thank you. I will look, assuming I don't...y'know, pass out or fall down dead in the next 3 seconds.}]
+    blue: "I'm looking for a mirror."
 
-"I did."
+    me: "That...might be me?"
+
+]
+
+print {I started mimicing the reverse of things she did. She was amused for a moment and then walked off. Then I saw person had many signs on them, handwritten on paper. They were obese and a bit disheveled. The hat said "The Record Room" and others said things like "This woman is not a man".}
+
+dialog [
+
+    me: "Excuse me, are you from the record room?"
+
+    person: "What's that question for?"
+
+    me: {Well, you might be illiterate and someone could have put a lot of signs on you that you can't read which say you're from the Record Room.}
+
+    person: "That's a good point."
+
+    me: {I'd like to see some records. Can you take me there?}
+
+    person: {Get on that elevator and follow the man in the gray shirt, he'll take you there.}
+
+    me: {Thank you. I will look, assuming I don't...y'know, pass out or fall down dead in the next 3 seconds.}
+
+]
+
+print "I did."

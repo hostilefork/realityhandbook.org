@@ -5,84 +5,116 @@ Draem [
     tags: [lucid-dream positive helpful technology dogs]
 ]
 
-{At some phase in a longer wandering dream I stopped and saw a small white dog that looked sort of poodle-like against a wall.  He seemed uncomfortable.  For some reason, I decided that he was related to my (now deceased) West Highland Terrier, even though he didn't look particularly like him beyond being white.}
+print {At some phase in a longer wandering dream I stopped and saw a small white dog that looked sort of poodle-like against a wall.  He seemed uncomfortable.  For some reason, I decided that he was related to my (now deceased) West Highland Terrier, even though he didn't look particularly like him beyond being white.}
 
-[me: "So, I have trouble with dogs in dreams a lot.  But here, let me pet you."]
+dialog [me: {So, I have trouble with dogs in dreams a lot.  But here, let me pet you.}]
 
-{The dog bristled and contorted, baring some sort of bizarre pointy teeth.  It may or may not have bit me...but I steeled myself trying to focus and turn the interaction positive.  I stuck with it and eventually got the dog to lay down to be pet.}
+print {The dog bristled and contorted, baring some sort of bizarre pointy teeth.  It may or may not have bit me...but I steeled myself trying to focus and turn the interaction positive.  I stuck with it and eventually got the dog to lay down to be pet.}
 
-[me: "Now, what you used to have...it was longer straighter fur..."]
+dialog [me: {Now, what you used to have...it was longer straighter fur...}]
 
-{As I pet the dog and recalled what mine had looked like, he morphed to look more and more like him.  He was rolled on his side.}
+print {As I pet the dog and recalled what mine had looked like, he morphed to look more and more like him.  He was rolled on his side.}
 
-[me: "And you liked being dried and combed after a bath.  Let's see what I can do, here."]
+dialog [me: {And you liked being dried and combed after a bath.  Let's see what I can do, here.}]
 
-{Emboldened by the success of drawing the dog form from memory, I conjured the small red travel blowdryer that I'd used to dry him.  I swept the airstream across the length of his body, causing the straight fur to sway as one would expect.}
+print << [
 
-{Moving the dryer from my right hand to my left...I tried a conjuring trick of physical memory that has worked before.  That's to rub my fingers together until the memory of the wood-handled metal flea comb appeared.  I kept talking as I re-enacted the drying and combing.}
+    {Emboldened by the success of drawing the dog form from memory, I conjured the small red travel blowdryer that I'd used to dry him.  I swept the airstream across the length of his body, causing the straight fur to sway as one would expect.}
 
-[me: "...the skin on your belly wasn't pink, more gray...and there was fur..."]
+    {Moving the dryer from my right hand to my left...I tried a conjuring trick of physical memory that has worked before.  That's to rub my fingers together until the memory of the wood-handled metal flea comb appeared.  I kept talking as I re-enacted the drying and combing.}
 
-{The transformations continued until I decided I was done with that.  I'm not sure it was the dog that morphed or someone/something else in the room that did a transformation into an attractive woman with long black hair and very red lips.  She was reclining on a long and low lounge chair.}
+]
 
-{The woman pulled me close and gave me a very normal-feeling kiss.  I sat down next to her on the floor.}
+dialog [me: {...the skin on your belly wasn't pink, more gray...and there was fur...}]
 
-[me: "See, this is cool.  This is using your mind to sculpt things, getting feedback.  None of the primitive stuff I'm forced to work with.  I think I could be happy somewhere like this, with just a few people who shared my sense of fun."]
+print << [
 
-[woman: "You'll be here soon enough."]
+    {The transformations continued until I decided I was done with that.  I'm not sure it was the dog that morphed or someone/something else in the room that did a transformation into an attractive woman with long black hair and very red lips.  She was reclining on a long and low lounge chair.}
 
-{The woman got up and morphed into having shorter, lighter hair, walking to a kitchen on the other side of the room.  She began to tinker with something on the stove.}
+    {The woman pulled me close and gave me a very normal-feeling kiss.  I sat down next to her on the floor.}
 
-[me: "But I'm here now.  Isn't there a way I can stay?"]
+]
 
-{A man standing nearby laughed.}
+dialog [
 
-[man: "We've got all kinds of drugs if you want them.  Perhaps you should try some IVN-387."]
+    me: {See, this is cool.  This is using your mind to sculpt things, getting feedback.  None of the primitive stuff I'm forced to work with.  I think I could be happy somewhere like this, with just a few people who shared my sense of fun.}
 
-[note {I don't remember exactly the name, but it was some letters and numbers.}]
+    woman: "You'll be here soon enough."
 
-{He went over to a bookshelf and pulled out some object, I didn't know if it was a container or what.}
+]
 
-[me: "What is it?"]
+print {The woman got up and morphed into having shorter, lighter hair, walking to a kitchen on the other side of the room.  She began to tinker with something on the stove.}
 
-[man: "I'm just kidding.  You don't want this stuff."]
+dialog [me: "But I'm here now.  Isn't there a way I can stay?"]
 
-[me: "Why not?  What does it do?"]
+print "A man standing nearby laughed."
 
-[man: "I think of it as a poison, or maybe a pure venom."]
+dialog [man: {We've got all kinds of drugs if you want them.  Perhaps you should try some IVN-387.}]
 
-{I noticed there were some iPad like devices around in the room with emails.  The people were shifting a bit, but there were several of them milling around the kitchen.}
+note {I don't remember exactly the name, but it was some letters and numbers.}
 
-[second-man: {I've implanted viewing of all the movies from Earth, and you know what I think?}]
+print {He went over to a bookshelf and pulled out some object, I didn't know if it was a container or what.}
 
-{He began to sing what I perceived to be lyrics from Monty Python's "Always look on the Bright Side of Life".}
+dialog [
 
-[me: {Yes, that's Monty Python... "Always Look on the Bright Side of Life".  I've seen it.}]
+    me: "What is it?"
 
-[second-man: <confused> {Really?}]
+    man: "I'm just kidding.  You don't want this stuff."
 
-[note {I do not know if it actually was that song, but it was thematically upbeat and along those lines.  Essentially however bad things might get, you should look at the good parts.}]
+    me: "Why not?  What does it do?"
 
-{I tried to keep up with the motions of people around the kitchen, and came back to the woman who was messing with some things on the counter.}
+    man: "I think of it as a poison, or maybe a pure venom."
 
-[me: {If you have been to Earth, who were you?}]
+]
 
-[woman: <pausing to think> "I was... I was a pushy boy."]
+print {I noticed there were some iPad like devices around in the room with emails.  The people were shifting a bit, but there were several of them milling around the kitchen.}
 
-{I noticed a figure that looked like my grandfather the surgeon, with black glasses and standing in the middle of the room.}
+dialog [second-man: {I've implanted viewing of all the movies from Earth, and you know what I think?}]
 
-[grandfather: {Brian!  Do not throw your lot in with these people!}]
+print {He began to sing what I perceived to be lyrics from Monty Python's "Always look on the Bright Side of Life".}
 
-[me: {Hello?  What?}]
+dialog [
 
-{Focusing on his face I could see it composed out of seeming pieces of plastic, the glasses built into the face and not being worn on top of it.}
+    me: {Yes, that's Monty Python... "Always Look on the Bright Side of Life".  I've seen it.}
 
-[grandfather: {These 'cool tricks' you are mesmerised by are outlandishly abstracted.  The people in this environment are relying on systems that push amounts of data around that are so gargantuan *it could conceal or contain anything*.  It's layer on top of brittle layer--the very chaotic outcome you are highly attuned to and preach against.}]
+    second-man: <confused> "Really?"
 
-{No one else seemed to be able to see him but me.  He seemingly transferred from standing into the room onto a magnet on the refrigerator.}
+]
 
-[me: {Am... I the only one here who can see you?  Do you have anything to do with my grandfather, because that's who you sort of look to be simulating.}]
+note {I do not know if it actually was that song, but it was thematically upbeat and along those lines.  Essentially however bad things might get, you should look at the good parts.}
 
-[grandfather: <ignoring my question> {Beware this!  It is the chaotic endpoint of the backwards technological methodologies of the Earth you know, and a dead end.  If you think you are having trouble now, becoming one of them will create an archaeological nightmare that will just dig you deeper... deeper... Deeper... DEEPER... DEEPER...}]
+print {I tried to keep up with the motions of people around the kitchen, and came back to the woman who was messing with some things on the counter.}
 
-{As deeper was repeated, it became louder and more resonant.  It created a din of noise that made me vibrate and it was difficult to stay in the environment.  Then I awoke.}
+dialog [
+
+    me: "If you have been to Earth, who were you?"
+
+    woman: <pausing to think> "I was... I was a pushy boy."
+
+]
+
+print {I noticed a figure that looked like my grandfather the surgeon, with black glasses and standing in the middle of the room.}
+
+dialog [
+
+    grandfather: {Brian!  Do not throw your lot in with these people!}
+
+    me: "Hello?  What?"
+
+]
+
+print {Focusing on his face I could see it composed out of seeming pieces of plastic, the glasses built into the face and not being worn on top of it.}
+
+dialog [grandfather: {These 'cool tricks' you are mesmerised by are outlandishly abstracted.  The people in this environment are relying on systems that push amounts of data around that are so gargantuan *it could conceal or contain anything*.  It's layer on top of brittle layer--the very chaotic outcome you are highly attuned to and preach against.}]
+
+print {No one else seemed to be able to see him but me.  He seemingly transferred from standing into the room onto a magnet on the refrigerator.}
+
+dialog [
+
+    me: {Am... I the only one here who can see you?  Do you have anything to do with my grandfather, because that's who you sort of look to be simulating.}
+
+    grandfather: <ignoring my question> {Beware this!  It is the chaotic endpoint of the backwards technological methodologies of the Earth you know, and a dead end.  If you think you are having trouble now, becoming one of them will create an archaeological nightmare that will just dig you deeper... deeper... Deeper... DEEPER... DEEPER...}
+
+]
+
+print {As deeper was repeated, it became louder and more resonant.  It created a din of noise that made me vibrate and it was difficult to stay in the environment.  Then I awoke.}

@@ -6,60 +6,80 @@ Draem [
     old: http://realityhandbook.livejournal.com/20018.html
 ]
 
-{I was hanging out with--of all people, [Kids in the Hall](http://en.wikipedia.org/wiki/Kids_in_the_Hall) members Dave Foley and Kevin MacDonald. They were doing some kind of comedy sketch about a guy caught in a Catch-22.}
+print << [
 
-{The plot of the sketch was that a man had moved out of his fancy apartment because he had been fired from a job and could no longer afford it. Then he was discriminated against in an interview at Disney because he lived in a lousy neighborhood. When he told this story to a friend, that friend realized that his employment possibilities had also been limited by his address.}
+    {I was hanging out with--of all people, [Kids in the Hall](http://en.wikipedia.org/wiki/Kids_in_the_Hall) members Dave Foley and Kevin MacDonald. They were doing some kind of comedy sketch about a guy caught in a Catch-22.}
 
-[me: {This skit isn't funny at all. Which one of you came up with this?}]
+    {The plot of the sketch was that a man had moved out of his fancy apartment because he had been fired from a job and could no longer afford it. Then he was discriminated against in an interview at Disney because he lived in a lousy neighborhood. When he told this story to a friend, that friend realized that his employment possibilities had also been limited by his address.}
 
-{I picked up a random piece of paper off the desk as if it were a script.}
+]
 
-[me: <mockingly> {Hmmm, oh, that's a good question. Which one of us wrote this...which one... oh, wait, it wasn't any of us. I guess, uh, it just showed up!}]
+dialog [me: {This skit isn't funny at all. Which one of you came up with this?}]
 
-[note {I was kind of re-enacting ["No one at ad agency remembers hiring Carrot Top for commercial"](http://www.theonion.com/content/node/31225), from The Onion}]
+print {I picked up a random piece of paper off the desk as if it were a script.}
 
-{Dave and Kevin stopped their rehearsal. They stopped and were holding what appeared to be club flyers held together with chewing gum, which was the real script.}
+dialog [me: <mockingly> {Hmmm, oh, that's a good question. Which one of us wrote this...which one... oh, wait, it wasn't any of us. I guess, uh, it just showed up!}]
 
-[kevin-macdonald: "This is a good story."]
+note {I was kind of re-enacting ["No one at ad agency remembers hiring Carrot Top for commercial"](http://www.theonion.com/content/node/31225), from The Onion}
 
-[dave-foley: "How long did you time it out as?"]
+print {Dave and Kevin stopped their rehearsal. They stopped and were holding what appeared to be club flyers held together with chewing gum, which was the real script.}
 
-[kevin-macdonald: "It's 20 minutes long."]
+dialog [
 
-"I swiped the script."
+    kevin-macdonald: "This is a good story."
 
-[me: {You'd better hope no one sees you're writing your scripts on club flyers, or they'll think you're preparing to be downsized and cancel your show.}]
+    dave-foley: "How long did you time it out as?"
 
-[dave-foley: {We've got plenty of bookings. In fact, we just performed last night at the Henry Fonda Theater.}]
+    kevin-macdonald: "It's 20 minutes long."
 
-[me: "The Harry Fonda Theater?"]
+]
 
-[kevin-macdonald: {No, the HENRY Fonda Theater. Guy is the contact point.}]
+print "I swiped the script."
 
-[note {I couldn't tell if they were telling me this because I should talk to "Guy", or if they were talking to each other.}]
+dialog [
 
-[me: {Last night, let's see, um...today is Saturday so that would have been Friday. The, uh, 20 somethingth.}]
+    me: {You'd better hope no one sees you're writing your scripts on club flyers, or they'll think you're preparing to be downsized and cancel your show.}
 
-[note {Interestingly, upon awakening, I was wrong. It was Sunday night I was sleeping, not Saturday. Saturday, what would have been the real "yesterday", at the Henry Fonda Theater, was neither music...nor kids in the hall...but a [Northern Israel Fundraiser Party](http://www.henryfondatheater.com/calendar.htm). It sort of stands out on the calendar as a religious event, since every other day is music.}]
+    dave-foley: {We've got plenty of bookings. In fact, we just performed last night at the Henry Fonda Theater.}
 
-[me: {What I'm doing is difficult. You should be impressed, though the accuracy of what I'm saying should be questioned.}]
+    me: "The Harry Fonda Theater?"
 
-"I looked Dave straight in the eye."
+    kevin-macdonald: {No, the HENRY Fonda Theater. Guy is the contact point.}
 
-[me: <exaggeratedly> "I'm. Asleep. Y'know."]
+]
 
-{Dave Foley's face was now very strange, with black eyes and a hat, and deformed a bit like Freddy Krueger, though less scary. My staring proceeded.}
+note {I couldn't tell if they were telling me this because I should talk to "Guy", or if they were talking to each other.}
 
-[dave-foley: <equally exaggerated> {Yes. We. Know. In. Fact. We. Are. Not. Supposed. To. Talk. To. You.}]
+dialog [me: {Last night, let's see, um...today is Saturday so that would have been Friday. The, uh, 20 somethingth.}]
 
-[me: "Why not?"]
+note {Interestingly, upon awakening, I was wrong. It was Sunday night I was sleeping, not Saturday. Saturday, what would have been the real "yesterday", at the Henry Fonda Theater, was neither music...nor kids in the hall...but a [Northern Israel Fundraiser Party](http://www.henryfondatheater.com/calendar.htm). It sort of stands out on the calendar as a religious event, since every other day is music.}
 
-[dave-foley: {Firstly, because of the fact that you all are drugged and basically unaware of the forces of evil--it's considered a bad idea. Secondly, there are certain biases which exist in the community.}]
+dialog [me: {What I'm doing is difficult. You should be impressed, though the accuracy of what I'm saying should be questioned.}]
 
-"He lowered his voice and whispered."
+print "I looked Dave straight in the eye."
 
-[dave-foley: {...and there actually are some lawsuits going on right now.}]
+dialog [me: <exaggeratedly> "I'm. Asleep. Y'know."]
 
-[me: {That's all fine and well, but I'm gonna wake up here and..}]
+print {Dave Foley's face was now very strange, with black eyes and a hat, and deformed a bit like Freddy Krueger, though less scary. My staring proceeded.}
 
-"Then I woke up."
+dialog [
+
+    dave-foley: <equally exaggerated> {Yes. We. Know. In. Fact. We. Are. Not. Supposed. To. Talk. To. You.}
+
+    me: "Why not?"
+
+    dave-foley: {Firstly, because of the fact that you all are drugged and basically unaware of the forces of evil--it's considered a bad idea. Secondly, there are certain biases which exist in the community.}
+
+]
+
+print "He lowered his voice and whispered."
+
+dialog [
+
+    dave-foley: {...and there actually are some lawsuits going on right now.}
+
+    me: {That's all fine and well, but I'm gonna wake up here and..}
+
+]
+
+print "Then I woke up."

@@ -6,22 +6,34 @@ Draem [
     old: http://realityhandbook.livejournal.com/71610.html
 ]
 
-{I ran into some people who were were doing what looked like construction paper activities kids would make in Kindergarten. However, they were trying to exchange astronomy data and other things. I helped identify and sort the papers, one was an arrangement of the planets around the sun.}
+print {I ran into some people who were were doing what looked like construction paper activities kids would make in Kindergarten. However, they were trying to exchange astronomy data and other things. I helped identify and sort the papers, one was an arrangement of the planets around the sun.}
 
-[me: {These look right... Mercury, Venus, Earth... Earth is the planet I'm on. Then it's Mars and Jupiter is the big one. But wait, there are too many planets here.}]
+dialog [
 
-[someone: "This diagram includes Ganymede and moons."]
+    me: {These look right... Mercury, Venus, Earth... Earth is the planet I'm on. Then it's Mars and Jupiter is the big one. But wait, there are too many planets here.}
 
-[note {I'm not very educated about names of moons, and while awake if you had asked me to name any, the only one I could have come up with was IO. So I was a bit surprised to look up and find that [Ganymede](http://en.wikipedia.org/wiki/Ganymede_(moon)) was actually the name of a moon.}]
+    someone: "This diagram includes Ganymede and moons."
 
-{On another page were some Star Trek symbols of the starfleet logo and an outline of the enterprise.}
+]
 
-[someone: "Can you identify these symbols?"]
+note {I'm not very educated about names of moons, and while awake if you had asked me to name any, the only one I could have come up with was IO. So I was a bit surprised to look up and find that [Ganymede](http://en.wikipedia.org/wiki/Ganymede_(moon)) was actually the name of a moon.}
 
-[me: {Those are from a fictional TV show called Star Trek.}]
+print {On another page were some Star Trek symbols of the starfleet logo and an outline of the enterprise.}
 
-{I noticed someone who looked and dressed like Spock watering a plant, and I held the paper in front of him.}
+dialog [
 
-[me: <sarcastically> "I don't suppose YOU remember these?"]
+    someone: "Can you identify these symbols?"
 
-[spock: <blank look> "My memory has been erased."]
+    me: {Those are from a fictional TV show called Star Trek.}
+
+]
+
+print {I noticed someone who looked and dressed like Spock watering a plant, and I held the paper in front of him.}
+
+dialog [
+
+    me: <sarcastically> "I don't suppose YOU remember these?"
+
+    spock: <blank look> "My memory has been erased."
+
+]

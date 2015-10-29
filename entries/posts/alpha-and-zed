@@ -6,70 +6,102 @@ Draem [
     old: http://realityhandbook.livejournal.com/142511.html
 ]
 
-{I was in an office in a skyscraper where the software company I worked at was located. However, I was watching the experience of being there in time-lapse... like I was sort of seeing a few moments of a few specific days.}
+print << [
 
-{One moment was the moment of being hired, and another was a day where people had sort of invaded the office wearing costumes and making a ruckus. When people asked them what the occasion was they said "It's costume day!"}
+    {I was in an office in a skyscraper where the software company I worked at was located. However, I was watching the experience of being there in time-lapse... like I was sort of seeing a few moments of a few specific days.}
 
-[note {It seemed like this group was some kind of [flash mob](http://en.wikipedia.org/wiki/Flash_mob) that was doing ridiculous things just for the sake of being ridiculous.}]
+    {One moment was the moment of being hired, and another was a day where people had sort of invaded the office wearing costumes and making a ruckus. When people asked them what the occasion was they said "It's costume day!"}
 
-{Another scene I saw was where some guy and I were leaning against the window and looking down below. We were watching a group of people who were staging some kind of "trees fight back!" protest. They had sophisticated robot trees that they could walk around.}
+]
 
-[me: <shaking head> {Where are those clowns getting the money to buy that stuff?}]
+note {It seemed like this group was some kind of [flash mob](http://en.wikipedia.org/wiki/Flash_mob) that was doing ridiculous things just for the sake of being ridiculous.}
 
-[man: "Hmph. Where do you *think*?"]
+print {Another scene I saw was where some guy and I were leaning against the window and looking down below. We were watching a group of people who were staging some kind of "trees fight back!" protest. They had sophisticated robot trees that they could walk around.}
 
-[note {He seemed to be suggesting that these people were funded by a competing software company, and were doing this to cause chaos and panic in the neighborhood where we were located.}]
+dialog [
 
-{After wandering around a bit, I stopped to speak to a couple of pretty girls in the office.}
+    me: <shaking head> {Where are those clowns getting the money to buy that stuff?}
 
-[me: {I... have something to tell you. I'm not actually from *here*, I'm from another dimension.}]
+    man: "Hmph. Where do you *think*?"
 
-[girl: "That's ridiculous, that's not true."]
+]
 
-{She came up very close to me and I tried to warn her away, (as collisions during the lucid part of dreams can often have disastrous results.)}
+note {He seemed to be suggesting that these people were funded by a competing software company, and were doing this to cause chaos and panic in the neighborhood where we were located.}
 
-[me: {You can't touch me, don't get too close, it could be dangerous.}]
+print {After wandering around a bit, I stopped to speak to a couple of pretty girls in the office.}
 
-[girl: "I can get as close to you as I want!"]
+dialog [
 
-{She came close to me, and we kissed. Then her mouth began to pucker a bit like it had been made out of stitches, and she backed off. Other people in the room ran away.}
+    me: {I... have something to tell you. I'm not actually from *here*, I'm from another dimension.}
 
-[me: {Don't panic. There's good news in all this...you're not going to die.}]
+    girl: "That's ridiculous, that's not true."
 
-[her: "Oh my god. Get away from me!"]
+]
 
-{She began to twist and contort like she was going to internally combust. But I could sense there was something odd. It was like she was peforming a very exaggerated death... rehearsed and fake.}
+print {She came up very close to me and I tried to warn her away, (as collisions during the lucid part of dreams can often have disastrous results.)}
 
-[me: <laughing a bit> {Where'd you take acting lessons? No, you've got to flail your arms... grab at your throat. People gotta *believe* this.}]
+dialog [
 
-{She smiled and reacted, changing her death-dance a little bit and putting the back of her hand against her forehead with a woeful look, and she fell into a pile of blood and guts.}
+    me: {You can't touch me, don't get too close, it could be dangerous.}
 
-{My point-of-view changed to a news article about her death and the "B34" virus, which was affecting people in something called "B32". Then my perspective changed to a museum which was studied human remains and the various levels of authenticity that were found. It seemed to be focusing on movies, and tracking whether small children seemed to leave the same size pile of gore as larger characters.}
+    girl: "I can get as close to you as I want!"
 
-{I bounced back to the corporate building, where a man I recognized as my friend walked in. Several other people in suits with gear who looked a bit like Ghostbusters came in with him, and it looked like they might be using the equipment to take measurements and clean up.}
+]
 
-[picture %17757.jpg]
+print {She came close to me, and we kissed. Then her mouth began to pucker a bit like it had been made out of stitches, and she backed off. Other people in the room ran away.}
 
-[me: <sighing> {Thanks to this little incident I remember what I'm called in B32--it's B34. But what's my name in B34?}]
+dialog [
 
-[man: "D1. Which then goes to E2."]
+    me: {Don't panic. There's good news in all this...you're not going to die.}
 
-[me: {And E2 stands for... uhhh... oh... I guess I forget. Wild guess: elephant?}]
+    her: "Oh my god. Get away from me!"
 
-[man: {E2 maps to your two parents, Alpha and Zed. You don't have to remember any more here, because the structure of the building corresponds to your names. Not the top level, though, they built the roof deck as a standard welfare construction. That's why our agendas in getting out of here are going to diverge.}]
+]
 
-{I had the feeling that I should have access to a status screen to look at my health level, which I perceived was low. We descended a stairwell into a brightly-lit lobby. Another odd video-game type of feeling was that I had collected a particularly important weapon that I hadn't had the last time I'd been in that lobby, and I needed to hide it.}
+print {She began to twist and contort like she was going to internally combust. But I could sense there was something odd. It was like she was peforming a very exaggerated death... rehearsed and fake.}
 
-[me: "Is there anyplace here to get a health recharge?"]
+dialog [me: <laughing a bit> {Where'd you take acting lessons? No, you've got to flail your arms... grab at your throat. People gotta *believe* this.}]
 
-{He walked up the stairs to something that looked a bit like an ATM machine, and put in a credit card. He pushed a button and it ejected a pen-like device with a glass body and a white plastic tip; I recognized this as something used for injections. Repeatedly he'd tap the pen onto a place in the machine and a "ding" noise would be made. I understood this as spending a lot of money and that he was someone who didn't have to worry about that at all (for whatever reason).}
+print << [
 
-[man: {Oh no, it's one of the kind that overflow. Look, watch.}]
+    {She smiled and reacted, changing her death-dance a little bit and putting the back of her hand against her forehead with a woeful look, and she fell into a pile of blood and guts.}
 
-{Inside the glass body of the pen was a dial with markings, and as he tapped the pen a white dot moved around the edge of the dial. The last position the dot turned red, and that was when he wasn't supposed to tap it anymore.}
+    {My point-of-view changed to a news article about her death and the "B34" virus, which was affecting people in something called "B32". Then my perspective changed to a museum which was studied human remains and the various levels of authenticity that were found. It seemed to be focusing on movies, and tracking whether small children seemed to leave the same size pile of gore as larger characters.}
 
-[me: {If you try to leave with the recharge instead of using it here at the machine, what happens?}]
+    {I bounced back to the corporate building, where a man I recognized as my friend walked in. Several other people in suits with gear who looked a bit like Ghostbusters came in with him, and it looked like they might be using the equipment to take measurements and clean up.}
 
-[man: {Won't work--it triggers a guard to stop you on your way out of the building.}]
+]
 
-[me: {Are you sure? I mean--why did they build them to be detachable, instead of in the wall, like in Half-Life?}]
+picture %17757.jpg
+
+dialog [
+
+    me: <sighing> {Thanks to this little incident I remember what I'm called in B32--it's B34. But what's my name in B34?}
+
+    man: "D1. Which then goes to E2."
+
+    me: {And E2 stands for... uhhh... oh... I guess I forget. Wild guess: elephant?}
+
+    man: {E2 maps to your two parents, Alpha and Zed. You don't have to remember any more here, because the structure of the building corresponds to your names. Not the top level, though, they built the roof deck as a standard welfare construction. That's why our agendas in getting out of here are going to diverge.}
+
+]
+
+print {I had the feeling that I should have access to a status screen to look at my health level, which I perceived was low. We descended a stairwell into a brightly-lit lobby. Another odd video-game type of feeling was that I had collected a particularly important weapon that I hadn't had the last time I'd been in that lobby, and I needed to hide it.}
+
+dialog [me: "Is there anyplace here to get a health recharge?"]
+
+print {He walked up the stairs to something that looked a bit like an ATM machine, and put in a credit card. He pushed a button and it ejected a pen-like device with a glass body and a white plastic tip; I recognized this as something used for injections. Repeatedly he'd tap the pen onto a place in the machine and a "ding" noise would be made. I understood this as spending a lot of money and that he was someone who didn't have to worry about that at all (for whatever reason).}
+
+dialog [man: {Oh no, it's one of the kind that overflow. Look, watch.}]
+
+print {Inside the glass body of the pen was a dial with markings, and as he tapped the pen a white dot moved around the edge of the dial. The last position the dot turned red, and that was when he wasn't supposed to tap it anymore.}
+
+dialog [
+
+    me: {If you try to leave with the recharge instead of using it here at the machine, what happens?}
+
+    man: {Won't work--it triggers a guard to stop you on your way out of the building.}
+
+    me: {Are you sure? I mean--why did they build them to be detachable, instead of in the wall, like in Half-Life?}
+
+]

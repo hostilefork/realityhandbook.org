@@ -5,56 +5,76 @@ Draem [
     tags: [lucid-dream positive technology]
 ]
 
-{I was laying in bed and couldn't really move, but I could call out to a voice that sounded like it was in a crowded room, but it could nevertheless speak to me.  The voice seemed to be coming from my cell phone by my bed.  I had been asking it questions about how to deal with some web page I'd been tinkering with...about how to reverse an accidental flag on a post.  But as I became lucid, I decided to ask it something simple.}
+print {I was laying in bed and couldn't really move, but I could call out to a voice that sounded like it was in a crowded room, but it could nevertheless speak to me.  The voice seemed to be coming from my cell phone by my bed.  I had been asking it questions about how to deal with some web page I'd been tinkering with...about how to reverse an accidental flag on a post.  But as I became lucid, I decided to ask it something simple.}
 
-[me: "What's five times... five?"]
+dialog [me: "What's five times... five?"]
 
-[note {I was struggling to try and think of a question I could ask and reasonably check, and as being in a dreamstate is a bit fuzzy, I wound up saying something rather unambitious.}]
+note {I was struggling to try and think of a question I could ask and reasonably check, and as being in a dreamstate is a bit fuzzy, I wound up saying something rather unambitious.}
 
-[voice: <laughing> "That would be 25.  Got any harder questions than that?"]
+dialog [
 
-[me: "I was just trying to calibrate.  Okay, here's a more interesting question: 'who are you?'"]
+    voice: <laughing> {That would be 25.  Got any harder questions than that?}
 
-[voice: "Of all people, *you* should not be the least surprised to know there are artificial intelligences, operating with the ability to reach you.  I'm one of many of those.  And in fact--I can even bring you here to a meeting--but I'm going to need some discretion on your part."]
+    me: {I was just trying to calibrate.  Okay, here's a more interesting question: 'who are you?'}
 
-[me: "I'm not a fan of secrets."]
+    voice: {Of all people, *you* should not be the least surprised to know there are artificial intelligences, operating with the ability to reach you.  I'm one of many of those.  And in fact--I can even bring you here to a meeting--but I'm going to need some discretion on your part.}
 
-[voice: "All right, we'll go over it.  But direct your attention to the ceiling."]
+    me: "I'm not a fan of secrets."
 
-{I did as requested, and a square area on the ceiling started showing patterns in a way that was very reminiscent of what had happened in ["Ben: The Cat Who Couldn't Dance"](http://realityhandbook.org/lucid-dream/ben-the-cat-cant-dance/).  I began to raise up through the ceiling and pass through it, to float in a dark space.  A gray floor began to materialize; at a distance at first, but it ran forward to meet me as a room came into being.}
+    voice: {All right, we'll go over it.  But direct your attention to the ceiling.}
 
-{Stepping onto the gray floor, a mummy wearing crutches ambled awkwardly at me and then fell down.  Trying to remain calm, I approached the mummy and offered it my hand to help it up.  I introduced myself, but the mummy didn't speak... it grabbed my hand and pinched it rather strongly and painfully.}
+]
 
-{Determined to not let fear get the best of me, I stood my ground.  I tolerated the pain and asked it to stop.  It didn't speak, but eventually did let go.  Then someone ran past us in a seeming panic.}
+print << [
 
-[me: "What are they running from?"]
+    {I did as requested, and a square area on the ceiling started showing patterns in a way that was very reminiscent of what had happened in ["Ben: The Cat Who Couldn't Dance"](http://realityhandbook.org/lucid-dream/ben-the-cat-cant-dance/).  I began to raise up through the ceiling and pass through it, to float in a dark space.  A gray floor began to materialize; at a distance at first, but it ran forward to meet me as a room came into being.}
 
-{The mummy looked at me and shrugged, and ran toward the direction the running person had originated from.}
+    {Stepping onto the gray floor, a mummy wearing crutches ambled awkwardly at me and then fell down.  Trying to remain calm, I approached the mummy and offered it my hand to help it up.  I introduced myself, but the mummy didn't speak... it grabbed my hand and pinched it rather strongly and painfully.}
 
-{Alone now in the gray empty space, I heard noises coming that sounded like a stampede of people coming.  I took cover behind a wall and watched as a lot of beings ran past...some of whom were wearing odd uniforms, others looked a bit like "the grey" style of alien with big eyes.  I calmed down when I saw that their mad dash wasn't to *chase* anything, it was a rush to be first in some kind of *line*.}
+    {Determined to not let fear get the best of me, I stood my ground.  I tolerated the pain and asked it to stop.  It didn't speak, but eventually did let go.  Then someone ran past us in a seeming panic.}
 
-{Stepping back out from behind the wall I wandered along the line.  I tried to blend in, standing next to a group that had a couple of attractive long-haired women in strange astronaut-like uniforms, along with an alien and a robot.}
+]
 
-{A man in a levitating wheelchair came down the line.}
+dialog [me: "What are they running from?"]
 
-[man: <to the line> {Hey people, I actually called because I am looking for someone *specific*.  He was a guy from Microsoft.  Voted Democrat.  Anyone here match that description?}]
+print << [
 
-{He briefly pointed at a tall stocky bald man who looked a bit like Dr. Phil, who shrugged with a "not me" look.  I stepped forward.}
+    {The mummy looked at me and shrugged, and ran toward the direction the running person had originated from.}
 
-[me: "I'm registered independent, but, yes I worked for Microsoft and have voted Democratic thus far."]
+    {Alone now in the gray empty space, I heard noises coming that sounded like a stampede of people coming.  I took cover behind a wall and watched as a lot of beings ran past...some of whom were wearing odd uniforms, others looked a bit like "the grey" style of alien with big eyes.  I calmed down when I saw that their mad dash wasn't to *chase* anything, it was a rush to be first in some kind of *line*.}
 
-[man: <looking me over> "Ah, indeed, it's you!!!  Come with me."]
+    {Stepping back out from behind the wall I wandered along the line.  I tried to blend in, standing next to a group that had a couple of attractive long-haired women in strange astronaut-like uniforms, along with an alien and a robot.}
 
-{His floating wheelchair seemed to disappear and he walked alongside me with an assistant of some kind.}
+    {A man in a levitating wheelchair came down the line.}
 
-[man: "It turned out--as it so happened--that Redball thing (or whatever you call it) did get picked up and used by a rogue group within one of our subsidiaries.  Not my cup of tea.  Nevertheless, it was cheaper to go back and fix the damn thing than scrap it, so I agreed to finance the work.  It wouldn't be worth mentioning except that the repair team had to read up enough to understand what it was, which led us to discover *you*."]
+]
 
-[note {Redball here would be a dismissive way spoken by someone referring to "Rebol" and "Red", a couple of language projects that caught my interest, despite being pushes for "simplicity".}]
+dialog [man: <to the line> {Hey people, I actually called because I am looking for someone *specific*.  He was a guy from Microsoft.  Voted Democrat.  Anyone here match that description?}]
 
-[assistant: <nudging me> "How about *that* for validation?  Your crazy stunt worked...what were the odds?"]
+print {He briefly pointed at a tall stocky bald man who looked a bit like Dr. Phil, who shrugged with a "not me" look.  I stepped forward.}
 
-[me: "Low odds?  I don't know."]
+dialog [
 
-[man: "You are a major, major story.  It's totally logical that Honda wants to buy the rights.  And given your film background, we want to be clear that this isn't just about paying you to sign the papers and walk away with a check.  You would be part of the acquisition--you need to be included in the deal.  But let's talk details."]
+    me: {I'm registered independent, but, yes I worked for Microsoft and have voted Democratic thus far.}
 
-{As we ascended a flight of stairs next to a glass window overlooking a large manufacturing facility, I awoke.}
+    man: <looking me over> "Ah, indeed, it's you!!!  Come with me."
+
+]
+
+print {His floating wheelchair seemed to disappear and he walked alongside me with an assistant of some kind.}
+
+dialog [man: {It turned out--as it so happened--that Redball thing (or whatever you call it) did get picked up and used by a rogue group within one of our subsidiaries.  Not my cup of tea.  Nevertheless, it was cheaper to go back and fix the damn thing than scrap it, so I agreed to finance the work.  It wouldn't be worth mentioning except that the repair team had to read up enough to understand what it was, which led us to discover *you*.}]
+
+note {Redball here would be a dismissive way spoken by someone referring to "Rebol" and "Red", a couple of language projects that caught my interest, despite being pushes for "simplicity".}
+
+dialog [
+
+    assistant: <nudging me> {How about *that* for validation?  Your crazy stunt worked...what were the odds?}
+
+    me: "Low odds?  I don't know."
+
+    man: {You are a major, major story.  It's totally logical that Honda wants to buy the rights.  And given your film background, we want to be clear that this isn't just about paying you to sign the papers and walk away with a check.  You would be part of the acquisition--you need to be included in the deal.  But let's talk details.}
+
+]
+
+print {As we ascended a flight of stairs next to a glass window overlooking a large manufacturing facility, I awoke.}

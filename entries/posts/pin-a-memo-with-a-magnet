@@ -5,78 +5,98 @@ Draem [
     tags: [lucid-dream helpful neutral]
 ]
 
-{I was walking around what seemed like a college campus, and joined up with a tour group. There was some discussion of a ventilation system which had been made out of bombs. The tour guide unlatched a connection in the vents and let people look in it. I got the feeling I hadn't signed up for the tour, but I was trying to get my bearings. I introduced myself and looked into the vents.}
+print {I was walking around what seemed like a college campus, and joined up with a tour group. There was some discussion of a ventilation system which had been made out of bombs. The tour guide unlatched a connection in the vents and let people look in it. I got the feeling I hadn't signed up for the tour, but I was trying to get my bearings. I introduced myself and looked into the vents.}
 
-[me: {So these were installed...by a guy who made weapons? They were demilitarized first, right?}]
+dialog [me: {So these were installed...by a guy who made weapons? They were demilitarized first, right?}]
 
-"The guide looked at me, puzzled."
+print "The guide looked at me, puzzled."
 
-[me: "Well, I'd assume so."]
+dialog [me: "Well, I'd assume so."]
 
-{Our small group continued and seem to hook up with a larger group. As we walked I got in a discussion with a girl who had just learned about the idea of using magnets to hold notes. She was thinking up sing-song phrases for it, like "pin your memo with a magnet".}
+print {Our small group continued and seem to hook up with a larger group. As we walked I got in a discussion with a girl who had just learned about the idea of using magnets to hold notes. She was thinking up sing-song phrases for it, like "pin your memo with a magnet".}
 
-[me: <laughing> {Yes that might be the next big thing. I may just steal your idea. I'd change it subtly though, like... 'put a magnet on your message'}]
+dialog [
 
-[girl: <angry> "That's not as good!"]
+    me: <laughing> {Yes that might be the next big thing. I may just steal your idea. I'd change it subtly though, like... 'put a magnet on your message'}
 
-[me: {Maybe not, but it's close enough. Think of the 80/20 rule. And if I stole it outright you'd sue me.}]
+    girl: <angry> "That's not as good!"
 
-{Somehow I wandered onto what I thought was a staircase that turned out to be an incredibly steep ledge. I panicked and turned, but couldn't climb back up. Realizing I could sort-of hold on, I decided it would be better to call for help instead of lobbing myself back over the shaky rock. A man saw me and approached.}
+    me: {Maybe not, but it's close enough. Think of the 80/20 rule. And if I stole it outright you'd sue me.}
 
-[me: "Help!"]
+]
 
-[man: {You're in quite a situation, there. But right now I'm an uninvolved party. What happens if I come over and pull you up and it goes wrong, and you fall?}]
+print {Somehow I wandered onto what I thought was a staircase that turned out to be an incredibly steep ledge. I panicked and turned, but couldn't climb back up. Realizing I could sort-of hold on, I decided it would be better to call for help instead of lobbing myself back over the shaky rock. A man saw me and approached.}
 
-[me: "I'll absolve you of that responsibility."]
+dialog [
 
-[man: {Shouldn't you be more specific? If I don't have any responsibility, what's to stop me from just knocking you off?}]
+    me: "Help!"
 
-[me: <frustrated> {I absolve you of responsibility IF you pull me in the direction away from the ledge and it incidentally goes wrong?}]
+    man: {You're in quite a situation, there. But right now I'm an uninvolved party. What happens if I come over and pull you up and it goes wrong, and you fall?}
 
-[man: "Nah."]
+    me: "I'll absolve you of that responsibility."
 
-[me: "Oh, fuck you."]
+    man: {Shouldn't you be more specific? If I don't have any responsibility, what's to stop me from just knocking you off?}
 
-{I decided to just drop, which caused my consciousness to shift and I found myself in a conversation with a man who identified himself as Kerrek. We got on a tangent of whether that was taken from the Homestar Runner cartoon, but he said they'd taken it from the same place. He was strange looking, and he had a strange looking woman who was like a doll with him.}
+    me: <frustrated> {I absolve you of responsibility IF you pull me in the direction away from the ledge and it incidentally goes wrong?}
 
-[me: "Okay, so what's my name?"]
+    man: "Nah."
 
-[kerrek: {We're not going to name you just because you showed up here.}]
+    me: "Oh, fuck you."
 
-[me: "What do you mean? What happens when I leave?"]
+]
 
-[kerrek: {Your energy will leave, and you'll be back where you were before this.}]
+print {I decided to just drop, which caused my consciousness to shift and I found myself in a conversation with a man who identified himself as Kerrek. We got on a tangent of whether that was taken from the Homestar Runner cartoon, but he said they'd taken it from the same place. He was strange looking, and he had a strange looking woman who was like a doll with him.}
 
-{The conversation sort of took a few turns, including what may have been a joke about something called a "worn porn" store. Eventually I was walking with the woman through a somewhat odd kitchen.}
+dialog [
 
-[woman: "You and the paint...you're always so bleak."]
+    me: "Okay, so what's my name?"
 
-[me: "Paint? Bleak? You mean like I notice entropy?"]
+    kerrek: {We're not going to name you just because you showed up here.}
 
-"She looked confused."
+    me: "What do you mean? What happens when I leave?"
 
-[me: "Like...decay. Rot. Death."]
+    kerrek: {Your energy will leave, and you'll be back where you were before this.}
 
-[woman: {No, I mean you have this...what might be called millionairism. If something is there, then that's what you do.}]
+]
 
-[me: "Isn't that the state of nature in general?"]
+print {The conversation sort of took a few turns, including what may have been a joke about something called a "worn porn" store. Eventually I was walking with the woman through a somewhat odd kitchen.}
 
-[woman: {For insects and the like, maybe. But most people are different.}]
+dialog [
 
-[me: {What can they do besides what is there for them to do?}]
+    woman: "You and the paint...you're always so bleak."
 
-[woman: <sighing> {Oh, you know. Making decisions based on things like what is right and wrong, what they believe in. That sort of thing.}]
+    me: "Paint? Bleak? You mean like I notice entropy?"
 
-[me: <annoyed> "I do that!"]
+]
 
-[woman: {In a way, sure. But you are distracted. And it's hard to blame you, as this is extremely difficult.}]
+print "She looked confused."
 
-[me: "I'll say. Does it get worse?"]
+dialog [
 
-[woman: {No. What you take for granted is true, pretty much. This beginning is the hardest. It will be easier for you after the return.}]
+    me: "Like...decay. Rot. Death."
 
-[me: "When is the return?"]
+    woman: {No, I mean you have this...what might be called millionairism. If something is there, then that's what you do.}
 
-[woman: "It will be soon."]
+    me: "Isn't that the state of nature in general?"
 
-{She showed me some strange fruits, that she was using in cooking, and offered that I try them. I walked around and tried to ask some more questions but wound up abruptly waking up, though I tried to thank her for being nice while I was doing so.}
+    woman: {For insects and the like, maybe. But most people are different.}
+
+    me: {What can they do besides what is there for them to do?}
+
+    woman: <sighing> {Oh, you know. Making decisions based on things like what is right and wrong, what they believe in. That sort of thing.}
+
+    me: <annoyed> "I do that!"
+
+    woman: {In a way, sure. But you are distracted. And it's hard to blame you, as this is extremely difficult.}
+
+    me: "I'll say. Does it get worse?"
+
+    woman: {No. What you take for granted is true, pretty much. This beginning is the hardest. It will be easier for you after the return.}
+
+    me: "When is the return?"
+
+    woman: "It will be soon."
+
+]
+
+print {She showed me some strange fruits, that she was using in cooking, and offered that I try them. I walked around and tried to ask some more questions but wound up abruptly waking up, though I tried to thank her for being nice while I was doing so.}

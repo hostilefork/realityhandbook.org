@@ -6,64 +6,88 @@ Draem [
     old: http://realityhandbook.livejournal.com/153428.html
 ]
 
-{I was seated at a table with a large number of people. They were patting me on the back and telling me I'd made remarkable progress.}
+print {I was seated at a table with a large number of people. They were patting me on the back and telling me I'd made remarkable progress.}
 
-[scottish-guy: "You are doing a lot better now. Very calm."]
+dialog [
 
-[me: {Well, what I was doing before wasn't working. Something had to change.}]
+    scottish-guy: "You are doing a lot better now. Very calm."
 
-{We talked for a while, and eventually lost contact. I wandered around the house I was in, into a living room. I pointed around.}
+    me: {Well, what I was doing before wasn't working. Something had to change.}
 
-[me: {Where is this house? I mean...where would you say this house is?}]
+]
 
-[large-guy: "Hell."]
+print {We talked for a while, and eventually lost contact. I wandered around the house I was in, into a living room. I pointed around.}
 
-[me: "Hell?"]
+dialog [
 
-[large-guy: <laughing> {No, no. You'd know if you were in the Hell plane. It's got some seriously impressive architecture, I was thinking about bringing some of it here. Just this monstrous stuff...works of art.}]
+    me: {Where is this house? I mean...where would you say this house is?}
 
-{A guy holding a notepad who had glasses made a gesture at me to come look at something.}
+    large-guy: "Hell."
 
-[glasses-guy: {I've got something here. It's at least a month ahead of your current mathematics. If you could remember it, you'd blow people away.}]
+    me: "Hell?"
 
-[me: {That sounds excellent. Can it be written down simply?}]
+    large-guy: <laughing> {No, no. You'd know if you were in the Hell plane. It's got some seriously impressive architecture, I was thinking about bringing some of it here. Just this monstrous stuff...works of art.}
 
-[glasses-guy: {Unfortunately, no. I can split it in two parts though. One is a joke... a little rhyme to help you remember the coefficients. But you'd still have to remember this other formula.}]
+]
 
-{The formula he showed me was rather daunting, with about 20 symbols. The coefficients I needed to memorize were about 12 numbers.}
+print {A guy holding a notepad who had glasses made a gesture at me to come look at something.}
 
-[me: {I'm afraid I'm not going to be able to do that. Is there anything simpler? I mean, an interesting invention? Something like a Rubik's Cube?}]
+dialog [
 
-{People began to fumble around, and a guy pulled out a long roll of translucent plastic. It was divided into sections of various colors. He held it up to a light so I could see there were dotted out images on it.}
+    glasses-guy: {I've got something here. It's at least a month ahead of your current mathematics. If you could remember it, you'd blow people away.}
 
-[picture %PVC_Sheets103051057.jpg]
+    me: {That sounds excellent. Can it be written down simply?}
 
-[plastic-guy: {What you do is you put this in front of a monitor, like a large screen TV on your ceiling. Then you have a machine slowly pull it past the screen. The effect is actually quite surprising once you see it in action.}]
+    glasses-guy: {Unfortunately, no. I can split it in two parts though. One is a joke... a little rhyme to help you remember the coefficients. But you'd still have to remember this other formula.}
 
-[me: {Guess I'll have to take your word for it. What's it called?}]
+]
 
-[plastic-guy: "'My Personal Hypta'"]
+print {The formula he showed me was rather daunting, with about 20 symbols. The coefficients I needed to memorize were about 12 numbers.}
 
-{I tried to roll the plastic back into its original tube but it seemed to have become brittle and wouldn't fold. Gently I set it over in a corner in a pile, and went to address everyone.}
+dialog [me: {I'm afraid I'm not going to be able to do that. Is there anything simpler? I mean, an interesting invention? Something like a Rubik's Cube?}]
 
-[me: "So... what are all of you? What am I?"]
+print {People began to fumble around, and a guy pulled out a long roll of translucent plastic. It was divided into sections of various colors. He held it up to a light so I could see there were dotted out images on it.}
 
-[large-woman: {We're networks. Just like everything else. But I do enjoy the feeling of a human avatar, there's something visceral about it. I like men, but I like women too...}]
+picture %PVC_Sheets103051057.jpg
 
-{The large woman was wearing very clothing which exposed a lot of her skin. I touched it to see what it felt like, but didn't feel like doing anything sexual.}
+dialog [
 
-[me: {No offense to you all, but the avatars I perceive of you all here are rather...well, low end? If you had high technology and could pick any body you wanted, why these?}]
+    plastic-guy: {What you do is you put this in front of a monitor, like a large screen TV on your ceiling. Then you have a machine slowly pull it past the screen. The effect is actually quite surprising once you see it in action.}
 
-"My question was unheard, or ignored."
+    me: {Guess I'll have to take your word for it. What's it called?}
 
-[woman: {We're just worried about how you're going to get a girl.}]
+    plastic-guy: "'My Personal Hypta'"
 
-[me: "You mean here, or when I'm awake."]
+]
 
-[woman: "When you're awake."]
+print {I tried to roll the plastic back into its original tube but it seemed to have become brittle and wouldn't fold. Gently I set it over in a corner in a pile, and went to address everyone.}
 
-{They became startled and my body began to quake. I lost track of the room and it felt like someone else was moving my limbs in my bed.}
+dialog [
 
-[voice: <upset> {Your phone got jacked, you need to do a force logout!}]
+    me: "So... what are all of you? What am I?"
 
-{I didn't panic and just let the vibrations and stuff subside.}
+    large-woman: {We're networks. Just like everything else. But I do enjoy the feeling of a human avatar, there's something visceral about it. I like men, but I like women too...}
+
+]
+
+print {The large woman was wearing very clothing which exposed a lot of her skin. I touched it to see what it felt like, but didn't feel like doing anything sexual.}
+
+dialog [me: {No offense to you all, but the avatars I perceive of you all here are rather...well, low end? If you had high technology and could pick any body you wanted, why these?}]
+
+print "My question was unheard, or ignored."
+
+dialog [
+
+    woman: {We're just worried about how you're going to get a girl.}
+
+    me: "You mean here, or when I'm awake."
+
+    woman: "When you're awake."
+
+]
+
+print {They became startled and my body began to quake. I lost track of the room and it felt like someone else was moving my limbs in my bed.}
+
+dialog [voice: <upset> {Your phone got jacked, you need to do a force logout!}]
+
+print {I didn't panic and just let the vibrations and stuff subside.}

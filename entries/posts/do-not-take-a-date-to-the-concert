@@ -6,18 +6,22 @@ Draem [
     old: http://realityhandbook.livejournal.com/85575.html
 ]
 
-{I was reading a chat log of messages that were coming to me from my own screen name. I'd type back in the same screen name slot...and it would just type back to me. Sort of like having a chat with yourself?}
+print {I was reading a chat log of messages that were coming to me from my own screen name. I'd type back in the same screen name slot...and it would just type back to me. Sort of like having a chat with yourself?}
 
-[me: "Hello?"]
+dialog [
 
-[also-me: {I can't believe you're taking a whole month to get something done that should have been done a long time ago.}]
+    me: "Hello?"
 
-[me: "I'm sorry...but what are you talking about?"]
+    also-me: {I can't believe you're taking a whole month to get something done that should have been done a long time ago.}
 
-"The messages flew by a little too fast for me."
+    me: "I'm sorry...but what are you talking about?"
 
-[also-me: {Look, this is important. You need to go see Michael Penn in concert. Make a post to the mailing list, and go to the special event. Most importantly--DO NOT TAKE A DATE TO THE CONCERT.}]
+]
 
-[note {I woke up and decided to check if Michael had any upcoming concerts listed...there weren't any on his website or fan site. But when I checked the venue where he plays every so often, I saw there's a special benefit concert in two days. It's for charity so the tickets are $50, but as I'm a compliant victim of mind control waves urging me to buy concert tickets, I bought exactly one.}]
+print "The messages flew by a little too fast for me."
 
-[update 10-Jun-2006 {I went to the concert, and nothing out of the ordinary happened. Unless you consider "not playing an encore" out of the ordinary.}]
+dialog [also-me: {Look, this is important. You need to go see Michael Penn in concert. Make a post to the mailing list, and go to the special event. Most importantly--DO NOT TAKE A DATE TO THE CONCERT.}]
+
+note {I woke up and decided to check if Michael had any upcoming concerts listed...there weren't any on his website or fan site. But when I checked the venue where he plays every so often, I saw there's a special benefit concert in two days. It's for charity so the tickets are $50, but as I'm a compliant victim of mind control waves urging me to buy concert tickets, I bought exactly one.}
+
+update 10-Jun-2006 {I went to the concert, and nothing out of the ordinary happened. Unless you consider "not playing an encore" out of the ordinary.}

@@ -6,72 +6,96 @@ Draem [
     old: http://realityhandbook.livejournal.com/132136.html
 ]
 
-{I was following someone through a snow bank, and not wearing any shoes. I realized I'd left my shoes and a number of other things behind me. Leaving the group, I went back to get them... only to realize that I'd lost my way and it was getting dark. After falling down an embankment, I just sort of settled into the idea that I was pretty much lost and going to die.}
+print << [
 
-{Resigned to this, my point of view shifted to where instead of being like I was experiencing freezing death first-hand I was looking through a viewfinder on a video camera.}
+    {I was following someone through a snow bank, and not wearing any shoes. I realized I'd left my shoes and a number of other things behind me. Leaving the group, I went back to get them... only to realize that I'd lost my way and it was getting dark. After falling down an embankment, I just sort of settled into the idea that I was pretty much lost and going to die.}
 
-[me: <to self> {Hrm. Well, if I'm going to die, I might as well get a look at myself.}]
+    {Resigned to this, my point of view shifted to where instead of being like I was experiencing freezing death first-hand I was looking through a viewfinder on a video camera.}
 
-{I rotated the camera to point it at me. I saw something that looked like an Asmio robot, driving a truck with a camera mounted on it that looked somewhat like a utility vehicle that was built out of LEGO.}
+]
 
-[picture %6927-1.jpg]
+dialog [me: <to self> {Hrm. Well, if I'm going to die, I might as well get a look at myself.}]
 
-[me: {Oh. One of *those*. Those things that are everywhere, but you just don't see them.}]
+print {I rotated the camera to point it at me. I saw something that looked like an Asmio robot, driving a truck with a camera mounted on it that looked somewhat like a utility vehicle that was built out of LEGO.}
 
-{My point of view shifted once again to where I was inside a kitchen in a very well-decorated house. There was a man there who I seemed to be in mid-conversation with, as he lifted me out of a wheelchair and onto my feet.}
+picture %6927-1.jpg
 
-[me: {...aaaa! This is ridiculous. I hate human bodies. Moreover, I hate humans.}]
+dialog [me: {Oh. One of *those*. Those things that are everywhere, but you just don't see them.}]
 
-[him: "No you don't."]
+print {My point of view shifted once again to where I was inside a kitchen in a very well-decorated house. There was a man there who I seemed to be in mid-conversation with, as he lifted me out of a wheelchair and onto my feet.}
 
-[me: {Yes, I do. I'll grant that everyone is different. You have to give everyone a fair shot, some are better than others, no one is perfect. All that. But by and large, hate 'em. I'm thirsty, do you have any soda?}]
+dialog [
 
-[note {I was somewhat dehydrated when I woke up and actually thirsty.}]
+    me: {...aaaa! This is ridiculous. I hate human bodies. Moreover, I hate humans.}
 
-{We opened the door to a large stainless steel refrigerator. It was mostly empty, but there was an aluminum can of 7-up sitting on the top shelf. I grabbed it and drank it, as I followed the man down a hallway. We walked up to a strange looking gate that he raised a hand to--and it opened to lead us into a bedroom. He went to the floor to unlock a hidden panel and pull something out of it. I focused on petting one of the two cats that were there.}
+    him: "No you don't."
 
-[me: {I have questions about how I go on talking about things that don't make a whole lot of sense. Take that humans rant a moment ago--because honestly I don't know anything about the alternatives to human existence. Why do I feel like I know this place, or know you, when I have no clue what I'm talking about? And why is your cat wearing a robe, that's just weird.}]
+    me: {Yes, I do. I'll grant that everyone is different. You have to give everyone a fair shot, some are better than others, no one is perfect. All that. But by and large, hate 'em. I'm thirsty, do you have any soda?}
 
-"A dog started biting my foot."
+]
 
-[me: {Your dog is biting my foot and going to wake me up.}]
+note {I was somewhat dehydrated when I woke up and actually thirsty.}
 
-[man: "I'll talk to him about that."]
+print {We opened the door to a large stainless steel refrigerator. It was mostly empty, but there was an aluminum can of 7-up sitting on the top shelf. I grabbed it and drank it, as I followed the man down a hallway. We walked up to a strange looking gate that he raised a hand to--and it opened to lead us into a bedroom. He went to the floor to unlock a hidden panel and pull something out of it. I focused on petting one of the two cats that were there.}
 
-[me: {Okay, great, but my question stands. Who am I to you? Given that my memory starts in 1975 and between then and now I've never met you, how do you see us as relating to each other at all?}]
+dialog [me: {I have questions about how I go on talking about things that don't make a whole lot of sense. Take that humans rant a moment ago--because honestly I don't know anything about the alternatives to human existence. Why do I feel like I know this place, or know you, when I have no clue what I'm talking about? And why is your cat wearing a robe, that's just weird.}]
 
-[man: {I want you to go to the box office and see a movie.}]
+print "A dog started biting my foot."
 
-[me: <excited> "Yes, what?"]
+dialog [
 
-[man: "The movie *Happy Feet*."]
+    me: {Your dog is biting my foot and going to wake me up.}
 
-{The stress of trying to stay in the dream was beginning to wear on me, and I've not had the least bit of interest in seeing *Happy Feet*}
+    man: "I'll talk to him about that."
 
-[me: <frustrated> "*Happy Feet*? Okay. But why?"]
+    me: {Okay, great, but my question stands. Who am I to you? Given that my memory starts in 1975 and between then and now I've never met you, how do you see us as relating to each other at all?}
 
-"There was a pause."
+    man: {I want you to go to the box office and see a movie.}
 
-[man: {It makes a point, about how your circumstances can...}]
+    me: <excited> "Yes, what?"
 
-[me: {So you're not actually telling me anything besides 'go learn a lesson'. Thanks, but I'm always learning lessons. And your 7-Up was flat and I don't think that was a full 12 ounces so look into it.}]
+    man: "The movie *Happy Feet*."
 
-[man: <thinking> "Oh, that's probably several years old."]
+]
 
-[me: {Unopened it should keep just about forever. This dog foot thing hurts terribly, bye.}]
+print {The stress of trying to stay in the dream was beginning to wear on me, and I've not had the least bit of interest in seeing *Happy Feet*}
 
-[update
+dialog [me: <frustrated> "*Happy Feet*? Okay. But why?"]
 
-    {I went and read the movie synopsis for Happy Feet and it turns out it's not just about a tapdancing penguin. That part I knew. The part I didn't know was that his rare tapdancing talent--which causes him to become something of an outcast--becomes the key to communication with humans when he's kidnapped and put in a zoo:}
+print "There was a pause."
 
-    [quote
-    	{After narrowly escaping from two killer whales, the penguins finally come face to face with a legion of huge commercial trawlers, all laden with fish caught around the Antarctic coast. Mumble follows after them fearlessly, leaving his friends behind to bear testament to his legacy.} {(...) Mumble ends up in a penguin exhibit at a marine park (closely resembling the Penguin Encounter at SeaWorld, a massive zoom-out hinting at the one in Orlando, Florida), and fervently tries to communicate with the "aliens" (humans) who surround him. When his pleas fail, Mumble nearly succumbs to madness after three months of confinement in the sterile glass prison.}
+dialog [
 
-    	{When a child taps on the glass wall one day, Mumble is woken from his stupor and dances in response, whereupon the child appears to run away. He becomes disappointed until she comes back with her mother. Soon, a large crowd gathers around the exhibit, taking pictures and telling their friends of this marvel. He is released to the wild, now with fewer of his fluffy down feathers and a tracking device strapped to his back, and leads the "aliens" home to his native colony. The other penguins, formerly skeptical, are now convinced that the aliens do exist.}
+    man: {It makes a point, about how your circumstances can...}
 
-    	{Soon, a research team arrives and films the penguins dancing, and dances along with the rhythm. They bring this footage back to the human world. Different governments debate what to make of this footage and a worldwide debate ensues. They soon realize that they are overfishing the Antarctic waters, and conclude that perhaps the penguins were trying to communicate that to them. Antarctic fishing is banned, and the fish population recovers.}
+    me: {So you're not actually telling me anything besides 'go learn a lesson'. Thanks, but I'm always learning lessons. And your 7-Up was flat and I don't think that was a full 12 ounces so look into it.}
+
+    man: <thinking> "Oh, that's probably several years old."
+
+    me: {Unopened it should keep just about forever. This dog foot thing hurts terribly, bye.}
+
+]
+
+update [
+
+    print {I went and read the movie synopsis for Happy Feet and it turns out it's not just about a tapdancing penguin. That part I knew. The part I didn't know was that his rare tapdancing talent--which causes him to become something of an outcast--becomes the key to communication with humans when he's kidnapped and put in a zoo:}
+
+    quote [
+
+        print << [
+
+            {After narrowly escaping from two killer whales, the penguins finally come face to face with a legion of huge commercial trawlers, all laden with fish caught around the Antarctic coast. Mumble follows after them fearlessly, leaving his friends behind to bear testament to his legacy.}
+
+            {(...) Mumble ends up in a penguin exhibit at a marine park (closely resembling the Penguin Encounter at SeaWorld, a massive zoom-out hinting at the one in Orlando, Florida), and fervently tries to communicate with the "aliens" (humans) who surround him. When his pleas fail, Mumble nearly succumbs to madness after three months of confinement in the sterile glass prison.}
+
+            {When a child taps on the glass wall one day, Mumble is woken from his stupor and dances in response, whereupon the child appears to run away. He becomes disappointed until she comes back with her mother. Soon, a large crowd gathers around the exhibit, taking pictures and telling their friends of this marvel. He is released to the wild, now with fewer of his fluffy down feathers and a tracking device strapped to his back, and leads the "aliens" home to his native colony. The other penguins, formerly skeptical, are now convinced that the aliens do exist.}
+
+            {Soon, a research team arrives and films the penguins dancing, and dances along with the rhythm. They bring this footage back to the human world. Different governments debate what to make of this footage and a worldwide debate ensues. They soon realize that they are overfishing the Antarctic waters, and conclude that perhaps the penguins were trying to communicate that to them. Antarctic fishing is banned, and the fish population recovers.}
+
+        ]
+
     ]
 
-    {Given that I didn't know any of that bit and thought it was just a musical coming-of-age penguin story with mediocre animation, I'll give that the "verified" tag. Because that's rather uncanny.)}
+    print {Given that I didn't know any of that bit and thought it was just a musical coming-of-age penguin story with mediocre animation, I'll give that the "verified" tag. Because that's rather uncanny.)}
 
 ]

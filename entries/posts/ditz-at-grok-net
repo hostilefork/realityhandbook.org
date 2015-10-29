@@ -5,80 +5,120 @@ Draem [
     tags: [lucid-dream negative elevator funny bathroom]
 ]
 
-{I was in some kind of gray office environment which had a lot of haphazardly arranged furniture in it.  I sat down on something that I couldn't tell quite whether it was a table or a bench, and woman walking a dog passed by very closely to me, brushing her cheek and hair against mine.  I recognized as being an ex-girlfriend, and she asked me how another ex-girlfriend was doing.}
+print << [
 
-{Mentioning to her that we were no longer together, I suggested that perhaps I'd walk along with her as she was taking her dog so it would kill two birds with one stone.}
+    {I was in some kind of gray office environment which had a lot of haphazardly arranged furniture in it.  I sat down on something that I couldn't tell quite whether it was a table or a bench, and woman walking a dog passed by very closely to me, brushing her cheek and hair against mine.  I recognized as being an ex-girlfriend, and she asked me how another ex-girlfriend was doing.}
 
-[note {The two actual girls in question never knew each other to be asking; I knew them separated by 10 years or so--in different cities.}]
+    {Mentioning to her that we were no longer together, I suggested that perhaps I'd walk along with her as she was taking her dog so it would kill two birds with one stone.}
 
-{I needed to use the bathroom first, so I went to the hallway.  I opened the door to what I perceived as a single-occupancy toilet with a lock on the door, and then turned to try and lock it.  The door resisted closing and I pushed against it, until I realized that there was someone on the other side of the door trying to force their way in.}
+]
 
-{A large bearded man pushed past me toward what I perceived to be the toilet.}
+note {The two actual girls in question never knew each other to be asking; I knew them separated by 10 years or so--in different cities.}
 
-[bearded-man: <angrily> {You couldn't tell someone was on the other side of the door?}]
+print << [
 
-[me: <annoyed> {Well, at first no... I thought it was something with the door.  But once I realized there was someone there, I thought you would realize I was in here and not push through.  It's convention that if you're already in a bathroom, then that means you're earlier in line and get to go first.}]
+    {I needed to use the bathroom first, so I went to the hallway.  I opened the door to what I perceived as a single-occupancy toilet with a lock on the door, and then turned to try and lock it.  The door resisted closing and I pushed against it, until I realized that there was someone on the other side of the door trying to force their way in.}
 
-[bearded-man: {This bathroom is for everyone on the floor.}]
+    {A large bearded man pushed past me toward what I perceived to be the toilet.}
 
-[me: {I'm not saying it isn't, and look--I am a visitor--I don't even work here.}]
+]
 
-[bearded-man: <gleefully> {A ha!}]
+dialog [
 
-[me: {I didn't mean that as I don't have a right to use the bathroom.  I mean that when we speak here, I'm speaking as me--not as an owner of the facility--but rather that we are talking about bathroom etiquette.  Which is fairly well established.  We could take this before a larger audience and I think you'll find consensus about it.}]
+    bearded-man: <angrily> {You couldn't tell someone was on the other side of the door?}
 
-[bearded-man: {Well let's do that, then.}]
+    me: <annoyed> {Well, at first no... I thought it was something with the door.  But once I realized there was someone there, I thought you would realize I was in here and not push through.  It's convention that if you're already in a bathroom, then that means you're earlier in line and get to go first.}
 
-{I remembered my friend waiting for me to join her to walk the dog.}
+    bearded-man: "This bathroom is for everyone on the floor."
 
-[me: {I'm willing to discuss it, but...this has already been too much time, I need to meet someone.  So using the bathroom will have to wait.  If you give me your contact information, we can get it in front of an audience when I have more time.}]
+    me: {I'm not saying it isn't, and look--I am a visitor--I don't even work here.}
 
-{The bearded man leaned back into a space and put a piece of paper and a pen in front of me.  It had a number of names and phone numbers on it already.}
+    bearded-man: <gleefully> "A ha!"
 
-[me: {There's already stuff on this paper, is it important?}]
+    me: {I didn't mean that as I don't have a right to use the bathroom.  I mean that when we speak here, I'm speaking as me--not as an owner of the facility--but rather that we are talking about bathroom etiquette.  Which is fairly well established.  We could take this before a larger audience and I think you'll find consensus about it.}
 
-[bearded-man: <pointing to trascan> {No, it's scrap, I got it out of the trash.}]
+    bearded-man: "Well let's do that, then."
 
-{A woman came in the room and seemed to be very familiar with the man, as if she were his girlfriend or something.  The room now seemed much bigger than it had before, and not like a bathroom at all.  I tried to write but the pen seemed to be very dried out and I was having trouble understanding him.}
+]
 
-[bearded-man: {Michael Ditz.  My email is ditz at grok net.  Grok--like the Unix command--grok.}]
+print {I remembered my friend waiting for me to join her to walk the dog.}
 
-[note {I wrote down "grok" even though what I was meaning to think of was "grep", due to the disorienting circumstances.  I thought it was rather funny that if his last name was "ditz" that he would actually pick that as his username somewhere.  And speaking of disorienting, as all of this shifting around is going on--and if there was any reality to it not being a bathroom and I was pushing a random door backwards that he was trying to walk through, I of course apologize and was likely in the wrong.  What can I do, though?}]
+dialog [me: {I'm willing to discuss it, but...this has already been too much time, I need to meet someone.  So using the bathroom will have to wait.  If you give me your contact information, we can get it in front of an audience when I have more time.}]
 
-{After not being able to get the information quite down, the girl--suddenly wearing a black dress--jumped high into the air and came down to kick me.  I almost awoke but went back to sleep to return to the environment, more lucidly.}
+print {The bearded man leaned back into a space and put a piece of paper and a pen in front of me.  It had a number of names and phone numbers on it already.}
 
-{I stepped out of the room and back toward the office area to meet the girl to go on the dog walk with.  But the furniture in the office was all gone and it was just empty gray carpeted room.}
+dialog [
 
-{There was someone there who I asked about where the people from the office had gone, and they said it was on the third floor.  I thanked them and went over to some elevators and pushed the up button.  A short woman in a business outfit was in the elevator and looked at me.}
+    me: {There's already stuff on this paper, is it important?}
 
-[me: "Is this going up to 3?"]
+    bearded-man: <pointing to trascan> "No, it's scrap, I got it out of the trash."
 
-[woman: "Yes.  Well it's going up, but I'm going to 15."]
+]
 
-{She pushed 15 and I pushed 3 on the number pad.  I noticed that the numbers were in an odd order.}
+print {A woman came in the room and seemed to be very familiar with the man, as if she were his girlfriend or something.  The room now seemed much bigger than it had before, and not like a bathroom at all.  I tried to write but the pen seemed to be very dried out and I was having trouble understanding him.}
 
-[me: "I don't want to freak you out or anything, but I'm currently asleep and dreaming.  And I seem to have a lot of trouble with dream elevators.  Are you dreaming?"]
+dialog [bearded-man: {Michael Ditz.  My email is ditz at grok net.  Grok--like the Unix command--grok.}]
 
-[woman: <confused> "No..."]
+note {I wrote down "grok" even though what I was meaning to think of was "grep", due to the disorienting circumstances.  I thought it was rather funny that if his last name was "ditz" that he would actually pick that as his username somewhere.  And speaking of disorienting, as all of this shifting around is going on--and if there was any reality to it not being a bathroom and I was pushing a random door backwards that he was trying to walk through, I of course apologize and was likely in the wrong.  What can I do, though?}
 
-{The elevator began to kind of shake and move sideways.}
+print << [
 
-[me: "That, for example.  Does this elevator typically move sideways instead of strictly up and down?"]
+    {After not being able to get the information quite down, the girl--suddenly wearing a black dress--jumped high into the air and came down to kick me.  I almost awoke but went back to sleep to return to the environment, more lucidly.}
 
-[woman: <now worried> "No, it's never done this."]
+    {I stepped out of the room and back toward the office area to meet the girl to go on the dog walk with.  But the furniture in the office was all gone and it was just empty gray carpeted room.}
 
-[me: "Oh.  Well I don't want to give you bad news here, but usually something pretty terrible happens when this goes on."]
+    {There was someone there who I asked about where the people from the office had gone, and they said it was on the third floor.  I thanked them and went over to some elevators and pushed the up button.  A short woman in a business outfit was in the elevator and looked at me.}
 
-{As the elevator began to shake move faster, it seemed a couple of other people were in the elevator with me also.  One was a former neighbor of mine.}
+]
 
-[neighbor: <smiling> "Well at some point, you'd think you would have learned to take the stairs."]
+dialog [
 
-[me: <laughing> {You would think that, wouldn't you?  I actually have a theory about elevators and why this happens.  In that, they're actual traps designed to do this and get away with it in structures that are not strictly bound by three dimensions.  They get you in the closed off areas, and people outside don't know about the trickery.}]
+    me: "Is this going up to 3?"
 
-{There were some wooden boards it seemed at the top of the elevator.  I went and banged on them so they fell away.  When they did it revealed that the elevator was flying very high over a landscape.  Although we were sort of impossibly-airplane-high with the wind whooshing by, I couldn't tell if the elevator was flying under power or if we'd been catapulted and were going to crash.}
+    woman: "Yes.  Well it's going up, but I'm going to 15."
 
-[woman: <terrified> "OH MY GOD WHAT THE HELL!"]
+]
 
-[me: "Yeah, hm.  If we're in free fall at this point, that's not going to be a comfortable landing.  But this kind of thing has happened to me many times, and if it's any consolation... I lived to tell about it."]
+print {She pushed 15 and I pushed 3 on the number pad.  I noticed that the numbers were in an odd order.}
 
-{We looked out at the ground for a while but I awoke before I saw the resolution.}
+dialog [
+
+    me: {I don't want to freak you out or anything, but I'm currently asleep and dreaming.  And I seem to have a lot of trouble with dream elevators.  Are you dreaming?}
+
+    woman: <confused> "No..."
+
+]
+
+print {The elevator began to kind of shake and move sideways.}
+
+dialog [
+
+    me: {That, for example.  Does this elevator typically move sideways instead of strictly up and down?}
+
+    woman: <now worried> "No, it's never done this."
+
+    me: {Oh.  Well I don't want to give you bad news here, but usually something pretty terrible happens when this goes on.}
+
+]
+
+print {As the elevator began to shake move faster, it seemed a couple of other people were in the elevator with me also.  One was a former neighbor of mine.}
+
+dialog [
+
+    neighbor: <smiling> {Well at some point, you'd think you would have learned to take the stairs.}
+
+    me: <laughing> {You would think that, wouldn't you?  I actually have a theory about elevators and why this happens.  In that, they're actual traps designed to do this and get away with it in structures that are not strictly bound by three dimensions.  They get you in the closed off areas, and people outside don't know about the trickery.}
+
+]
+
+print {There were some wooden boards it seemed at the top of the elevator.  I went and banged on them so they fell away.  When they did it revealed that the elevator was flying very high over a landscape.  Although we were sort of impossibly-airplane-high with the wind whooshing by, I couldn't tell if the elevator was flying under power or if we'd been catapulted and were going to crash.}
+
+dialog [
+
+    woman: <terrified> "OH MY GOD WHAT THE HELL!"
+
+    me: {Yeah, hm.  If we're in free fall at this point, that's not going to be a comfortable landing.  But this kind of thing has happened to me many times, and if it's any consolation... I lived to tell about it.}
+
+]
+
+print {We looked out at the ground for a while but I awoke before I saw the resolution.}

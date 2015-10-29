@@ -6,56 +6,72 @@ Draem [
     old: http://realityhandbook.livejournal.com/107225.html
 ]
 
-{For a moment I had left my car parked outside a building in a space in front of a fire hydrant, and when I came out a meter maid was writing a ticket for it.}
+print {For a moment I had left my car parked outside a building in a space in front of a fire hydrant, and when I came out a meter maid was writing a ticket for it.}
 
-[me: {Please... I was... doing a favor for a friend, and picking them up, I was only in there for a minute!}]
+dialog [
 
-[her: "It's the law. Why should your intent matter?"]
+    me: {Please... I was... doing a favor for a friend, and picking them up, I was only in there for a minute!}
 
-[me: {Aren't there enough bad people in the world that you could be bothering instead of this, which is obviously an insignificant case? The car is still running. You know I wasn't in there long at all!}]
+    her: "It's the law. Why should your intent matter?"
 
-[her: {But if I listened to arguments like yours instead of following the rules by the letter, I'd never get any tickets written.}]
+    me: {Aren't there enough bad people in the world that you could be bothering instead of this, which is obviously an insignificant case? The car is still running. You know I wasn't in there long at all!}
 
-{We argued for a bit, and at one point I sort of clued into it being a dream and noticed she was attractive. I decided to just push her to the ground and we began making out. It was working rather well, and at one point we started talking about that.}
+    her: {But if I listened to arguments like yours instead of following the rules by the letter, I'd never get any tickets written.}
 
-[me: {Um, so like, if you're in a situation and it seems bad you should just use your imagination and push through it, because it wasn't really bad? Is anything ACTUALLY bad?}]
+]
 
-[her: "Police."]
+print {We argued for a bit, and at one point I sort of clued into it being a dream and noticed she was attractive. I decided to just push her to the ground and we began making out. It was working rather well, and at one point we started talking about that.}
 
-[me: {Come on, there have to be good police! It's not a bad profession intrinsically. In a legitimate world, the police are the good guys!}]
+dialog [
 
-{I'd stripped off her clothes and we continued making out for a bit, but eventually I became curious about how the setting had changed from a city street into a house and got up. I started walking around a very ultra-modern and nice house and speaking with people. One guy was short and bearded. I began asking questions. Noticing the girl I'd been with was basically flawless, it led to a line of questioning.}
+    me: {Um, so like, if you're in a situation and it seems bad you should just use your imagination and push through it, because it wasn't really bad? Is anything ACTUALLY bad?}
 
-[me: {Er, in this afterlife or whatever you might call it... have you basically cured blemishes of all kinds? Can your skin just be perfect? Where does your body come from, what was it like before?}]
+    her: "Police."
 
-"A guy sitting on a chair shrugged."
+    me: {Come on, there have to be good police! It's not a bad profession intrinsically. In a legitimate world, the police are the good guys!}
 
-[chair-guy: {Ha. My body was up in a tree when I saw World War 4. I was THERE, and it was horrible. You don't want to be there, believe me.}]
+]
 
-[me: {We haven't even had world war three yet! Do you know anything about it, when it will happen? Or how to stop it? For that matter can anyone give me any predictive power at all?}]
+print {I'd stripped off her clothes and we continued making out for a bit, but eventually I became curious about how the setting had changed from a city street into a house and got up. I started walking around a very ultra-modern and nice house and speaking with people. One guy was short and bearded. I began asking questions. Noticing the girl I'd been with was basically flawless, it led to a line of questioning.}
 
-{It started getting noisy and cacophonous in the room so I retreated to the kitchen. The bearded guy and a tall blonde guy followed me, everyone else stayed behind.}
+dialog [me: {Er, in this afterlife or whatever you might call it... have you basically cured blemishes of all kinds? Can your skin just be perfect? Where does your body come from, what was it like before?}]
 
-[me: {Ok, when I talk about predictive power...I mean, it's mid-2008 on Earth from my point of view. Uh, wait, it's late 2008 actually. Anyway, thing is that if I were talking to someone from 2000 I could give them some random useful advice, like 'buy google stock'. But even if they were from a different universe, I could explain abstract concepts. Like the internet, or selling books over the internet. I mean, if someone explained that to me it's more useful than saying the word 'amazon' which is pretty meaningless. Can't you tell me *something*?}]
+print "A guy sitting on a chair shrugged."
 
-[beard-guy: <rolling eyes> "You can't be serious. Why would *you* want that?"]
+dialog [
 
-[me: {Bah, you're right, I don't need money. I'd much rather have something more scientifically significant, but throw me a bone...even something like that would offer proof to people. While we're on the subject, what I'd much rather know is how to get in/out of this state... and what the state means.}]
+    chair-guy: {Ha. My body was up in a tree when I saw World War 4. I was THERE, and it was horrible. You don't want to be there, believe me.}
 
-[beard-guy: "Well now you're talking. Look at the ceiling."]
+    me: {We haven't even had world war three yet! Do you know anything about it, when it will happen? Or how to stop it? For that matter can anyone give me any predictive power at all?}
 
-{I looked to the ceiling and there was an odd pair of colored lightbulbs in the center. I feared that looking at them would wake me up so I looked away.}
+]
 
-[beard-guy: {No, no, don't worry. It's fine. Just look. Is it a triangle?}]
+print {It started getting noisy and cacophonous in the room so I retreated to the kitchen. The bearded guy and a tall blonde guy followed me, everyone else stayed behind.}
 
-{Looking back to the lightbulbs I saw a colored triangular pattern on them, and the bearded guy was waving his hands in the air. As he waved, the patterns started to change. Eventually he waved his hand another way and it was as if the whole ceiling turned into a giant LED display. It began to scroll the words "ADOBE PAIN STUDIO" and had the Adobe logo.}
+dialog [
 
-[note {It may not have said "Pain" studio, but the words were scrolling and spinning and if it said "PAINT" I might have missed the T during some point of the scroll.}]
+    me: {Ok, when I talk about predictive power...I mean, it's mid-2008 on Earth from my point of view. Uh, wait, it's late 2008 actually. Anyway, thing is that if I were talking to someone from 2000 I could give them some random useful advice, like 'buy google stock'. But even if they were from a different universe, I could explain abstract concepts. Like the internet, or selling books over the internet. I mean, if someone explained that to me it's more useful than saying the word 'amazon' which is pretty meaningless. Can't you tell me *something*?}
 
-[me: {Okay you're waving your hand, but, it would be better if you just explained where the sensor is, because I can explain all of this by way of 'magic' or VR. I don't know what your point is, really? Also, is Adobe still relevant? Damn, I hate proprietary software.}]
+    beard-guy: <rolling eyes> "You can't be serious. Why would *you* want that?"
 
-{We walked back into the living room, and the girl from earlier was there. She'd put a few clothes back on but was half naked still, her legs spread in a small skirt with no underwear. She was lying on a small mat and talking to a friend. She sat up to attention when I came in.}
+    me: {Bah, you're right, I don't need money. I'd much rather have something more scientifically significant, but throw me a bone...even something like that would offer proof to people. While we're on the subject, what I'd much rather know is how to get in/out of this state... and what the state means.}
 
-[me: {Uh, damn. You are impossibly beautiful. It can't be natural--is this some kind of... sculpted model, an ideal you have of how you should look? E.g. an avatar? If so, does it relate to what you looked like before and that's why you picked it? What do *I* look like here?}]
+    beard-guy: "Well now you're talking. Look at the ceiling."
 
-"I thought about finding a mirror, but I awoke."
+]
+
+print {I looked to the ceiling and there was an odd pair of colored lightbulbs in the center. I feared that looking at them would wake me up so I looked away.}
+
+dialog [beard-guy: {No, no, don't worry. It's fine. Just look. Is it a triangle?}]
+
+print {Looking back to the lightbulbs I saw a colored triangular pattern on them, and the bearded guy was waving his hands in the air. As he waved, the patterns started to change. Eventually he waved his hand another way and it was as if the whole ceiling turned into a giant LED display. It began to scroll the words "ADOBE PAIN STUDIO" and had the Adobe logo.}
+
+note {It may not have said "Pain" studio, but the words were scrolling and spinning and if it said "PAINT" I might have missed the T during some point of the scroll.}
+
+dialog [me: {Okay you're waving your hand, but, it would be better if you just explained where the sensor is, because I can explain all of this by way of 'magic' or VR. I don't know what your point is, really? Also, is Adobe still relevant? Damn, I hate proprietary software.}]
+
+print {We walked back into the living room, and the girl from earlier was there. She'd put a few clothes back on but was half naked still, her legs spread in a small skirt with no underwear. She was lying on a small mat and talking to a friend. She sat up to attention when I came in.}
+
+dialog [me: {Uh, damn. You are impossibly beautiful. It can't be natural--is this some kind of... sculpted model, an ideal you have of how you should look? E.g. an avatar? If so, does it relate to what you looked like before and that's why you picked it? What do *I* look like here?}]
+
+print "I thought about finding a mirror, but I awoke."

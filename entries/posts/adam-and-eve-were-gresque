@@ -5,80 +5,104 @@ Draem [
     tags: [lucid-dream helpful god positive cats]
 ]
 
-{I was petting the cat I'm living with now.  She was deforming a bit, but I was petting her the way she likes; relatively rough scratching along the length of her back.}
+print << [
 
-{Aware I was dreaming (and having done some petting with the cat and talking in dreams before) I went to rub her underside.  Her face contorted into something like an angry red-eyed rat.}
+    {I was petting the cat I'm living with now.  She was deforming a bit, but I was petting her the way she likes; relatively rough scratching along the length of her back.}
 
-[me: {You know, I think you're too tense in general.  But especially about this belly rub thing.  You might find if you relaxed a little more that you liked it.}]
+    {Aware I was dreaming (and having done some petting with the cat and talking in dreams before) I went to rub her underside.  Her face contorted into something like an angry red-eyed rat.}
 
-{I went back to scratching her back and her body continued to kind of fibrillate and decay in weird ways.}
+]
 
-[me: "Are you okay?"]
+dialog [me: {You know, I think you're too tense in general.  But especially about this belly rub thing.  You might find if you relaxed a little more that you liked it.}]
 
-[cat: <telepathically> "Yes, I'm all right."]
+print {I went back to scratching her back and her body continued to kind of fibrillate and decay in weird ways.}
 
-[me: {Is there anything I can do for you, in the house while awake, that would make you happier.}]
+dialog [
 
-[cat: <telepathically> {I'd like to go outdoors.  I had climbed up to the top of the cat condo, and I'd spent some time watching what I thought was the horizon through the window.  But I realized it was not the horizon, it was the way light had been reflected.  All the light I see is through glass.  I want to see the sunlight without the glass in the way.}]
+    me: "Are you okay?"
 
-[me: "Well, you're a very smart cat.  But..."]
+    cat: <telepathically> "Yes, I'm all right."
 
-[cat: <angry> {So you say on what basis!?  How do YOU claim to know anything about the relative intelligence of cats?!!}]
+    me: {Is there anything I can do for you, in the house while awake, that would make you happier.}
 
-[me: {Uh.  Fair point, I guess?  Let's just say that you strike me as smart enough to probably not get yourself run over by a car.  But there's a lot of dangers outside, and my parents will not like it if I let you out.}]
+    cat: <telepathically> {I'd like to go outdoors.  I had climbed up to the top of the cat condo, and I'd spent some time watching what I thought was the horizon through the window.  But I realized it was not the horizon, it was the way light had been reflected.  All the light I see is through glass.  I want to see the sunlight without the glass in the way.}
 
-{At this point, the cat was seated in a cat condo like the one she has.  The room was unlike the house where we are, outdoors looked very autumn-like and colorful.  I pointed to the trees outside.}
+    me: "Well, you're a very smart cat.  But..."
 
-[me: {But in a dream, you can go outside.  We could let you out right now.  How would that be?}]
+    cat: <angry> {So you say on what basis!?  How do YOU claim to know anything about the relative intelligence of cats?!!}
 
-[cat: {No thanks.  Where we are now, it's in the cold season.  I don't want to go out there until it warms up.}]
+    me: {Uh.  Fair point, I guess?  Let's just say that you strike me as smart enough to probably not get yourself run over by a car.  But there's a lot of dangers outside, and my parents will not like it if I let you out.}
 
-{I wandered from the cat and got in a conversation with some people who were watching TV.  I sat and watched a bit of a television show, which was some kind of puppet or animation driven thing.  One of the plot points was that there was this pet that if it licked you or showed affection you would be poisoned and get some terrible malady.  But the pet only would demonstrate the affection for one of the people in the house, who kept getting deathly ill.}
+]
 
-{There was a woman sitting on a couch, who I addressed.}
+print {At this point, the cat was seated in a cat condo like the one she has.  The room was unlike the house where we are, outdoors looked very autumn-like and colorful.  I pointed to the trees outside.}
 
-[me: {Well, I will say that it is interesting that I've gotten to the point where I can sit down and watch a TV show in another dimension for 15 minutes.  Couldn't do that before.}]
+dialog [
 
-[woman: {You've learned to not panic and have that under control, for the most part.  But the next step is to realize that when you're starting to drift, not to use that as an excuse to lie down.  Rather to start getting 'higher'... think more, scan more, engage yourself actively with what you're looking at.  It's all about focus.}]
+    me: {But in a dream, you can go outside.  We could let you out right now.  How would that be?}
 
-[me: "Why doesn't God make this easier?"]
+    cat: {No thanks.  Where we are now, it's in the cold season.  I don't want to go out there until it warms up.}
 
-[woman: <annoyed> "Why don't I do WHAT?"]
+]
 
-[me: <skeptical> "So you're claiming to be God?"]
+print << [
 
-[woman: {Nevermind.  Don't underestimate the amount of work being done, creation happening all the time.  It's constant.  Here, let me show you...}]
+    {I wandered from the cat and got in a conversation with some people who were watching TV.  I sat and watched a bit of a television show, which was some kind of puppet or animation driven thing.  One of the plot points was that there was this pet that if it licked you or showed affection you would be poisoned and get some terrible malady.  But the pet only would demonstrate the affection for one of the people in the house, who kept getting deathly ill.}
 
-{By now she had changed into a bespectacled man and took me toward a bunch of rooms that had filing cabinets and drafting tables, filled with schematics.  The man pointed to a wall, which had various segments of wallpaper to compare.}
+    {There was a woman sitting on a couch, who I addressed.}
 
-[me: <looking closely> "So what's... the difference?"]
+]
 
-{The scientist pointed to a cutaway section above the second section of wallpaper.  It seemed to have a mesh of foam circles at varying depths to make the wall have a sculpted depth.}
+dialog [
 
-[me: {Um, okay.  So you're building walls with little foam cylinder supports so it is 3-D?  Not only can I do that, it seems like a lousy way to build walls.}]
+    me: {Well, I will say that it is interesting that I've gotten to the point where I can sit down and watch a TV show in another dimension for 15 minutes.  Couldn't do that before.}
 
-{This seemed to frustrate the scientist, and we went back to the room with the cat and walked outside into the autumn landscape.  There was a winding asphalt path, and a third person joined us.}
+    woman: {You've learned to not panic and have that under control, for the most part.  But the next step is to realize that when you're starting to drift, not to use that as an excuse to lie down.  Rather to start getting 'higher'... think more, scan more, engage yourself actively with what you're looking at.  It's all about focus.}
 
-[scientist: {Let's get out of here.  Push the Go button, there's probably enough power left for one more trip.}]
+    me: "Why doesn't God make this easier?"
 
-{I noticed that I had a credit-card sized device in my hand.  It was black, and when I pushed it three vertical red lines illuminated to say |||.  We began to fly, although I was falling behind and fell out of the group, seemingly to plummet to my demise.  However, something happened and I rejoined the group.}
+    woman: <annoyed> "Why don't I do WHAT?"
 
-[scientist: <laughing> {Always happy to lend a helping hand to the slow humans.}]
+    me: <skeptical> "So you're claiming to be God?"
 
-"As we flew I asked questions."
+    woman: {Nevermind.  Don't underestimate the amount of work being done, creation happening all the time.  It's constant.  Here, let me show you...}
 
-[me: {How many... of you, are there?  I mean, dream beings.  On Earth we have census-taking, you count and estimate the population.  What is your estimated count, as far as you know it?}]
+]
 
-[scientist: {Well up until this point, we were pretty sure there were zero of us.  But once you showed up, we realized we hadn't counted you.  So now, there's one.}]
+print {By now she had changed into a bespectacled man and took me toward a bunch of rooms that had filing cabinets and drafting tables, filled with schematics.  The man pointed to a wall, which had various segments of wallpaper to compare.}
 
-[me: "I take it that you are making a joke."]
+dialog [me: <looking closely> "So what's... the difference?"]
 
-[scientist: {Do you think that Adam and Eve were the first humans?}]
+print {The scientist pointed to a cutaway section above the second section of wallpaper.  It seemed to have a mesh of foam circles at varying depths to make the wall have a sculpted depth.}
 
-[me: "Yes?  No?  How would I know, at this point?"]
+dialog [me: {Um, okay.  So you're building walls with little foam cylinder supports so it is 3-D?  Not only can I do that, it seems like a lousy way to build walls.}]
 
-[scientist: {They weren't human at all.  By God's current standards, they're absolutely gresque.}]
+print {This seemed to frustrate the scientist, and we went back to the room with the cat and walked outside into the autumn landscape.  There was a winding asphalt path, and a third person joined us.}
 
-[me: {Gresque?  Does that mean, gross?  Or ugly?  Or what?}]
+dialog [scientist: {Let's get out of here.  Push the Go button, there's probably enough power left for one more trip.}]
 
-[scientist: {Gargoyle-like.  Primitive, ugly.  There aren't any accurate images of them, which is good...because you wouldn't want to see 'em.  They were just a thought.  Like other things one gets an idea about, He rethinks it and improves it.}]
+print {I noticed that I had a credit-card sized device in my hand.  It was black, and when I pushed it three vertical red lines illuminated to say |||.  We began to fly, although I was falling behind and fell out of the group, seemingly to plummet to my demise.  However, something happened and I rejoined the group.}
+
+dialog [scientist: <laughing> {Always happy to lend a helping hand to the slow humans.}]
+
+print "As we flew I asked questions."
+
+dialog [
+
+    me: {How many... of you, are there?  I mean, dream beings.  On Earth we have census-taking, you count and estimate the population.  What is your estimated count, as far as you know it?}
+
+    scientist: {Well up until this point, we were pretty sure there were zero of us.  But once you showed up, we realized we hadn't counted you.  So now, there's one.}
+
+    me: "I take it that you are making a joke."
+
+    scientist: {Do you think that Adam and Eve were the first humans?}
+
+    me: "Yes?  No?  How would I know, at this point?"
+
+    scientist: {They weren't human at all.  By God's current standards, they're absolutely gresque.}
+
+    me: {Gresque?  Does that mean, gross?  Or ugly?  Or what?}
+
+    scientist: {Gargoyle-like.  Primitive, ugly.  There aren't any accurate images of them, which is good...because you wouldn't want to see 'em.  They were just a thought.  Like other things one gets an idea about, He rethinks it and improves it.}
+
+]

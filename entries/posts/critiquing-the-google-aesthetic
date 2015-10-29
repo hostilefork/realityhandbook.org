@@ -6,12 +6,28 @@ Draem [
     old: http://realityhandbook.livejournal.com/86349.html
 ]
 
-{I had a dream discussion with people who were challenging the Google aesthetic.}
+print {I had a dream discussion with people who were challenging the Google aesthetic.}
 
-[first-man: {Their cafeterias are a metaphor for the problem, all bright and institutional. Like kindergarten.}]
+dialog [
 
-[second-man: {if Google had its way, they would turn the whole universe into a plastic and color-coded world, missing the subtlety of artistic sensibility.}]
+    first-man: {Their cafeterias are a metaphor for the problem, all bright and institutional. Like kindergarten.}
 
-[note "What they were talking about was comparing this:" [picture %IMG_0628.jpg] "...with:" [picture %jerk11.jpg] "...and suggesting the latter is a better trend."]
+    second-man: {if Google had its way, they would turn the whole universe into a plastic and color-coded world, missing the subtlety of artistic sensibility.}
 
-[me: {I think color-coding is an important concept for organizing information. Plus, I've often felt like we're living inside of a computer, and being careless with the use of color for decorative purposes doesn't work out well.}]
+]
+
+note [
+
+    print "What they were talking about was comparing this:"
+
+    picture %IMG_0628.jpg
+
+    print "...with:"
+
+    picture %jerk11.jpg
+
+    print "...and suggesting the latter is a better trend."
+
+]
+
+dialog [me: {I think color-coding is an important concept for organizing information. Plus, I've often felt like we're living inside of a computer, and being careless with the use of color for decorative purposes doesn't work out well.}]

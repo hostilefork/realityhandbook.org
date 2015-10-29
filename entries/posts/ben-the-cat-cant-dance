@@ -5,78 +5,94 @@ Draem [
     tags: [lucid-dream positive cats dogs google technology helpful]
 ]
 
-{I was looking at a circumstance where a cat and a dog were playing together, in what seemed to be a young boy's room.  The boy sat on the bed...while I watched the animals with concern about whether they were going to fight or not.  It seemed like they would kind of blur between being a normal cat and dog vs. where I felt there were people in them whose feet you could see underneath outfits.}
+print {I was looking at a circumstance where a cat and a dog were playing together, in what seemed to be a young boy's room.  The boy sat on the bed...while I watched the animals with concern about whether they were going to fight or not.  It seemed like they would kind of blur between being a normal cat and dog vs. where I felt there were people in them whose feet you could see underneath outfits.}
 
-[me: <confused> {I don't think these are cats and dogs...I think these are people in...cat and dog costumes.}]
+dialog [me: <confused> {I don't think these are cats and dogs...I think these are people in...cat and dog costumes.}]
 
-{In response, the animals began to unzip their outfits to reveal other animals inside.  Then those animals would unzip.  Eventually a duck stepped out of a cat costume and waddled away.}
+print {In response, the animals began to unzip their outfits to reveal other animals inside.  Then those animals would unzip.  Eventually a duck stepped out of a cat costume and waddled away.}
 
-[note {This all came across as very live-action.  Although the sizes and shapes of things were changing, it wasn't "cartoony".}]
+note {This all came across as very live-action.  Although the sizes and shapes of things were changing, it wasn't "cartoony".}
 
-{I looked at the unzipped cat costume, that somehow a duck had been wearing to take on the convincing appearance of a cat.  It had some information stitched into it about it being "Ben: The Cat Who Couldn't Dance".}
+print {I looked at the unzipped cat costume, that somehow a duck had been wearing to take on the convincing appearance of a cat.  It had some information stitched into it about it being "Ben: The Cat Who Couldn't Dance".}
 
-[note {Some kind of alert came on about how that cat identity had been put in some kind of lending library.  The owner of the identity had been displeased with how the last person to borrow it had used it, and was removing it from the collection.  I don't remember how I could have read such a detailed alert on the tag inside the cat suit, but it must have been conveyed by that.}]
+note {Some kind of alert came on about how that cat identity had been put in some kind of lending library.  The owner of the identity had been displeased with how the last person to borrow it had used it, and was removing it from the collection.  I don't remember how I could have read such a detailed alert on the tag inside the cat suit, but it must have been conveyed by that.}
 
-{As I examined the cat suit, the boy kind of hovered behind me and I became afraid that he might push me into the cat suit...and this have some kind of consequence like me live my next earthly incarnation as a cat (or something.)  I backed away.}
+print {As I examined the cat suit, the boy kind of hovered behind me and I became afraid that he might push me into the cat suit...and this have some kind of consequence like me live my next earthly incarnation as a cat (or something.)  I backed away.}
 
-[me: "I'm not interested in being a cat.  When I was a kid I might have thought it would be fun to be a dog, but not the kind of thing I'd want to do now."]
+dialog [
 
-[boy: <shrugging> "Why not?  The human women thing--are you going back to caring about that, after all?  Or are you going to go forward with the plan of becoming a gangsta and just wacking all your enemies?"]
+    me: {I'm not interested in being a cat.  When I was a kid I might have thought it would be fun to be a dog, but not the kind of thing I'd want to do now.}
 
-{I rolled my eyes.}
+    boy: <shrugging> {Why not?  The human women thing--are you going back to caring about that, after all?  Or are you going to go forward with the plan of becoming a gangsta and just wacking all your enemies?}
 
-[me: "Yup.  Going with the gangster plan.  Why not?"]
+]
 
-{He seemed to be mocking some of my anger about recent events that have been pushing me to the brink about people in the world.  We talked a little and then I thought I'd awoken, but as I lay on the bed there were patterns on the ceiling.  I held out my hands and seemed to be able to manipulate virtual geometric objects that appeared, in a kind of high-tech shadow-theater on the ceiling.}
+print "I rolled my eyes."
 
-{Because I couldn't actually move my body, I rolled over to try and roll off the bed, but instead wound up spinning up into where I was on some kind of platform that was floating above what looked like a Hollywood set for a music video.  There were a lot of black women singing; I don't recall the song.  It was something about making a romantic outreach and being turned away, and "summer" was mentioned.}
+dialog [me: "Yup.  Going with the gangster plan.  Why not?"]
 
-{One of the singing black women reached out a hand to me, to help me down off the platform so I could walk around.  I saw that there were a lot of bright primary colored objects.  I went to pick up a red translucent block; it seemed to be hollow and I examined it.}
+print << [
 
-[singer: <sighing> "We perform a whole song for you, and off you go to ask questions and poke at shiny blocks.  Well if you change your mind, we're on Google twelve-hundred Radio."]
+    {He seemed to be mocking some of my anger about recent events that have been pushing me to the brink about people in the world.  We talked a little and then I thought I'd awoken, but as I lay on the bed there were patterns on the ceiling.  I held out my hands and seemed to be able to manipulate virtual geometric objects that appeared, in a kind of high-tech shadow-theater on the ceiling.}
 
-[note {I don't remember if 1200 was the exact number, but an easily pronounceable number in the thousands was named for the Google Radio... presumably a "station"?}]
+    {Because I couldn't actually move my body, I rolled over to try and roll off the bed, but instead wound up spinning up into where I was on some kind of platform that was floating above what looked like a Hollywood set for a music video.  There were a lot of black women singing; I don't recall the song.  It was something about making a romantic outreach and being turned away, and "summer" was mentioned.}
 
-{A woman who seemed to be a receptionist or case-worker type came over to greet me, and brought me to a desk with files and computers.}
+    {One of the singing black women reached out a hand to me, to help me down off the platform so I could walk around.  I saw that there were a lot of bright primary colored objects.  I went to pick up a red translucent block; it seemed to be hollow and I examined it.}
 
-[woman: "The stuff about making fun of you earlier, about being a ganster, that's...that's just about how angry you've gotten lately.  Don't take it personally; it's easy for those who've only ever lived on the outside to see it that way.  If they'd been in that hell themselves, they'd have more empathy."]
+]
 
-[me: "Hell sums it up.  So am I some kind of murderer, stuck in a prison existence for something I did wrong that I don't remember doing?"]
+dialog [singer: <sighing> {We perform a whole song for you, and off you go to ask questions and poke at shiny blocks.  Well if you change your mind, we're on Google twelve-hundred Radio.}]
 
-[woman: "No, it's nothing like that at all."]
+note {I don't remember if 1200 was the exact number, but an easily pronounceable number in the thousands was named for the Google Radio... presumably a "station"?}
 
-[me: "I suppose I should be glad for that, but I still want out."]
+print {A woman who seemed to be a receptionist or case-worker type came over to greet me, and brought me to a desk with files and computers.}
 
-[woman: <shrugging> "Well, I've just been telling people: 'might as well look at the bright side, we get to see Brian sooner rather than later!'"]
+dialog [
 
-[me: "With this no-sympathy-from-the-outside thing, what would YOU do?  What if you'd been in my situation, wouldn't you be angry?"]
+    woman: {The stuff about making fun of you earlier, about being a ganster, that's...that's just about how angry you've gotten lately.  Don't take it personally; it's easy for those who've only ever lived on the outside to see it that way.  If they'd been in that hell themselves, they'd have more empathy.}
 
-[woman: "I would have been bugged out.  Being completely terrified, I'd have asked for pretty much anything doctors could give me to make it stop.  When it stopped--and I would've just had the typical things to get angry about like other people around me."]
+    me: {Hell sums it up.  So am I some kind of murderer, stuck in a prison existence for something I did wrong that I don't remember doing?}
 
-[me: <grumbling> "That's not a good way to solve anything."]
+    woman: "No, it's nothing like that at all."
 
-[woman: "Never said it was.  You asked what I thought *I* would have done, and I answered honestly.  But moving on..."]
+    me: {I suppose I should be glad for that, but I still want out.}
 
-{She pulled out a series of forms and laid them out on the desk, they had areas for signatures and there were many pages of small writing.}
+    woman: <shrugging> {Well, I've just been telling people: 'might as well look at the bright side, we get to see Brian sooner rather than later!'}
 
-[woman: {What we're going to want you to use will be a World Building License structure 3A...}]
+    me: {With this no-sympathy-from-the-outside thing, what would YOU do?  What if you'd been in my situation, wouldn't you be angry?}
 
-[note {I don't remember exactly what the forms were called, but it sounded like some kind of licensing agreement for lives or worlds or something of a grand scale.}]
+    woman: {I would have been bugged out.  Being completely terrified, I'd have asked for pretty much anything doctors could give me to make it stop.  When it stopped--and I would've just had the typical things to get angry about like other people around me.}
 
-{I looked at the forms skeptically.}
+    me: <grumbling> "That's not a good way to solve anything."
 
-[me: "If we've learned anything from the studies of contracts, be they with the Devil or with companies when you are in a hazy dream-like state... I'd think the importance is 'read them all the way through'.  The trouble is, that I can't take the necessary time; because no one has yet to bring me back to the provably same dream location twice."]
+    woman: {Never said it was.  You asked what I thought *I* would have done, and I answered honestly.  But moving on...}
 
-[woman: "Good."]
+]
 
-[me: "No, by that I mean you as well.  I've never seen any of this before, and I have no reason to believe I will uniquely see it again.  If you can't bring me back reliably enough to read the details of the contract, then signing it could just be more problems."]
+print {She pulled out a series of forms and laid them out on the desk, they had areas for signatures and there were many pages of small writing.}
 
-[woman: "I understand.  But when I said 'good', I meant it's it's good that we are probably the only ones who have enough technology to lock a complete fix on you.  There were almost no files on you growing up...just some good grades, but nothing else identifying.  No 'nicknames' in any fields--no incident reports--just useless report cards.  After that: unbreakable encryption, ucorruption, or outright erasure about anything that might locate you.  The only lead we found was about 10 years ago...by way of something that turned up in data about your parents."]
+dialog [woman: {What we're going to want you to use will be a World Building License structure 3A...}]
 
-{Our conversation got sidetracked as some people in the office went to look at a monitor.}
+note {I don't remember exactly what the forms were called, but it sounded like some kind of licensing agreement for lives or worlds or something of a grand scale.}
 
-[woman: {Oh, I've heard about this video that's supposedly Jeff Atwood getting stabbed.  It was taken from a security feed in an elevator.}]
+print "I looked at the forms skeptically."
 
-[note {Jeff Atwood was one of the founders of the StackExchange network of Q&A sites. I've tried to participate the last few years and feel there's a lot of good forward direction.  But I've been feeling disillusioned lately with the problems that come with nearly any system that tries to centralize authority.}]
+dialog [
 
-{We watched as various video feeds showed the stabbing in an elevator, and then another video feed that showed the person taking the big bloody knife into an office of people where they seemed to be laughing.  I interpreted it as there was a large group that had staged a fake stabbing--as opposed to there had been a murder and a big office was laughing at it.  But I don't know.}
+    me: {If we've learned anything from the studies of contracts, be they with the Devil or with companies when you are in a hazy dream-like state... I'd think the importance is 'read them all the way through'.  The trouble is, that I can't take the necessary time; because no one has yet to bring me back to the provably same dream location twice.}
+
+    woman: "Good."
+
+    me: {No, by that I mean you as well.  I've never seen any of this before, and I have no reason to believe I will uniquely see it again.  If you can't bring me back reliably enough to read the details of the contract, then signing it could just be more problems.}
+
+    woman: {I understand.  But when I said 'good', I meant it's it's good that we are probably the only ones who have enough technology to lock a complete fix on you.  There were almost no files on you growing up...just some good grades, but nothing else identifying.  No 'nicknames' in any fields--no incident reports--just useless report cards.  After that: unbreakable encryption, ucorruption, or outright erasure about anything that might locate you.  The only lead we found was about 10 years ago...by way of something that turned up in data about your parents.}
+
+]
+
+print {Our conversation got sidetracked as some people in the office went to look at a monitor.}
+
+dialog [woman: {Oh, I've heard about this video that's supposedly Jeff Atwood getting stabbed.  It was taken from a security feed in an elevator.}]
+
+note {Jeff Atwood was one of the founders of the StackExchange network of Q&A sites. I've tried to participate the last few years and feel there's a lot of good forward direction.  But I've been feeling disillusioned lately with the problems that come with nearly any system that tries to centralize authority.}
+
+print {We watched as various video feeds showed the stabbing in an elevator, and then another video feed that showed the person taking the big bloody knife into an office of people where they seemed to be laughing.  I interpreted it as there was a large group that had staged a fake stabbing--as opposed to there had been a murder and a big office was laughing at it.  But I don't know.}

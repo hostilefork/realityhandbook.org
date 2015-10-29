@@ -6,68 +6,88 @@ Draem [
     old: http://realityhandbook.livejournal.com/154445.html
 ]
 
-{At a transitional point in a dream I found myself laying down on the floor in some kind of lab. A black man in a black suit was speaking to me and seemed to be pointing a large video-camera down in my direction. He was speaking through it so it sounded like a bullhorn.}
+print {At a transitional point in a dream I found myself laying down on the floor in some kind of lab. A black man in a black suit was speaking to me and seemed to be pointing a large video-camera down in my direction. He was speaking through it so it sounded like a bullhorn.}
 
-[black-man: <trying to get my attention> {Looks like finally you're coming back to your senses and realizing that there is no time. It never existed in the first place. That's why you've had such frustration as you try to build a narrative of your life to explain your experiences.}]
+dialog [black-man: <trying to get my attention> {Looks like finally you're coming back to your senses and realizing that there is no time. It never existed in the first place. That's why you've had such frustration as you try to build a narrative of your life to explain your experiences.}]
 
-{I got up and walked toward him. There was something like a phone booth with a TV in it in the middle of room, and a lot of people were gathered around with various equipment.}
+print {I got up and walked toward him. There was something like a phone booth with a TV in it in the middle of room, and a lot of people were gathered around with various equipment.}
 
-[me: {Regardless of the time thing, can't someone explain?}]
+dialog [
 
-[black-man: {All the information restriction policies are *your rules*. But if you want a refresher on the motivations, look in on this agent briefing. We're giving a test.}]
+    me: {Regardless of the time thing, can't someone explain?}
 
-[me: <upset> {I'm in no state for a test! I can barely stand up here!}]
+    black-man: {All the information restriction policies are *your rules*. But if you want a refresher on the motivations, look in on this agent briefing. We're giving a test.}
 
-[black-man: {No, someone *else* is being tested. You just watch.}]
+    me: <upset> {I'm in no state for a test! I can barely stand up here!}
 
-{I looked at a man in the phone booth, and the monitor he was watching. In the video it seemed like someone was building an LSD molecule (or something like it) out of crochet or other artistic materials. The scene transitioned to an outdoor environment where some explosive firework-looking things were going off... blowing up cars and there were dead bodies of Asians ripped in half by it.}
+    black-man: {No, someone *else* is being tested. You just watch.}
 
-[me: "What is all this?"]
+]
 
-[black-man: {Just cruel things being done for amusement, stuff we have to infiltrate and stop.}]
+print {I looked at a man in the phone booth, and the monitor he was watching. In the video it seemed like someone was building an LSD molecule (or something like it) out of crochet or other artistic materials. The scene transitioned to an outdoor environment where some explosive firework-looking things were going off... blowing up cars and there were dead bodies of Asians ripped in half by it.}
 
-{It looked like a fairly ordinary suburban street, but there were large cars and then a ton of small cars too.}
+dialog [
 
-[me: "Why are there so many small cars everywhere?"]
+    me: "What is all this?"
 
-[black-man: {Because when they're not in use, they are scaled down so that there's more parking.}]
+    black-man: {Just cruel things being done for amusement, stuff we have to infiltrate and stop.}
 
-"He paused, and looked at me funny."
+]
 
-[black-man: "You're telling me you don't *remember* that?"]
+print {It looked like a fairly ordinary suburban street, but there were large cars and then a ton of small cars too.}
 
-[me: {It's an idea that makes sense, but is beyond the capabilities of current physics that I'm aware of. If it were virtual, you'd just erase the car entirely rather than shrink it.}]
+dialog [
 
-{An older Asian woman walked up with a small black machine in her hand.}
+    me: "Why are there so many small cars everywhere?"
 
-[asian-woman: {All right, that's unexpected. I think we need to take a look at the situation and why you're so upset.}]
+    black-man: {Because when they're not in use, they are scaled down so that there's more parking.}
 
-{She aimed it at my head, and I felt something like a puff of air. It caused me to get very dizzy and writhe forward onto the ground a bit. It felt like they were doing a fast replay of my unpleasant life experiences. There was a surge of emotion--the whole room seemed to become anguished and unhappy, with everyone kind of freaking out.}
+]
 
-[asian-woman: {Good God, that's horrible! But when things are in a down period, human systems that handle the homeless and mentally ill start handling everyone like meat. Until the economics are fixed in a more general sense, what you want to repair can't start, so shift the focus.}]
+print "He paused, and looked at me funny."
 
-{A girl with long reddish-brown hair walked up to me and shook my hand, and introduced herself as Tuish. She was wearing a fairly fashionable gray outfit, and carrying a messenger bag. I noticed that her skin had natural-looking imperfections to it.}
+dialog [
 
-[me: {It's nice to meet you. But funny, you don't *look* Tuish.}]
+    black-man: "You're telling me you don't *remember* that?"
 
-"She looked puzzled and didn't laugh."
+    me: {It's an idea that makes sense, but is beyond the capabilities of current physics that I'm aware of. If it were virtual, you'd just erase the car entirely rather than shrink it.}
 
-[me: {It's an Earth culture allusion, about whether people look Jewish or not. There's a joke in Spaceballs about whether someone looks Druish, no worries if you don't get it.}]
+]
 
-{We began to walk down the hallway out of the lab, and it seemed we were in a fancy shopping mall.}
+print {An older Asian woman walked up with a small black machine in her hand.}
 
-[me: {I don't understand why everyone is convinced what's happening to me is intentional and shouldn't be intervened with. Maybe I'm like the Man With One Red Shoe; a decoy who is getting put in all kinds of situations by no fault of his own.}]
+dialog [asian-woman: {All right, that's unexpected. I think we need to take a look at the situation and why you're so upset.}]
 
-[note {The movie I'm referring to is [Man with One Red Shoe](http://en.wikipedia.org/wiki/The_Man_with_One_Red_Shoe). An unfortunate incident in which Tom Hanks has to wear one red shoe leads one group of spies to pretend he is their contact, as if the one red shoe is a secret signal. This throws another group of spies off track as they follow this arbitrary person.}]
+print {She aimed it at my head, and I felt something like a puff of air. It caused me to get very dizzy and writhe forward onto the ground a bit. It felt like they were doing a fast replay of my unpleasant life experiences. There was a surge of emotion--the whole room seemed to become anguished and unhappy, with everyone kind of freaking out.}
 
-[tuish: {No. It's deep cover, and too deep for us to know precisely why you're there or what you're doing.}]
+dialog [asian-woman: {Good God, that's horrible! But when things are in a down period, human systems that handle the homeless and mentally ill start handling everyone like meat. Until the economics are fixed in a more general sense, what you want to repair can't start, so shift the focus.}]
 
-[me: "How can you know if I don't know?"]
+print {A girl with long reddish-brown hair walked up to me and shook my hand, and introduced herself as Tuish. She was wearing a fairly fashionable gray outfit, and carrying a messenger bag. I noticed that her skin had natural-looking imperfections to it.}
 
-[tuish: {There are reflection syncs running constantly against Trinity, it's unmistakable. We predicted seeing a full uplink by now; I think the only reason we *haven't* is you stopped watching enough movies.}]
+dialog [me: {It's nice to meet you. But funny, you don't *look* Tuish.}]
 
-[me: <frustrated> {It all just feels stupid right now. What would happen if I just killed myself?}]
+print "She looked puzzled and didn't laugh."
 
-{She shrugged, and pointed to a group of people who looked like some of my friends gathered as a group.}
+dialog [me: {It's an Earth culture allusion, about whether people look Jewish or not. There's a joke in Spaceballs about whether someone looks Druish, no worries if you don't get it.}]
 
-[tuish: {I think you'll agree that discovering those people was a good thing. There are more you might want to bring forward. But if not, that's up to you.}]
+print {We began to walk down the hallway out of the lab, and it seemed we were in a fancy shopping mall.}
+
+dialog [me: {I don't understand why everyone is convinced what's happening to me is intentional and shouldn't be intervened with. Maybe I'm like the Man With One Red Shoe; a decoy who is getting put in all kinds of situations by no fault of his own.}]
+
+note {The movie I'm referring to is [Man with One Red Shoe](http://en.wikipedia.org/wiki/The_Man_with_One_Red_Shoe). An unfortunate incident in which Tom Hanks has to wear one red shoe leads one group of spies to pretend he is their contact, as if the one red shoe is a secret signal. This throws another group of spies off track as they follow this arbitrary person.}
+
+dialog [
+
+    tuish: {No. It's deep cover, and too deep for us to know precisely why you're there or what you're doing.}
+
+    me: "How can you know if I don't know?"
+
+    tuish: {There are reflection syncs running constantly against Trinity, it's unmistakable. We predicted seeing a full uplink by now; I think the only reason we *haven't* is you stopped watching enough movies.}
+
+    me: <frustrated> {It all just feels stupid right now. What would happen if I just killed myself?}
+
+]
+
+print {She shrugged, and pointed to a group of people who looked like some of my friends gathered as a group.}
+
+dialog [tuish: {I think you'll agree that discovering those people was a good thing. There are more you might want to bring forward. But if not, that's up to you.}]

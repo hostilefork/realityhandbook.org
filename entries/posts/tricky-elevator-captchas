@@ -6,8 +6,22 @@ Draem [
     old: http://realityhandbook.livejournal.com/106142.html
 ]
 
-{I had a dream that I was giving a friend a tour of a building where I'd used to work. The offices were on another floor. There'd been some changes, and even though I had a key I had to find out about them. A black man who looked like Tim Meadows from SNL explained it to me.}
+print {I had a dream that I was giving a friend a tour of a building where I'd used to work. The offices were on another floor. There'd been some changes, and even though I had a key I had to find out about them. A black man who looked like Tim Meadows from SNL explained it to me.}
 
-[black-man: {You'll need to use the key. When you go in there'll be a spoken audio CAPTCHA, but just ignore that... it's a trick, and won't work--the elevator will appear to not function. Instead, pay attention to the image on the screen; it's actually a visual test. Type in the name of the item you see and then enter 411 plus the number of the floor you want to go to.}]
+dialog [black-man: {You'll need to use the key. When you go in there'll be a spoken audio CAPTCHA, but just ignore that... it's a trick, and won't work--the elevator will appear to not function. Instead, pay attention to the image on the screen; it's actually a visual test. Type in the name of the item you see and then enter 411 plus the number of the floor you want to go to.}]
 
-[note {I have complained that this kind of security in which the workings of a test are "obscured" in order to stop the "robots" that would take a test at face value unfairly lumps together those who legitimately didn't understand the trick, in addition to automated systems that were designed maliciously. The best solution I've seen is to make the test be a piece of work that provides value whether it's being done by automated methods OR a person, e.g. ReCAPTCHA:} [picture %recaptcha.jpg] {...due to a relatively clever method of pairing known words with unknown scanned words from books, anyone who "hacks" ReCAPTCHA in order to simulate an intelligent agent that can read a book is helping scan unknown books.} {This kind of thinking is a lot better in my view than--for instance--asking you to type in a distorted word that is in another language, which gives you a hidden clue for what you need to *actually* do that *isn't* typing in that word! We'll need more thinking like this and not turning our own communications into spam if we're going to address these problems.}]
+note [
+
+    print {I have complained that this kind of security in which the workings of a test are "obscured" in order to stop the "robots" that would take a test at face value unfairly lumps together those who legitimately didn't understand the trick, in addition to automated systems that were designed maliciously. The best solution I've seen is to make the test be a piece of work that provides value whether it's being done by automated methods OR a person, e.g. ReCAPTCHA:}
+
+    picture %recaptcha.jpg
+
+    print << [
+
+        {...due to a relatively clever method of pairing known words with unknown scanned words from books, anyone who "hacks" ReCAPTCHA in order to simulate an intelligent agent that can read a book is helping scan unknown books.}
+
+        {This kind of thinking is a lot better in my view than--for instance--asking you to type in a distorted word that is in another language, which gives you a hidden clue for what you need to *actually* do that *isn't* typing in that word! We'll need more thinking like this and not turning our own communications into spam if we're going to address these problems.}
+
+    ]
+
+]

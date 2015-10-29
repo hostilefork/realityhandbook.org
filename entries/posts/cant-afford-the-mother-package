@@ -6,52 +6,76 @@ Draem [
     old: http://realityhandbook.livejournal.com/126305.html
 ]
 
-{Realizing I was dreaming, I went to hop out of bed and climb down some stairs. The girl in bed with me looked upset.}
+print {Realizing I was dreaming, I went to hop out of bed and climb down some stairs. The girl in bed with me looked upset.}
 
-[me: "You can come with me if you want."]
+dialog [
 
-[girl: "Yay!"]
+    me: "You can come with me if you want."
 
-{Descending the stairs, I walked into the kitchen, and there were several people gathered there. It reminded me of a kitchen from a house I used to live in. For some reason they were familiar people, though I don't believe I've met them before. We went through introductions, and a girl told me her name was "Brie".}
+    girl: "Yay!"
 
-[me: {Well what are you guys doing here, in this kitchen?}]
+]
 
-[guy-one: {It's comfortable, I guess. Like...this cutting board, it reminds me of mom's kitchen.}]
+print {Descending the stairs, I walked into the kitchen, and there were several people gathered there. It reminded me of a kitchen from a house I used to live in. For some reason they were familiar people, though I don't believe I've met them before. We went through introductions, and a girl told me her name was "Brie".}
 
-[guy-two: "And I guess it's out of fear, too."]
+dialog [
 
-{Some scary/eerie music started playing. I perceived it was coming from under the table on a stereo or something.}
+    me: {Well what are you guys doing here, in this kitchen?}
 
-[me: "Hey. Hey. Stop that music. Fear of *what*?"]
+    guy-one: {It's comfortable, I guess. Like...this cutting board, it reminds me of mom's kitchen.}
 
-[guy-two: {It's like you said when the company went down...there's just a lot of uncertainty right now. Out there.}]
+    guy-two: "And I guess it's out of fear, too."
 
-[me: "Well that still doesn't explain why you're here."]
+]
 
-[guy-one: "We couldn't afford the mother package."]
+print {Some scary/eerie music started playing. I perceived it was coming from under the table on a stereo or something.}
 
-[me: "What do you mean? I didn't buy any of this."]
+dialog [
 
-[brie: {Oh, so these are actual memories then. Hm. And I suppose she's from your love life... beautiful.}]
+    me: "Hey. Hey. Stop that music. Fear of *what*?"
 
-{She said it with some sarcasm, gesturing at the girl who had come down the stairs with me. Before I could interject with 'what do you mean by THAT' she spoke up for herself.}
+    guy-two: {It's like you said when the company went down...there's just a lot of uncertainty right now. Out there.}
 
-[girl: <with a flat stare> "Yes. I am."]
+    me: "Well that still doesn't explain why you're here."
 
-[guy-one: {If you don't have any more questions, we'll be going now.}]
+    guy-one: "We couldn't afford the mother package."
 
-[me: "Wait. Well there's a question. Going where?"]
+    me: "What do you mean? I didn't buy any of this."
 
-"He gestured out a window."
+    brie: {Oh, so these are actual memories then. Hm. And I suppose she's from your love life... beautiful.}
 
-[me: "How do you get out?"]
+]
 
-[guy-one: {You look for a crack, slip through. Or if all else fails, just skull the wall.}]
+print {She said it with some sarcasm, gesturing at the girl who had come down the stairs with me. Before I could interject with 'what do you mean by THAT' she spoke up for herself.}
 
-[me: "Skull?"]
+dialog [
 
-{He made a gesture like hitting his head on the wall, as if "skulling" something was to hit your head on it.}
+    girl: <with a flat stare> "Yes. I am."
 
-[me: {I'd suspect I'd wake up if I did that. Wait, do you ever 'wake up'? Is there another life from this one, some body you have somewhere.}]
+    guy-one: {If you don't have any more questions, we'll be going now.}
 
-[guy-one: <shaking head, somewhat sadly> "No."]
+    me: "Wait. Well there's a question. Going where?"
+
+]
+
+print "He gestured out a window."
+
+dialog [
+
+    me: "How do you get out?"
+
+    guy-one: {You look for a crack, slip through. Or if all else fails, just skull the wall.}
+
+    me: "Skull?"
+
+]
+
+print {He made a gesture like hitting his head on the wall, as if "skulling" something was to hit your head on it.}
+
+dialog [
+
+    me: {I'd suspect I'd wake up if I did that. Wait, do you ever 'wake up'? Is there another life from this one, some body you have somewhere.}
+
+    guy-one: <shaking head, somewhat sadly> "No."
+
+]

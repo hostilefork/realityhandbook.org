@@ -6,94 +6,138 @@ Draem [
     old: http://realityhandbook.livejournal.com/94716.html
 ]
 
-{I stepped into an elevator with a female companion, and when we entered I found myself in possession of a long brown armband. It had a blue diamond logo on it, and puzzled over this object I tried to give it to a man in the elevator--thinking I must have picked it up off the ground.}
+print {I stepped into an elevator with a female companion, and when we entered I found myself in possession of a long brown armband. It had a blue diamond logo on it, and puzzled over this object I tried to give it to a man in the elevator--thinking I must have picked it up off the ground.}
 
-[man: "No, that's yours. You're supposed to wear it."]
+dialog [
 
-[me: {Hm, why this building in particular? What is the mission?}]
+    man: "No, that's yours. You're supposed to wear it."
 
-[companion: {We simply have to be in the audience to ask questions.}]
+    me: {Hm, why this building in particular? What is the mission?}
 
-{When we arrived on the destination floor, it was a balcony overlooking an area where people were going to be speaking. There were microphones and cameras on stands pointed below, and I sat in a seat next to one of the microphones but somehow knocked it over because I was on an incline. A technician came and corrected it, and I apologized.}
+    companion: {We simply have to be in the audience to ask questions.}
 
-{My companion scolded a passing woman in a nurse outfit carrying a clipboard.}
+]
 
-[companion: "Hey nurse, you can't have that in here!"]
+print << [
 
-[me: "What's the rule again? No ball point pens?"]
+    {When we arrived on the destination floor, it was a balcony overlooking an area where people were going to be speaking. There were microphones and cameras on stands pointed below, and I sat in a seat next to one of the microphones but somehow knocked it over because I was on an incline. A technician came and corrected it, and I apologized.}
 
-[companion: "No *sharp, long* pens."]
+    {My companion scolded a passing woman in a nurse outfit carrying a clipboard.}
 
-{Down below the speakers were beginning to talk. The chairs we were seated on seemed to be mechanical, and were going to carry us down toward the conference.}
+]
 
-[announcer: {We have here some people from YouTube. They're going to talk about who it's safe to work with and who they've had good experiences with.}]
+dialog [
 
-{The chair I was on started moving along with the others, and we were pushed through corridors of what looked like a Wal-Mart. It was neither disorderly nor terribly orderly.}
+    companion: "Hey nurse, you can't have that in here!"
 
-[me: {All of this was put together by machines... crazy organic machines.}]
+    me: "What's the rule again? No ball point pens?"
 
-[note {I was now aware that this was a dream, but had a certain feeling about it; how strange it was, and how strange our everyday reality is, and that we just don't fully absorb the cacophony of products on shelves. My companion had changed from female to male, but I perceived it was the same 'being'.}]
+    companion: "No *sharp, long* pens."
 
-[companion: "You own all these territories."]
+]
 
-[me: "What? How so? Wait, what is this?"]
+print {Down below the speakers were beginning to talk. The chairs we were seated on seemed to be mechanical, and were going to carry us down toward the conference.}
 
-[companion: "You wrote all of this."]
+dialog [announcer: {We have here some people from YouTube. They're going to talk about who it's safe to work with and who they've had good experiences with.}]
 
-[me: {I've heard this 'writer' thing before. But... 'writing' what? Outside of the trivial bit of writing one's own inner dialogue, how do I have anything to do with this?}]
+print {The chair I was on started moving along with the others, and we were pushed through corridors of what looked like a Wal-Mart. It was neither disorderly nor terribly orderly.}
 
-"I picked up a plastic basket as we passed by."
+dialog [me: {All of this was put together by machines... crazy organic machines.}]
 
-[me: {Just, for example, let's look at this basket. Certainly I did not 'write' this. Maybe I 'wrote' the picking it up part, but there's a design here and I certainly didn't make it, at least not now. It's a stable, physical object with a shape that didn't come from my mind.}]
+note {I was now aware that this was a dream, but had a certain feeling about it; how strange it was, and how strange our everyday reality is, and that we just don't fully absorb the cacophony of products on shelves. My companion had changed from female to male, but I perceived it was the same 'being'.}
 
-[companion: {You were the one who started *Mentorkore*. When kids hear about it, none of them want to go to college, they come to you instead.}]
+dialog [
 
-[me: "Uh... Mentor-what?"]
+    companion: "You own all these territories."
 
-[note {'Mentorkore' is a random attempt at capturing the unfamiliar word. When I asked for more detail, I got back some words that sounded like Spanish, something about "de todo" which would mean "from all". A disjointed conversation said it had something to do with seeing everything, and blue eyes--my eye color--was brought up.}]
+    me: "What? How so? Wait, what is this?"
 
-[me: {Okay, so I had some idea and people aren't going to college now... well does my idea work better?}]
+    companion: "You wrote all of this."
 
-[companion: {No! It doesn't work at all! You simply can't write all day, it is madness.}]
+    me: {I've heard this 'writer' thing before. But... 'writing' what? Outside of the trivial bit of writing one's own inner dialogue, how do I have anything to do with this?}
 
-[me: {Okay, there's this writing again. Well if I had a crappy idea, can you just tell people to stop doing it? I can't imagine I'd start some new school that you couldn't opt out of.}]
+]
 
-{During our conversation, people were passing us in droves. They made me nervous, though none seemed to attack. A young kid passed and expressed curiosity in what we were talking about, and the person I had been speaking with grabbed his mouth for some reason and started looking at it, it distorted into various shapes.}
+print "I picked up a plastic basket as we passed by."
 
-[companion: <looking in his mouth> "He's been bugged. They know you're here."]
+dialog [
 
-"The lights went out."
+    me: {Just, for example, let's look at this basket. Certainly I did not 'write' this. Maybe I 'wrote' the picking it up part, but there's a design here and I certainly didn't make it, at least not now. It's a stable, physical object with a shape that didn't come from my mind.}
 
-[me: "They? Who's THEY?"]
+    companion: {You were the one who started *Mentorkore*. When kids hear about it, none of them want to go to college, they come to you instead.}
 
-[note {This was a conscious attempt at humor, per Robot Chicken's sketch where the emperor gets a call from Darth Vader and is told that 'They blew up the death star', and in a burst of anger yells "They? Who's THEY?".}]
+    me: "Uh... Mentor-what?"
 
-[companion: {The spirit brothers. Look, they expect to find you here with a girl, if you're with one when they come then they might just think that's the right one, and leave before doing further damage.}]
+]
 
-[me: "What?!"]
+note {'Mentorkore' is a random attempt at capturing the unfamiliar word. When I asked for more detail, I got back some words that sounded like Spanish, something about "de todo" which would mean "from all". A disjointed conversation said it had something to do with seeing everything, and blue eyes--my eye color--was brought up.}
 
-{Going towards an approaching group, I saw what looked like a woman and a young child with and a doll--all of them with long hair. They were all laying fairly still. Per the advice, I picked up the doll and walked forward, thinking it might give some kind of illusion that I was "with someone".}
+dialog [
 
-{A group of people approached with blue faces painted as war paint, basically looking like a cross between the blue man group and some Indian tribe. They seemed armed for an attack.}
+    me: {Okay, so I had some idea and people aren't going to college now... well does my idea work better?}
 
-[me: "Hey. Can we talk about this?"]
+    companion: {No! It doesn't work at all! You simply can't write all day, it is madness.}
 
-[leader: "Prisoner?"]
+    me: {Okay, there's this writing again. Well if I had a crappy idea, can you just tell people to stop doing it? I can't imagine I'd start some new school that you couldn't opt out of.}
 
-[me: {No, I don't want to be a prisoner. TALK. I want to TALK.}]
+]
 
-{They spoke what seemed like French, and launched an attack was part fireworks and part "sending thousands of explosive glass shards at you". I laid down flat and somehow avoided getting damaged. I began trying to use telekinesis approaches which were largely ineffective, though I did manage to get the leader to topple over backwards. I expected anger and more retaliation, but they sorta began regrouping and flew off.}
+print {During our conversation, people were passing us in droves. They made me nervous, though none seemed to attack. A young kid passed and expressed curiosity in what we were talking about, and the person I had been speaking with grabbed his mouth for some reason and started looking at it, it distorted into various shapes.}
 
-{I shrugged and looked around, and saw that their blast had done a fair bit of damage.}
+dialog [companion: <looking in his mouth> "He's been bugged. They know you're here."]
 
-[me: {That is interesting, because I really didn't feel I was doing an effective job of repelling them. Do you think they were just running away for some other reason, or did I actually make a dent in their attack?}]
+print "The lights went out."
 
-{Suddenly I felt a sharp stabbing pain in my arm. I pulled a syringe out and glared at it.}
+dialog [me: "They? Who's THEY?"]
 
-[me: {Oh crap, those needly attacks. Well what's up with that?}]
+note {This was a conscious attempt at humor, per Robot Chicken's sketch where the emperor gets a call from Darth Vader and is told that 'They blew up the death star', and in a burst of anger yells "They? Who's THEY?".}
 
-[companion: "Check the rafters, it came from above."]
+dialog [
 
-{I noticed someone running who was racing along from up above, and then stopped to use a computer...acting very nonchalant. He was dressed like a construction worker. I went up to him and injected him with the syringe. He writhed in pain and shouted.}
+    companion: {The spirit brothers. Look, they expect to find you here with a girl, if you're with one when they come then they might just think that's the right one, and leave before doing further damage.}
 
-[note {I sure hope I got the right guy. I'm not a fan of making judgments on attacks during such nebulous perceptual experiences.}]
+    me: "What?!"
+
+]
+
+print << [
+
+    {Going towards an approaching group, I saw what looked like a woman and a young child with and a doll--all of them with long hair. They were all laying fairly still. Per the advice, I picked up the doll and walked forward, thinking it might give some kind of illusion that I was "with someone".}
+
+    {A group of people approached with blue faces painted as war paint, basically looking like a cross between the blue man group and some Indian tribe. They seemed armed for an attack.}
+
+]
+
+dialog [
+
+    me: "Hey. Can we talk about this?"
+
+    leader: "Prisoner?"
+
+    me: {No, I don't want to be a prisoner. TALK. I want to TALK.}
+
+]
+
+print << [
+
+    {They spoke what seemed like French, and launched an attack was part fireworks and part "sending thousands of explosive glass shards at you". I laid down flat and somehow avoided getting damaged. I began trying to use telekinesis approaches which were largely ineffective, though I did manage to get the leader to topple over backwards. I expected anger and more retaliation, but they sorta began regrouping and flew off.}
+
+    {I shrugged and looked around, and saw that their blast had done a fair bit of damage.}
+
+]
+
+dialog [me: {That is interesting, because I really didn't feel I was doing an effective job of repelling them. Do you think they were just running away for some other reason, or did I actually make a dent in their attack?}]
+
+print {Suddenly I felt a sharp stabbing pain in my arm. I pulled a syringe out and glared at it.}
+
+dialog [
+
+    me: {Oh crap, those needly attacks. Well what's up with that?}
+
+    companion: "Check the rafters, it came from above."
+
+]
+
+print {I noticed someone running who was racing along from up above, and then stopped to use a computer...acting very nonchalant. He was dressed like a construction worker. I went up to him and injected him with the syringe. He writhed in pain and shouted.}
+
+note {I sure hope I got the right guy. I'm not a fan of making judgments on attacks during such nebulous perceptual experiences.}

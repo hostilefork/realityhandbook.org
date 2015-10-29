@@ -6,110 +6,146 @@ Draem [
     old: http://realityhandbook.livejournal.com/108143.html
 ]
 
-{I'd been in a protracted dream where I was asking for help in a house full of relatively unhelpful but nice-seeming people. At one point someone said "He should see Jerry" or something of that sort, and they took me to someone who was sitting in front of a computer.}
+print << [
 
-{**jerry** "What handle do you use?"}
+    {I'd been in a protracted dream where I was asking for help in a house full of relatively unhelpful but nice-seeming people. At one point someone said "He should see Jerry" or something of that sort, and they took me to someone who was sitting in front of a computer.}
 
-{I tried to explain the words of another online identity but they couldn't repeat them to me. I offered to try typing on the keyboard but got nowhere close. At one point, a blonde woman who I had been talking to pulled out a piece of paper and asked me to just point to the letters. By doing this, she got it much faster and said it out loud to me.}
+    {**jerry** "What handle do you use?"}
 
-[blonde: "He's got some good paintings."]
-
-{Someone came and tried to take the paper but I wanted to give it to the blonde woman because she seemed most effective at understanding it and had said something positive.}
-
-[me: {I apologize, it's just she seems to get it and I don't want it to get lost.}]
-
-[person: {Oh, no, I understand. You're stressed. I was just looking.}]
-
-{After this I wandered a bit around the place and a disheveled-looking black man asked me for change. Figuring, ah, what the heck...he could have whatever was in my pockets, I pulled out some random objects which I dropped on the floor.}
-
-[me: {Uh, I don't know if you want that, it looks like some... camera lens filters, maybe?}]
-
-{I bent over to get a closer look but bumped my head rather phenomenally, despite not seeing anything to bump into. My head hurt and I could see a spot of blood in my field of vision, as if I were wearing glasses and some blood from my head had gotten onto them. But I didn't seem to be wearing glasses. Mercifully I woke up, but into a false awakening with someone coming into my room who just left town.}
-
-[me: "But... didn't you just leave town?"]
-
-[her: "Nope..."]
-
-[me: "I think you did, and I'm not awake yet."]
-
-{This was followed by what felt like a real awakening, and my desktop iMac camera light came on and began flashing furiously.}
-
-[picture %imac-isight.jpg]
-
-[note {In theory it is not possible to turn on the camera from remote, but of course it is with hacking or trickery. Harder would be to turn it on without turning on the light, as that's probably in the hardware.}]
-
-{The room started dissolving and I was sucked up into a crazy skyscape, and then into space with a bunch of colored plastic objects. This was a long and odd sequence. It was freaky and at the same time kind of serene, I didn't feel uncomfortable...but then I thought about all kinds of risks or bad things. The idea of being stuck flying through this weird screensaver space forever all by myself had me a little panicked, as did the idea of all the objects ganging up and enclosing me. It looked like it might happen sometimes but then they backed off.}
-
-{At one point I was looking at a perfect plastic red sphere whose surface was puzzle pieces. One of the puzzle pieces popped off and started flying at me through space. It came forward and I tried to reach out to grab it but merely altered its course so that it bopped me in the eye. More startling than painful, it made it so that one eye opened and I could see what appeared to be the view out of my eye in my room where I was asleep. I managed to coax it closed again.}
-
-{Most of the objects were strange plastic squiggles, balls, and other assorted doodads that were flocking around me. The only exception really was a TV object that was running a video of people in a room playing pool. I began to wonder about the ability to push through one of these screens into a 3D world like the one I am used to while awake, because that would really represent a 'new dimension'.}
-
-[note
-
-    {In retrospect it reminds me of this Pet Shop Boys video, in which plastic-looking computer generated objects are flying through space for no apparent reason:}
-
-    [youtube http://www.youtube.com/v/VBHan-Pch5M 425x344]
-
-    {But these objects were all bright primary colors, and the space I was flying through was a fairly stark looking black.}
+    {I tried to explain the words of another online identity but they couldn't repeat them to me. I offered to try typing on the keyboard but got nowhere close. At one point, a blonde woman who I had been talking to pulled out a piece of paper and asked me to just point to the letters. By doing this, she got it much faster and said it out loud to me.}
 
 ]
 
-{There was some kind of song playing. It was soft but audible. Roughly paraphrasing its central message:}
+dialog [blonde: "He's got some good paintings."]
 
-[quote {Welcome to an all new dimension...a whole new world to see...}]
+print {Someone came and tried to take the paper but I wanted to give it to the blonde woman because she seemed most effective at understanding it and had said something positive.}
 
-[me: <to space> {Is this all like, marketing material? Some kind of splash screen, like 'welcome to microsoft windows, a more productive way to work'?}]
+dialog [
 
-[disembodied-mechanical-voice: "Welcome screen."]
+    me: {I apologize, it's just she seems to get it and I don't want it to get lost.}
 
-{I started floating into a busy and very modern looking terminal area, which had no visible end to its height. There were signs but one that caught my attention was If you are participating in the Apple Hard Drive recall program, then [something]. The place I ended up landing was some kind of clinic, and I was at the reception desk. A bright pink android woman, with a plastic caricature of a "sexy nurse" body, was there.}
-
-[note
-
-    "Imagine this type of plastic body..."
-
-    [picture %robot-f6800.jpg]
-
-    "...but pink and in a white nurse's outfit."
+    person: {Oh, no, I understand. You're stressed. I was just looking.}
 
 ]
 
-[me: {Excuse me, I'm confused and typically I just wake up, I don't know what's going on.}]
+print {After this I wandered a bit around the place and a disheveled-looking black man asked me for change. Figuring, ah, what the heck...he could have whatever was in my pockets, I pulled out some random objects which I dropped on the floor.}
 
-[receptionist: "Right over there."]
+dialog [me: {Uh, I don't know if you want that, it looks like some... camera lens filters, maybe?}]
 
-{She pointed me toward a man who was wearing green and kind of a wizard like hat. I began to follow but wanted to be courteous, so I called back:}
+print {I bent over to get a closer look but bumped my head rather phenomenally, despite not seeing anything to bump into. My head hurt and I could see a spot of blood in my field of vision, as if I were wearing glasses and some blood from my head had gotten onto them. But I didn't seem to be wearing glasses. Mercifully I woke up, but into a false awakening with someone coming into my room who just left town.}
 
-[me: "Thank you..."]
+dialog [
 
-[receptionist: "You're welcome."]
+    me: "But... didn't you just leave town?"
 
-{The room the man led me into had a surgical theme but did not look very clean or surgical. There were a few tables, and a few computers. By the time I was in the room a man at a computer was doing something and he just started punching at the screen. As he did I could feel various parts of my body tingle, one after another as if they were being given mild electric shocks.}
+    her: "Nope..."
 
-[surgeon: {Oh. Hm. You are interesting. Yes, this is very interesting.}]
+    me: "I think you did, and I'm not awake yet."
 
-{He pulled out some kind of device and began pointing it at me, causing various deformations of my body.}
+]
 
-[surgeon: "Goodness, I feel sorry for you!"]
+print {This was followed by what felt like a real awakening, and my desktop iMac camera light came on and began flashing furiously.}
 
-[me: {Well, me too, but...bear in mind, I didn't design my body. May have maintained it poorly, but there were flaws from the inception.}]
+picture %imac-isight.jpg
 
-{Though in some ways I felt kind of better from what he was doing in terms of my internals, my external body started to warp badly. I no longer could really move my fingers, it was more like I had them stuck together. He took me to just a random wall. It was kind of a weird place, where illegible letters and logos were written, it was dark and I could only see a couple of them.}
+note {In theory it is not possible to turn on the camera from remote, but of course it is with hacking or trickery. Harder would be to turn it on without turning on the light, as that's probably in the hardware.}
 
-[surgeon: "Can you see any of that? Try and point."]
+print << [
 
-{While experiencing great discomfort, I traced my maimed hands over the parts that weren't obscured.}
+    {The room started dissolving and I was sucked up into a crazy skyscape, and then into space with a bunch of colored plastic objects. This was a long and odd sequence. It was freaky and at the same time kind of serene, I didn't feel uncomfortable...but then I thought about all kinds of risks or bad things. The idea of being stuck flying through this weird screensaver space forever all by myself had me a little panicked, as did the idea of all the objects ganging up and enclosing me. It looked like it might happen sometimes but then they backed off.}
 
-[me: "AAAP common?"]
+    {At one point I was looking at a perfect plastic red sphere whose surface was puzzle pieces. One of the puzzle pieces popped off and started flying at me through space. It came forward and I tried to reach out to grab it but merely altered its course so that it bopped me in the eye. More startling than painful, it made it so that one eye opened and I could see what appeared to be the view out of my eye in my room where I was asleep. I managed to coax it closed again.}
 
-"My deformed self awoke after this."
+    {Most of the objects were strange plastic squiggles, balls, and other assorted doodads that were flocking around me. The only exception really was a TV object that was running a video of people in a room playing pool. I began to wonder about the ability to push through one of these screens into a 3D world like the one I am used to while awake, because that would really represent a 'new dimension'.}
 
-[note
+]
 
-    {With all the apple references here, "AAAP common" reminds me upon awakening of "AAPL common shares of stock". At the time I was thinking, like, is this AARP? The acronym has meaning however for [American Academy for Addiction Psychiatry](http://www.aaap.org/)...and more sinisterly for the [American Association of Avian Pathologists](http://www.aaap.info/mc/page.do)!}
+note [
 
-    {One might wonder why someone with high-technology androids and "new dimensions" of 3D would bother to brutally disfigure someone from 2008 using high technology after uploading them through their iMac. But beyond the idea of being crippled to be turned into FuturePoultry, there are more plausible theories.}
+    print {In retrospect it reminds me of this Pet Shop Boys video, in which plastic-looking computer generated objects are flying through space for no apparent reason:}
 
-    {One is that I was actually very messed up to start with--and they were merely bringing more awareness and feeling to me so I could see what form I'd actually arrived in, rather than a projection of my consciousness based on my perception of myself while awake. Also, they could have been trying to rebuild me from my perception...perhaps getting it wrong because my brain is hard to read?}
+    youtube [http://www.youtube.com/v/VBHan-Pch5M 425x344]
+
+    print {But these objects were all bright primary colors, and the space I was flying through was a fairly stark looking black.}
+
+]
+
+print {There was some kind of song playing. It was soft but audible. Roughly paraphrasing its central message:}
+
+quote {Welcome to an all new dimension...a whole new world to see...}
+
+dialog [
+
+    me: <to space> {Is this all like, marketing material? Some kind of splash screen, like 'welcome to microsoft windows, a more productive way to work'?}
+
+    disembodied-mechanical-voice: "Welcome screen."
+
+]
+
+print {I started floating into a busy and very modern looking terminal area, which had no visible end to its height. There were signs but one that caught my attention was If you are participating in the Apple Hard Drive recall program, then [something]. The place I ended up landing was some kind of clinic, and I was at the reception desk. A bright pink android woman, with a plastic caricature of a "sexy nurse" body, was there.}
+
+note [
+
+    print "Imagine this type of plastic body..."
+
+    picture %robot-f6800.jpg
+
+    print "...but pink and in a white nurse's outfit."
+
+]
+
+dialog [
+
+    me: {Excuse me, I'm confused and typically I just wake up, I don't know what's going on.}
+
+    receptionist: "Right over there."
+
+]
+
+print {She pointed me toward a man who was wearing green and kind of a wizard like hat. I began to follow but wanted to be courteous, so I called back:}
+
+dialog [
+
+    me: "Thank you..."
+
+    receptionist: "You're welcome."
+
+]
+
+print {The room the man led me into had a surgical theme but did not look very clean or surgical. There were a few tables, and a few computers. By the time I was in the room a man at a computer was doing something and he just started punching at the screen. As he did I could feel various parts of my body tingle, one after another as if they were being given mild electric shocks.}
+
+dialog [surgeon: {Oh. Hm. You are interesting. Yes, this is very interesting.}]
+
+print {He pulled out some kind of device and began pointing it at me, causing various deformations of my body.}
+
+dialog [
+
+    surgeon: "Goodness, I feel sorry for you!"
+
+    me: {Well, me too, but...bear in mind, I didn't design my body. May have maintained it poorly, but there were flaws from the inception.}
+
+]
+
+print {Though in some ways I felt kind of better from what he was doing in terms of my internals, my external body started to warp badly. I no longer could really move my fingers, it was more like I had them stuck together. He took me to just a random wall. It was kind of a weird place, where illegible letters and logos were written, it was dark and I could only see a couple of them.}
+
+dialog [surgeon: "Can you see any of that? Try and point."]
+
+print {While experiencing great discomfort, I traced my maimed hands over the parts that weren't obscured.}
+
+dialog [me: "AAAP common?"]
+
+print "My deformed self awoke after this."
+
+note [
+
+    print << [
+
+        {With all the apple references here, "AAAP common" reminds me upon awakening of "AAPL common shares of stock". At the time I was thinking, like, is this AARP? The acronym has meaning however for [American Academy for Addiction Psychiatry](http://www.aaap.org/)...and more sinisterly for the [American Association of Avian Pathologists](http://www.aaap.info/mc/page.do)!}
+
+        {One might wonder why someone with high-technology androids and "new dimensions" of 3D would bother to brutally disfigure someone from 2008 using high technology after uploading them through their iMac. But beyond the idea of being crippled to be turned into FuturePoultry, there are more plausible theories.}
+
+        {One is that I was actually very messed up to start with--and they were merely bringing more awareness and feeling to me so I could see what form I'd actually arrived in, rather than a projection of my consciousness based on my perception of myself while awake. Also, they could have been trying to rebuild me from my perception...perhaps getting it wrong because my brain is hard to read?}
+
+    ]
 
 ]

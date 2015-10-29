@@ -5,42 +5,58 @@ Draem [
     tags: [non-lucid-dream bathroom sexual positive]
 ]
 
-{The details of the situation are a bit fuzzy, but I was at some kind of party with questions about where I was staying or should be.  I was downstairs with people talking in friendly company, and I was trying to make a plan.  I decided it would be best if I took a shower.}
+print << [
 
-{I went up some stairs and there was a kitchen-type area with several women in it, adjacent to a bathroom.  I went into the bathroom to take a shower.  There was a bathtub with a translucent shower curtain, and I got into it.}
+    {The details of the situation are a bit fuzzy, but I was at some kind of party with questions about where I was staying or should be.  I was downstairs with people talking in friendly company, and I was trying to make a plan.  I decided it would be best if I took a shower.}
 
-[note {I do not recall any undressing to get into the shower, I just was nude while being in it.}]
+    {I went up some stairs and there was a kitchen-type area with several women in it, adjacent to a bathroom.  I went into the bathroom to take a shower.  There was a bathtub with a translucent shower curtain, and I got into it.}
 
-{Due to the translucent shower curtain I could still see the door.  It opened and I looked back at it, and I did not have a sense of panic.}
+]
 
-[note {While I have the usual hang-ups about nudity in public that many might, it's not all that out of character for me to not care.  I went to Burning Man in 2000, I showered naked in the desert in public--I consider worry about nakedness to be more other people's issue than my own.}]
+note {I do not recall any undressing to get into the shower, I just was nude while being in it.}
 
-{I could see a blond girl looking in at me through the shower curtain.  I looked back with a sort of pose, and she seemed to find it amusing.}
+print {Due to the translucent shower curtain I could still see the door.  It opened and I looked back at it, and I did not have a sense of panic.}
 
-[blond-girl: "Nice dick!"]
+note {While I have the usual hang-ups about nudity in public that many might, it's not all that out of character for me to not care.  I went to Burning Man in 2000, I showered naked in the desert in public--I consider worry about nakedness to be more other people's issue than my own.}
 
-[me: "Errr.... thanks?!"]
+print {I could see a blond girl looking in at me through the shower curtain.  I looked back with a sort of pose, and she seemed to find it amusing.}
 
-{She closed the door.}
+dialog [
 
-{I resumed showering but the door opened again, and she came in with an orange bottle that seemed like it would contain liquid soap or lotion of some kind.  It was manufactured in such a way that the tip reminded me of Elmer's glue--it had a kind of orange ribbing with a white tip.  The base it rested on had two molded spherical pieces on it; also made of the orange plastic.  It was labeled "Nice Dick".}
+    blond-girl: "Nice dick!"
 
-[note {It looked to be what might be considered a sort of gag-gift in the universe I live in--as if you would make a body wash specifically for male genitalia in a funny shaped bottle.  Similar products do exist and are sold at novelty "adult" stores; they are jokes.}]
+    me: "Errr.... thanks?!"
 
-{The girl had come in giving me sort of a look and I was feeling playful about it.  So I decided to respond to the funny bottle.}
+]
 
-[me: <lasciviously> {Well...I don't know, what to do with this.  Maybe someone could come in here and help me figure out...how to...apply it.}]
+print << [
 
-{I had a vague feeling that I'd had a sexual experience very recently and was a bit "spent".  I do not remember why I felt that way, because it is prior to this portion that I remember.  But I was more joking than actually soliciting sex within the context; again in the gag context.}
+    "She closed the door."
 
-{Yet the blond girl came back in, undressed, and hopped into the tub-shower with me.  She seemed to want to avoid the water so I pointed the shower head away from her.  We embraced and were kissing and nude, and she was hopping onto me grinding her crotch region against mine.  She was attractive, but I was not in an amorous mood.  And there was a very odd sensation that felt as if my genitals were being bitten and licked vs just being rubbed against; surreal but not so surreal as to cue me into lucidity, apparently.}
+    {I resumed showering but the door opened again, and she came in with an orange bottle that seemed like it would contain liquid soap or lotion of some kind.  It was manufactured in such a way that the tip reminded me of Elmer's glue--it had a kind of orange ribbing with a white tip.  The base it rested on had two molded spherical pieces on it; also made of the orange plastic.  It was labeled "Nice Dick".}
 
-[me: <awkwardly> {Where were *you* an hour ago?}]
+]
 
-[note {I'm not really sure why I said this; but the suggestion I was making was that whatever it was she was doing sexually was more aggressive than the unknown encounter I felt had predated this one at the party.  Basically, I was not in a state for that level of intensity.}]
+note {It looked to be what might be considered a sort of gag-gift in the universe I live in--as if you would make a body wash specifically for male genitalia in a funny shaped bottle.  Similar products do exist and are sold at novelty "adult" stores; they are jokes.}
 
-{Then my gaze sort of fixed on the girl herself a bit.  I had the I-don't-know-where-it-came-from knowledge that her name as I'd been introduced at the party was "J.C.Penney".  The only lucidity I can really talk about is at the point of realizing the oddity of that, and wanting to impart some knowledge to her:}
+print {The girl had come in giving me sort of a look and I was feeling playful about it.  So I decided to respond to the funny bottle.}
 
-[me: <semi-lucid> {Sorry to spoil any romance here, but there's something I want to mention about your name.  I don't know if you know this or not: but "J.C.Penney" is a retail chain of stores selling mostly clothes but some other miscellaneous stuff.  And it hasn't been doing well lately, it's a bit of the [butt of jokes](http://www.homestarrunner.com/sbemail143.html).  'Penny' is the name of girls sometimes, but it's currency...and was the name of the dog of a girl I dated.  Anyway, you might want to look into what "J.C.Penney" is because I think it was named after some...old guy who founded department stores?}]
+dialog [me: <lasciviously> {Well...I don't know, what to do with this.  Maybe someone could come in here and help me figure out...how to...apply it.}]
 
-[note {[James Cash Penney](http://en.wikipedia.org/wiki/James_Cash_Penney) founded J.C.Penney stores in 1902, according to Wikipedia.  This girl was a lot hotter.  :-)  I will also mention that sex in showers not working very well in dreams is not all that surprising, as in "real life" I find it to be awkward and problematic.  It's also a bit dangerous, especially standing up.}]
+print << [
+
+    {I had a vague feeling that I'd had a sexual experience very recently and was a bit "spent".  I do not remember why I felt that way, because it is prior to this portion that I remember.  But I was more joking than actually soliciting sex within the context; again in the gag context.}
+
+    {Yet the blond girl came back in, undressed, and hopped into the tub-shower with me.  She seemed to want to avoid the water so I pointed the shower head away from her.  We embraced and were kissing and nude, and she was hopping onto me grinding her crotch region against mine.  She was attractive, but I was not in an amorous mood.  And there was a very odd sensation that felt as if my genitals were being bitten and licked vs just being rubbed against; surreal but not so surreal as to cue me into lucidity, apparently.}
+
+]
+
+dialog [me: <awkwardly> "Where were *you* an hour ago?"]
+
+note {I'm not really sure why I said this; but the suggestion I was making was that whatever it was she was doing sexually was more aggressive than the unknown encounter I felt had predated this one at the party.  Basically, I was not in a state for that level of intensity.}
+
+print {Then my gaze sort of fixed on the girl herself a bit.  I had the I-don't-know-where-it-came-from knowledge that her name as I'd been introduced at the party was "J.C.Penney".  The only lucidity I can really talk about is at the point of realizing the oddity of that, and wanting to impart some knowledge to her:}
+
+dialog [me: <semi-lucid> {Sorry to spoil any romance here, but there's something I want to mention about your name.  I don't know if you know this or not: but "J.C.Penney" is a retail chain of stores selling mostly clothes but some other miscellaneous stuff.  And it hasn't been doing well lately, it's a bit of the [butt of jokes](http://www.homestarrunner.com/sbemail143.html).  'Penny' is the name of girls sometimes, but it's currency...and was the name of the dog of a girl I dated.  Anyway, you might want to look into what "J.C.Penney" is because I think it was named after some...old guy who founded department stores?}]
+
+note {[James Cash Penney](http://en.wikipedia.org/wiki/James_Cash_Penney) founded J.C.Penney stores in 1902, according to Wikipedia.  This girl was a lot hotter.  :-)  I will also mention that sex in showers not working very well in dreams is not all that surprising, as in "real life" I find it to be awkward and problematic.  It's also a bit dangerous, especially standing up.}

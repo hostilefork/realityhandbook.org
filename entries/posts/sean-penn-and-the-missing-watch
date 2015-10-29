@@ -5,72 +5,96 @@ Draem [
     tags: [negative attack names conspiracy lucid-dream]
 ]
 
-{I was driving and trying to navigate some city streets and highways.  There were turn-only lanes and overpasses, and for some reason I felt like for the sake of proving something to myself I wanted to just reason through how to get to my location.}
+print << [
 
-{However, I got stuck into a right turn when I wanted to go left.  I figured I'd just circle around the block, but the path led to a dead end, and all the traffic around me of people in cars turned into people outside of cars.  This happened after dead-ending in a place that looked like an auto garage of some kind.  Strangely I had been wrestling trying to pull on my pants while operating the car, and now I was wearing pants but missing shoes.}
+    {I was driving and trying to navigate some city streets and highways.  There were turn-only lanes and overpasses, and for some reason I felt like for the sake of proving something to myself I wanted to just reason through how to get to my location.}
 
-{This auto garage had lanes for cars, but it also had some kind of an exhibition area with rows of seating.  The people filing in were taking seats, and at every seat there was a cup with some red punch in it.  At the center of the display were some cars that were mounted and aloft, and diagrams...as if they were introducing new models for people to look at.}
+    {However, I got stuck into a right turn when I wanted to go left.  I figured I'd just circle around the block, but the path led to a dead end, and all the traffic around me of people in cars turned into people outside of cars.  This happened after dead-ending in a place that looked like an auto garage of some kind.  Strangely I had been wrestling trying to pull on my pants while operating the car, and now I was wearing pants but missing shoes.}
 
-{Wanting to get back on track toward my initial destination, I just got busy on looking for an exit from the auto garage that would let me turn around and get back.  But I had to walk past the people who were looking at the drinks.}
+    {This auto garage had lanes for cars, but it also had some kind of an exhibition area with rows of seating.  The people filing in were taking seats, and at every seat there was a cup with some red punch in it.  At the center of the display were some cars that were mounted and aloft, and diagrams...as if they were introducing new models for people to look at.}
 
-[first-man: <to another> {Well, it looks like you're doing better than I did.  You've got a cup for everyone and it's full.  I ran out and didn't have enough for everyone.}]
+    {Wanting to get back on track toward my initial destination, I just got busy on looking for an exit from the auto garage that would let me turn around and get back.  But I had to walk past the people who were looking at the drinks.}
 
-[second-man: {We should be able to provide food for everyone at the meeting also.  We'll see if we can pull that off.}]
+]
 
-[first-man: {Well, it's not like anything happens if you run out, as I learned.  You might be doing a lot of thankless work for nothing!}]
+dialog [
 
-[second-man: {We'll see about that... the jury is still out on your failure, and they're appointing a new judge.  A woman judge.  And she might not go easy on you.}]
+    first-man: <to another> {Well, it looks like you're doing better than I did.  You've got a cup for everyone and it's full.  I ran out and didn't have enough for everyone.}
 
-{I didn't want to figure out what they were talking about and just skipped out of there, climbing a staircase and trying to find an exit.  I'd wanted to make a right turn before, so I tried to keep a compass on the building such that I'd find a door out that would be equivalent to what had been a right turn when I first drove into the garage.}
+    second-man: {We should be able to provide food for everyone at the meeting also.  We'll see if we can pull that off.}
 
-{After climbing some stairs I saw a large reception desk with lots of files--a bit like a reception desk in a hospital, but people were not dressed in medical clothes.  I could kind of see a door that looked like an exit through a window in a dividing wall, but not how to reach it.  I addressed a secretary.}
+    first-man: {Well, it's not like anything happens if you run out, as I learned.  You might be doing a lot of thankless work for nothing!}
 
-[me: {Ummm... I feel like I'm trapped in there.  Is there a gateway of this building?  Something that leads to the "real world"?}]
+    second-man: {We'll see about that... the jury is still out on your failure, and they're appointing a new judge.  A woman judge.  And she might not go easy on you.}
 
-{I chuckled as I made air quotes and suggested a door could lead me to the real world, and the absurdity of the situation made me realize it was a dream.  I snapped into awareness.}
+]
 
-[secretary: <pointing> {You can reach the door if you go around that way.}]
+print << [
 
-[me: {Thanks, though I don't know what good it'll do.  We'll see.  "Outside" awaits, eh?"}]
+    {I didn't want to figure out what they were talking about and just skipped out of there, climbing a staircase and trying to find an exit.  I'd wanted to make a right turn before, so I tried to keep a compass on the building such that I'd find a door out that would be equivalent to what had been a right turn when I first drove into the garage.}
 
-[secretary: {See you later, Sean Penn}]
+    {After climbing some stairs I saw a large reception desk with lots of files--a bit like a reception desk in a hospital, but people were not dressed in medical clothes.  I could kind of see a door that looked like an exit through a window in a dividing wall, but not how to reach it.  I addressed a secretary.}
 
-{I noticed a name badge hanging around the doorknob of the door that said "Brian".  I turned and questioned.}
+]
 
-[me: {So... why would you call me Sean Penn?  What reason would you have for doing so?  Because I go by "Brian" usually.}]
+dialog [me: {Ummm... I feel like I'm trapped in there.  Is there a gateway of this building?  Something that leads to the "real world"?}]
 
-{The secretary pulled a file.}
+print {I chuckled as I made air quotes and suggested a door could lead me to the real world, and the absurdity of the situation made me realize it was a dream.  I snapped into awareness.}
 
-[secretary: <shrugging> {It's what it says in the file.  I can correct it if you like.}]
+dialog [
 
-[me: {May I see?}]
+    secretary: <pointing> "You can reach the door if you go around that way."
 
-{She scratched out the Sean Penn on the file folder, but I saw that she had a large number of folders.  The one that had said "Sean Penn" had just a single piece of paper it it.  It seemed like a printout series of Twitter messages, and there was a message that started `@SeanPenn`.  The print had a number of letters, some of which had been crossed out and others hadn't.}
+    me: {Thanks, though I don't know what good it'll do.  We'll see.  "Outside" awaits, eh?"}
 
-[me: {Oh no.  You see, this is... not what you think.  That `@` symbol is addressing a message to someone, so what you're reading is a message TO the Sean Penn twitter account.  The "At" symbol does not denote the identity of the sender, but rather the recipient.}]
+    secretary: "See you later, Sean Penn"
 
-{Upon closer examination, I noticed that the message was printed but had markings on it, crossing out some letters with marks at various angles.  The non-crossed out letters were the name of an ex-girlfriend.}
+]
 
-[me: <frustrated> {Oh no.  This... this all may be my fault.  There was this girl I really liked once, and I started learning about all this, and I may wind up spending eternity unwinding it.  No one I know can operate at this level.}]
+print {I noticed a name badge hanging around the doorknob of the door that said "Brian".  I turned and questioned.}
 
-{A thin young man approached and fixed his glare upon me, as he began manipulating folders.}
+dialog [me: {So... why would you call me Sean Penn?  What reason would you have for doing so?  Because I go by "Brian" usually.}]
 
-[me: "Have you ever seen the movie 'A Beautiful Mind'?"]
+print "The secretary pulled a file."
 
-[thin-man: "Yes."]
+dialog [
 
-[me: {Well I'll pretend for a moment that when you say yes that you have seen the same thing I've seen, though in contexts like this I have no way of knowing.  Anyway, I delve into all this and am pretty sure it fits into a system I have uncovered, and I would think that if anyone has seen this stuff it's probably him.}]
+    secretary: <shrugging> {It's what it says in the file.  I can correct it if you like.}
 
-{The thin man seemed to be aligning his body against mine so as I talked his leg would move where mine moved, it was too close for comfort.}
+    me: "May I see?"
 
-[thin-man: {There's that which people know and that which they do not.}]
+]
 
-{He grabbed my wrist and looked at it.}
+print {She scratched out the Sean Penn on the file folder, but I saw that she had a large number of folders.  The one that had said "Sean Penn" had just a single piece of paper it it.  It seemed like a printout series of Twitter messages, and there was a message that started `@SeanPenn`.  The print had a number of letters, some of which had been crossed out and others hadn't.}
 
-[thin-man: {Do you know where your watch is?}]
+dialog [me: {Oh no.  You see, this is... not what you think.  That `@` symbol is addressing a message to someone, so what you're reading is a message TO the Sean Penn twitter account.  The "At" symbol does not denote the identity of the sender, but rather the recipient.}]
 
-[note {I have three watches which are part of a little artistic triad I have, and I could not in the moment of the dream recall if I had gotten rid of them or not.  They have accompanied me in several photos and been through a lot.  None of them are able to keep time, but they can be set to values.  Two of them may not be able to function as watches but they can animate... it's a long story.  Perhaps one worth telling at some point.}]
+print {Upon closer examination, I noticed that the message was printed but had markings on it, crossing out some letters with marks at various angles.  The non-crossed out letters were the name of an ex-girlfriend.}
 
-[me: <pensive> {I... I'm not sure.}]
+dialog [me: <frustrated> {Oh no.  This... this all may be my fault.  There was this girl I really liked once, and I started learning about all this, and I may wind up spending eternity unwinding it.  No one I know can operate at this level.}]
 
-{The man gave me an evil, gleeful look and hoisted himself somehow such that his legs wrapped around my midsection, causing me to wake up.}
+print {A thin young man approached and fixed his glare upon me, as he began manipulating folders.}
+
+dialog [
+
+    me: "Have you ever seen the movie 'A Beautiful Mind'?"
+
+    thin-man: "Yes."
+
+    me: {Well I'll pretend for a moment that when you say yes that you have seen the same thing I've seen, though in contexts like this I have no way of knowing.  Anyway, I delve into all this and am pretty sure it fits into a system I have uncovered, and I would think that if anyone has seen this stuff it's probably him.}
+
+]
+
+print {The thin man seemed to be aligning his body against mine so as I talked his leg would move where mine moved, it was too close for comfort.}
+
+dialog [thin-man: {There's that which people know and that which they do not.}]
+
+print "He grabbed my wrist and looked at it."
+
+dialog [thin-man: "Do you know where your watch is?"]
+
+note {I have three watches which are part of a little artistic triad I have, and I could not in the moment of the dream recall if I had gotten rid of them or not.  They have accompanied me in several photos and been through a lot.  None of them are able to keep time, but they can be set to values.  Two of them may not be able to function as watches but they can animate... it's a long story.  Perhaps one worth telling at some point.}
+
+dialog [me: <pensive> "I... I'm not sure."]
+
+print {The man gave me an evil, gleeful look and hoisted himself somehow such that his legs wrapped around my midsection, causing me to wake up.}

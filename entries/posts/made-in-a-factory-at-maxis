@@ -6,64 +6,84 @@ Draem [
     old: http://realityhandbook.livejournal.com/124127.html
 ]
 
-{I'd walked through a party area that looked like a movie theater, but had a number of rooms. One of the rooms I stepped into I ran into some stack of photographs, that I began sorting. A young guy in a baseball cap was watching.}
+print {I'd walked through a party area that looked like a movie theater, but had a number of rooms. One of the rooms I stepped into I ran into some stack of photographs, that I began sorting. A young guy in a baseball cap was watching.}
 
-[me: {Hmmm... this... this one isn't right, that never happened. This one did. This one didn't.}]
+dialog [
 
-[guy: <sad> {I'm afraid this is what people are going to be like with my music. Breaking it up into the parts of me they'll accept and the parts they won't.}]
+    me: {Hmmm... this... this one isn't right, that never happened. This one did. This one didn't.}
 
-[note {I was picking out the pictures of things that had happened on a road trip I took, and pictures of things I couldn't remember or with people in it who didn't look like me. I don't know what he was referring to, but I became lucid and decided to chat a bit.}]
+    guy: <sad> {I'm afraid this is what people are going to be like with my music. Breaking it up into the parts of me they'll accept and the parts they won't.}
 
-[me: {Ever hear that one by Tears for Fears called 'Goodnight Song'?}]
+]
 
-[him: "No..."]
+note {I was picking out the pictures of things that had happened on a road trip I took, and pictures of things I couldn't remember or with people in it who didn't look like me. I don't know what he was referring to, but I became lucid and decided to chat a bit.}
 
-[me: <singing> {Get some honesty... take the best of me and then the rest let go...}]
+dialog [
 
-[him: "Interesting."]
+    me: {Ever hear that one by Tears for Fears called 'Goodnight Song'?}
 
-[me: "Well, I wouldn't be too stressed."]
+    him: "No..."
 
-[him: {I'll think about it, but I'm going back to the party.}]
+    me: <singing> {Get some honesty... take the best of me and then the rest let go...}
 
-[me: "Why? This is a dream."]
+    him: "Interesting."
 
-[him: <sadly> {Yes, that's what it is. It's all just a bad, bad dream.}]
+    me: "Well, I wouldn't be too stressed."
 
-[me: {What's bad about it? Nothing's happened that bad yet, anyway.}]
+    him: {I'll think about it, but I'm going back to the party.}
 
-[him: {Guess it doesn't really matter to you. You were made in a factory at Maxis.}]
+    me: "Why? This is a dream."
 
-[note {Maxis as-we-know-it is a video game studio, makers of "SimCity" and, more relevantly, "The Sims".}]
+    him: <sadly> {Yes, that's what it is. It's all just a bad, bad dream.}
 
-[me: {Hold up! What do you mean? Can you tell me anything that would be useful?}]
+    me: {What's bad about it? Nothing's happened that bad yet, anyway.}
 
-[him: {Well, I can try. See, my cousin worked with this guy, who...}]
+    him: {Guess it doesn't really matter to you. You were made in a factory at Maxis.}
 
-[note {He talked for a while, but it wasn't particularly easy to follow and he wasn't getting to any clear point.}]
+]
 
-[me: {This isn't useful and I'm going to wake up, I'm undergoing a lot of pain at the moment. Can you just get to the point? SOME piece of useful information?}]
+note {Maxis as-we-know-it is a video game studio, makers of "SimCity" and, more relevantly, "The Sims".}
 
-[him: "I don't... remember, I guess."]
+dialog [
 
-{At this point, the room had kind of filled with a bunch of polygonal 3D models that were much larger than I was. One of a bodybuilder, but he had really large testicles.}
+    me: {Hold up! What do you mean? Can you tell me anything that would be useful?}
 
-[me: {Come on. Looks like you'd have the cojones to tell me something useful.}]
+    him: {Well, I can try. See, my cousin worked with this guy, who...}
 
-[testicle-guy: "Oh yeah?"]
+]
 
-{Small white spheres began shooting out of his crotch. Another large 3D model of a woman, who found this funny, decided to start shooting small white spheres out of her crotch at me. The resulting sensation was of being sprayed with water more or less, in both cases. I glared at them and began shouting out anything I could think of.}
+note {He talked for a while, but it wasn't particularly easy to follow and he wasn't getting to any clear point.}
 
-[me: "Shields on."]
+dialog [
 
-{The spray sensation stopped and the balls could suddenly not get very close to me.}
+    me: {This isn't useful and I'm going to wake up, I'm undergoing a lot of pain at the moment. Can you just get to the point? SOME piece of useful information?}
 
-[me: "Show model mesh."]
+    him: "I don't... remember, I guess."
 
-{The wire mesh of the 3D model sprang on top of the 3D.}
+]
 
-[me: {Flatten all vertices to Z=0 and disconnect control from client.}]
+print {At this point, the room had kind of filled with a bunch of polygonal 3D models that were much larger than I was. One of a bodybuilder, but he had really large testicles.}
 
-{Her model collapsed completely, and stopped moving. Everyone in the room went into a panic. The next line I sang as a little song...}
+dialog [
 
-[me: {This is a warning... and now you've all been warned!}]
+    me: {Come on. Looks like you'd have the cojones to tell me something useful.}
+
+    testicle-guy: "Oh yeah?"
+
+]
+
+print {Small white spheres began shooting out of his crotch. Another large 3D model of a woman, who found this funny, decided to start shooting small white spheres out of her crotch at me. The resulting sensation was of being sprayed with water more or less, in both cases. I glared at them and began shouting out anything I could think of.}
+
+dialog [me: "Shields on."]
+
+print {The spray sensation stopped and the balls could suddenly not get very close to me.}
+
+dialog [me: "Show model mesh."]
+
+print {The wire mesh of the 3D model sprang on top of the 3D.}
+
+dialog [me: {Flatten all vertices to Z=0 and disconnect control from client.}]
+
+print {Her model collapsed completely, and stopped moving. Everyone in the room went into a panic. The next line I sang as a little song...}
+
+dialog [me: {This is a warning... and now you've all been warned!}]

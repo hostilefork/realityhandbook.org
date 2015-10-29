@@ -5,68 +5,100 @@ Draem [
     tags: [lucid-dream neutral helpful attack mind-people dogs]
 ]
 
-{I was speaking to some strange looking beings in a room, and asked them what they were.}
+print {I was speaking to some strange looking beings in a room, and asked them what they were.}
 
-[being: {We're artificial intelligences. These are costumes.}]
+dialog [
 
-[me: "Am I an artificial intelligence?"]
+    being: {We're artificial intelligences. These are costumes.}
 
-[being: {There's really no way of knowing. You could be. Your presence here is only a little of the interface. You could be anything, really.}]
+    me: "Am I an artificial intelligence?"
 
-{A dog jumped up and began to lick and interfere with me in a way that would eventually lead to waking me up if unabated.}
+    being: {There's really no way of knowing. You could be. Your presence here is only a little of the interface. You could be anything, really.}
 
-[me: "Can you do anything to help?"]
+]
 
-[being: "Not really. You could try licking *him*..."]
+print {A dog jumped up and began to lick and interfere with me in a way that would eventually lead to waking me up if unabated.}
 
-{I licked at the dog, it didn't seem to work. I struggled and the room began to go dim as the dog encroached upon me, until at a certain point I began kind of scratching at him and playing and saying positive things.}
+dialog [
 
-[me: "Good boy! That's a good dog!"]
+    me: "Can you do anything to help?"
 
-[being: {I think it's a little late to take that approach...}]
+    being: "Not really. You could try licking *him*..."
 
-{However, I seemed to manage to get the dog to be playful and disengage, he started looking less like a pitbull and more like a terrier. As I was essentially on a bed of some kind at this point, I picked him up and gave him a hard toss off the bed. He jumped back on, in a furious attack.}
+]
 
-[being: <laughing> "He did NOT like that!"]
+print {I licked at the dog, it didn't seem to work. I struggled and the room began to go dim as the dog encroached upon me, until at a certain point I began kind of scratching at him and playing and saying positive things.}
 
-[me: "Well I didn't do it to try and please him."]
+dialog [
 
-{I kept dodging a bit and then threw him again, this time he seemed to be caught in the mouth of another dog who swallowed him. Then this second dog jumped on the bed too. I pet the dog a little, it had a long poodle-like face and a pink collar. She was anxious and seemed to back away from my hand.}
+    me: "Good boy! That's a good dog!"
 
-[being: "She's very delicate."]
+    being: {I think it's a little late to take that approach...}
 
-[me: {Okay, well...hey, thanks for eating that other dog.}]
+]
 
-{Getting up I began to wander in the room which had changed. There was a middle-aged looking woman with glasses, who I began to relate the story to.}
+print {However, I seemed to manage to get the dog to be playful and disengage, he started looking less like a pitbull and more like a terrier. As I was essentially on a bed of some kind at this point, I picked him up and gave him a hard toss off the bed. He jumped back on, in a furious attack.}
 
-[me: {I don't know what I'm supposed to do about all this. I live in a time around 1980...well, more precisely it's...2011. November 2011. But when I go to sleep I wind up all over the place. Like just now I was talking to AI researchers who were themselves AIs, and someone from an AI costume department. Do you know what I'm talking about when I talk about date ranges like 1980 through 2011?}]
+dialog [
 
-[glasses-woman: {Oh yes. I've seen pictures, I saw pictures of...an In-N-Out container.}]
+    being: <laughing> "He did NOT like that!"
 
-[me: "In-N-Out burger? The restaurant?"]
+    me: "Well I didn't do it to try and please him."
 
-[glasses-woman: "Yes, didn't you have those?"]
+]
 
-[me: "Um. Yes."]
+print {I kept dodging a bit and then threw him again, this time he seemed to be caught in the mouth of another dog who swallowed him. Then this second dog jumped on the bed too. I pet the dog a little, it had a long poodle-like face and a pink collar. She was anxious and seemed to back away from my hand.}
 
-[glasses-woman: {And in those years of politics, weren't there 4 idealistic presidents and 4 selfish presidents? They were from two factions.}]
+dialog [
 
-[me: "The Republicans and the Democrats?"]
+    being: "She's very delicate."
 
-[glasses-woman: <laughing> {Yes that's right...the 'Republicans' and 'Democrats'.}]
+    me: {Okay, well...hey, thanks for eating that other dog.}
 
-[note {I may have heard the numbers wrong, although they're not that far off. If they'd said "3 idealistic presidents and 4 selfish presidents" and identified democrats as idealistic and republicans as selfish, then it would have actually been accurate.}]
+]
 
-{I started to feel threatened by some of the people around me, so I got up and began to run away. The room was large and the floor was smooth. I didn't run in a line, I kind of danced around a little bit. A group started to follow me and was intrigued by my movement, as if they'd never seen anyone walk in anything other than a straight line. I led a silly little dance and at times my body became constrained as I became aware of my physical body in the bed and how straight I was laying...but then I managed to twist and pop myself back into the dream body and untangle again.}
+print {Getting up I began to wander in the room which had changed. There was a middle-aged looking woman with glasses, who I began to relate the story to.}
 
-{After the dance had stopped, I re-found who I thought was the person I'd been talking to earlier.}
+dialog [
 
-[me: {You've demonstrated more understanding than is usual of where I'm from. But how does it relate to here? How do you know about it, and how did I come to travel here?}]
+    me: {I don't know what I'm supposed to do about all this. I live in a time around 1980...well, more precisely it's...2011. November 2011. But when I go to sleep I wind up all over the place. Like just now I was talking to AI researchers who were themselves AIs, and someone from an AI costume department. Do you know what I'm talking about when I talk about date ranges like 1980 through 2011?}
 
-{She got up and started walking with me down a hallway, and morphed through several forms. I could see out the windows all kinds of crazy things going on in the city environment outside, it was like the cartoon world from Who Framed Roger Rabbit. Her form following settled on the appearance of a walking blue character that somewhat resembled Dr. Manhattan from The Watchmen.}
+    glasses-woman: {Oh yes. I've seen pictures, I saw pictures of...an In-N-Out container.}
 
-[blue-man: {We Zen masters may be anywhere and at anywhen, for our minds are the machines in which we travel. William Gibson wrote that.}]
+    me: "In-N-Out burger? The restaurant?"
 
-[me: {He did? I can sort of understand what that means. But the problem is I'm not a zen master, and my mind isn't a time machine I seem to be able to control. I seem to just pop in and out randomly.}]
+    glasses-woman: "Yes, didn't you have those?"
 
-[blue-man: {You penetrate anything. So it is clear that your mind has managed to achieve a certain amount of compatibility with that of an entity few others have seen...the monster which most of us call God.}]
+    me: "Um. Yes."
+
+    glasses-woman: {And in those years of politics, weren't there 4 idealistic presidents and 4 selfish presidents? They were from two factions.}
+
+    me: "The Republicans and the Democrats?"
+
+    glasses-woman: <laughing> {Yes that's right...the 'Republicans' and 'Democrats'.}
+
+]
+
+note {I may have heard the numbers wrong, although they're not that far off. If they'd said "3 idealistic presidents and 4 selfish presidents" and identified democrats as idealistic and republicans as selfish, then it would have actually been accurate.}
+
+print << [
+
+    {I started to feel threatened by some of the people around me, so I got up and began to run away. The room was large and the floor was smooth. I didn't run in a line, I kind of danced around a little bit. A group started to follow me and was intrigued by my movement, as if they'd never seen anyone walk in anything other than a straight line. I led a silly little dance and at times my body became constrained as I became aware of my physical body in the bed and how straight I was laying...but then I managed to twist and pop myself back into the dream body and untangle again.}
+
+    {After the dance had stopped, I re-found who I thought was the person I'd been talking to earlier.}
+
+]
+
+dialog [me: {You've demonstrated more understanding than is usual of where I'm from. But how does it relate to here? How do you know about it, and how did I come to travel here?}]
+
+print {She got up and started walking with me down a hallway, and morphed through several forms. I could see out the windows all kinds of crazy things going on in the city environment outside, it was like the cartoon world from Who Framed Roger Rabbit. Her form following settled on the appearance of a walking blue character that somewhat resembled Dr. Manhattan from The Watchmen.}
+
+dialog [
+
+    blue-man: {We Zen masters may be anywhere and at anywhen, for our minds are the machines in which we travel. William Gibson wrote that.}
+
+    me: {He did? I can sort of understand what that means. But the problem is I'm not a zen master, and my mind isn't a time machine I seem to be able to control. I seem to just pop in and out randomly.}
+
+    blue-man: {You penetrate anything. So it is clear that your mind has managed to achieve a certain amount of compatibility with that of an entity few others have seen...the monster which most of us call God.}
+
+]

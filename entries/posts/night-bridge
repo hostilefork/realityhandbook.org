@@ -6,94 +6,134 @@ Draem [
     old: http://realityhandbook.livejournal.com/95920.html
 ]
 
-{I was watching a lot of information downloading, and somehow I could only see it when I had my glasses on. Keywords and text were going by, and then full graphical web pages--some of mine. They were being edited. When I took the glasses off, I couldn't see anything--so I kept trying to put them back on but they would fall off.}
+print {I was watching a lot of information downloading, and somehow I could only see it when I had my glasses on. Keywords and text were going by, and then full graphical web pages--some of mine. They were being edited. When I took the glasses off, I couldn't see anything--so I kept trying to put them back on but they would fall off.}
 
-[note {I had just seen a rather impressive [demo of Augmented Reality](http://www.youtube.com/watch?v=g8Eycccww6k) online, where you use video devices you are looking through to overlay imagery that has been referenced onto the real world.}]
+note {I had just seen a rather impressive [demo of Augmented Reality](http://www.youtube.com/watch?v=g8Eycccww6k) online, where you use video devices you are looking through to overlay imagery that has been referenced onto the real world.}
 
-{Wanting to see who was doing the editing, I started turning a mirror I was holding around until I realized somehow that it was a copy of me. Yet I felt the work that was being done on this page wasn't vandalism, but rather making notes and doing various bookkeeping about various countries. There was also a rearrangement of some musical scales.}
+print << [
 
-{So I wasn't angry, and I tried to engage the clone in conversation.}
+    {Wanting to see who was doing the editing, I started turning a mirror I was holding around until I realized somehow that it was a copy of me. Yet I felt the work that was being done on this page wasn't vandalism, but rather making notes and doing various bookkeeping about various countries. There was also a rearrangement of some musical scales.}
 
-[me: "Hey! Hey! Can we talk?"]
+    {So I wasn't angry, and I tried to engage the clone in conversation.}
 
-[clone: <sighing> "Yes, I suppose, I've got a little time."]
+]
 
-{At this point he morphed a little, and looked a bit like Gary Oldman's character from Batman.}
+dialog [
 
-[picture %oldman3.jpg]
+    me: "Hey! Hey! Can we talk?"
 
-[me: {I appreciate it. I'm not... look, I come to you not as if you're some kind of higher power, I just want to exchange information about what we know.}]
+    clone: <sighing> "Yes, I suppose, I've got a little time."
 
-[gary: {There are a lot of people coming right now who want to talk to you.}]
+]
 
-{I noticed a very strangely tall person standing next to me, and looking up saw it was Dave Gahan from Depeche Mode. He gave me a big bear hug from the back.}
+print {At this point he morphed a little, and looked a bit like Gary Oldman's character from Batman.}
 
-[dave: "Man, it is so good to see you."]
+picture %oldman3.jpg
 
-[me: {Um, look, thanks... it's good to see you too? I don't know if you're really Dave Gahan's spirit or whatever, and I don't see the point of a songwriting or karaoke contest to prove it. So thanks for the hug, but I was just told a lot of people are coming to talk to me. So please let me go see who all that is.}]
+dialog [
 
-{Shaking off his embrace, I walked into the next room. A crowd of people started arriving and making a din and surrounding me.}
+    me: {I appreciate it. I'm not... look, I come to you not as if you're some kind of higher power, I just want to exchange information about what we know.}
 
-[me: {It's too loud. I can't concentrate. Please speak one at a time. I want to go around to each of you and have you say who you are, and then tell me why you wanted to talk to me.}]
+    gary: {There are a lot of people coming right now who want to talk to you.}
 
-{The first person who approached me was a youngish man, who looked at me awkwardly.}
+]
 
-[awkward-man: {Uh, actually, I didn't come here to speak specifically to you. But I had a thought.}]
+print {I noticed a very strangely tall person standing next to me, and looking up saw it was Dave Gahan from Depeche Mode. He gave me a big bear hug from the back.}
 
-[me: {Thoughts are great, but let's put you in *Category B* then. If the thought's not just for me, write it down somewhere and send a link to everyone who might be interested. Now is there anyone here who's in what I'll call *Category A*... which is people who wanted to speak to *me* in particular?}]
+dialog [
 
-{A chubby man in what looked like a wheelchair raised his hand.}
+    dave: "Man, it is so good to see you."
 
-[me: "Okay, what's up?"]
+    me: {Um, look, thanks... it's good to see you too? I don't know if you're really Dave Gahan's spirit or whatever, and I don't see the point of a songwriting or karaoke contest to prove it. So thanks for the hug, but I was just told a lot of people are coming to talk to me. So please let me go see who all that is.}
 
-[chubby-man: {I wanted you to know about something I've been working on. For three lifetimes actually. It's the Night Bridge project.}]
+]
 
-{When he said this, he gave a nod to the awkward man from before.}
+print {Shaking off his embrace, I walked into the next room. A crowd of people started arriving and making a din and surrounding me.}
 
-[note {Not sure if they were part of the same group. He intoned as if it was some kind of charitable or lofty cause, that made beds for orphans or something.}]
+dialog [me: {It's too loud. I can't concentrate. Please speak one at a time. I want to go around to each of you and have you say who you are, and then tell me why you wanted to talk to me.}]
 
-[me: "All right, Night Bridge. What does it do."]
+print {The first person who approached me was a youngish man, who looked at me awkwardly.}
 
-{He handed me a small yellow zip lock bag with a piece of paper and several diamond-shaped yellow pills in it. I put one in my mouth, but didn't swallow.}
+dialog [
 
-[me: <mouth full> {These look familiar. They look almost like something marketed as Cialis.}]
+    awkward-man: {Uh, actually, I didn't come here to speak specifically to you. But I had a thought.}
 
-[chubby-man: {It rewrites your social programming. So those who are not able to be clever, talented, or witty when they're out at parties or clubs can be. It has various other enhancements--makes you more attractive to women overall.}]
+    me: {Thoughts are great, but let's put you in *Category B* then. If the thought's not just for me, write it down somewhere and send a link to everyone who might be interested. Now is there anyone here who's in what I'll call *Category A*... which is people who wanted to speak to *me* in particular?}
 
-{I spat the pill out and examined it. The shape morphed around in my hand to something more squared off. It was still yellow, and seemed to say something like VITRIO for the embossed brand name.}
+]
 
-[me: {So 'Night Bridge' in this case means connecting with other people socially in nightlife situations? Not what I expected. Don't want any myself, but it sounds like a good thing if used properly... as long as everyone is in on it and understands how it works. It shouldn't be kept secret and hoarded, or used in a predatory way.}]
+print {A chubby man in what looked like a wheelchair raised his hand.}
 
-[note {I make frequent tirades about how people should be free to have whatever bodies they want and not be stuck with some random luck-of-the-genetic draw. I'm often challenged about whether one's intelligence is something people should be stuck with, or if that too should be allowed to change. [We must allow changing it](http://www.tampabay.com/features/humaninterest/article740940.ece), though within a system which mitigates risks.}]
+dialog [
 
-[chubby-man: "I guess."]
+    me: "Okay, what's up?"
 
-[me: {All right, now the shape and color reminded me of a product called CIALIS when I first saw the pill. There's another called VIAGRA, same thing but it's blue not yellow. They're somewhat unpopular and yet popular at the same time, marketed mostly toward older men with erectile dysfunction. Have you heard of these pills?}]
+    chubby-man: {I wanted you to know about something I've been working on. For three lifetimes actually. It's the Night Bridge project.}
 
-[chubby-man: "No, never heard of anything like that."]
+]
 
-[me: {Now I'm wondering if those products and their marketing are a smokescreen to obscure the existence of this one. These are unusual drugs where I'm from, because they are being used to clog communication channels.}]
+print {When he said this, he gave a nod to the awkward man from before.}
 
-{A black man who had been listening started walking away when I said this. I sensed he was a figure of power, so I continued my rant while following him down a hallway.}
+note {Not sure if they were part of the same group. He intoned as if it was some kind of charitable or lofty cause, that made beds for orphans or something.}
 
-[me: {See, they're related to this 'Night Bridge' in a somewhat superficial way. One might hear about 'a yellow diamond-shaped tab that makes you good with women'... but then there's a branch point where that means 'gives you a large penis' and another point where it actually rewrites your brain to make you more intelligent. This is big.}]
+dialog [me: "All right, Night Bridge. What does it do."]
 
-[note {I incorrectly believed during the course of this dream that Cialis was diamond shaped. It's not, it is tear-drop shaped--though it is yellow. Viagra is a blue diamond.}]
+print {He handed me a small yellow zip lock bag with a piece of paper and several diamond-shaped yellow pills in it. I put one in my mouth, but didn't swallow.}
 
-[black-man: {Yes, there is clearly something *like* what you describe going on.}]
+dialog [
 
-[me: {Right. How can two universes completely independently make these sorts of pills and not know about each other, if not for a willful hack? And just look at the outlandish spam campaign--it doesn't make commercial sense to invest that kind of effort for the returns. This is deliberate. We have to do something about it.}]
+    me: <mouth full> {These look familiar. They look almost like something marketed as Cialis.}
 
-[black-man: "Um...look, now just isn't the right time."]
+    chubby-man: {It rewrites your social programming. So those who are not able to be clever, talented, or witty when they're out at parties or clubs can be. It has various other enhancements--makes you more attractive to women overall.}
 
-[me: {What's the right time, then!? How could intervening to share information make things any worse? Humans are too dumb to figure out anything on their own--it is time to be transparent and let the chips fall where they may.}]
+]
 
-[black-man: {Ordinarily I would agree with you. But that's *ordinarily*.}]
+print {I spat the pill out and examined it. The shape morphed around in my hand to something more squared off. It was still yellow, and seemed to say something like VITRIO for the embossed brand name.}
 
-{He vanished, and I noticed that everyone else had vanished too. The only person who remained was the Gary Oldman type. I came across him assembling some kind of food platter with large soft pretzels.}
+dialog [me: {So 'Night Bridge' in this case means connecting with other people socially in nightlife situations? Not what I expected. Don't want any myself, but it sounds like a good thing if used properly... as long as everyone is in on it and understands how it works. It shouldn't be kept secret and hoarded, or used in a predatory way.}]
 
-[me: "Ah, crap. Destabilization. Goodbye I guess."]
+note {I make frequent tirades about how people should be free to have whatever bodies they want and not be stuck with some random luck-of-the-genetic draw. I'm often challenged about whether one's intelligence is something people should be stuck with, or if that too should be allowed to change. [We must allow changing it](http://www.tampabay.com/features/humaninterest/article740940.ece), though within a system which mitigates risks.}
 
-[gary: <shaking head, sadly> {The thing I don't understand is this. Who did you talk to here who wasn't just another one of me?}]
+dialog [
 
-[note {At the time I had the impression that he was saying that he wasn't noble or important... and didn't understand what I thought I would find by talking to 'the likes of his kind'--spirits jaded and disinterested in human affairs. It was as if he wished better for me. Another interpretation might be that he had been trying to talk to me one-on-one, but I'd somehow fragmented my conversation with him into several individuals, and thus been unable to really do a good job of talking.}]
+    chubby-man: "I guess."
+
+    me: {All right, now the shape and color reminded me of a product called CIALIS when I first saw the pill. There's another called VIAGRA, same thing but it's blue not yellow. They're somewhat unpopular and yet popular at the same time, marketed mostly toward older men with erectile dysfunction. Have you heard of these pills?}
+
+    chubby-man: "No, never heard of anything like that."
+
+    me: {Now I'm wondering if those products and their marketing are a smokescreen to obscure the existence of this one. These are unusual drugs where I'm from, because they are being used to clog communication channels.}
+
+]
+
+print {A black man who had been listening started walking away when I said this. I sensed he was a figure of power, so I continued my rant while following him down a hallway.}
+
+dialog [me: {See, they're related to this 'Night Bridge' in a somewhat superficial way. One might hear about 'a yellow diamond-shaped tab that makes you good with women'... but then there's a branch point where that means 'gives you a large penis' and another point where it actually rewrites your brain to make you more intelligent. This is big.}]
+
+note {I incorrectly believed during the course of this dream that Cialis was diamond shaped. It's not, it is tear-drop shaped--though it is yellow. Viagra is a blue diamond.}
+
+dialog [
+
+    black-man: {Yes, there is clearly something *like* what you describe going on.}
+
+    me: {Right. How can two universes completely independently make these sorts of pills and not know about each other, if not for a willful hack? And just look at the outlandish spam campaign--it doesn't make commercial sense to invest that kind of effort for the returns. This is deliberate. We have to do something about it.}
+
+    black-man: "Um...look, now just isn't the right time."
+
+    me: {What's the right time, then!? How could intervening to share information make things any worse? Humans are too dumb to figure out anything on their own--it is time to be transparent and let the chips fall where they may.}
+
+    black-man: {Ordinarily I would agree with you. But that's *ordinarily*.}
+
+]
+
+print {He vanished, and I noticed that everyone else had vanished too. The only person who remained was the Gary Oldman type. I came across him assembling some kind of food platter with large soft pretzels.}
+
+dialog [
+
+    me: "Ah, crap. Destabilization. Goodbye I guess."
+
+    gary: <shaking head, sadly> {The thing I don't understand is this. Who did you talk to here who wasn't just another one of me?}
+
+]
+
+note {At the time I had the impression that he was saying that he wasn't noble or important... and didn't understand what I thought I would find by talking to 'the likes of his kind'--spirits jaded and disinterested in human affairs. It was as if he wished better for me. Another interpretation might be that he had been trying to talk to me one-on-one, but I'd somehow fragmented my conversation with him into several individuals, and thus been unable to really do a good job of talking.}

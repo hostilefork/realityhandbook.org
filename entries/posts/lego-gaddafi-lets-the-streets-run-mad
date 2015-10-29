@@ -5,56 +5,80 @@ Draem [
     tags: [lucid-dream helpful neutral funny conspiracy attack]
 ]
 
-{I'd walked into a ride that was like Disney's Tower of Terror, which causes you to drop in a free fall at various moments in an elevator. I was part of a group that walked into it, and it just started to fall...but wasn't stopping. I tried to keep a light attitude about it. People didn't seem too panicked.}
+print {I'd walked into a ride that was like Disney's Tower of Terror, which causes you to drop in a free fall at various moments in an elevator. I was part of a group that walked into it, and it just started to fall...but wasn't stopping. I tried to keep a light attitude about it. People didn't seem too panicked.}
 
-[me: <shrugging> {Hmmm. This is the problem with virtual worlds. You can step into an amusement park ride and they can just drop you for eternity.}]
+dialog [me: <shrugging> {Hmmm. This is the problem with virtual worlds. You can step into an amusement park ride and they can just drop you for eternity.}]
 
-"An Asian man corrected me:"
+print "An Asian man corrected me:"
 
-[asian-man: {A 3D space with gravity could have it too. Just have an orbit, go in a large circle which is curved slightly so you don't notice you're not falling straight.}]
+dialog [
 
-[me: {Technically correct. Still...it's easier in virtual. I don't recall seeing any launch facility on the way in, and there wasn't enough acceleration to get us into orbit.}]
+    asian-man: {A 3D space with gravity could have it too. Just have an orbit, go in a large circle which is curved slightly so you don't notice you're not falling straight.}
 
-{People seemed to be stirring in motion and poking around to see the limits of the space. Eventually somehow a wall opened up into a place that looked a little bit like a cross between a hospital, a drugstore, and a restaurant. There were military people ushering us out.}
+    me: {Technically correct. Still...it's easier in virtual. I don't recall seeing any launch facility on the way in, and there wasn't enough acceleration to get us into orbit.}
 
-{A conversation at the desk seemed to be saying something to the effect of how they couldn't have done it without me. But nobody seemed to be thanking me personally.}
+]
 
-[note {Situations like this make me mad, because regardless of what's going on I can at least empathize with the narrative of some kind of security AI that people know they need, but treat as a piece of technology rather than accept its self awareness.}]
+print << [
 
-{I made my way over to a table where people seemed to be having dinner, who I believed to be associated with getting people out of the ride. They invited me to sit with them. I griped a bit about the situation to a man at the head of the table.}
+    {People seemed to be stirring in motion and poking around to see the limits of the space. Eventually somehow a wall opened up into a place that looked a little bit like a cross between a hospital, a drugstore, and a restaurant. There were military people ushering us out.}
 
-[man: {You're only so involved in seeing this much right now because you're sick. Your body pushes you out more.}]
+    {A conversation at the desk seemed to be saying something to the effect of how they couldn't have done it without me. But nobody seemed to be thanking me personally.}
 
-[me: {I hate to be a broken record about this, but what does that imply about death?}]
+]
 
-{A woman sitting next to me grabbed me in what I thought was an attack. She picked up a piece of paper that I thought was art, or some kind of poetry, so that it covered the full view of my face and I couldn't see the table.}
+note {Situations like this make me mad, because regardless of what's going on I can at least empathize with the narrative of some kind of security AI that people know they need, but treat as a piece of technology rather than accept its self awareness.}
 
-[me: {Aaaah! Don't attack! Oh. Wait. You're not. All right. Hurts a little, though.}]
+print {I made my way over to a table where people seemed to be having dinner, who I believed to be associated with getting people out of the ride. They invited me to sit with them. I griped a bit about the situation to a man at the head of the table.}
 
-[woman: "What do you see?"]
+dialog [
 
-[me: {Some...poetry? And art? No, wait. It's a numbered list...and...bad graphics, ok. That's a menu.}]
+    man: {You're only so involved in seeing this much right now because you're sick. Your body pushes you out more.}
 
-[woman: "Right. Do you see us? Or the table?"]
+    me: {I hate to be a broken record about this, but what does that imply about death?}
 
-[me: "No."]
+]
 
-[woman: "Okay, let's keep going."]
+print {A woman sitting next to me grabbed me in what I thought was an attack. She picked up a piece of paper that I thought was art, or some kind of poetry, so that it covered the full view of my face and I couldn't see the table.}
 
-{She grabbed two other items from the table and held them up to my face and then I interrupted.}
+dialog [
 
-[me: {Right, death state is the table, and then you pick something to grab into your attention. But you were using hands, and if you've been set down to how does the whole thing get started? Will I know how?}]
+    me: {Aaaah! Don't attack! Oh. Wait. You're not. All right. Hurts a little, though.}
 
-{The man started up some machine under the table, and instructed me to use my "feet" to grab things. There was something like a screen built into the table. I couldn't see my feet...but they felt icy cold, and I could sort of sense where they were and notice by the changes happening on the screen.}
+    woman: "What do you see?"
 
-{At one point I managed to start controlling LEGO characters of some kind with my feet. And I was kind of getting the hang of it, when all of a sudden a bunch of random LEGO monsters came and wiped out my newly controlled foot-minions. Most of them looked like things out of Monsters, Inc...but one of them was a LEGO of Gadhaffi.}
+    me: {Some...poetry? And art? No, wait. It's a numbered list...and...bad graphics, ok. That's a menu.}
 
-[lego-gadhaffi: {The world doesn't need order! It needs me, LEGO Gadhaffi! Let the streets run mad with monsters!}]
+    woman: "Right. Do you see us? Or the table?"
 
-{The people at the table seemed to find this amusing.}
+    me: "No."
 
-[woman: "Whatever happened with that Gadhaffi guy?"]
+    woman: "Okay, let's keep going."
 
-[me: "He's dead, ostensibly."]
+]
 
-[woman: "Ah. Okay."]
+print {She grabbed two other items from the table and held them up to my face and then I interrupted.}
+
+dialog [me: {Right, death state is the table, and then you pick something to grab into your attention. But you were using hands, and if you've been set down to how does the whole thing get started? Will I know how?}]
+
+print << [
+
+    {The man started up some machine under the table, and instructed me to use my "feet" to grab things. There was something like a screen built into the table. I couldn't see my feet...but they felt icy cold, and I could sort of sense where they were and notice by the changes happening on the screen.}
+
+    {At one point I managed to start controlling LEGO characters of some kind with my feet. And I was kind of getting the hang of it, when all of a sudden a bunch of random LEGO monsters came and wiped out my newly controlled foot-minions. Most of them looked like things out of Monsters, Inc...but one of them was a LEGO of Gadhaffi.}
+
+]
+
+dialog [lego-gadhaffi: {The world doesn't need order! It needs me, LEGO Gadhaffi! Let the streets run mad with monsters!}]
+
+print {The people at the table seemed to find this amusing.}
+
+dialog [
+
+    woman: "Whatever happened with that Gadhaffi guy?"
+
+    me: "He's dead, ostensibly."
+
+    woman: "Ah. Okay."
+
+]

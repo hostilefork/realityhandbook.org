@@ -6,34 +6,50 @@ Draem [
     old: http://realityhandbook.livejournal.com/74511.html
 ]
 
-{I found a friendly room of women up a staircase who were chatting about the fact that they read my website and were impressed.}
+print {I found a friendly room of women up a staircase who were chatting about the fact that they read my website and were impressed.}
 
-[me: "Can you enter my world the way I can enter yours?"]
+dialog [
 
-[woman: {No. The inhabitants of your realm...they are supposed to be unhappy ALL of the time. They are not allowed to have dolls.}]
+    me: "Can you enter my world the way I can enter yours?"
 
-[me: {Well I bet it's possible! If you can show me how you read websites from my world, I can probably start to understand enough to give you information on how to send information back. I know a lot about tricks for encoding information across noisy channels, things like that...}]
+    woman: {No. The inhabitants of your realm...they are supposed to be unhappy ALL of the time. They are not allowed to have dolls.}
 
-{In response, the woman took off her face, it atrophied into something green that looked a bit like a Halloween witch.}
+    me: {Well I bet it's possible! If you can show me how you read websites from my world, I can probably start to understand enough to give you information on how to send information back. I know a lot about tricks for encoding information across noisy channels, things like that...}
 
-[me: <a bit repulsed> "Hey, ok, I can deal with that."]
+]
 
-{Then that face kind of dissolved and it degraded from being a face at all into some kind of box-shaped device, with a speaker. As the speaker of the box became disconnected...the room just turned to noise. I thought the dream was dissolving, but noticed the rest of the room was fine. The dream audio had just died.}
+print {In response, the woman took off her face, it atrophied into something green that looked a bit like a Halloween witch.}
 
-{Then the machine was reassembled to the point of being a box again, and the audio came back.}
+dialog [me: <a bit repulsed> "Hey, ok, I can deal with that."]
 
-[me: "Oh I get it! Wow, so you already HAD a bridge!"]
+print << [
 
-[voice: {No, but I have used mastery of technology to make one.}]
+    {Then that face kind of dissolved and it degraded from being a face at all into some kind of box-shaped device, with a speaker. As the speaker of the box became disconnected...the room just turned to noise. I thought the dream was dissolving, but noticed the rest of the room was fine. The dream audio had just died.}
 
-{At this point very tall woman--nearly twice my height--came and pulled me away from facing the box, into a bed with her.}
+    {Then the machine was reassembled to the point of being a box again, and the audio came back.}
 
-[me: "Are you who I was just talking to?"]
+]
 
-[her: "No. We should be resting right now."]
+dialog [
 
-[me: "I want to talk to the box some more."]
+    me: "Oh I get it! Wow, so you already HAD a bridge!"
 
-[her: "They had to go handle an emergency at a pool."]
+    voice: {No, but I have used mastery of technology to make one.}
 
-[note {It was one of those interpretation cases where it's hard to tell whether that was a joke, and they just decided to go swimming and call it a "pool emergency".}]
+]
+
+print {At this point very tall woman--nearly twice my height--came and pulled me away from facing the box, into a bed with her.}
+
+dialog [
+
+    me: "Are you who I was just talking to?"
+
+    her: "No. We should be resting right now."
+
+    me: "I want to talk to the box some more."
+
+    her: "They had to go handle an emergency at a pool."
+
+]
+
+note {It was one of those interpretation cases where it's hard to tell whether that was a joke, and they just decided to go swimming and call it a "pool emergency".}

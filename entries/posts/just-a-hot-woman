@@ -6,26 +6,38 @@ Draem [
     old: http://realityhandbook.livejournal.com/111092.html
 ]
 
-{I was going to some kind of internet Cafe to write down a dream, because I had the feeling that's what I always did (I do not), when I noticed my reflection in a store window. I was a woman and this startled me, I checked in a couple more windows and it was the same A girl was chasing me down.}
+print {I was going to some kind of internet Cafe to write down a dream, because I had the feeling that's what I always did (I do not), when I noticed my reflection in a store window. I was a woman and this startled me, I checked in a couple more windows and it was the same A girl was chasing me down.}
 
-[girl: "Hey mom, I'm sorry for following you here."]
+dialog [
 
-[me: {Uh... that's all right. Look, I'm not feeling very well, I might have gotten up too fast...having some dizziness.}]
+    girl: "Hey mom, I'm sorry for following you here."
 
-{We went to a strange room with all kinds of odd equipment. A woman gave me some kind of vial to drink, and there was an odd process. It involved a dog in a bubble and there was some big sign labeled "GENERAL INTERNET". After some strange ritual going on with all this equipment, a man nodded to me.}
+    me: {Uh... that's all right. Look, I'm not feeling very well, I might have gotten up too fast...having some dizziness.}
 
-[man: "Thanks for helping me catch her."]
+]
 
-[me: "Who?"]
+print {We went to a strange room with all kinds of odd equipment. A woman gave me some kind of vial to drink, and there was an odd process. It involved a dog in a bubble and there was some big sign labeled "GENERAL INTERNET". After some strange ritual going on with all this equipment, a man nodded to me.}
 
-[man: {Casey. Who you would think of as the woman you see as the mask.}]
+dialog [
 
-[me: "What do you want with her?"]
+    man: "Thanks for helping me catch her."
 
-[man: "Nothing in particular. Just a hot woman. I dunno."]
+    me: "Who?"
 
-{Something injected me in my back, and I awoke in a room full of people sitting around with notebooks and graphic novels, scribbling them onto lined notebook paper. I went to grab one of the notebooks to write on, and a person on a couch asked me what was news.}
+    man: {Casey. Who you would think of as the woman you see as the mask.}
 
-[me: "It's not good news."]
+    me: "What do you want with her?"
 
-[person: <sighing> "Well then I don't want to hear it."]
+    man: "Nothing in particular. Just a hot woman. I dunno."
+
+]
+
+print {Something injected me in my back, and I awoke in a room full of people sitting around with notebooks and graphic novels, scribbling them onto lined notebook paper. I went to grab one of the notebooks to write on, and a person on a couch asked me what was news.}
+
+dialog [
+
+    me: "It's not good news."
+
+    person: <sighing> "Well then I don't want to hear it."
+
+]

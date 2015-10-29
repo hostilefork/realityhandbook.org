@@ -5,64 +5,92 @@ Draem [
     tags: [lucid-dream neutral helpful technology]
 ]
 
-{I was inside a house and got the idea to look up someone's name I had heard about.  While reading the information on a mobile phone browser, I became lucid and thought to look up some of my websites.  One of them came up, but seemingly with no way to scroll it--it was just scrolling itself automatically, causing the phone to not respond.  But I could recognize specific articles as they flew by in the display; they were articles containing the actual data.}
+print << [
 
-{I took it to a woman sitting on a couch, and handed her the phone.}
+    {I was inside a house and got the idea to look up someone's name I had heard about.  While reading the information on a mobile phone browser, I became lucid and thought to look up some of my websites.  One of them came up, but seemingly with no way to scroll it--it was just scrolling itself automatically, causing the phone to not respond.  But I could recognize specific articles as they flew by in the display; they were articles containing the actual data.}
 
-[me: <excitedly> {Look!  It's not letting you scroll for some reason, but *that's my website*.  Could you try tracing the source of it?  Find the author or where it comes from!  Leave a comment.  If this is here, there's clearly a connection.}]
+    {I took it to a woman sitting on a couch, and handed her the phone.}
 
-[couch-woman: <unimpressed> {Why bother?}]
+]
 
-[me: {Well it would help me out, but there'd be other reasons.  Like trading.  We have volumes of scientific information; certainly there must be something you don't know.}]
+dialog [
 
-{While I don't remember everything I said, at some point giving out my name and personal information caused what seemed to be a large power outage.  I got the impression I'd triggered an alert of some kind, so I slipped out of the house and into the yard.  On the way there were lots of little alligator-like things I had to fight, but they actually were surprisingly easy to kill.}
+    me: <excitedly> {Look!  It's not letting you scroll for some reason, but *that's my website*.  Could you try tracing the source of it?  Find the author or where it comes from!  Leave a comment.  If this is here, there's clearly a connection.}
 
-{Outside on the front porch, people were gathered and having some sort of barbecue, or other celebration.  A bench area that was enclosed a bit in a semicircle with wooden walls was there, and I slipped into it.  I continued my pleas to the people to get in touch, and that we could exchange information.}
+    couch-woman: <unimpressed> "Why bother?"
 
-[bench-woman: <frowning> {I don't like what you're suggesting.}]
+    me: {Well it would help me out, but there'd be other reasons.  Like trading.  We have volumes of scientific information; certainly there must be something you don't know.}
 
-[me: {Why not?}]
+]
 
-[bench-woman: {It sounds like you're suggesting stealing secrets.}]
+print << [
 
-[me: {I'm not saying you wouldn't say where the technology or information came from.  In fact that's the *opposite* of what I'm saying.  The main reason I'm bringing up this trade thing is because it seems no one is persuaded in the value of contact-for-contact's sake, but it's *the contact* that I want.}]
+    {While I don't remember everything I said, at some point giving out my name and personal information caused what seemed to be a large power outage.  I got the impression I'd triggered an alert of some kind, so I slipped out of the house and into the yard.  On the way there were lots of little alligator-like things I had to fight, but they actually were surprisingly easy to kill.}
 
-[bench-woman: {Still sounds like stealing.}]
+    {Outside on the front porch, people were gathered and having some sort of barbecue, or other celebration.  A bench area that was enclosed a bit in a semicircle with wooden walls was there, and I slipped into it.  I continued my pleas to the people to get in touch, and that we could exchange information.}
 
-[me: <frustrated> {Is trading with another country "stealing"?  You don't always know what the original cost was, or who precisely made it, or if the labor practices were fair.  But certainly some of the things you have here at this barbecue were acquired through trade of some kind.}]
+]
 
-[bench-woman: <thinking> {Well... maybe you have a point.}]
+dialog [
 
-{A man on the bench noticed some approaching men in uniform.  He looked worried.}
+    bench-woman: <frowning> "I don't like what you're suggesting."
 
-[bench-man: <to me> {Uh oh.  You need to... sit over on the other side.  Pretend to be asleep, don't let them see your eyes.}]
+    me: "Why not?"
 
-{The people in the wooden seating area shuffled so I was on an inside corner.  I did as instructed and leaned my head up against the side.  The uniformed men approached the seating area.}
+    bench-woman: "It sounds like you're suggesting stealing secrets."
 
-[uniformed-man: {Okay everyone, flash your eyes.}]
+    me: {I'm not saying you wouldn't say where the technology or information came from.  In fact that's the *opposite* of what I'm saying.  The main reason I'm bringing up this trade thing is because it seems no one is persuaded in the value of contact-for-contact's sake, but it's *the contact* that I want.}
 
-{I didn't see what went on, as my eyes were closed.  But eventually the people told me it was safe to open my eyes again.}
+    bench-woman: "Still sounds like stealing."
 
-[bench-man: <nervous> {Great.  Now we've broken a 011 law.  Hopefully they'll never find out.}]
+    me: <frustrated> {Is trading with another country "stealing"?  You don't always know what the original cost was, or who precisely made it, or if the labor practices were fair.  But certainly some of the things you have here at this barbecue were acquired through trade of some kind.}
 
-[note {I was still in a bit of a panic, but I really wish I'd asked what a 011 law was.}]
+    bench-woman: <thinking> "Well... maybe you have a point."
 
-{There may have been some more conversation here, but I got up and people advised me that getting as far away as I could would be best.  I took their advice and walked down an ordinary sidewalk.  There were some rather fancy cars; it was like a very high-end neighborhood.}
+]
 
-{I began to feel painful beating on my head, and realized that was my perception of rain.  Each drop was searing and painful.  I decided to duck into a shopping area, which was again very high-end looking.}
+print {A man on the bench noticed some approaching men in uniform.  He looked worried.}
 
-{A little way into the shops, I could hear singing and piano playing.  It was hard to see exactly where the person playing was at first, but I noticed how people were seated and where they were looking and a girl in a recessed area in the wall was playing.  I stopped to look at her, and she stopped playing and addressed me.}
+dialog [bench-man: <to me> {Uh oh.  You need to... sit over on the other side.  Pretend to be asleep, don't let them see your eyes.}]
 
-[piano-girl: {Hey doctor, your face shouldn't look like mine does.}]
+print {The people in the wooden seating area shuffled so I was on an inside corner.  I did as instructed and leaned my head up against the side.  The uniformed men approached the seating area.}
 
-[me: {I'm sorry, what?}]
+dialog [uniformed-man: "Okay everyone, flash your eyes."]
 
-[piano-girl: {The redness, on the left side.  That indicates a lack of oxygen.  You have to do something about that, and quickly.}]
+print {I didn't see what went on, as my eyes were closed.  But eventually the people told me it was safe to open my eyes again.}
 
-[me: {Thanks for the advice.  I'll keep that in mind, I guess?}]
+dialog [bench-man: <nervous> {Great.  Now we've broken a 011 law.  Hopefully they'll never find out.}]
 
-{She went back to playing.  I continued along in the mall which seemed rather dense, structured in a closed-in fashion a bit more resembling the inside of a very large house with narrow hallways and rooms than malls I've seen.  Some of the "shops" were just counters set up and a sign on the wall behind them...a pattern like in some airports.}
+note {I was still in a bit of a panic, but I really wish I'd asked what a 011 law was.}
 
-{An Asian man approached me with a bowl of soup and was offering it to me.  It actually looked pretty good and I felt like it might help me stay in the dream, but I was trying to size up if this was a free sample of some kind, or if he was just a restaurant owner who was being pro-active about making a sale.  Given that I was trying not to attract attention, I said no thanks and moved on.}
+print << [
 
-{I reached the end of the path I was following and could only go back outside in the painful rain.  There were racks of jackets for sale, and I thought about grabbing one and putting it over my head.  Yet as I was trying to avoid attention, I decided against it.  As I went to open the door to go back outside I lost focus and woke up.}
+    {There may have been some more conversation here, but I got up and people advised me that getting as far away as I could would be best.  I took their advice and walked down an ordinary sidewalk.  There were some rather fancy cars; it was like a very high-end neighborhood.}
+
+    {I began to feel painful beating on my head, and realized that was my perception of rain.  Each drop was searing and painful.  I decided to duck into a shopping area, which was again very high-end looking.}
+
+    {A little way into the shops, I could hear singing and piano playing.  It was hard to see exactly where the person playing was at first, but I noticed how people were seated and where they were looking and a girl in a recessed area in the wall was playing.  I stopped to look at her, and she stopped playing and addressed me.}
+
+]
+
+dialog [
+
+    piano-girl: {Hey doctor, your face shouldn't look like mine does.}
+
+    me: "I'm sorry, what?"
+
+    piano-girl: {The redness, on the left side.  That indicates a lack of oxygen.  You have to do something about that, and quickly.}
+
+    me: {Thanks for the advice.  I'll keep that in mind, I guess?}
+
+]
+
+print << [
+
+    {She went back to playing.  I continued along in the mall which seemed rather dense, structured in a closed-in fashion a bit more resembling the inside of a very large house with narrow hallways and rooms than malls I've seen.  Some of the "shops" were just counters set up and a sign on the wall behind them...a pattern like in some airports.}
+
+    {An Asian man approached me with a bowl of soup and was offering it to me.  It actually looked pretty good and I felt like it might help me stay in the dream, but I was trying to size up if this was a free sample of some kind, or if he was just a restaurant owner who was being pro-active about making a sale.  Given that I was trying not to attract attention, I said no thanks and moved on.}
+
+    {I reached the end of the path I was following and could only go back outside in the painful rain.  There were racks of jackets for sale, and I thought about grabbing one and putting it over my head.  Yet as I was trying to avoid attention, I decided against it.  As I went to open the door to go back outside I lost focus and woke up.}
+
+]

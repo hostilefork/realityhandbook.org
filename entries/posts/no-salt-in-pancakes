@@ -5,34 +5,42 @@ Draem [
     tags: [lucid-dream neutral lottery time]
 ]
 
-{I believed myself to be sleeping on a sofa in my parents house, but I could hear various dialogue and advertising.  There were commercials and news broadcasts.  But I didn't believe they were coming from a conventional TV/radio/computer.}
+print << [
 
-{Knowing that people were around in the room, I kept my eyes closed and tried to recite to them what I could hear.}
+    {I believed myself to be sleeping on a sofa in my parents house, but I could hear various dialogue and advertising.  There were commercials and news broadcasts.  But I didn't believe they were coming from a conventional TV/radio/computer.}
 
-[me: {Now it's playing some kind of commercial for pancake mix.  It has a jingle, *"No salt, No salt in pancakes..."*}]
+    {Knowing that people were around in the room, I kept my eyes closed and tried to recite to them what I could hear.}
 
-{I mimicked the singing in the commercial.  Then I recited what the announcer was saying about this amazing no-salt pancake mix product.}
+]
 
-{No one seemed to answer if they could hear it too or not.  So I wondered if I only *thought* I was speaking while I was in the trance state on the sofa.  However, when I opened my eyes I looked and could see the sounds were coming from a TV in the room.}
+dialog [me: {Now it's playing some kind of commercial for pancake mix.  It has a jingle, *"No salt, No salt in pancakes..."*}]
 
-[me: {I wonder if this is actually what I'm hearing...is it okay if I turn this up??}]
+print << [
 
-{The people in the room seemed to just shrug at me, so I found what looked to be the volume control.  It was a vertical slider, and was pretty much to the top already...but I pushed it a little further.  Another dial was for 'input volume".} 
+    {I mimicked the singing in the commercial.  Then I recited what the announcer was saying about this amazing no-salt pancake mix product.}
 
-[me: "I don't know if raising the input volume will do any good...is it feeding from an input or a receiver?"]
+    {No one seemed to answer if they could hear it too or not.  So I wondered if I only *thought* I was speaking while I was in the trance state on the sofa.  However, when I opened my eyes I looked and could see the sounds were coming from a TV in the room.}
 
-{Not knowing the answer, I tried turning the input volume up.  It seemed to get louder, but not by much.  Closer examination of the TV showed it to be extremely strange construction...it had a screen on the top, as well as on the front.  It was like no TV I'd ever seen, and had all sorts of contraptions attached to it that seemed like antennas.}
+]
 
-[me: <becoming lucid> {Okay, on second thought, seeing this receiver is not so demoralizing, in that I know it's not going to be here when I wake up.  But what year is it?}]
+dialog [me: {I wonder if this is actually what I'm hearing...is it okay if I turn this up??}]
 
-{The people in the room didn't answer, but it seemed like the TV was responding to my questions.  It interrupted some ad it was playing for bourbon and switched over to announcing the winners of lottery tickets.}
+print {The people in the room seemed to just shrug at me, so I found what looked to be the volume control.  It was a vertical slider, and was pretty much to the top already...but I pushed it a little further.  Another dial was for 'input volume".}
 
-[me: "Well, lottery tickets...this would be pretty backwards if this is some strange thing from the past.  Lottery drawings in the past won't do me any good.  All these commercials are stylisticallly very...I don't know...like from the 60s or 70s?  I'm from what in my framework I would call the year 2014..."]
+dialog [me: {I don't know if raising the input volume will do any good...is it feeding from an input or a receiver?}]
 
-{A strange buzzing alert sound seemed to "bleep out" or drown out the point where I tried to say the date.}
+print {Not knowing the answer, I tried turning the input volume up.  It seemed to get louder, but not by much.  Closer examination of the TV showed it to be extremely strange construction...it had a screen on the top, as well as on the front.  It was like no TV I'd ever seen, and had all sorts of contraptions attached to it that seemed like antennas.}
 
-[me: {Ummm...loud buzz there.  What I was trying to say was 2014.  But there is a lot of evidence suggesting that is not the only relevant time in play...and that time can be disconnected in different frameworks.  The lottery readings didn't give a year...what year is it here according to your calendar?"}]
+dialog [me: <becoming lucid> {Okay, on second thought, seeing this receiver is not so demoralizing, in that I know it's not going to be here when I wake up.  But what year is it?}]
 
-{It seemed the TV had computer readouts on it, like a lot of on-screen displays overlaying the show being broadcast.  It seemed each readout was a different person trying to answer my question.  They appeared to debate about it, with large numbers and a smaller number.  It was coming back with gibberish like "9939192"}
+print {The people in the room didn't answer, but it seemed like the TV was responding to my questions.  It interrupted some ad it was playing for bourbon and switched over to announcing the winners of lottery tickets.}
 
-[me: "There are lots of ways to measure time.  But we would consider that 'high' if it were a calendar year.  I've only lived for 40 years total, was born in 1975 and now it's 2014.  So I can't make sense of the reference point you're giving...I guess itdepends on what framework you are using."]
+dialog [me: {Well, lottery tickets...this would be pretty backwards if this is some strange thing from the past.  Lottery drawings in the past won't do me any good.  All these commercials are stylisticallly very...I don't know...like from the 60s or 70s?  I'm from what in my framework I would call the year 2014...}]
+
+print {A strange buzzing alert sound seemed to "bleep out" or drown out the point where I tried to say the date.}
+
+dialog [me: {Ummm...loud buzz there.  What I was trying to say was 2014.  But there is a lot of evidence suggesting that is not the only relevant time in play...and that time can be disconnected in different frameworks.  The lottery readings didn't give a year...what year is it here according to your calendar?"}]
+
+print {It seemed the TV had computer readouts on it, like a lot of on-screen displays overlaying the show being broadcast.  It seemed each readout was a different person trying to answer my question.  They appeared to debate about it, with large numbers and a smaller number.  It was coming back with gibberish like "9939192"}
+
+dialog [me: {There are lots of ways to measure time.  But we would consider that 'high' if it were a calendar year.  I've only lived for 40 years total, was born in 1975 and now it's 2014.  So I can't make sense of the reference point you're giving...I guess itdepends on what framework you are using.}]

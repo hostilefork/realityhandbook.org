@@ -6,30 +6,38 @@ Draem [
     old: http://realityhandbook.livejournal.com/86782.html
 ]
 
-{It was raining, and I boarded an empty bus with a friend from High School. There was no driver, the doors opened automatically for us.}
+print {It was raining, and I boarded an empty bus with a friend from High School. There was no driver, the doors opened automatically for us.}
 
-[me: {Hmmm, it's like...I don't know how to spend my time anymore in dreams, situations like this. Let's see...}]
+dialog [me: {Hmmm, it's like...I don't know how to spend my time anymore in dreams, situations like this. Let's see...}]
 
-{A colorful circular symbol was painted in the center of the floor of the bus.}
+print {A colorful circular symbol was painted in the center of the floor of the bus.}
 
-[me: {Well let me see if I can make that symbol move from the floor to the ceiling.}]
+dialog [me: {Well let me see if I can make that symbol move from the floor to the ceiling.}]
 
-{I focused fairly hard and visualized it happening, telekinetically. The symbol began to peel as if it were a sticker and fluttered up onto the roof of the bus, but it didn't look like it would stick. I had to walk over and use my hands to flatten it.}
+print {I focused fairly hard and visualized it happening, telekinetically. The symbol began to peel as if it were a sticker and fluttered up onto the roof of the bus, but it didn't look like it would stick. I had to walk over and use my hands to flatten it.}
 
-[me: "That wasn't bad at all."]
+dialog [me: "That wasn't bad at all."]
 
-{Somehow this transitioned to where I was in a living room with attached bedrooms, naked. I could hear someone about to open one of the bedroom doors, so I grabbed a giant orange towel and wrapped it around me. A thin man who identified himself as dimitri walked in.}
+print {Somehow this transitioned to where I was in a living room with attached bedrooms, naked. I could hear someone about to open one of the bedroom doors, so I grabbed a giant orange towel and wrapped it around me. A thin man who identified himself as dimitri walked in.}
 
-[me: "Ah, you almost walked in on me with no clothes."]
+dialog [
 
-[dimitri: {Yes, well everyone has to get dressed sometime. The next time maybe the tables will be turned, and it will be me who is the deaf one.}]
+    me: "Ah, you almost walked in on me with no clothes."
 
-[note {His remark about deafness was something I just ignored at the time, but it could be that he was aware of my dreaming state and knew I didn't have all my senses operating.}]
+    dimitri: {Yes, well everyone has to get dressed sometime. The next time maybe the tables will be turned, and it will be me who is the deaf one.}
 
-[me: "How do you like living here?"]
+]
 
-[dimitri: {It is okay, it has a great view. But that doesn't mean too much to have a nice place without a girl around to show it off to. Do not get me wrong, I had one two years ago. But you need too much money these days...and I don't feel the need to...}]
+note {His remark about deafness was something I just ignored at the time, but it could be that he was aware of my dreaming state and knew I didn't have all my senses operating.}
 
-{He gestured in mid-sentence at a magazine on the table. It had a title like *Start your own Amazon-style successful business.*}
+dialog [
 
-[dimitri: <annoyed> "...start my own Amazon-style successful business."]
+    me: "How do you like living here?"
+
+    dimitri: {It is okay, it has a great view. But that doesn't mean too much to have a nice place without a girl around to show it off to. Do not get me wrong, I had one two years ago. But you need too much money these days...and I don't feel the need to...}
+
+]
+
+print {He gestured in mid-sentence at a magazine on the table. It had a title like *Start your own Amazon-style successful business.*}
+
+dialog [dimitri: <annoyed> "...start my own Amazon-style successful business."]

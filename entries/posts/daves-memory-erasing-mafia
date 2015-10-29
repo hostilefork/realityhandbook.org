@@ -5,90 +5,146 @@ Draem [
     tags: [lucid-dream negative attack technology]
 ]
 
-{I'd wandered into some kind of strange warehouse area, which had people in various outfits or robot-suits messing with various things.  Some people were playing a game with remote-controlled cars on a large model racetrack.  This caught my attention, as did the fact that many of the women there were rather attractive.}
+print << [
 
-{I grabbed one of the wheels mounted on the edge of the racetrack, and tried to figure out which car it would control.  As I became lucid I began asking questions about what was going on.  I felt like I was going to wake up, so I asked if there was anything that could help.}
+    {I'd wandered into some kind of strange warehouse area, which had people in various outfits or robot-suits messing with various things.  Some people were playing a game with remote-controlled cars on a large model racetrack.  This caught my attention, as did the fact that many of the women there were rather attractive.}
 
-{One woman behind a counter called me over.  She took my hands, and with a little needle and began poking pools of some red liquid right above each knuckle.  It did not hurt, and she did it to both of my hands.}
+    {I grabbed one of the wheels mounted on the edge of the racetrack, and tried to figure out which car it would control.  As I became lucid I began asking questions about what was going on.  I felt like I was going to wake up, so I asked if there was anything that could help.}
 
-[me: "What is it?"]
+    {One woman behind a counter called me over.  She took my hands, and with a little needle and began poking pools of some red liquid right above each knuckle.  It did not hurt, and she did it to both of my hands.}
 
-[her: {It's a metastastatic protease.  It *might* help you.  It's not very strong, though.}]
+]
 
-{I did feel a little more solid in the situation, and decided I'd go around and look at more of what I could.  I didn't get very far before a guy came running at me with a syringe of orange liquid he tried to inject down the back of my throat.  I recoiled and cringed.}
+dialog [
 
-{He was tall and thin, with curly hair.  He looked a bit like a comedic actor I can't identify offhand, but he spoke with a voice exactly like Arnold Schwarzenegger in The Terminator.}
+    me: "What is it?"
 
-[thin-man: <annoyed> {You go around clamoring non-stop for help.  Then when someone actually makes an effort to give you what you need, you act like a baby and run away.}]
+    her: {It's a metastastatic protease.  It *might* help you.  It's not very strong, though.}
 
-[me: {You just surprised me.  Bear in mind, even if you stopped and explained what it was it still might be a trick.  But it's not very encouraging when you don't explain...}]
+]
 
-[thin-man: {Well if you want to see what you're trying to see, then hold still this time.}]
+print << [
 
-{I complied, and he took the syringe and injected the orange liquid into my throat.  There was a warm feeling and then as I looked around I saw the room was empty; I was alone.}
+    {I did feel a little more solid in the situation, and decided I'd go around and look at more of what I could.  I didn't get very far before a guy came running at me with a syringe of orange liquid he tried to inject down the back of my throat.  I recoiled and cringed.}
 
-{Not really knowing where to go, I started turning around corners looking for people to talk to.  There were tall dividers like those used to separate office cubicles which separated the building into sections, but the dividers didn't reach all the way to the very high roof.  In one section there were old mixing consoles.  Nothing looked particularly new, and I felt like I was in some kind of giant auction warehouse at night after everyone had gone home.}
+    {He was tall and thin, with curly hair.  He looked a bit like a comedic actor I can't identify offhand, but he spoke with a voice exactly like Arnold Schwarzenegger in The Terminator.}
 
-{Navigating my way from one section of junk to another, I found an exit into a relatively well-organized place that looked like a Home Depot.  The aisles were labeled.  Again, it was dark and deserted, but I did find one guy walking down one of the main aisles.  So I followed him.}
+]
 
-{He went out a set of double doors onto a small concrete area with a dumpster.  It was kind of a dead end, as there were two sets of rail tracks running through a trench separating it from similar-looking doors on the other side.}
+dialog [
 
-[me: {I take it this was the *back* door.  I'm going to try going the opposite direction.}]
+    thin-man: <annoyed> {You go around clamoring non-stop for help.  Then when someone actually makes an effort to give you what you need, you act like a baby and run away.}
 
-{I went back in and started walking the other way.  As I did I made my way out of the hardware store and came to a populated place...a stairway to go down with gold railings.  There was an extremely attractive and well-dressed woman at some kind of information desk in the middle of the stairway.  I had trouble awkwardly navigating the stairs, which seemed to phase in and out of focus... some steps seemed extremely narrow and like I had to step with my feet sideways.}
+    me: {You just surprised me.  Bear in mind, even if you stopped and explained what it was it still might be a trick.  But it's not very encouraging when you don't explain...}
 
-[me: "Okay, these stairs...are tricky."]
+    thin-man: {Well if you want to see what you're trying to see, then hold still this time.}
 
-{An older couple that was effortlessly walking up the stairs passed by me.  At first it seemed like they were going to attack, but they didn't.}
+]
 
-[old-man: {Ah, I see what's going on with you.  Well...don't feel too bad.  I've actually been thinking of going to visit America myself!}]
+print << [
 
-{Glad to have been left alone, I made my way down to the exit doors.  When I did, the area outside was lush and colorful...some kind of outdoor shopping center.  The sidewalks and areas for getting around had been done completely as incredibly detailed mosaics.  It was seemingly a tribute to the work of Leonardo da Vinci or some other historical figure like that.}
+    {I complied, and he took the syringe and injected the orange liquid into my throat.  There was a warm feeling and then as I looked around I saw the room was empty; I was alone.}
 
-{There was a river running by, and people paddling on it.  One man, looking like some kind of giant cartoon wrestler who was naked except for a Speedo, came dashing at me as I stood at the door.  I stepped aside.}
+    {Not really knowing where to go, I started turning around corners looking for people to talk to.  There were tall dividers like those used to separate office cubicles which separated the building into sections, but the dividers didn't reach all the way to the very high roof.  In one section there were old mixing consoles.  Nothing looked particularly new, and I felt like I was in some kind of giant auction warehouse at night after everyone had gone home.}
 
-[wrestler: {Aaah, when you need a bathroom you really need one!  Think there is one in there?}]
+    {Navigating my way from one section of junk to another, I found an exit into a relatively well-organized place that looked like a Home Depot.  The aisles were labeled.  Again, it was dark and deserted, but I did find one guy walking down one of the main aisles.  So I followed him.}
 
-[me: {I'm... not sure.  There's some kind of information desk.  You might ask.}]
+    {He went out a set of double doors onto a small concrete area with a dumpster.  It was kind of a dead end, as there were two sets of rail tracks running through a trench separating it from similar-looking doors on the other side.}
 
-{He thanked me and ran inside.  I walked around to find all manner of people and things seated and doing activities on grassy areas.  One seemed to be a bunch of dumbo-like Disney characters who were seated in formation watching a kind of holographic TV of Disney movies.}
+]
 
-{There were some other odd little cartoon figures, singing flowers and such.  They were singing some song I don't remember, but I decided to mess with them a bit by singing a line from a Depeche Mode song and see if they would sing back.}
+dialog [me: {I take it this was the *back* door.  I'm going to try going the opposite direction.}]
 
-[me: <singing> {All I ever wanted... all I ever needed... is here...}]
+print {I went back in and started walking the other way.  As I did I made my way out of the hardware store and came to a populated place...a stairway to go down with gold railings.  There was an extremely attractive and well-dressed woman at some kind of information desk in the middle of the stairway.  I had trouble awkwardly navigating the stairs, which seemed to phase in and out of focus... some steps seemed extremely narrow and like I had to step with my feet sideways.}
 
-[characters: <singing back> "In myyy aaaaarms!"]
+dialog [me: "Okay, these stairs...are tricky."]
 
-{A normal-looking young man sitting in the same area laughed at this.}
+print {An older couple that was effortlessly walking up the stairs passed by me.  At first it seemed like they were going to attack, but they didn't.}
 
-[young-man: <sarcastically> {From the greatest album of all time.  That's one worth remembering for all time, for sure.}]
+dialog [old-man: {Ah, I see what's going on with you.  Well...don't feel too bad.  I've actually been thinking of going to visit America myself!}]
 
-[me: "You know it?  Well, I like Depeche Mode."]
+print << [
 
-[young-man: {Well, I shouldn't be talking.  I actually have a guilty enjoyment of the Moody Blues.  But if you're looking to spread the Music of The Spheres or whatever you're doing, maybe you should be using something else.}]
+    {Glad to have been left alone, I made my way down to the exit doors.  When I did, the area outside was lush and colorful...some kind of outdoor shopping center.  The sidewalks and areas for getting around had been done completely as incredibly detailed mosaics.  It was seemingly a tribute to the work of Leonardo da Vinci or some other historical figure like that.}
 
-{He turned away and I decided to keep exploring.  I went back toward the building I had exited, and walked along the exterior...looking to see if it had any other entrances besides the one I'd come out of.  I could see there were windows and signs for businesses but it seemed there were no exterior entrances to get to them.  At one point, though, I saw a sign for a video arcade.  I decided to go in.}
+    {There was a river running by, and people paddling on it.  One man, looking like some kind of giant cartoon wrestler who was naked except for a Speedo, came dashing at me as I stood at the door.  I stepped aside.}
 
-{Inside the arcade were a lot of old-looking games, but none that I recognized.  I was disappointed at the lack of technology in the games I saw.  (Especially considering seeing holographic TV and rendered Disney characters walking around outside).  I found my way out of the arcade and back into the building.  One room I found was a large number of TVs set up all playing the same movie, which was a pretty well rendered horror movie; suggesting that better technology was available.}
+]
 
-{As I turned down more hallways I saw there were many closed doors I could not open.  The signs said things like "FantasyCON 20341" or similar.  It seemed to suggest these were offices or storage rooms for conventions.  I kept walking until I was confronted by a man who grabbed me and began to do tickly things to my arm.}
+dialog [
 
-[attacker: <laughing> {Well Dave, I have something here for you, to get rid of you before you do any more damage.}]
+    wrestler: {Aaah, when you need a bathroom you really need one!  Think there is one in there?}
 
-[me: {WAIT!  Stop!  My name isn't Dave!  I'm not doing anything, I'm just looking at things!  Don't attack me, just explain!}]
+    me: {I'm... not sure.  There's some kind of information desk.  You might ask.}
 
-[attacker: {See that's the problem with you.  You're like this Mafia of beings that erase their memory to get into places and take them over.  Someone has to stand up to your gang of thugs.}]
+]
 
-{I was holding up rather well against his attack, and managed to wriggle away and I grabbed him by the throat and started to strangle him.  He became alarmed, and as I squeezed his throat his head turned from a human head into some sort of jar of blue fluid connected by tubes.}
+print << [
 
-{Startled to see the blue fluid start to boil, and seemingly reach the top of the jar like it was going to explode, I released my grip.  I sort of felt around and could no longer feel anything resembling a person, but rather a sort of plastic skeleton.}
+    {He thanked me and ran inside.  I walked around to find all manner of people and things seated and doing activities on grassy areas.  One seemed to be a bunch of dumbo-like Disney characters who were seated in formation watching a kind of holographic TV of Disney movies.}
 
-[me: <confused, concerned> {You're... you're mechanical?  Or?  What?  What's the deal here?}]
+    {There were some other odd little cartoon figures, singing flowers and such.  They were singing some song I don't remember, but I decided to mess with them a bit by singing a line from a Depeche Mode song and see if they would sing back.}
 
-{As my point of view shifted and I was grabbing plastic, I could look up and see that I was grabbing onto white plastic pieces that were composed and locked like a puzzle to make a kind of crate that I was enclosed in.  Looking down the hallway now, it looked like a deserted hospital; white with various color codes on the doors.  There were some kind of levitating transport systems down the hall, but no one in sight.}
+]
 
-[me: <to self> {This is like the scene in Wall-E where the humans have been carted around for so long watching TV screens, and then one of them falls off the track.  So I'm in a crate.  Now let's get out of it.}]
+dialog [
 
-{The puzzle pieces of the crate had been disrupted to the point where I could see how they'd been interlocked.  Piece by piece I pried them past each other by narrow engineering tolerances; they really were just woven together, rather than being glued or bolted.  It was a slow process, but I managed to get my limbs more or less free to the point where I was close to getting out.}
+    me: <singing> {All I ever wanted... all I ever needed... is here...}
 
-{Noticing there was writing on the puzzle pieces, I decided to try and read it.  It was hard to make out.  There were some logos, but the writing seemed to be various forms of legalese; about contracts and "terms of return".  I wanted to get up and go looking around, but awoke just as I pulled the last pieces off.}
+    characters: <singing back> "In myyy aaaaarms!"
+
+]
+
+print {A normal-looking young man sitting in the same area laughed at this.}
+
+dialog [
+
+    young-man: <sarcastically> {From the greatest album of all time.  That's one worth remembering for all time, for sure.}
+
+    me: "You know it?  Well, I like Depeche Mode."
+
+    young-man: {Well, I shouldn't be talking.  I actually have a guilty enjoyment of the Moody Blues.  But if you're looking to spread the Music of The Spheres or whatever you're doing, maybe you should be using something else.}
+
+]
+
+print << [
+
+    {He turned away and I decided to keep exploring.  I went back toward the building I had exited, and walked along the exterior...looking to see if it had any other entrances besides the one I'd come out of.  I could see there were windows and signs for businesses but it seemed there were no exterior entrances to get to them.  At one point, though, I saw a sign for a video arcade.  I decided to go in.}
+
+    {Inside the arcade were a lot of old-looking games, but none that I recognized.  I was disappointed at the lack of technology in the games I saw.  (Especially considering seeing holographic TV and rendered Disney characters walking around outside).  I found my way out of the arcade and back into the building.  One room I found was a large number of TVs set up all playing the same movie, which was a pretty well rendered horror movie; suggesting that better technology was available.}
+
+    {As I turned down more hallways I saw there were many closed doors I could not open.  The signs said things like "FantasyCON 20341" or similar.  It seemed to suggest these were offices or storage rooms for conventions.  I kept walking until I was confronted by a man who grabbed me and began to do tickly things to my arm.}
+
+]
+
+dialog [
+
+    attacker: <laughing> {Well Dave, I have something here for you, to get rid of you before you do any more damage.}
+
+    me: {WAIT!  Stop!  My name isn't Dave!  I'm not doing anything, I'm just looking at things!  Don't attack me, just explain!}
+
+    attacker: {See that's the problem with you.  You're like this Mafia of beings that erase their memory to get into places and take them over.  Someone has to stand up to your gang of thugs.}
+
+]
+
+print << [
+
+    {I was holding up rather well against his attack, and managed to wriggle away and I grabbed him by the throat and started to strangle him.  He became alarmed, and as I squeezed his throat his head turned from a human head into some sort of jar of blue fluid connected by tubes.}
+
+    {Startled to see the blue fluid start to boil, and seemingly reach the top of the jar like it was going to explode, I released my grip.  I sort of felt around and could no longer feel anything resembling a person, but rather a sort of plastic skeleton.}
+
+]
+
+dialog [me: <confused, concerned> {You're... you're mechanical?  Or?  What?  What's the deal here?}]
+
+print {As my point of view shifted and I was grabbing plastic, I could look up and see that I was grabbing onto white plastic pieces that were composed and locked like a puzzle to make a kind of crate that I was enclosed in.  Looking down the hallway now, it looked like a deserted hospital; white with various color codes on the doors.  There were some kind of levitating transport systems down the hall, but no one in sight.}
+
+dialog [me: <to self> {This is like the scene in Wall-E where the humans have been carted around for so long watching TV screens, and then one of them falls off the track.  So I'm in a crate.  Now let's get out of it.}]
+
+print << [
+
+    {The puzzle pieces of the crate had been disrupted to the point where I could see how they'd been interlocked.  Piece by piece I pried them past each other by narrow engineering tolerances; they really were just woven together, rather than being glued or bolted.  It was a slow process, but I managed to get my limbs more or less free to the point where I was close to getting out.}
+
+    {Noticing there was writing on the puzzle pieces, I decided to try and read it.  It was hard to make out.  There were some logos, but the writing seemed to be various forms of legalese; about contracts and "terms of return".  I wanted to get up and go looking around, but awoke just as I pulled the last pieces off.}
+
+]

@@ -6,42 +6,54 @@ Draem [
     old: http://realityhandbook.livejournal.com/54123.html
 ]
 
-{I was reading a chart of participation in realities. I couldn't quite grasp it, but it was arranged vertically... and there was some aspect to it where as you went down the page the axis was how voluntary your participation was. Two of the large boxes I read as "Fenskohl" and "Feckel", and at the top of the page was "Moo".}
+print {I was reading a chart of participation in realities. I couldn't quite grasp it, but it was arranged vertically... and there was some aspect to it where as you went down the page the axis was how voluntary your participation was. Two of the large boxes I read as "Fenskohl" and "Feckel", and at the top of the page was "Moo".}
 
-[note {There are online games called [moo](http://en.wikipedia.org/wiki/MOO).}]
+note {There are online games called [moo](http://en.wikipedia.org/wiki/MOO).}
 
-{While I was reading this I was seated in a classroom. I attempted to get the attention of the teacher.}
+print {While I was reading this I was seated in a classroom. I attempted to get the attention of the teacher.}
 
-[me: {What is going on with me? From my point of view I am dreaming, but where is this?}]
+dialog [
 
-[teacher: {I don't know precisely what's going on, but I can do something that will likely feel very familiar to you.}]
+    me: {What is going on with me? From my point of view I am dreaming, but where is this?}
 
-{She started rubbing my eyes and then I was suddenly vibrating in a weird way. It didn't hurt but I flailed around a bit to try and signal her to stop so I could return and continue our conversation. After a bit of flailing, I seemed to return to the same general place...but the class was over and I was hanging out with a young boy in a hallway.}
+    teacher: {I don't know precisely what's going on, but I can do something that will likely feel very familiar to you.}
 
-[boy: {You really should take your bowl of soup off the counter.}]
+]
 
-{I took the bowl of soup skeptically, but even by the time I had picked it up the bowl had shrunk and perspective had shifted around.}
+print {She started rubbing my eyes and then I was suddenly vibrating in a weird way. It didn't hurt but I flailed around a bit to try and signal her to stop so I could return and continue our conversation. After a bit of flailing, I seemed to return to the same general place...but the class was over and I was hanging out with a young boy in a hallway.}
 
-[me: {Aargh. Does this stuff happen to you, with the bowl going all out of proportion and the contents shifting even when you haven't touched anything?}]
+dialog [boy: {You really should take your bowl of soup off the counter.}]
 
-[boy: "It did happen to me, on Thanksgiving."]
+print {I took the bowl of soup skeptically, but even by the time I had picked it up the bowl had shrunk and perspective had shifted around.}
 
-[me: "But *why* would that happen?"]
+dialog [
 
-[boy: "The effect is caused by 'slime'."]
+    me: {Aargh. Does this stuff happen to you, with the bowl going all out of proportion and the contents shifting even when you haven't touched anything?}
 
-{I ate the soup anyway, and the bowl kept refilling as I ate from it. The boy and I continued wandering around the building and saw some kind of large display dedicated to Christ.}
+    boy: "It did happen to me, on Thanksgiving."
 
-[me: "Do you believe in God?"]
+    me: "But *why* would that happen?"
 
-[boy: "No."]
+    boy: "The effect is caused by 'slime'."
 
-[me: {Why is this display here? Are we in some sort of religious school?}]
+]
 
-[boy: "In a sense. Sort of."]
+print {I ate the soup anyway, and the bowl kept refilling as I ate from it. The boy and I continued wandering around the building and saw some kind of large display dedicated to Christ.}
 
-{I went into a room which had a lot of people on couches, mostly girls... many of them good-looking. I just sort of passed through and overheard them talking about how many spare bedrooms this building had. As I threw away the soup bowl into a trash can, some guy walked by me.}
+dialog [
 
-[guy: "It's about time you should be getting out of here."]
+    me: "Do you believe in God?"
 
-{But he didn't attack me, he just left. So I found a nearby chalkboard on a wall and just started writing my name and other information onto it until I woke up.}
+    boy: "No."
+
+    me: {Why is this display here? Are we in some sort of religious school?}
+
+    boy: "In a sense. Sort of."
+
+]
+
+print {I went into a room which had a lot of people on couches, mostly girls... many of them good-looking. I just sort of passed through and overheard them talking about how many spare bedrooms this building had. As I threw away the soup bowl into a trash can, some guy walked by me.}
+
+dialog [guy: "It's about time you should be getting out of here."]
+
+print {But he didn't attack me, he just left. So I found a nearby chalkboard on a wall and just started writing my name and other information onto it until I woke up.}

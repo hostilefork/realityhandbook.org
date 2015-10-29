@@ -5,44 +5,60 @@ Draem [
     tags: [lucid-dream neutral]
 ]
 
-{I was becoming frustrated at communications with a group during a dream.}
+print {I was becoming frustrated at communications with a group during a dream.}
 
-[me: {I don't understand why we can't communicate, because you must speak English. Some of you must, anyway.}]
+dialog [me: {I don't understand why we can't communicate, because you must speak English. Some of you must, anyway.}]
 
-"I located a pencil and held it up."
+print "I located a pencil and held it up."
 
-[me: "What is this object called?"]
+dialog [me: "What is this object called?"]
 
-{They stared at me blankly. I hummed the Sesame Street song "C is for cookie".}
+print {They stared at me blankly. I hummed the Sesame Street song "C is for cookie".}
 
-[me: "You know the song? What is it called?"]
+dialog [
 
-[kid: "C is for cookie."]
+    me: "You know the song? What is it called?"
 
-[me: {Okay, now let's play another game. *BLANK* is for pencil...}]
+    kid: "C is for cookie."
 
-{Someone in the room picked up the pencil and shouted.}
+    me: {Okay, now let's play another game. *BLANK* is for pencil...}
 
-[person: "P!"]
+]
 
-[me: {Right! Okay, put that down. Now I need more objects...}]
+print {Someone in the room picked up the pencil and shouted.}
 
-{I got lost and had to restart. I found a different group, and addressed a girl with a pencil again.}
+dialog [
 
-[me: "What is the first letter for this object?"]
+    person: "P!"
 
-[girl: "Five?"]
+    me: {Right! Okay, put that down. Now I need more objects...}
 
-[me: "No, no, try again."]
+]
 
-{Someone else piped in with "four?" which made me begin to speculate.}
+print {I got lost and had to restart. I found a different group, and addressed a girl with a pencil again.}
 
-[me: {These are... numbers... are you thinking in ASCII? Wait, that would be too low, even for the first digit. Unless... unless maybe in hex? Do you know the ASCII code?}]
+dialog [
 
-[note {Pencil in ASCII hex is actually 50454e43494c. So someone looking at hex digits might say the first "letter" is 5, though that's quite a stretch.}]
+    me: "What is the first letter for this object?"
 
-[girl: {Have you ever considered taking like... a nervous break?}]
+    girl: "Five?"
 
-[me: {You mean a break from thinking all the time? I think I need one.}]
+    me: "No, no, try again."
 
-{An awakening led me to become paralyzed in a room I could see I had the body of a deformed fish, that looked like it had been in an accident. People were talking to me, saying "Jeremy, wake up."}
+]
+
+print {Someone else piped in with "four?" which made me begin to speculate.}
+
+dialog [me: {These are... numbers... are you thinking in ASCII? Wait, that would be too low, even for the first digit. Unless... unless maybe in hex? Do you know the ASCII code?}]
+
+note {Pencil in ASCII hex is actually 50454e43494c. So someone looking at hex digits might say the first "letter" is 5, though that's quite a stretch.}
+
+dialog [
+
+    girl: {Have you ever considered taking like... a nervous break?}
+
+    me: {You mean a break from thinking all the time? I think I need one.}
+
+]
+
+print {An awakening led me to become paralyzed in a room I could see I had the body of a deformed fish, that looked like it had been in an accident. People were talking to me, saying "Jeremy, wake up."}

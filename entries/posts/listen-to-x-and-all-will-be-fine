@@ -6,32 +6,40 @@ Draem [
     old: http://realityhandbook.livejournal.com/55654.html
 ]
 
-{I was looking at a web page called "whatitis.com" which had several video clips. One was a debate between Republican candidates for office. The candidate speaking was very loud.}
+print {I was looking at a web page called "whatitis.com" which had several video clips. One was a debate between Republican candidates for office. The candidate speaking was very loud.}
 
-[candidate: {You want to get the government involved in regulating the energy market and gas prices?! Come on, if you think regulation will help that you're delusional!!}]
+dialog [candidate: {You want to get the government involved in regulating the energy market and gas prices?! Come on, if you think regulation will help that you're delusional!!}]
 
-{Each video had a label, and the label for this video started out saying "Republican debate is okay". Then it would update to "Republican debate is [okay, hostile, silly]." I came to realize that these labels were the result of analyzing what people were saying about the video on other websites.}
+print << [
 
-{There was a search box, and because I was using an Apple keyboard I tried to type in "Apple". My typing was terrible. Believing that I could talk in my sleep to the waking world, I tried to explain this to someone who I thought was in bed with me.}
+    {Each video had a label, and the label for this video started out saying "Republican debate is okay". Then it would update to "Republican debate is [okay, hostile, silly]." I came to realize that these labels were the result of analyzing what people were saying about the video on other websites.}
 
-[me: {Why is it that I can type on the screen and have my typographic errors be persistent? Where is this computer? Where is this screen?}]
+    {There was a search box, and because I was using an Apple keyboard I tried to type in "Apple". My typing was terrible. Believing that I could talk in my sleep to the waking world, I tried to explain this to someone who I thought was in bed with me.}
 
-[her: {This is what we should have been doing a long time ago, drawing lines and tagging, looking for humans.}]
+]
 
-[me: "Uh, why didn't we do it before?"]
+dialog [
 
-[her: {Well, you know, you said you had these floors and they got dirty... you couldn't walk around in your bare feet, it didn't sound comfortable.}]
+    me: {Why is it that I can type on the screen and have my typographic errors be persistent? Where is this computer? Where is this screen?}
 
-[me: "Can you give me any advice?"]
+    her: {This is what we should have been doing a long time ago, drawing lines and tagging, looking for humans.}
 
-[her: "What are you so worried about?"]
+    me: "Uh, why didn't we do it before?"
 
-[me: {The implications of my bad dreams. Evil aliens. People not believing me.}]
+    her: {Well, you know, you said you had these floors and they got dirty... you couldn't walk around in your bare feet, it didn't sound comfortable.}
 
-[her: "Just listen to X and everything will be fine."]
+    me: "Can you give me any advice?"
 
-[me: "Where's X?"]
+    her: "What are you so worried about?"
 
-[her: <laugh> "Where else would she be???!"]
+    me: {The implications of my bad dreams. Evil aliens. People not believing me.}
 
-[note {X is a [radio frequency](http://en.wikipedia.org/wiki/X_band), but it's also a [punk band](http://en.wikipedia.org/wiki/X_%28U.S._band%29). I don't have imminent plans to listen to either...}]
+    her: "Just listen to X and everything will be fine."
+
+    me: "Where's X?"
+
+    her: <laugh> "Where else would she be???!"
+
+]
+
+note {X is a [radio frequency](http://en.wikipedia.org/wiki/X_band), but it's also a [punk band](http://en.wikipedia.org/wiki/X_%28U.S._band%29). I don't have imminent plans to listen to either...}

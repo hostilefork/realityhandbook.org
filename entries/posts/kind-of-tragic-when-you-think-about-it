@@ -6,48 +6,76 @@ Draem [
     old: http://realityhandbook.livejournal.com/107680.html
 ]
 
-{I was in a body of water and there were many aquatic vessels that would morph strangely. One was a box-like thing on which a strange Kim Jong type puppet (like from Team America World Police) was sitting. On the back of his boxy boat was a large bumper sticker that said something to the effect of "MARRIAGE INFIDELITY":}
+print {I was in a body of water and there were many aquatic vessels that would morph strangely. One was a box-like thing on which a strange Kim Jong type puppet (like from Team America World Police) was sitting. On the back of his boxy boat was a large bumper sticker that said something to the effect of "MARRIAGE INFIDELITY":}
 
-[picture %kim-jong-il.jpg]
+picture %kim-jong-il.jpg
 
-{For some reason I felt like I was under attack, and so I pulled the box out of the water somehow and shook more puppets onto the oncoming boats where people were firing at me with weapons. After I'd emptied the box, a group of people standing on the bow of a ship wearing space suits and holding laser pistols offered one to me.}
+print << [
 
-{But we were in a strange standoff of sorts, where I felt they'd been chasing me and were offering it to me to make it more fun so I'd have something to fight with just to prolong it. My suspicions were raised further when they started pulling out swords and knives and gesturing at me with them. I tried to get them to stop and give them the gun back, but they refused it and seemed to get mad, so I shot one of the people with the gun. It was a slow burning kind of laser weapon, it just made a little sizzling sound and it had a very narrow beam.}
+    {For some reason I felt like I was under attack, and so I pulled the box out of the water somehow and shook more puppets onto the oncoming boats where people were firing at me with weapons. After I'd emptied the box, a group of people standing on the bow of a ship wearing space suits and holding laser pistols offered one to me.}
 
-[man: <annoyed> "Oh, now you're using it on US?"]
+    {But we were in a strange standoff of sorts, where I felt they'd been chasing me and were offering it to me to make it more fun so I'd have something to fight with just to prolong it. My suspicions were raised further when they started pulling out swords and knives and gesturing at me with them. I tried to get them to stop and give them the gun back, but they refused it and seemed to get mad, so I shot one of the people with the gun. It was a slow burning kind of laser weapon, it just made a little sizzling sound and it had a very narrow beam.}
 
-[me: {I'm sorry, I thought you were picking a fight. I assure you I don't want to shoot you. I don't even know who you are.}]
+]
 
-{By now the environment had transformed into some kind of dark cavernous room that was still nonetheless a pool. Sweeping my eyes around I saw a label that said "NCC" on a sign on a wall. I held onto a railing so I wouldn't have to swim or fly.}
+dialog [
 
-[me: "WHO ARE YOU PEOPLE? What is all this?"]
+    man: <annoyed> "Oh, now you're using it on US?"
 
-[man: {God, you did everything in your power to forget about us, now here we are again.}]
+    me: {I'm sorry, I thought you were picking a fight. I assure you I don't want to shoot you. I don't even know who you are.}
 
-[me: "But WHAT HAPPENED. Come on."]
+]
 
-[man: {It's kind of tragic when you think about it, really. Like that painting of Triton's head over there.}]
+print {By now the environment had transformed into some kind of dark cavernous room that was still nonetheless a pool. Sweeping my eyes around I saw a label that said "NCC" on a sign on a wall. I held onto a railing so I wouldn't have to swim or fly.}
 
-{He gestured to a painting which was somehow hanging up in the corner of this pool-room that looked vaguely familiar, like a stylized illustration of Val Kilmer...but in costume and color scheme a bit close to CATS from Zero Wing:}
+dialog [
 
-[picture %cats.jpg]
+    me: "WHO ARE YOU PEOPLE? What is all this?"
 
-[note {I didn't really know this offhand, but Triton is a name for the [son of Poseidon](http://en.wikipedia.org/wiki/Triton_(mythology))...which is rather apropos considering the aquatic focus of this dream!}]
+    man: {God, you did everything in your power to forget about us, now here we are again.}
 
-[me: {All right, but tragic *how*? Throw me a bone, here.}]
+    me: "But WHAT HAPPENED. Come on."
 
-[him: "It was Newsom."]
+    man: {It's kind of tragic when you think about it, really. Like that painting of Triton's head over there.}
 
-[me: "Newsom?"]
+]
 
-"A girl interrupted him."
+print {He gestured to a painting which was somehow hanging up in the corner of this pool-room that looked vaguely familiar, like a stylized illustration of Val Kilmer...but in costume and color scheme a bit close to CATS from Zero Wing:}
 
-[girl: {Come on, not this. Can't we take him to the pub. They have good food.}]
+picture %cats.jpg
 
-[me: "No no, back to Newsom."]
+note {I didn't really know this offhand, but Triton is a name for the [son of Poseidon](http://en.wikipedia.org/wiki/Triton_(mythology))...which is rather apropos considering the aquatic focus of this dream!}
 
-{The man came in close his face to me, and it was hard for me to hear what he said, and I awoke.}
+dialog [
 
-[note {He could have been saying pretty much anything given how garbly it got, but one possibility was that he said..."Newsom said we could have never done it without your groundwork." That seemed more in the spirit rather than "Newsom was the killer," not that I can be sure. I think it was a vague statement rather than a specific one in any case, be it positive or negative.}]
+    me: {All right, but tragic *how*? Throw me a bone, here.}
 
-[note {I was a little vague on whether it was "Newsom" or "Newcomb" but he did not correct me when I tried to repeat it. There are no relevant or interesting hits for "Newsom", but Newcomb has [a much better one](http://en.wikipedia.org/wiki/Newcomb_paradox):} [quote {Newcomb's paradox can also be related to the question of machine consciousness, specifically if a perfect simulation of a person's brain will generate the consciousness of that person. [3] Suppose we take the Predictor to be a machine that arrives at its prediction by simulating the brain of the Chooser when confronted with the problem of which box to choose. If that simulation generates the consciousness of the Chooser, then the Chooser cannot tell if he is standing in front of the boxes in the real world or in the virtual world generated by the simulation. The "virtual" Chooser would thus tell the Predictor which choice the "real" Chooser is going to make.}] {...so, bringing up Newcomb would make sense when talking about a simulated consciousness, time travel, memory loss/etc.}]
+    him: "It was Newsom."
+
+    me: "Newsom?"
+
+]
+
+print "A girl interrupted him."
+
+dialog [
+
+    girl: {Come on, not this. Can't we take him to the pub. They have good food.}
+
+    me: "No no, back to Newsom."
+
+]
+
+print {The man came in close his face to me, and it was hard for me to hear what he said, and I awoke.}
+
+note {He could have been saying pretty much anything given how garbly it got, but one possibility was that he said..."Newsom said we could have never done it without your groundwork." That seemed more in the spirit rather than "Newsom was the killer," not that I can be sure. I think it was a vague statement rather than a specific one in any case, be it positive or negative.}
+
+note [
+
+    print {I was a little vague on whether it was "Newsom" or "Newcomb" but he did not correct me when I tried to repeat it. There are no relevant or interesting hits for "Newsom", but Newcomb has [a much better one](http://en.wikipedia.org/wiki/Newcomb_paradox):}
+
+    quote {Newcomb's paradox can also be related to the question of machine consciousness, specifically if a perfect simulation of a person's brain will generate the consciousness of that person. [3] Suppose we take the Predictor to be a machine that arrives at its prediction by simulating the brain of the Chooser when confronted with the problem of which box to choose. If that simulation generates the consciousness of the Chooser, then the Chooser cannot tell if he is standing in front of the boxes in the real world or in the virtual world generated by the simulation. The "virtual" Chooser would thus tell the Predictor which choice the "real" Chooser is going to make.}
+
+    print {...so, bringing up Newcomb would make sense when talking about a simulated consciousness, time travel, memory loss/etc.}
+
+]

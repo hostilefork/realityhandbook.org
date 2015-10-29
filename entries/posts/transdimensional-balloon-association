@@ -6,80 +6,116 @@ Draem [
     old: http://realityhandbook.livejournal.com/98163.html
 ]
 
-{I was in an IM conversation with someone, I wasn't sure who.}
+print {I was in an IM conversation with someone, I wasn't sure who.}
 
-[other-account: "Give up, nobody likes you."]
+dialog [
 
-[me: {Nobody in the universe? I can think of counterexamples, just off the top of my head.}]
+    other-account: "Give up, nobody likes you."
 
-{My point of view switched to where I could see something from this other person's perspective. They were logging of of some system and then coming back on as someone else. Pretending to be someone else, they wrote another message. My point of view returned to my screen.}
+    me: {Nobody in the universe? I can think of counterexamples, just off the top of my head.}
 
-[third-account: "Why are you arguing with us?"]
+]
 
-[me: {Well I'm arguing with you simply because you're the same person I was arguing with before, using a different account. Thus it's not surprising that you also don't like me. Nice 'change user' function, by the way...I can see all of that.}]
+print {My point of view switched to where I could see something from this other person's perspective. They were logging of of some system and then coming back on as someone else. Pretending to be someone else, they wrote another message. My point of view returned to my screen.}
 
-[third-account: "Oh, screw you. Take THIS."]
+dialog [
 
-{There was sort of a brief electric jolt I felt. My point of view switched to where I saw a giant explosion and a building was destroyed, but I didn't wake up. Just some monitor broke.}
+    third-account: "Why are you arguing with us?"
 
-{I walked out into an area that seemed to be scaffolding running over pits of Lava. I had a few random conversations with people I thought I recognized, and I saw classrooms full of people. It was suggested that I should teach a class on a topic, but I forget what subject.}
+    me: {Well I'm arguing with you simply because you're the same person I was arguing with before, using a different account. Thus it's not surprising that you also don't like me. Nice 'change user' function, by the way...I can see all of that.}
 
-{Looking for exits, I walked outside to see where this school was. When I did, it was a building I had seen before--it was an urban shopping center with a fancy restaurant in it I'd been to. When I tried to re-enter the building, something was blowing me with gusts so I couldn't. There was water spraying everywhere but somehow I just felt air.}
+    third-account: "Oh, screw you. Take THIS."
 
-{A nice and good-looking couple who I thought I recognized came up to help me, I was pinned to a wall by the air.}
+]
 
-[me: "Hey again, I'm stuck. Can you help me."]
+print << [
 
-[guy: {Can't get by because of the water, huh? We can fix that.}]
+    {There was sort of a brief electric jolt I felt. My point of view switched to where I saw a giant explosion and a building was destroyed, but I didn't wake up. Just some monitor broke.}
 
-[me: {Why do I always seem to be the only person in a situation who's having these problems?}]
+    {I walked out into an area that seemed to be scaffolding running over pits of Lava. I had a few random conversations with people I thought I recognized, and I saw classrooms full of people. It was suggested that I should teach a class on a topic, but I forget what subject.}
 
-{They started pushing me, and with their help I went flying back into the building, and up various sets of stairs.}
+    {Looking for exits, I walked outside to see where this school was. When I did, it was a building I had seen before--it was an urban shopping center with a fancy restaurant in it I'd been to. When I tried to re-enter the building, something was blowing me with gusts so I couldn't. There was water spraying everywhere but somehow I just felt air.}
 
-[me: {Hope this isn't putting you guys out too much, but wow, you sure are among the most helpful.}]
+    {A nice and good-looking couple who I thought I recognized came up to help me, I was pinned to a wall by the air.}
 
-[girl: <smiling> {Well all us helpful people are sometimes also the most intelligent and the most attractive. But that's not all coincidence...}]
+]
 
-[me: {The last time I saw you, we were... there was snow and skis.}]
+dialog [
 
-[girl: <laughing> {And you turned us all into a giant rolling ball of 300 snow-skis, yes, that was very exciting going over the hill.}]
+    me: "Hey again, I'm stuck. Can you help me."
 
-{I was taken into a room where they were trying to present information about me. The people were trying to make a decision if I was going to be accepted or inducted into a group. It wasn't so much to ask questions of me as to talk to each other, but there was a question for me.}
+    guy: {Can't get by because of the water, huh? We can fix that.}
 
-[asian-girl: {You said you were an electrical engineer, what does that mean?}]
+    me: {Why do I always seem to be the only person in a situation who's having these problems?}
 
-[me: {Well, that's just one thing I know about. I've done a lot of things. But to answer your question, electrical engineering is the study of how to build systems that control and direct power of a certain type. The type of power is specifically electricity, which is the basis for how computers perform logic.}]
+]
 
-{Someone held up a piece of poster board, onto which there had been pasted a bunch of objects to represent a circuit and logic gates. It looked like it had been made by a kid, with glitter and glue aesthetics. This was put into a shelf for exhibits which were relevant to my 'evaluation'.}
+print {They started pushing me, and with their help I went flying back into the building, and up various sets of stairs.}
 
-{A leader or someone was sitting behind a desk, and she looked a bit like Judge Judy. I started having problems with my shirt flying up over my head, and as I approached the desk something jumped out from under it and attacked me. She and the people seemed concerned about this.}
+dialog [
 
-{After a false awakening, I was watching a monitor where I was controlling a tank with two joysticks. The video game was called Avalon, and I was getting creamed. I managed to turn away from the monitor and find that the game was embedded into the wall... like an ATM...}
+    me: {Hope this isn't putting you guys out too much, but wow, you sure are among the most helpful.}
 
-[note {There is a movie called [Avalon](http://en.wikipedia.org/wiki/Avalon_(2001_film)), about a massively multiplayer online war game that is declared illegal, though I have yet to see it.}]
+    girl: <smiling> {Well all us helpful people are sometimes also the most intelligent and the most attractive. But that's not all coincidence...}
 
-{Stepping back I realized I was in the lobby of the same building I was in before, another person guided me forward into an elevator. I understood I'd be speaking with the same group, somehow. When the elevator stopped at a floor to pick other people up, he warned me:}
+    me: {The last time I saw you, we were... there was snow and skis.}
 
-[guy: {We can either keep going with them, or take another path. If they stay in the elevator, then they will be part of the vote.}]
+    girl: <laughing> {And you turned us all into a giant rolling ball of 300 snow-skis, yes, that was very exciting going over the hill.}
 
-[me: {Oh, I'm not going to jury-rig any voting so it favors me, at this point of what I've seen I'm letting the chips fall where they may.}]
+]
 
-[guy: {You should know that democracy isn't always a good thing when the participants are closed-minded.}]
+print {I was taken into a room where they were trying to present information about me. The people were trying to make a decision if I was going to be accepted or inducted into a group. It wasn't so much to ask questions of me as to talk to each other, but there was a question for me.}
 
-{More and more people started getting in the elevator. The floor fell out of part of it, but people seemed not to panic. On the level underneath us I could see through a hole a sign for "Buy 'n' Large".}
+dialog [
 
-[note {Buy 'n' Large is the fictional corporation in [WALL-E](http://en.wikipedia.org/wiki/WALL-E) that has encouraged wanton consumerism and destroyed Earth.}]
+    asian-girl: {You said you were an electrical engineer, what does that mean?}
 
-[me: {The bottom falling out of an elevator in a dream is... pretty cliche.}]
+    me: {Well, that's just one thing I know about. I've done a lot of things. But to answer your question, electrical engineering is the study of how to build systems that control and direct power of a certain type. The type of power is specifically electricity, which is the basis for how computers perform logic.}
 
-{Two young children were sitting behind me, and one of them, a young boy laughed and spoke with a foreign accent.}
+]
 
-[boy: {And so when the bottom of the elevator is falling out, he just goes 'in a dream this is cliche'. That is funny! Also, he knows that word, so he must be older than I thought by his size.}]
+print << [
 
-{I started flying somehow, alone outdoors. It looked like there was a stage set up, and a lot of people with balloons. Some music was playing whose lyrics I couldn't quite remember but something akin to *'Sometimes you make the right choice'*.}
+    {Someone held up a piece of poster board, onto which there had been pasted a bunch of objects to represent a circuit and logic gates. It looked like it had been made by a kid, with glitter and glue aesthetics. This was put into a shelf for exhibits which were relevant to my 'evaluation'.}
 
-{As I flew forward I was greeted by a flood of giant balloons which burst and there were more balloons. But once I reached the podium and landed it had a heavy wooden door on the face of it, pointing up. I opened it and there was a stairwell leading down into a purple light.}
+    {A leader or someone was sitting behind a desk, and she looked a bit like Judge Judy. I started having problems with my shirt flying up over my head, and as I approached the desk something jumped out from under it and attacked me. She and the people seemed concerned about this.}
 
-{How open the door was seemed to affect the steepness of the stairs, and opening it all the way made them impossibly flat. Not seeing any sign that going down the stairs would lead to anything productive, I opted not to enter and to instead look to see if there was anyone around.}
+    {After a false awakening, I was watching a monitor where I was controlling a tank with two joysticks. The video game was called Avalon, and I was getting creamed. I managed to turn away from the monitor and find that the game was embedded into the wall... like an ATM...}
 
-{When I did, there were two small dogs that looked like Welsh Corgis off in the distance. One of them came running at me, and nicked my leg with a bite and ran off. It felt almost like my foot had been pounded to the floor so I couldn't move it. The dog came back and started eating my arm, it was annoying. I tried to hold out as long as possible.}
+]
+
+note {There is a movie called [Avalon](http://en.wikipedia.org/wiki/Avalon_(2001_film)), about a massively multiplayer online war game that is declared illegal, though I have yet to see it.}
+
+print {Stepping back I realized I was in the lobby of the same building I was in before, another person guided me forward into an elevator. I understood I'd be speaking with the same group, somehow. When the elevator stopped at a floor to pick other people up, he warned me:}
+
+dialog [
+
+    guy: {We can either keep going with them, or take another path. If they stay in the elevator, then they will be part of the vote.}
+
+    me: {Oh, I'm not going to jury-rig any voting so it favors me, at this point of what I've seen I'm letting the chips fall where they may.}
+
+    guy: {You should know that democracy isn't always a good thing when the participants are closed-minded.}
+
+]
+
+print {More and more people started getting in the elevator. The floor fell out of part of it, but people seemed not to panic. On the level underneath us I could see through a hole a sign for "Buy 'n' Large".}
+
+note {Buy 'n' Large is the fictional corporation in [WALL-E](http://en.wikipedia.org/wiki/WALL-E) that has encouraged wanton consumerism and destroyed Earth.}
+
+dialog [me: {The bottom falling out of an elevator in a dream is... pretty cliche.}]
+
+print {Two young children were sitting behind me, and one of them, a young boy laughed and spoke with a foreign accent.}
+
+dialog [boy: {And so when the bottom of the elevator is falling out, he just goes 'in a dream this is cliche'. That is funny! Also, he knows that word, so he must be older than I thought by his size.}]
+
+print << [
+
+    {I started flying somehow, alone outdoors. It looked like there was a stage set up, and a lot of people with balloons. Some music was playing whose lyrics I couldn't quite remember but something akin to *'Sometimes you make the right choice'*.}
+
+    {As I flew forward I was greeted by a flood of giant balloons which burst and there were more balloons. But once I reached the podium and landed it had a heavy wooden door on the face of it, pointing up. I opened it and there was a stairwell leading down into a purple light.}
+
+    {How open the door was seemed to affect the steepness of the stairs, and opening it all the way made them impossibly flat. Not seeing any sign that going down the stairs would lead to anything productive, I opted not to enter and to instead look to see if there was anyone around.}
+
+    {When I did, there were two small dogs that looked like Welsh Corgis off in the distance. One of them came running at me, and nicked my leg with a bite and ran off. It felt almost like my foot had been pounded to the floor so I couldn't move it. The dog came back and started eating my arm, it was annoying. I tried to hold out as long as possible.}
+
+]

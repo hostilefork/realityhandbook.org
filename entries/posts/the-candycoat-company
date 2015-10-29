@@ -5,134 +5,182 @@ Draem [
     tags: [lucid-dream neutral attack technology microsoft]
 ]
 
-{I was in a large room which seemed to be divided into sections, but without any dividers.}
+print {I was in a large room which seemed to be divided into sections, but without any dividers.}
 
-[note {I've seen mini conference rooms or classrooms that can be joined or un-joined in this way; and this would have been the open state.  There was either a sign or some mental indication that the place I was in was something called "the candycoat company".}]
+note {I've seen mini conference rooms or classrooms that can be joined or un-joined in this way; and this would have been the open state.  There was either a sign or some mental indication that the place I was in was something called "the candycoat company".}
 
-{A kid was telling me that an authority figure of some kind wanted to meet with me, and pointing in the direction of her office.}
+print {A kid was telling me that an authority figure of some kind wanted to meet with me, and pointing in the direction of her office.}
 
-[kid: "I wouldn't go by myself if I were you.  She will say something and then later deny it; trust me this has happened many times."]
+dialog [kid: {I wouldn't go by myself if I were you.  She will say something and then later deny it; trust me this has happened many times.}]
 
-{I could see very vaguely into an adjacent room, a kind of administrative office.  But the walls seemed to have an issue where when we got close to them, the door disappeared.}
+print << [
 
-{The kid seemed to show concern that doors weren't in the places he expected them to be.}
+    {I could see very vaguely into an adjacent room, a kind of administrative office.  But the walls seemed to have an issue where when we got close to them, the door disappeared.}
 
-[kid: "These doors are connected in what you might think of as an 'up' direction.  It isn't clear what is blocking the doors; there must be something in the corridor.  I can't see what it is from this side; but it must be a movable thing...perhaps some kind of cleaning equipment?  We'll have to go around to the front."]
+    {The kid seemed to show concern that doors weren't in the places he expected them to be.}
 
-{An older-looking man joined us and began escorting us down the hall.}
+]
 
-[man: <to kid> "It isn't actually 'up'.  That is just an imagined representation in your mind."]
+dialog [kid: {These doors are connected in what you might think of as an 'up' direction.  It isn't clear what is blocking the doors; there must be something in the corridor.  I can't see what it is from this side; but it must be a movable thing...perhaps some kind of cleaning equipment?  We'll have to go around to the front.}]
 
-[me: "Aren't all directions just 'imagined representations' in your mind?"]
+print {An older-looking man joined us and began escorting us down the hall.}
 
-[man: "Only in the useless sense of making such a statement.  Up becomes up in a reference frame if everyone has agreed on the other directions.  In this case what I meant was it only looks like up to him.  There's no good reason why it would or even should be thought of as 'up' by you or anyone else."]
+dialog [
 
-[me: "What are the dimensions in play here?  Can you build things that are larger on the inside than the outside?"]
+    man: <to kid> {It isn't actually 'up'.  That is just an imagined representation in your mind.}
 
-[man: <confused> "What would that mean, exactly?"]
+    me: {Aren't all directions just 'imagined representations' in your mind?}
 
-{Suddenly I noticed an object in the hall as we passed, that was kind of Tardis-like.}
+    man: {Only in the useless sense of making such a statement.  Up becomes up in a reference frame if everyone has agreed on the other directions.  In this case what I meant was it only looks like up to him.  There's no good reason why it would or even should be thought of as 'up' by you or anyone else.}
 
-[me: "For instance: like look at this boxy thing.  It has a finite boundary around it when it is closed and we can see all around it."]
+    me: {What are the dimensions in play here?  Can you build things that are larger on the inside than the outside?}
 
-{I waved my hand around in the space behind the object.}
+    man: <confused> "What would that mean, exactly?"
 
-[me: "Then imagine if when you opened the box, it had all kinds of space in it.  Like you could reach your arm in further than the length of the box...without in any way leaving the box."]
+]
 
-{Opening the box I was hopeful to be able to demonstrate this.  Instead, the TARDIS-like object turned out to be a fairly ordinary school locker, and it just had some shelving in it and other junk.  It seemed kind of old and rusty.}
+print {Suddenly I noticed an object in the hall as we passed, that was kind of Tardis-like.}
 
-[me: "Okay well this isn't such an object, this is an old school locker.  But it looks like what we would call a TARDIS, which would have these properties."]
+dialog [me: {For instance: like look at this boxy thing.  It has a finite boundary around it when it is closed and we can see all around it.}]
 
-[kid: <to man> "They don't actually have those.  He's talking about something from a fiction story."]
+print {I waved my hand around in the space behind the object.}
 
-[man: <to me> "We have some experiments you might say are loosely in that spirit.  But it wouldn't really be all that practical or valuable to build such a thing; we connect space in different ways."]
+dialog [me: {Then imagine if when you opened the box, it had all kinds of space in it.  Like you could reach your arm in further than the length of the box...without in any way leaving the box.}]
 
-[me: "Well in other dream circumstances people have showed me things like that.  A toolset that fits in a container and just keeps expanding out.  It seems to be a useful thing to be able to do outside of a video game."]
+print {Opening the box I was hopeful to be able to demonstrate this.  Instead, the TARDIS-like object turned out to be a fairly ordinary school locker, and it just had some shelving in it and other junk.  It seemed kind of old and rusty.}
 
-[note {I am referring to the device shown to me in [The Interview Hero](http://realityhandbook.org/lucid-dream/the-interview-hero/); though that is not the only one.}]
+dialog [
 
-{We finished walking through the hallways and came to another wall.  The man waved some kind of instrument to detect where a door would be, and it appeared.  Some passers-by took note of us.}
+    me: {Okay well this isn't such an object, this is an old school locker.  But it looks like what we would call a TARDIS, which would have these properties.}
 
-[passerby: <shaking head> "I'm not sure what logic she's using these days about who to be admitting through the *front* door."]
+    kid: <to man> {They don't actually have those.  He's talking about something from a fiction story.}
 
-[note {It wasn't clear if that was supposed to be some kind of insult or what.}]
+    man: <to me> {We have some experiments you might say are loosely in that spirit.  But it wouldn't really be all that practical or valuable to build such a thing; we connect space in different ways.}
 
-{We entered and it was a relatively nice office entryway; with carpet and potted plants.  It didn't really remind me of the room I had glimpsed before.  Remembering what the kid had said, I fumbled in my pocket for my cell phone to surreptitiously turn on the voice recorder and pocket it.}
+    me: {Well in other dream circumstances people have showed me things like that.  A toolset that fits in a container and just keeps expanding out.  It seems to be a useful thing to be able to do outside of a video game.}
 
-[note {I have such an app on my phone, and I triggered it as "Voice Recorder" which was the same name.  I'd have rather just held the device idly in my hand vs. have it in my pocket to get a better recording, but noticed that this did something my voice recorder doesn't; it had a sound monitoring tool that was showing volume levels even when you exited to the homescreen while it was running.  This made the phone clearly seem to be "listening", so I pocketed it.}]
+]
 
-{Somehow this scene transitioned to where I was speaking to someone who looked like Sylvester Stallone.  He had an ice cream bar on a stick he had taken out of a box.  I began speaking somewhat midway through the situation.}
+note {I am referring to the device shown to me in [The Interview Hero](http://realityhandbook.org/lucid-dream/the-interview-hero/); though that is not the only one.}
 
-[me: "Ah, so that's how they did it.  They put the money *inside* the ice cream bars, and then bought up the shipments with the money inside."]
+print {We finished walking through the hallways and came to another wall.  The man waved some kind of instrument to detect where a door would be, and it appeared.  Some passers-by took note of us.}
 
-[stallone: "Wanna taste?  Don't bite too deep."]
+dialog [passerby: <shaking head> {I'm not sure what logic she's using these days about who to be admitting through the *front* door.}]
 
-{He held it out to me and I took it.  I bit in to the bar a little and my teeth and tongue hit something that looked like wadded up currency rather quickly.  I pulled it out and ate some of the rest.}
+note {It wasn't clear if that was supposed to be some kind of insult or what.}
 
-{We were waiting in the back of some kind of large truck for a giant wall to open for the truck to go through.  There was a sort of futuristic-looking bike; white with hollow tires, a bit reminiscent of a super low-budget version of a Tron cycle.}
+print {We entered and it was a relatively nice office entryway; with carpet and potted plants.  It didn't really remind me of the room I had glimpsed before.  Remembering what the kid had said, I fumbled in my pocket for my cell phone to surreptitiously turn on the voice recorder and pocket it.}
 
-[me: "All right, then.  Is this that...candy coat company thing?  I was just looking at a bunch of offices there."]
+note {I have such an app on my phone, and I triggered it as "Voice Recorder" which was the same name.  I'd have rather just held the device idly in my hand vs. have it in my pocket to get a better recording, but noticed that this did something my voice recorder doesn't; it had a sound monitoring tool that was showing volume levels even when you exited to the homescreen while it was running.  This made the phone clearly seem to be "listening", so I pocketed it.}
 
-[note {I don't remember if I got a response.}]
+print {Somehow this scene transitioned to where I was speaking to someone who looked like Sylvester Stallone.  He had an ice cream bar on a stick he had taken out of a box.  I began speaking somewhat midway through the situation.}
 
-[me: "Say, you look like someone named 'Sylvester Stallone' and I feel like I recognize this... a movie where he rides on a bike futuristic bike?  I don't think I ever saw this one though."]
+dialog [
 
-[note {I have no idea why I thought that; but maybe I was thinking of Judge Dredd indirectly, where he rode no such bike as far as I remember.}]
+    me: {Ah, so that's how they did it.  They put the money *inside* the ice cream bars, and then bought up the shipments with the money inside.}
 
-{The gate opened and the truck drove through into it; there was a long landscape of modern buildings down the road--some of them tall and cylindrical--that seemed to extend to the ocean.}
+    stallone: "Wanna taste?  Don't bite too deep."
 
-[me: "Where is this supposed to be?"]
+]
 
-[stallone: "In the movie it's supposed to be Europe.  But that's only what you think at the beginning of the story; eventually you learn it isn't really Europe...it's too long and complicated to explain the plot."]
+print << [
 
-{The next thing I knew we had gone into a building and I was walking up some stairs.  At one point, I was encountering so much traffic going down one flight of stairs that I had to stand aside; and I became impatient as more and more people were walking down without giving me a chance to go up.}
+    {He held it out to me and I took it.  I bit in to the bar a little and my teeth and tongue hit something that looked like wadded up currency rather quickly.  I pulled it out and ate some of the rest.}
 
-{A teenager who was behind me looked puzzled as well.}
+    {We were waiting in the back of some kind of large truck for a giant wall to open for the truck to go through.  There was a sort of futuristic-looking bike; white with hollow tires, a bit reminiscent of a super low-budget version of a Tron cycle.}
 
-[teenager: "Why is everyone leaving?"]
+]
 
-{A man who had come down the steps looked at the teenager.}
+dialog [me: {All right, then.  Is this that...candy coat company thing?  I was just looking at a bunch of offices there.}]
 
-[rude-man: "Because of you, no one wants to be here if you're coming."]
+note "I don't remember if I got a response."
 
-[teenager: "Why not?"]
+dialog [me: {Say, you look like someone named 'Sylvester Stallone' and I feel like I recognize this... a movie where he rides on a bike futuristic bike?  I don't think I ever saw this one though.}]
 
-[rude-man: "Because you're naked."]
+note {I have no idea why I thought that; but maybe I was thinking of Judge Dredd indirectly, where he rode no such bike as far as I remember.}
 
-{The teenager seemed very sad at this, but he seemed clothed to me.  I angrily got between him and the rude man.}
+print {The gate opened and the truck drove through into it; there was a long landscape of modern buildings down the road--some of them tall and cylindrical--that seemed to extend to the ocean.}
 
-[me: "Don't listen to him.  Naked means you don't have clothes on.  You have clothes on.  Just ignore it."]
+dialog [
 
-[teenager: <cheering up> "I know."]
+    me: "Where is this supposed to be?"
 
-{Getting a bit of lucidity back, I decided I wanted to look at a computer that was nearby.  It had a relatively small monitor.  When I turned it on it asked for a username and password, and the teenager offered for me to give it to him...where he entered a user name and a very simple password.  The password was something like PEANUT and the screen for entering it didn't hide the letters with asterisks or anything.}
+    stallone: {In the movie it's supposed to be Europe.  But that's only what you think at the beginning of the story; eventually you learn it isn't really Europe...it's too long and complicated to explain the plot.}
 
-{It was some kind of Windows variant in form, but I didn't see any of Microsoft's branding.  Hunting for the clock time, it said something about being in the year **2900c**.}
+]
 
-[note {I don't remember the last two digits, but I believe the first were 29 and the c was there to indicate something in the spirit of B.C. or A.D. as I understood it.}]
+print << [
 
-[me: {I was asked earlier about if I'd seen the 'new version of Windows'.  What you're running here looks a lot like what was released as "Windows 95", meaning it was released in 1995.  That was a while ago for me, and we have some fancier stuff than this despite it claiming you're in the year 2900.  Clocks are not to be trusted.}]
+    {The next thing I knew we had gone into a building and I was walking up some stairs.  At one point, I was encountering so much traffic going down one flight of stairs that I had to stand aside; and I became impatient as more and more people were walking down without giving me a chance to go up.}
 
-{I was seemingly pulled from the environment, as a tall man who looked a bit like Michael Cera began addressing me from out of nowhere.}
+    {A teenager who was behind me looked puzzled as well.}
 
-[tall-man: {When you go to messing with computers like that, you need to have a purpose.  Firstly, you are signaling your presence in a way that could turn out badly for innocents in the room.  And if you actually ever *did* succeed in connecting back through...you might provoke them enough to try and go all the way after you.  If that happened, you might find you're not as invincible as you think.}]
+]
 
-[me: {Oh whatever!  As if I care at this point, this is all just nonsense.  Get me off of Earth!}]
+dialog [teenager: "Why is everyone leaving?"]
 
-[tall-man: {You've got a couple more years of work.  It's best if you stay there for now.}]
+print {A man who had come down the steps looked at the teenager.}
 
-[me: <angrily> {What The Hell?  Well then if you are pushing and pulling buttons, why haven't you sent me... I dunno, sent me a supermodel girl from this outer dimension who can really empathize with what I go through, who could explain things to me?}]
+dialog [
 
-[tall-man: <frowning> {Among the buttons I have available to push, "send interdimensional supermodel" is not one of them.}]
+    rude-man: {Because of you, no one wants to be here if you're coming.}
 
-[me: <more angrily> {Then either get one of those buttons or GET ME OUT OF THERE!}]
+    teenager: "Why not?"
 
-[tall-man: {If you think you're mad now - you should have seen how you reacted the last time I took a request and intervened in one of your projects.  I am *not* falling for that again.}]
+    rude-man: "Because you're naked."
 
-{We went into a house similar to the one I'm living in now.  There were objects arranged around and I did some kind of reconfiguration with them.}
+]
 
-[me: <dejectedly> {Well whatever.  I don't care.  I'm clearly in more than one place at a time, so getting rid of any one place is no matter to me.}]
+print {The teenager seemed very sad at this, but he seemed clothed to me.  I angrily got between him and the rude man.}
 
-[tall-man: {Your parallel lives are running at the same time and feeding into a database at a very high speed; it's really snowballing in terms of the training set.}]
+dialog [
 
-{The people in the house began to panic as a large sumo came barreling down the hallway into the living room.  They drew weapons, seemingly trying to defend me.  But the sumo had some kind of device that was shooting baseball-sized spheres that seemed to just be made out of wood at me.}
+    me: {Don't listen to him.  Naked means you don't have clothes on.  You have clothes on.  Just ignore it.}
+
+    teenager: <cheering up> "I know."
+
+]
+
+print << [
+
+    {Getting a bit of lucidity back, I decided I wanted to look at a computer that was nearby.  It had a relatively small monitor.  When I turned it on it asked for a username and password, and the teenager offered for me to give it to him...where he entered a user name and a very simple password.  The password was something like PEANUT and the screen for entering it didn't hide the letters with asterisks or anything.}
+
+    {It was some kind of Windows variant in form, but I didn't see any of Microsoft's branding.  Hunting for the clock time, it said something about being in the year **2900c**.}
+
+]
+
+note {I don't remember the last two digits, but I believe the first were 29 and the c was there to indicate something in the spirit of B.C. or A.D. as I understood it.}
+
+dialog [me: {I was asked earlier about if I'd seen the 'new version of Windows'.  What you're running here looks a lot like what was released as "Windows 95", meaning it was released in 1995.  That was a while ago for me, and we have some fancier stuff than this despite it claiming you're in the year 2900.  Clocks are not to be trusted.}]
+
+print {I was seemingly pulled from the environment, as a tall man who looked a bit like Michael Cera began addressing me from out of nowhere.}
+
+dialog [
+
+    tall-man: {When you go to messing with computers like that, you need to have a purpose.  Firstly, you are signaling your presence in a way that could turn out badly for innocents in the room.  And if you actually ever *did* succeed in connecting back through...you might provoke them enough to try and go all the way after you.  If that happened, you might find you're not as invincible as you think.}
+
+    me: {Oh whatever!  As if I care at this point, this is all just nonsense.  Get me off of Earth!}
+
+    tall-man: {You've got a couple more years of work.  It's best if you stay there for now.}
+
+    me: <angrily> {What The Hell?  Well then if you are pushing and pulling buttons, why haven't you sent me... I dunno, sent me a supermodel girl from this outer dimension who can really empathize with what I go through, who could explain things to me?}
+
+    tall-man: <frowning> {Among the buttons I have available to push, "send interdimensional supermodel" is not one of them.}
+
+    me: <more angrily> {Then either get one of those buttons or GET ME OUT OF THERE!}
+
+    tall-man: {If you think you're mad now - you should have seen how you reacted the last time I took a request and intervened in one of your projects.  I am *not* falling for that again.}
+
+]
+
+print {We went into a house similar to the one I'm living in now.  There were objects arranged around and I did some kind of reconfiguration with them.}
+
+dialog [
+
+    me: <dejectedly> {Well whatever.  I don't care.  I'm clearly in more than one place at a time, so getting rid of any one place is no matter to me.}
+
+    tall-man: {Your parallel lives are running at the same time and feeding into a database at a very high speed; it's really snowballing in terms of the training set.}
+
+]
+
+print {The people in the house began to panic as a large sumo came barreling down the hallway into the living room.  They drew weapons, seemingly trying to defend me.  But the sumo had some kind of device that was shooting baseball-sized spheres that seemed to just be made out of wood at me.}

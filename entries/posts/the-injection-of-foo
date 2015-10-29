@@ -5,98 +5,146 @@ Draem [
     tags: [lucid-dream helpful dogs injections positive funny]
 ]
 
-{I had a case of going in a loop a couple of times, doing something and then that not working and then going through the same process again.  (A bit like dying in a video game, and then going back to the start point to try to do it right.)}
+print << [
 
-{The way the loop would work is that I'd go into an entrance area where I'd be greeted by a woman who would ask me what kind of injection I wanted.  I'd been asking for things I'd forgotten, but on the last pass I asked for an injection of "foo".}
+    {I had a case of going in a loop a couple of times, doing something and then that not working and then going through the same process again.  (A bit like dying in a video game, and then going back to the start point to try to do it right.)}
 
-[note {In computer programmer-speak, foo is a [Metasyntactic Variable](http://en.wikipedia.org/wiki/Metasyntactic_variable).  It's a bit like "widget" or "thingamabob", used abstractly as a placeholder.}]
+    {The way the loop would work is that I'd go into an entrance area where I'd be greeted by a woman who would ask me what kind of injection I wanted.  I'd been asking for things I'd forgotten, but on the last pass I asked for an injection of "foo".}
 
-{I didn't feel the injection as it happened, but after getting it I was allowed to pass and follow the ensuing stairways and corridors.}
+]
 
-{It seemed that each time I'd been running this course, I'd been finding that there were two separated areas on either side of a wall.  To get from one area to the other, I had to climb a stairway very high on one side and go around.  I felt this time to get to the other side I had to go unusually high, and then come back down unusually low.}
+note {In computer programmer-speak, foo is a [Metasyntactic Variable](http://en.wikipedia.org/wiki/Metasyntactic_variable).  It's a bit like "widget" or "thingamabob", used abstractly as a placeholder.}
 
-{When I came down into the area I saw a lot of people laying on their backs on the floor, and there were also a lot of dogs around.  I was greeted by a man with longish black hair.}
+print << [
 
-[me: {Well, this time I asked for an "injection of foo".  So that's what I'm on.}]
+    {I didn't feel the injection as it happened, but after getting it I was allowed to pass and follow the ensuing stairways and corridors.}
 
-[man: <smiling> {If you're still standing, you're not on it...yet.  Okay, lay down.}]
+    {It seemed that each time I'd been running this course, I'd been finding that there were two separated areas on either side of a wall.  To get from one area to the other, I had to climb a stairway very high on one side and go around.  I felt this time to get to the other side I had to go unusually high, and then come back down unusually low.}
 
-{I laid on my back and it seemed I was kind of glued to the floor.  The room came into extremely lucid focus for a moment.  Everything seemed very solid, in a way that only happens occasionally in lucid dreams.}
+    {When I came down into the area I saw a lot of people laying on their backs on the floor, and there were also a lot of dogs around.  I was greeted by a man with longish black hair.}
 
-[man: {Just try and hold that focus for a while.  We've mostly separated out the troubles onto the other side of the division...a bit of an unfortunate way of "front-loading" the problems so that they happen to what you experience as "past you"; many of which you won't remember.  As unfair to "past you" as that seems, "future you" will be more appreciative of this.}]
+]
 
-[note {That reminds me of jokes like "Dear future me, I drank all your whiskey.  Sorry."  --Past me}]
+dialog [
 
-[man: {Really if you don't slow down and stabilize from time to time, and run on the high frequencies go on too long...it *can* actually kill you.  Even if your enemies aren't able to.}]
+    me: {Well, this time I asked for an "injection of foo".  So that's what I'm on.}
 
-[me: {Am I in opposition to some kind of powerful entity that should be feared?}]
+    man: <smiling> {If you're still standing, you're not on it...yet.  Okay, lay down.}
 
-{A nearby woman spoke up.}
+]
 
-[woman: {I don't know if there is any such entity that is *truly* powerful and shoud be feared.  If it had any actual power, then it's nothing to be afraid of.}]
+print {I laid on my back and it seemed I was kind of glued to the floor.  The room came into extremely lucid focus for a moment.  Everything seemed very solid, in a way that only happens occasionally in lucid dreams.}
 
-[me: {Not sure about that.  But...we're talking here, and about a division of sides.  There are lots of other people and...um...dogs here.  Are these people we can trust?}]
+dialog [man: {Just try and hold that focus for a while.  We've mostly separated out the troubles onto the other side of the division...a bit of an unfortunate way of "front-loading" the problems so that they happen to what you experience as "past you"; many of which you won't remember.  As unfair to "past you" as that seems, "future you" will be more appreciative of this.}]
 
-{They looked around the room, and everyone kind of shrugged and nodded.}
+note {That reminds me of jokes like "Dear future me, I drank all your whiskey.  Sorry."  --Past me}
 
-{Some dogs came over and kind of sniffed at me, none attacked.  I seemed to be moving or floating on the floor somehow, and went floating up to a kind of golden retriever like dog.  We stared at each other for a bit, then I pet him.}
+dialog [
 
-[me: {Are you a talking dog?  Do you know how to speak?}]
+    man: {Really if you don't slow down and stabilize from time to time, and run on the high frequencies go on too long...it *can* actually kill you.  Even if your enemies aren't able to.}
 
-{The dog barked at me and kind of made other noises.}
+    me: {Am I in opposition to some kind of powerful entity that should be feared?}
 
-[me: {Oh.  Well I don't speak dog.  Do you speak English?}]
+]
 
-{He shook his head, but then said fairly clearly and yelpily:}
+print "A nearby woman spoke up."
 
-[dog: {HELLO!}]
+dialog [
 
-[me: {Hello!}]
+    woman: {I don't know if there is any such entity that is *truly* powerful and shoud be feared.  If it had any actual power, then it's nothing to be afraid of.}
 
-[dog: {HELLO!}]
+    me: {Not sure about that.  But...we're talking here, and about a division of sides.  There are lots of other people and...um...dogs here.  Are these people we can trust?}
 
-[me: {Pretty good.  You speak more English than I speak dog.}]
+]
 
-{I just sort of floated around for a bit with not much happening, although I saw some people seated on interesting looking sofas.  They were made to look like cars, where the ottomans were done like the front of a car.  I thought to myself that would make a fun looking product.}
+print << [
 
-[note {There are unsurprisingly some "car couches" for sale online, though I don't see any where the car face is on ottomans.}]
+    {They looked around the room, and everyone kind of shrugged and nodded.}
 
-{Eventually I could get up and I walked to a room where someone was about to give a presentation.  He had a body with embedded machinery in it, and it looked very strange.}
+    {Some dogs came over and kind of sniffed at me, none attacked.  I seemed to be moving or floating on the floor somehow, and went floating up to a kind of golden retriever like dog.  We stared at each other for a bit, then I pet him.}
 
-[machine-man: <chuckling> {You might look at me and say "oh no, what a monster".  But I actually paid to do this!  After my accident when I had to decide what I was going to be, I decided I wanted everything to be right on hand.  So for instance, I can write right here...}]
+]
 
-{He wrote on an embedded kind of tablet or Etch-a-Sketch thing in the middle of his stomach, and scribbled some simple seeming math equations that were adding fractions and whole numbers together with different denominators.}
+dialog [me: "Are you a talking dog?  Do you know how to speak?"]
 
-[machine-man: <to me> {So, can you solve this?}]
+print {The dog barked at me and kind of made other noises.}
 
-{He somehow handed me a paper with what he had written on it, though I didn't see it get printed.}
+dialog [me: {Oh.  Well I don't speak dog.  Do you speak English?}]
 
-[me: {Yes, this isn't too hard...but...}]
+print {He shook his head, but then said fairly clearly and yelpily:}
 
-{I struggled with it, because it seemed I couldn't hold all the numbers in my mind long enough, and they would change.}
+dialog [
 
-[me: {When I am awake my ability to hold several numbers in my head at a time isn't very good.  And while asleep even less so.  But all these need to be given a common denominator.  So you can't add 1/12 to 1/13th unless you multiply 12 by 13, because 13 is prime.  Bah.}]
+    dog: "HELLO!"
 
-[machine-man: {We'll give you a little more time.}]
+    me: "Hello!"
 
-{I looked at it and the problem seemed to be changing out from under me.}
+    dog: "HELLO!"
 
-[me: {The problem is, that I look away and then I look back and it has changed.  There is a common saying about dreams that you can't read clocks or other things because the optical text isn't there, it's just some neuron firing giving you an impression of text.  So I don't know that there's anything here to be solved or not.  It changes out from under me.}]
+    me: {Pretty good.  You speak more English than I speak dog.}
 
-[machine-man: {And that...is what we're going to have to keep spending time on with you...and not give up until you can hold it steady.  But for now, let's move on to others...}]
+]
 
-{He started giving problems to other people, and I was very thirsty for some reason.  I noticed a sort of dining area where I went to get a drink.  I saw there was some sparkling water which seemed to have a picture of an orange on the bottle.  It was a somewhat large bottle so I felt bad about taking the whole thing and drinking out of it, and then I saw it had already been opened so I picked up a glass and poured some into it.}
+print {I just sort of floated around for a bit with not much happening, although I saw some people seated on interesting looking sofas.  They were made to look like cars, where the ottomans were done like the front of a car.  I thought to myself that would make a fun looking product.}
 
-{I drank from the glass but couldn't taste anything.  Someone I perceived to be Gary Coleman walked by, singing.}
+note {There are unsurprisingly some "car couches" for sale online, though I don't see any where the car face is on ottomans.}
 
-[gary-coleman: <musically> {Oh...it's hard to change...and come to a place...where no one is shoutin' your name...}]
+print {Eventually I could get up and I walked to a room where someone was about to give a presentation.  He had a body with embedded machinery in it, and it looked very strange.}
 
-[me: <yelling> "GARY COLEMAN!"]
+dialog [machine-man: <chuckling> {You might look at me and say "oh no, what a monster".  But I actually paid to do this!  After my accident when I had to decide what I was going to be, I decided I wanted everything to be right on hand.  So for instance, I can write right here...}]
 
-{The murmurs and ambient noise kind of stopped as everyone looked at me.}
+print {He wrote on an embedded kind of tablet or Etch-a-Sketch thing in the middle of his stomach, and scribbled some simple seeming math equations that were adding fractions and whole numbers together with different denominators.}
 
-[me: "Well, no you can say no one is shoutin' your name."]
+dialog [machine-man: <to me> "So, can you solve this?"]
 
-[gary-coleman: <smiling> {Very funny.  Well I didn't mean to sound depressive about it, it's not that things are that bad, I'm making 1000 for each talk I get booked.}]
+print {He somehow handed me a paper with what he had written on it, though I didn't see it get printed.}
 
-[note {I actually did watch some YouTube videos about Gary Coleman's life a couple of weeks ago, so this is a case where there could be some preconceptions came into play.  Poor guy, he got a pretty sucky deal.}]
+dialog [me: "Yes, this isn't too hard...but..."]
+
+print {I struggled with it, because it seemed I couldn't hold all the numbers in my mind long enough, and they would change.}
+
+dialog [
+
+    me: {When I am awake my ability to hold several numbers in my head at a time isn't very good.  And while asleep even less so.  But all these need to be given a common denominator.  So you can't add 1/12 to 1/13th unless you multiply 12 by 13, because 13 is prime.  Bah.}
+
+    machine-man: "We'll give you a little more time."
+
+]
+
+print {I looked at it and the problem seemed to be changing out from under me.}
+
+dialog [
+
+    me: {The problem is, that I look away and then I look back and it has changed.  There is a common saying about dreams that you can't read clocks or other things because the optical text isn't there, it's just some neuron firing giving you an impression of text.  So I don't know that there's anything here to be solved or not.  It changes out from under me.}
+
+    machine-man: {And that...is what we're going to have to keep spending time on with you...and not give up until you can hold it steady.  But for now, let's move on to others...}
+
+]
+
+print << [
+
+    {He started giving problems to other people, and I was very thirsty for some reason.  I noticed a sort of dining area where I went to get a drink.  I saw there was some sparkling water which seemed to have a picture of an orange on the bottle.  It was a somewhat large bottle so I felt bad about taking the whole thing and drinking out of it, and then I saw it had already been opened so I picked up a glass and poured some into it.}
+
+    {I drank from the glass but couldn't taste anything.  Someone I perceived to be Gary Coleman walked by, singing.}
+
+]
+
+dialog [
+
+    gary-coleman: <musically> {Oh...it's hard to change...and come to a place...where no one is shoutin' your name...}
+
+    me: <yelling> "GARY COLEMAN!"
+
+]
+
+print {The murmurs and ambient noise kind of stopped as everyone looked at me.}
+
+dialog [
+
+    me: "Well, no you can say no one is shoutin' your name."
+
+    gary-coleman: <smiling> {Very funny.  Well I didn't mean to sound depressive about it, it's not that things are that bad, I'm making 1000 for each talk I get booked.}
+
+]
+
+note {I actually did watch some YouTube videos about Gary Coleman's life a couple of weeks ago, so this is a case where there could be some preconceptions came into play.  Poor guy, he got a pretty sucky deal.}

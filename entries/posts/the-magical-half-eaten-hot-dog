@@ -6,32 +6,44 @@ Draem [
     old: http://realityhandbook.livejournal.com/14301.html
 ]
 
-{I was in some kind of a pool, which suddenly started filling up with sand from the bottom. Water was flowing oddly all over the place, trapping people up against some kind of irregular glass ceiling. They were panicking.}
+print {I was in some kind of a pool, which suddenly started filling up with sand from the bottom. Water was flowing oddly all over the place, trapping people up against some kind of irregular glass ceiling. They were panicking.}
 
-[me: {This is ridiculous, you need to relax. This is a dream. Just ride the waves and let yourself enjoy it.}]
+dialog [me: {This is ridiculous, you need to relax. This is a dream. Just ride the waves and let yourself enjoy it.}]
 
-{It became fun, and everyone stopped freaking out and started riding this flood over mountains and valleys. A few of us landed comfortably in a meadow.}
+print {It became fun, and everyone stopped freaking out and started riding this flood over mountains and valleys. A few of us landed comfortably in a meadow.}
 
-[me: {In real life, that would have been very dangerous...but it sure was fun.}]
+dialog [
 
-[someone: {If you were better at it, you'd be able to do such feats while you are awake.}]
+    me: {In real life, that would have been very dangerous...but it sure was fun.}
 
-[me: {I doubt it. Though maybe...characters from The Matrix managed to do amazing things in a world they had once assumed was a rigid reality.}]
+    someone: {If you were better at it, you'd be able to do such feats while you are awake.}
 
-{There was a picnic going on in the meadow, but I didn't have any food.}
+    me: {I doubt it. Though maybe...characters from The Matrix managed to do amazing things in a world they had once assumed was a rigid reality.}
 
-[me: {Okay...I'm going to try and make some food materialize. Does anyone have a request?}]
+]
 
-[someone: "A hamburger."]
+print {There was a picnic going on in the meadow, but I didn't have any food.}
 
-[me: {I don't eat hamburgers very often so that's going to be a bit tough, since I rely upon memories to conjure objects. But I'll try.}]
+dialog [
 
-{My first attempts failed, but eventually I managed to produce a half-eaten hot dog by mimicking the memory of a food eating experience. Throwing that away, I started talking to a girl.}
+    me: {Okay...I'm going to try and make some food materialize. Does anyone have a request?}
 
-[me: "Hi there, what's your name?"]
+    someone: "A hamburger."
 
-[girl: "Stacey Christie."]
+    me: {I don't eat hamburgers very often so that's going to be a bit tough, since I rely upon memories to conjure objects. But I'll try.}
 
-[me: "Oh. How do you spell that?"]
+]
 
-{Rather than an answer to that question, I was suddenly watching a video in an internet browser. She was some sort of VJ or news correspondent, and the text of her name was done with video titling.}
+print {My first attempts failed, but eventually I managed to produce a half-eaten hot dog by mimicking the memory of a food eating experience. Throwing that away, I started talking to a girl.}
+
+dialog [
+
+    me: "Hi there, what's your name?"
+
+    girl: "Stacey Christie."
+
+    me: "Oh. How do you spell that?"
+
+]
+
+print {Rather than an answer to that question, I was suddenly watching a video in an internet browser. She was some sort of VJ or news correspondent, and the text of her name was done with video titling.}

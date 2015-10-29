@@ -6,58 +6,86 @@ Draem [
     old: http://realityhandbook.livejournal.com/36909.html
 ]
 
-{I thought I had woken up in my bed, but realized something was off when I was pulling large amounts of wet goo off my skin. I also had to spit a lot of odd stuff out of my mouth. When I got out of bed I walked toward the hallway and was having trouble moving.}
+print << [
 
-{One girl I know as an acquaintance was in a room using a computer, and rolled around casually in a chair.}
+    {I thought I had woken up in my bed, but realized something was off when I was pulling large amounts of wet goo off my skin. I also had to spit a lot of odd stuff out of my mouth. When I got out of bed I walked toward the hallway and was having trouble moving.}
 
-[me: {Why don't you have the problems I'm having just moving around here?}]
+    {One girl I know as an acquaintance was in a room using a computer, and rolled around casually in a chair.}
 
-[her: {I'm extremely fast, and not slowed down by the Ether.}]
+]
 
-[me: {Is there any way for you to communicate with the waking-life person who I know that looks like you?}]
+dialog [
 
-[her: {No. And really, you should be focused not on this information quest but rather watching movies with your friends and let them all come to learn that there is such a thing as *elvish happiness*}]
+    me: {Why don't you have the problems I'm having just moving around here?}
 
-{A guy I knew looked like a chipmunk and seemed uncomfortable. Wondering if he was unaware of how to solve the problem, I helped him get some large meatballs out of his mouth.}
+    her: {I'm extremely fast, and not slowed down by the Ether.}
 
-[him: {Wow, thanks. I'd been studying and hadn't noticed those develop.}]
+    me: {Is there any way for you to communicate with the waking-life person who I know that looks like you?}
 
-{When the meatballs came out they liquefied on him, and I tried to clean them up. He stopped me.}
+    her: {No. And really, you should be focused not on this information quest but rather watching movies with your friends and let them all come to learn that there is such a thing as *elvish happiness*}
 
-[him: "Don't you have an autobot to clean up for you?"]
+]
 
-[me: "Err... no."]
+print {A guy I knew looked like a chipmunk and seemed uncomfortable. Wondering if he was unaware of how to solve the problem, I helped him get some large meatballs out of his mouth.}
 
-{He directed me to go across the room and pull the handle out of the bottom of a cart to deploy it. I was having a bit of trouble and was going to give up, but just about then I found the handle and pulled it. The robot emerged and transformed into a helicopter. It nimbly and precisely moved around the room; it seemed very dangerous to me but somehow it managed to not touch anybody and clean up the mess.}
+dialog [him: {Wow, thanks. I'd been studying and hadn't noticed those develop.}]
 
-{I walked into a kitchen-like area that had TVs, and saw some other people I've known from the past who seemed to ignore me. I was unsure of whether these had any connection with the real people I knew or if they were just projections.}
+print {When the meatballs came out they liquefied on him, and I tried to clean them up. He stopped me.}
 
-[me: <jokingly> "Jeez, it's like *Herman's Head* in here."]
+dialog [
 
-[note {[Herman's Head](http://en.wikipedia.org/wiki/Herman%27s_Head) was a short-lived comedy in which the life of a character named Herman was interspersed with cut scenes to a room with actors who were supposed to represent various competing aspects of Herman's personality reacting to situations he was in.}]
+    him: "Don't you have an autobot to clean up for you?"
 
-{I ran into a couple talking about someone who wasn't in the room. I understood them to be speaking about a person in the material world.}
+    me: "Err... no."
 
-[girl: "She's probably taking a bath right now."]
+]
 
-[me: "Ok. So how are you connected with this person?"]
+print << [
 
-[girl: {We're married. Every spirit is married with a body.}]
+    {He directed me to go across the room and pull the handle out of the bottom of a cart to deploy it. I was having a bit of trouble and was going to give up, but just about then I found the handle and pulled it. The robot emerged and transformed into a helicopter. It nimbly and precisely moved around the room; it seemed very dangerous to me but somehow it managed to not touch anybody and clean up the mess.}
 
-[me: {So you're married to a body...but, you've got some kind of body here too. Who's YOUR spirit?}]
+    {I walked into a kitchen-like area that had TVs, and saw some other people I've known from the past who seemed to ignore me. I was unsure of whether these had any connection with the real people I knew or if they were just projections.}
 
-[girl: {There is another spirit above me, and a spirit above them...}]
+]
 
-[me: {Ok great. So what the heck am I? I mean, do I have a spirit, or am I the spirit? Because I don't remember this place too well...am I passed out on the floor 99% of the time? And why is it I seem to be the only one of us who can relay information back and forth? Is my spirit anything special or powerful or do I have badass friends?}]
+dialog [me: <jokingly> "Jeez, it's like *Herman's Head* in here."]
 
-{Suddenly a copy of a Dave Gahan album titled *Overconfident* appeared on the bed. No such album exists AFAIK.}
+note {[Herman's Head](http://en.wikipedia.org/wiki/Herman%27s_Head) was a short-lived comedy in which the life of a character named Herman was interspersed with cut scenes to a room with actors who were supposed to represent various competing aspects of Herman's personality reacting to situations he was in.}
 
-[couple: "He's your brother."]
+print {I ran into a couple talking about someone who wasn't in the room. I understood them to be speaking about a person in the material world.}
 
-[me: "You mean, spirit brother?"]
+dialog [
 
-[couple: "Yes."]
+    girl: "She's probably taking a bath right now."
 
-{I tried to keep things moving, as my mobility was increasing a great deal. I could dance and levitate. Music started kicking in as I thought about it, and I riffed some random words to what the lyrics of "Overconfident" might be.}
+    me: "Ok. So how are you connected with this person?"
 
-{I created a bit of a scene by knocking over some bookshelves, but then I worked into the song that I was so confident that I could just look at the books and they'd be back on the shelf (and they did, perhaps an autobot that I didn't see fixed it...)}
+    girl: {We're married. Every spirit is married with a body.}
+
+    me: {So you're married to a body...but, you've got some kind of body here too. Who's YOUR spirit?}
+
+    girl: {There is another spirit above me, and a spirit above them...}
+
+    me: {Ok great. So what the heck am I? I mean, do I have a spirit, or am I the spirit? Because I don't remember this place too well...am I passed out on the floor 99% of the time? And why is it I seem to be the only one of us who can relay information back and forth? Is my spirit anything special or powerful or do I have badass friends?}
+
+]
+
+print {Suddenly a copy of a Dave Gahan album titled *Overconfident* appeared on the bed. No such album exists AFAIK.}
+
+dialog [
+
+    couple: "He's your brother."
+
+    me: "You mean, spirit brother?"
+
+    couple: "Yes."
+
+]
+
+print << [
+
+    {I tried to keep things moving, as my mobility was increasing a great deal. I could dance and levitate. Music started kicking in as I thought about it, and I riffed some random words to what the lyrics of "Overconfident" might be.}
+
+    {I created a bit of a scene by knocking over some bookshelves, but then I worked into the song that I was so confident that I could just look at the books and they'd be back on the shelf (and they did, perhaps an autobot that I didn't see fixed it...)}
+
+]

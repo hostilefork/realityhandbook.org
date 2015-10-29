@@ -6,30 +6,34 @@ Draem [
     old: http://realityhandbook.livejournal.com/76909.html
 ]
 
-{I had picked up a piece of refuse, in which it was talking about a razor. The razor itself was missing, but the packaging was soft and textured... it felt a little oily. I tried reading the information aloud, as I walked past a crowd of people who seemed to be going about their business. Someone stopped to listen to me, and I confronted him.}
+print {I had picked up a piece of refuse, in which it was talking about a razor. The razor itself was missing, but the packaging was soft and textured... it felt a little oily. I tried reading the information aloud, as I walked past a crowd of people who seemed to be going about their business. Someone stopped to listen to me, and I confronted him.}
 
-[me: {I'm able to read when I'm awake. It's just difficult to read *here*.}]
+dialog [
 
-[man: "Yes. You are one of about 100."]
+    me: {I'm able to read when I'm awake. It's just difficult to read *here*.}
 
-[me: "One of about a hundred whats?"]
+    man: "Yes. You are one of about 100."
 
-[man: "I don't want."]
+    me: "One of about a hundred whats?"
 
-[me: "Huh? I mean, what am I called?"]
+    man: "I don't want."
 
-[man: "Um."]
+    me: "Huh? I mean, what am I called?"
 
-[me: {Look, quite simply, if I'm one of a hundred things of type X, *what is type X?*}]
+    man: "Um."
 
-[man: "Morphins."]
+    me: {Look, quite simply, if I'm one of a hundred things of type X, *what is type X?*}
 
-[me: "Okay, so I am a morphin. You are not a morphin?"]
+    man: "Morphins."
 
-[man: {No, no, there are thousands of us right here--at this moment.}]
+    me: "Okay, so I am a morphin. You are not a morphin?"
 
-[me: {Then you mean to say there are only 100 humans where I'm from, with, uh, 'morphin nature'?}]
+    man: {No, no, there are thousands of us right here--at this moment.}
 
-[man: "Yes that is correct."]
+    me: {Then you mean to say there are only 100 humans where I'm from, with, uh, 'morphin nature'?}
 
-[me: "Well, thank you."]
+    man: "Yes that is correct."
+
+    me: "Well, thank you."
+
+]

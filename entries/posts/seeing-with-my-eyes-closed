@@ -6,72 +6,96 @@ Draem [
     old: http://realityhandbook.livejournal.com/83628.html
 ]
 
-{I was noticing that with my eyes closed I could still read in a dream. There were some people in a kitchen, one of whom was a girl I believed I knew. She was helping me run some vision tests.}
+print {I was noticing that with my eyes closed I could still read in a dream. There were some people in a kitchen, one of whom was a girl I believed I knew. She was helping me run some vision tests.}
 
-[me: "Check this out! I can read with my eyes closed!"]
+dialog [
 
-[test-girl: "Oh really? What does this say?"]
+    me: "Check this out! I can read with my eyes closed!"
 
-{She put a book in front of me, and I started reading it.}
+    test-girl: "Oh really? What does this say?"
 
-[me: {If you believe I'm cheating, then here...I'll pull this black hat over my eyes.}]
+]
 
-{At first having the knit hat over my head made it harder, but I started being able to read again. I asked for more samples. Some of the things I was being given to read seemed to be in a foreign language, so I just read the letters.}
+print {She put a book in front of me, and I started reading it.}
 
-[me: "This line is just symbols, there are no letters."]
+dialog [me: {If you believe I'm cheating, then here...I'll pull this black hat over my eyes.}]
 
-[test-girl: <laughing> "Yes there are! You're not looking close enough."]
+print {At first having the knit hat over my head made it harder, but I started being able to read again. I asked for more samples. Some of the things I was being given to read seemed to be in a foreign language, so I just read the letters.}
 
-{When I looked closer I saw these symbols were things like the copyright symbol or the GE logo, and did have letters inside.}
+dialog [
 
-[me: {Oh. Well, inside the symbols there are letters. I wasn't looking at those because they were so small, but this one says 'dH'.}]
+    me: "This line is just symbols, there are no letters."
 
-[test-girl: {How could you not recognize that, when *you* designed it?}]
+    test-girl: <laughing> "Yes there are! You're not looking close enough."
 
-[me: {Don't remember doing that. Ok, I'm still unsure if this is good enough proof. This hat has holes in the weave, I want something more...can you hold your hand over my eyes?}]
+]
 
-"She did and suddenly everything went black."
+print {When I looked closer I saw these symbols were things like the copyright symbol or the GE logo, and did have letters inside.}
 
-[me: {Okay, that wasn't good...let me see again for a second. Now put your hand back again.}]
+dialog [
 
-{My sight still seemed to function, and I read off some more things she held in front of me.}
+    me: {Oh. Well, inside the symbols there are letters. I wasn't looking at those because they were so small, but this one says 'dH'.}
 
-[me: {Tell people what you saw and that I proved it. And now give me something to take back when I wake up...a fact I couldn't know about you otherwise.}]
+    test-girl: {How could you not recognize that, when *you* designed it?}
 
-[note {Because I believed I knew this girl in waking life, I thought this dream character might have access to the memory of the actual person. I now can't think of her as looking similar to anyone who I actually know.}]
+    me: {Don't remember doing that. Ok, I'm still unsure if this is good enough proof. This hat has holes in the weave, I want something more...can you hold your hand over my eyes?}
 
-[test-girl: {I know you're all excited about this, and want to make a point. But none of it's surprising in the 'magic world'. I'm not going to help you impersonate a psychic.}]
+]
 
-{I became quite angry and was going to attack, but instead started pulling a nearby curtain. The curtain ripped and pulled off the hooks it was on. It had been used to zone off an area where it seemed people were living, though none of them were home at that moment.}
+print "She did and suddenly everything went black."
 
-[me: {Okay...calm down self, just calm down. We don't have to take this, we can leave.}]
+dialog [me: {Okay, that wasn't good...let me see again for a second. Now put your hand back again.}]
 
-{Storming off I decided to go to a clothing bin and start packing my things. A small girl got up from a bed where she was laying with an older man and followed me along.}
+print {My sight still seemed to function, and I read off some more things she held in front of me.}
 
-[small-girl: "Are you really leaving? Out into the rain?"]
+dialog [me: {Tell people what you saw and that I proved it. And now give me something to take back when I wake up...a fact I couldn't know about you otherwise.}]
 
-[me: "Yes I'm leaving, I'm too good for this."]
+note {Because I believed I knew this girl in waking life, I thought this dream character might have access to the memory of the actual person. I now can't think of her as looking similar to anyone who I actually know.}
 
-[small-girl: "Me too! I want to leave too!"]
+dialog [test-girl: {I know you're all excited about this, and want to make a point. But none of it's surprising in the 'magic world'. I'm not going to help you impersonate a psychic.}]
 
-[me: {Well, maybe this isn't the right moment. But yes, definitely the time is upon us.}]
+print {I became quite angry and was going to attack, but instead started pulling a nearby curtain. The curtain ripped and pulled off the hooks it was on. It had been used to zone off an area where it seemed people were living, though none of them were home at that moment.}
 
-{Knowing I'd be waking up any second, and not knowing what the stakes were in whatever lifetime I was living, I decided to try not to cause further damage. I walked back to the kitchen-like area where I had been reading books.}
+dialog [me: {Okay...calm down self, just calm down. We don't have to take this, we can leave.}]
 
-[test-girl: <to people at table> {We had 16 packs of Guinness, and now they're all gone. How did that happen?}]
+print {Storming off I decided to go to a clothing bin and start packing my things. A small girl got up from a bed where she was laying with an older man and followed me along.}
 
-{They debated for a bit why they'd run out so quickly, and the girl got up to address me.}
+dialog [
 
-[test-girl: "What has gotten *into* you?"]
+    small-girl: "Are you really leaving? Out into the rain?"
 
-[me: <angry> {Why doesn't anyone understand how important verification is to me? It hurts to be treated like a crazy person, and worse it hurts to FEEL like you're crazy. Maybe other humans have their memory wiped when they wake up, but my guy remembers everything. He's getting gruesomely killed three times a night and has to live with that by himself.}]
+    me: "Yes I'm leaving, I'm too good for this."
 
-"A man stepped into intervene."
+    small-girl: "Me too! I want to leave too!"
 
-[man: "Whoa, whoa! FULL memory, of everything?"]
+    me: {Well, maybe this isn't the right moment. But yes, definitely the time is upon us.}
 
-[me: {Admittedly I'm exaggerating for effect. No, not everything, but a sizable amount.}]
+]
 
-[man: "What do you think is bringing the average up to 3?"]
+print {Knowing I'd be waking up any second, and not knowing what the stakes were in whatever lifetime I was living, I decided to try not to cause further damage. I walked back to the kitchen-like area where I had been reading books.}
 
-[me: "Huh?"]
+dialog [test-girl: <to people at table> {We had 16 packs of Guinness, and now they're all gone. How did that happen?}]
+
+print {They debated for a bit why they'd run out so quickly, and the girl got up to address me.}
+
+dialog [
+
+    test-girl: "What has gotten *into* you?"
+
+    me: <angry> {Why doesn't anyone understand how important verification is to me? It hurts to be treated like a crazy person, and worse it hurts to FEEL like you're crazy. Maybe other humans have their memory wiped when they wake up, but my guy remembers everything. He's getting gruesomely killed three times a night and has to live with that by himself.}
+
+]
+
+print "A man stepped into intervene."
+
+dialog [
+
+    man: "Whoa, whoa! FULL memory, of everything?"
+
+    me: {Admittedly I'm exaggerating for effect. No, not everything, but a sizable amount.}
+
+    man: "What do you think is bringing the average up to 3?"
+
+    me: "Huh?"
+
+]

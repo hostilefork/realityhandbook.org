@@ -6,6 +6,6 @@ Draem [
     old: http://realityhandbook.livejournal.com/95062.html
 ]
 
-"Very funny, via the onion:"
+print "Very funny, via the onion:"
 
-http://www.theonion.com/content/video/chef_cooks_dream_omelet_from
+link http://www.theonion.com/content/video/chef_cooks_dream_omelet_from

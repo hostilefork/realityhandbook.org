@@ -5,54 +5,86 @@ Draem [
     tags: [lucid-dream attack neutral sexual]
 ]
 
-{I found myself talking to a woman who seemed a bit like a stereotypical Mexican maid, curly hair, not uniquely attractive.  We were in bed together and I had this strange "backstory" conception--not lucid--that I felt I understood that she had been supposed to be cleaning but had propositioned me, and so I'd let her sleep over, even though that was odd.}
+print << [
 
-{She got up to leave, and we said our awkward goodbyes, and I went downstairs to find my parents there.  They weren't particularly upset about it, but wanted to talk to me.}
+    {I found myself talking to a woman who seemed a bit like a stereotypical Mexican maid, curly hair, not uniquely attractive.  We were in bed together and I had this strange "backstory" conception--not lucid--that I felt I understood that she had been supposed to be cleaning but had propositioned me, and so I'd let her sleep over, even though that was odd.}
 
-[mom: {Okay, well it's not serious but that isn't the point.  Now is not the time to be around girls; *any* girls.  You just got out of the hospital.  You need to focus on getting your life in order.  Let's start by getting you down to no more than two drinks a day.}]
+    {She got up to leave, and we said our awkward goodbyes, and I went downstairs to find my parents there.  They weren't particularly upset about it, but wanted to talk to me.}
 
-{The scene changed somewhat to where I was in a school lecture.  The lecture had ended, and people were clearing out.  I got up to wander away and then had a bit of a panicked feeling like I'd left something behind, and when I returned to where I had been I saw a backpack I'd had as a child (black with a brown leather reinforced bottom) that I picked up.  When I picked it up, it seemed to morph into something larger and more brightly colored and canvas-like.}
+]
 
-{I went into a hallway where other teenage-aged people seemed to be gathering.  I fiddled with the velcro on the backpack, and someone resembling a high school friend of mine came up to me and pinned a small piece of velcro onto the strap.}
+dialog [mom: {Okay, well it's not serious but that isn't the point.  Now is not the time to be around girls; *any* girls.  You just got out of the hospital.  You need to focus on getting your life in order.  Let's start by getting you down to no more than two drinks a day.}]
 
-[me: {Oh, thanks.}]
+print << [
 
-{An attractive blue-eyed blond girl wearing very pink lipstick stepped in front of me.}
+    {The scene changed somewhat to where I was in a school lecture.  The lecture had ended, and people were clearing out.  I got up to wander away and then had a bit of a panicked feeling like I'd left something behind, and when I returned to where I had been I saw a backpack I'd had as a child (black with a brown leather reinforced bottom) that I picked up.  When I picked it up, it seemed to morph into something larger and more brightly colored and canvas-like.}
 
-[girl: {So can I be your girlfriend?}]
+    {I went into a hallway where other teenage-aged people seemed to be gathering.  I fiddled with the velcro on the backpack, and someone resembling a high school friend of mine came up to me and pinned a small piece of velcro onto the strap.}
 
-[me: {Ummm, okay?}]
+]
 
-{The people laughed, and my friend pointed at her lipstick.}
+dialog [me: "Oh, thanks."]
 
-[friend: {If you're going to do that, you're not going to be able to wear that much makeup.  And you can't wear those clothes either.}]
+print {An attractive blue-eyed blond girl wearing very pink lipstick stepped in front of me.}
 
-[girl: <annoyed> "What's wrong with my clothes?"]
+dialog [
 
-{The girl started turning her shirt inside out, compressing her breasts and showing that the inside of the top she was wearing was orange while the outside was cream colored.}
+    girl: "So can I be your girlfriend?"
 
-[friend: {Okay, now his mom is going to REALLY hate you.}]
+    me: "Ummm, okay?"
 
-{We seemed to navigate down some precarious ivory-colored stairs and slid down poles into a seating area where we were gathered around a table, about eight of us, seemingly to order at a restaurant.  I became lucid and looked about, and broke into a little depressed song as a guy across the table looked at me.}
+]
 
-[me: <singing> {Oh, the work... there's so much of it to do...}]
+print {The people laughed, and my friend pointed at her lipstick.}
 
-[guy: <singing back> {And so much of it I get wrong...}]
+dialog [
 
-{I decided to address the table.}
+    friend: {If you're going to do that, you're not going to be able to wear that much makeup.  And you can't wear those clothes either.}
 
-[me: {So, erm.  Do you guys happen to believe that it is possible for aliens to take over someone's mind, and talk to you through someone you know?}]
+    girl: <annoyed> "What's wrong with my clothes?"
 
-[girl: {Absolutely.  Happens all the time.}]
+]
 
-[me: {Oh.  Well, okay.  Hi, I might be such an alien, but I'm not evil!  My name is Brian.  Erm... well, you guys have been calling me Brian in this conversation but I don't really know if we're on the same page about that.  When I say it, it looks like this.}]
+print {The girl started turning her shirt inside out, compressing her breasts and showing that the inside of the top she was wearing was orange while the outside was cream colored.}
 
-{I traced onto the table with my finger the letters B-R-I-A-N.}
+dialog [friend: "Okay, now his mom is going to REALLY hate you."]
 
-[guy: <watching> {Which is... spelled exactly how it sounds.}]
+print {We seemed to navigate down some precarious ivory-colored stairs and slid down poles into a seating area where we were gathered around a table, about eight of us, seemingly to order at a restaurant.  I became lucid and looked about, and broke into a little depressed song as a guy across the table looked at me.}
 
-[me: {One never knows.  It could be translated.  Me tracing that outline could be translated.  It never hurts to check.  But anyway, who are all of you?}]
+dialog [
 
-{I began going through the table, shaking hands with people and getting their names.  They were odd ones that I remembered upon awakening but I have waited too long to write this down to remember them.  Vague gist would be something like "Wemetrius", that kind of oddity.}
+    me: <singing> "Oh, the work... there's so much of it to do..."
 
-{A waiter came to the table and kind of interrupted the introductions.  I ignored him to try and resume, but by the time I'd tried to go on to the fourth person, there was a sudden instance of an animated arm that jumped out from the guy sitting across the table to the farthest left.  The arm braced around my neck and strangled me and I awoke.}
+    guy: <singing back> "And so much of it I get wrong..."
+
+]
+
+print "I decided to address the table."
+
+dialog [
+
+    me: {So, erm.  Do you guys happen to believe that it is possible for aliens to take over someone's mind, and talk to you through someone you know?}
+
+    girl: "Absolutely.  Happens all the time."
+
+    me: {Oh.  Well, okay.  Hi, I might be such an alien, but I'm not evil!  My name is Brian.  Erm... well, you guys have been calling me Brian in this conversation but I don't really know if we're on the same page about that.  When I say it, it looks like this.}
+
+]
+
+print {I traced onto the table with my finger the letters B-R-I-A-N.}
+
+dialog [
+
+    guy: <watching> "Which is... spelled exactly how it sounds."
+
+    me: {One never knows.  It could be translated.  Me tracing that outline could be translated.  It never hurts to check.  But anyway, who are all of you?}
+
+]
+
+print << [
+
+    {I began going through the table, shaking hands with people and getting their names.  They were odd ones that I remembered upon awakening but I have waited too long to write this down to remember them.  Vague gist would be something like "Wemetrius", that kind of oddity.}
+
+    {A waiter came to the table and kind of interrupted the introductions.  I ignored him to try and resume, but by the time I'd tried to go on to the fourth person, there was a sudden instance of an animated arm that jumped out from the guy sitting across the table to the farthest left.  The arm braced around my neck and strangled me and I awoke.}
+
+]

@@ -5,78 +5,128 @@ Draem [
     tags: [lucid-dream helpful neutral skynet]
 ]
 
-{Somehow I found myself at the shore of a lake with a video camera.  The story I knew--or felt--was that I was at this lake and trying to gather evidence of something.  I aimed the camera at the water and could see a ghostly apparition of a woman, seemingly underneath the surface...staring hollowly at me.}
+print << [
 
-{I was rather scared, and felt paralyzed.  But I held the camera pointing forward and tried not to lose my balance or somehow be pulled into the water.  At some point I managed to gain control and walk away; I pocketed the camera and ran into a man who I walked along with to a stone courtyard.}
+    {Somehow I found myself at the shore of a lake with a video camera.  The story I knew--or felt--was that I was at this lake and trying to gather evidence of something.  I aimed the camera at the water and could see a ghostly apparition of a woman, seemingly underneath the surface...staring hollowly at me.}
 
-[man: "So did you see her?"]
+    {I was rather scared, and felt paralyzed.  But I held the camera pointing forward and tried not to lose my balance or somehow be pulled into the water.  At some point I managed to gain control and walk away; I pocketed the camera and ran into a man who I walked along with to a stone courtyard.}
 
-[me: "Yes, I got it on camera."]
-
-[man: "Did she say anything?"]
-
-[me: "No, just stared at me."]
-
-[man: <laughing> "She isn't much of a talker.  Look."]
-
-{In the middle of the courtyard there was some kind of installation of a thing that could be pointed like a telescope, but had a matrix of images on it you could pick from.  We pointed it up at the sky and I could see it making color animated projections on the clouds.}
-
-[me: "Oh.  So it's...a trick?"]
-
-[man: "No, she's a spirit in the lake, has lived there a long time."]
-
-[note {I don't know if that was a joke, or what, given he'd just shown me this projection device.}]
-
-{We walked along and had some discussion about how a family member of his annoyed him.  Another little projected "creature" was crawling around on the walls.  He gave it a kick as we went by, which caused a sound effect and it went spinning and scurrying.}
-
-{I stopped to try and look at the wall and better understand what was going on.  As I did, there was a sudden pain in my left jaw...and the jaw itself seemed to come unfolded out of my mouth.  I pleaded with him to help me fold it back in.}
-
-{He looked at the jaw and seemed to be able to unfold it a little more to where there were two sheets of something that weren't lining up, each with a little tag labeling them.}
-
-[man: <concerned> "Hmmm.  You're running two incompatible versions here.  I wonder how that could have happened?"]
-
-[me: "Can you fix it?"]
-
-[man: "Not here with what I've got.  We're going to have to go back to Southern California."]
-
-{We walked toward a gate that had a blue square on it that said EXIT.  He kicked the square and the gate opened.  As it did we started walking through well-organized rooms that were like mission control areas with people at computer terminals poking through numbers.}
-
-[man: {I don't know how this conflict could have happened.  Unless...wait, when you went to the dentist in Los Angeles, what other kinds of businesses were at that address?  Were there any branches of some kind of mental health facility?}]
-
-[me: {I, I don't know.  My dentist in Los Angeles was [Cesar Segovia, DDS](http://cesarsegoviadds.com/).  He pulled out a wisdom tooth and filled my chipped front teeth in after a rock climbing accident.  I never had a jaw replacement of any version.  Never went to the building to see anyone but him.}]
-
-[man: "That would be my best guess.  SkyNet doesn't make many of these kinds of mistakes.  Most all of the records have been cleaned, vetted, and aligned.  But someone might have been able to exploit it.  Medical records getting falsified by way of that address, to make it look like you went to see a psychiatrist instead of a dentist."]
-
-[note
-    {Dr. Segovia's office is in "Beverly Sunset Medical Building" at 9201 Sunset Boulevard (near Doheny).  Interestingly, having now looked it up, the developer of the building claims it is [*"Professional office space designed specifically for psychologists, psychiatrists, and related mental health practitioners."*](http://schaffeldevelopment.com/9201701.html)  It doesn't even mention dentists or non-psychiatric uses.  So that's interesting.}
-
-    {Also interesting is my initial interpretation of his statement of how we were "going to have to go back to Southern California".  I thought that meant I had a problem which only some specialist in Southern California could fix.  But the context of going into rooms with record-keeping suggested he meant we'd have to "go back into the records history", from the time when I lived in Southern California...to understand where this jaw incompatibility was coming from.}
 ]
 
-{It was hard for me to talk with my pained jaw unfolded out of half my mouth.  But I still could.}
+dialog [
 
-[me: <frustrated> {AAAARGH!  We were just talking about spirits living in lakes five minutes ago, and now you're talking about SkyNet, and my jaw has two versions.  How can all of these worlds fit together in any sensible way?  What did we do when we went through that "Exit"?  Is it like we're leaving the world with spirits and no SkyNet...but then going to the world where there is a SkyNet?}]
+    man: "So did you see her?"
 
-[man: {No, it all fits together.  Hold on.}]
+    me: "Yes, I got it on camera."
 
-{We walked into a medical-like reception area where the man went to the intake person and pointed at me.  She handed him a white piece of paper that seemed mostly blank with few numbers on it.  He looked it over and pulled out a black pen and a red pen.}
+    man: "Did she say anything?"
 
-{In an uncanny way he dashed his hand over the paper, making odd diagonal lines of writing that were spaced apart sparsely, and which crossed the printed numbers at an angle.  Then he made more dots or microsopic writing, with similarly printer-like precision and speed.}
+    me: "No, just stared at me."
 
-[man: {They will see you.}]
+    man: <laughing> "She isn't much of a talker.  Look."
 
-{A doctor came out from the back and looked at my jaw.  He cringed, and had us follow him.  It seemed we had to descend some very precarious stairs, that were more like staggered stool steps.  These weren't a problem for them to navigate, but I had a hard time.}
+]
 
-[me: {I'm sorry if... if I seem really out of it.  This is a "dream state" for me and a lot of things are confusing.  Like these steps, I can't navigate very well.  It's obviously not a problem for you, but for me it is.}]
+print {In the middle of the courtyard there was some kind of installation of a thing that could be pointed like a telescope, but had a matrix of images on it you could pick from.  We pointed it up at the sky and I could see it making color animated projections on the clouds.}
 
-[doctor: {That's all right.}]
+dialog [
 
-[me: {But that said, I'm a technical person...software developer.  I can understand things like "version conflicts".  The hard part is not that, it's how this place I'm in right now relates to where I am when awake.  So please feel free to talk out loud about anything you can imagine might be worth saying, as it could help me tremendously.}]
+    me: "Oh.  So it's...a trick?"
 
-{The doctor had raced down to a doorway at the bottom of the steps.  It was like we were in the courtyard of some kind of apartment complex.  I couldn't see which door he had gone into, but as I looked around I saw him standing with the door open halfway in.  He was waiting, and then as soon as he saw I knew which door it was he instantly seemed to dash inside.}
+    man: {No, she's a spirit in the lake, has lived there a long time.}
 
-{I went in and followed directions to lay down for him to look at the jaw.  I remembered the camera in my pocket.}
+]
 
-[me: {This... well, this is probably a dumb idea.  But based on experience, I'm not going to be able to get through this entire procedure or be able to thank you properly for your help.  And if you do talk out loud, I may miss it.  If you don't mind leaving this camera on then, if I ever make it back I'd like to have a record to understand what happened here.}]
+note {I don't know if that was a joke, or what, given he'd just shown me this projection device.}
 
-[doctor: {Sure, no problem.}]
+print << [
+
+    {We walked along and had some discussion about how a family member of his annoyed him.  Another little projected "creature" was crawling around on the walls.  He gave it a kick as we went by, which caused a sound effect and it went spinning and scurrying.}
+
+    {I stopped to try and look at the wall and better understand what was going on.  As I did, there was a sudden pain in my left jaw...and the jaw itself seemed to come unfolded out of my mouth.  I pleaded with him to help me fold it back in.}
+
+    {He looked at the jaw and seemed to be able to unfold it a little more to where there were two sheets of something that weren't lining up, each with a little tag labeling them.}
+
+]
+
+dialog [
+
+    man: <concerned> {Hmmm.  You're running two incompatible versions here.  I wonder how that could have happened?}
+
+    me: "Can you fix it?"
+
+    man: {Not here with what I've got.  We're going to have to go back to Southern California.}
+
+]
+
+print {We walked toward a gate that had a blue square on it that said EXIT.  He kicked the square and the gate opened.  As it did we started walking through well-organized rooms that were like mission control areas with people at computer terminals poking through numbers.}
+
+dialog [
+
+    man: {I don't know how this conflict could have happened.  Unless...wait, when you went to the dentist in Los Angeles, what other kinds of businesses were at that address?  Were there any branches of some kind of mental health facility?}
+
+    me: {I, I don't know.  My dentist in Los Angeles was [Cesar Segovia, DDS](http://cesarsegoviadds.com/).  He pulled out a wisdom tooth and filled my chipped front teeth in after a rock climbing accident.  I never had a jaw replacement of any version.  Never went to the building to see anyone but him.}
+
+    man: {That would be my best guess.  SkyNet doesn't make many of these kinds of mistakes.  Most all of the records have been cleaned, vetted, and aligned.  But someone might have been able to exploit it.  Medical records getting falsified by way of that address, to make it look like you went to see a psychiatrist instead of a dentist.}
+
+]
+
+note [
+
+    print << [
+
+        {Dr. Segovia's office is in "Beverly Sunset Medical Building" at 9201 Sunset Boulevard (near Doheny).  Interestingly, having now looked it up, the developer of the building claims it is [*"Professional office space designed specifically for psychologists, psychiatrists, and related mental health practitioners."*](http://schaffeldevelopment.com/9201701.html)  It doesn't even mention dentists or non-psychiatric uses.  So that's interesting.}
+
+        {Also interesting is my initial interpretation of his statement of how we were "going to have to go back to Southern California".  I thought that meant I had a problem which only some specialist in Southern California could fix.  But the context of going into rooms with record-keeping suggested he meant we'd have to "go back into the records history", from the time when I lived in Southern California...to understand where this jaw incompatibility was coming from.}
+
+    ]
+
+]
+
+print {It was hard for me to talk with my pained jaw unfolded out of half my mouth.  But I still could.}
+
+dialog [
+
+    me: <frustrated> {AAAARGH!  We were just talking about spirits living in lakes five minutes ago, and now you're talking about SkyNet, and my jaw has two versions.  How can all of these worlds fit together in any sensible way?  What did we do when we went through that "Exit"?  Is it like we're leaving the world with spirits and no SkyNet...but then going to the world where there is a SkyNet?}
+
+    man: "No, it all fits together.  Hold on."
+
+]
+
+print << [
+
+    {We walked into a medical-like reception area where the man went to the intake person and pointed at me.  She handed him a white piece of paper that seemed mostly blank with few numbers on it.  He looked it over and pulled out a black pen and a red pen.}
+
+    {In an uncanny way he dashed his hand over the paper, making odd diagonal lines of writing that were spaced apart sparsely, and which crossed the printed numbers at an angle.  Then he made more dots or microsopic writing, with similarly printer-like precision and speed.}
+
+]
+
+dialog [man: "They will see you."]
+
+print {A doctor came out from the back and looked at my jaw.  He cringed, and had us follow him.  It seemed we had to descend some very precarious stairs, that were more like staggered stool steps.  These weren't a problem for them to navigate, but I had a hard time.}
+
+dialog [
+
+    me: {I'm sorry if... if I seem really out of it.  This is a "dream state" for me and a lot of things are confusing.  Like these steps, I can't navigate very well.  It's obviously not a problem for you, but for me it is.}
+
+    doctor: "That's all right."
+
+    me: {But that said, I'm a technical person...software developer.  I can understand things like "version conflicts".  The hard part is not that, it's how this place I'm in right now relates to where I am when awake.  So please feel free to talk out loud about anything you can imagine might be worth saying, as it could help me tremendously.}
+
+]
+
+print << [
+
+    {The doctor had raced down to a doorway at the bottom of the steps.  It was like we were in the courtyard of some kind of apartment complex.  I couldn't see which door he had gone into, but as I looked around I saw him standing with the door open halfway in.  He was waiting, and then as soon as he saw I knew which door it was he instantly seemed to dash inside.}
+
+    {I went in and followed directions to lay down for him to look at the jaw.  I remembered the camera in my pocket.}
+
+]
+
+dialog [
+
+    me: {This... well, this is probably a dumb idea.  But based on experience, I'm not going to be able to get through this entire procedure or be able to thank you properly for your help.  And if you do talk out loud, I may miss it.  If you don't mind leaving this camera on then, if I ever make it back I'd like to have a record to understand what happened here.}
+
+    doctor: "Sure, no problem."
+
+]

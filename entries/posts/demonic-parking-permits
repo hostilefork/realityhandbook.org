@@ -6,64 +6,88 @@ Draem [
     old: http://realityhandbook.livejournal.com/6586.html
 ]
 
-{There had been several deaths at a swimming pool, and I somehow knew it had to do with the way it was constructed with a huge dropoff point that would trap you under ice. The best strategy was not to fight it, but to just relax and you would awaken somewhere else.}
+print << [
 
-{This happened to me, which led me to appear inside of a house. Two dogs had somehow managed to kill each other (simultaneously?) in a barn in the backyard, and I was pretty sure the police were going to come and question about it and the pool. A woman in plain clothes showed up, claiming some level of authority.}
+    {There had been several deaths at a swimming pool, and I somehow knew it had to do with the way it was constructed with a huge dropoff point that would trap you under ice. The best strategy was not to fight it, but to just relax and you would awaken somewhere else.}
 
-[woman: {The responsibility for these deaths falls upon the ex-girlfriend of the person you've swapped houses with. She may look cute, but she's a murderer.}]
+    {This happened to me, which led me to appear inside of a house. Two dogs had somehow managed to kill each other (simultaneously?) in a barn in the backyard, and I was pretty sure the police were going to come and question about it and the pool. A woman in plain clothes showed up, claiming some level of authority.}
 
-{Another solicitor poked in through the door, she was an old lady.}
+]
 
-[old-lady: {Just letting you know, the parking rules are changing. This is now a permit parking district, and those without a permit can only leave their cars for 2 minutes before they will be ticketed.}]
+dialog [woman: {The responsibility for these deaths falls upon the ex-girlfriend of the person you've swapped houses with. She may look cute, but she's a murderer.}]
 
-[me: {Those permits are outrageous, they cost $15 a month. I'll sooner park in another neighborhood and walk here.}]
+print {Another solicitor poked in through the door, she was an old lady.}
 
-[old-lady: <angry> "These are the rules!"]
+dialog [
 
-{I grabbed a halogen lamp and pointed it at her threateningly, yelling obscenities.}
+    old-lady: {Just letting you know, the parking rules are changing. This is now a permit parking district, and those without a permit can only leave their cars for 2 minutes before they will be ticketed.}
 
-[note {I don't know why I would do such a thing, nor do I know where I got the $15 figure from.}]
+    me: {Those permits are outrageous, they cost $15 a month. I'll sooner park in another neighborhood and walk here.}
 
-{I somehow managed to take the experience and turn it into a letter, and then dispose of the letter. When I threw it away there was a picture of the old lady smiling on it. While I was at the trash can, a man accosted me.}
+    old-lady: <angry> "These are the rules!"
 
-[man: {I need your help, demons are after me. You've got to get me to a bus station!}]
+]
 
-{Relying on strange and possibly untrue information about where bus stations might be, I guided him outside and toward a shopping center, which had an Albertson's.}
+print {I grabbed a halogen lamp and pointed it at her threateningly, yelling obscenities.}
 
-[me: {If you're on the run, and you need food, you might want to stop in Albertson's. It's one of the cheaper grocery stores.}]
+note {I don't know why I would do such a thing, nor do I know where I got the $15 figure from.}
 
-[man: "I know, I own it."]
+print {I somehow managed to take the experience and turn it into a letter, and then dispose of the letter. When I threw it away there was a picture of the old lady smiling on it. While I was at the trash can, a man accosted me.}
 
-{When he went into the store he went to the vegetables and started packing salad into bags. An employee thanked him.}
+dialog [man: {I need your help, demons are after me. You've got to get me to a bus station!}]
 
-[employee: {Wow, you're bagging your own salad! Most people won't do that these days.}]
+print {Relying on strange and possibly untrue information about where bus stations might be, I guided him outside and toward a shopping center, which had an Albertson's.}
 
-{The man also was trying to get a plastic cup that was sealed in plastic...someone provided him with one but they opened it as they gave it to him.}
+dialog [
 
-[man: <angry> "No, I need it *sealed*, that's the whole POINT!"]
+    me: {If you're on the run, and you need food, you might want to stop in Albertson's. It's one of the cheaper grocery stores.}
 
-[me: {The factory sealed condition was probably not perfectly hygienic in the first place. Now, I'm certain this is a dream, so I want to know more about what's going on. Do you have any particular knowledge that will help me?}]
+    man: "I know, I own it."
 
-[man: {One person you need to follow up on is Colonel Frasier. He was in attendance at your birth. Furthermore, be on the lookout: the demons are after you, [name], [name], and [name]}]
+]
 
-[note "This was a strange set of people that I know."]
+print {When he went into the store he went to the vegetables and started packing salad into bags. An employee thanked him.}
 
-[me: {Is there anything I can do in order to fight or counter the demons?}]
+dialog [employee: {Wow, you're bagging your own salad! Most people won't do that these days.}]
 
-[man: "Contact Exadu."]
+print {The man also was trying to get a plastic cup that was sealed in plastic...someone provided him with one but they opened it as they gave it to him.}
 
-[me: "Can you spell that?"]
+dialog [
 
-[man: "It starts with the letter X."]
+    man: <angry> "No, I need it *sealed*, that's the whole POINT!"
 
-[me: "Are you trying to say Xanadu?"]
+    me: {The factory sealed condition was probably not perfectly hygienic in the first place. Now, I'm certain this is a dream, so I want to know more about what's going on. Do you have any particular knowledge that will help me?}
 
-[man: "Yes, that's it."]
+    man: {One person you need to follow up on is Colonel Frasier. He was in attendance at your birth. Furthermore, be on the lookout: the demons are after you, [name], [name], and [name]}
 
-[note {There are many different incarnations of Xanadu--Coleridge's poem, the Olivia Newton John movie, Ted Nelson's hypertext project...}]
+]
 
-[me: {The term refers to many things. What specifically do you mean? Please tell me quickly, because I'm going to wake up any second now.}]
+note "This was a strange set of people that I know."
 
-[man: {Don't do it here in the store, hold out until you're on a bus...if you can.}]
+dialog [
 
-{So I went outside and got on a bus, and walked to the back, where I saw someone who resembled a person I didn't know well...but had a natural dislike for as a bad character. When I greeted him, the world around me flashed red, and he attacked me.}
+    me: {Is there anything I can do in order to fight or counter the demons?}
+
+    man: "Contact Exadu."
+
+    me: "Can you spell that?"
+
+    man: "It starts with the letter X."
+
+    me: "Are you trying to say Xanadu?"
+
+    man: "Yes, that's it."
+
+]
+
+note {There are many different incarnations of Xanadu--Coleridge's poem, the Olivia Newton John movie, Ted Nelson's hypertext project...}
+
+dialog [
+
+    me: {The term refers to many things. What specifically do you mean? Please tell me quickly, because I'm going to wake up any second now.}
+
+    man: {Don't do it here in the store, hold out until you're on a bus...if you can.}
+
+]
+
+print {So I went outside and got on a bus, and walked to the back, where I saw someone who resembled a person I didn't know well...but had a natural dislike for as a bad character. When I greeted him, the world around me flashed red, and he attacked me.}

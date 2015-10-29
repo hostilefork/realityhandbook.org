@@ -6,26 +6,38 @@ Draem [
     old: http://realityhandbook.livejournal.com/86064.html
 ]
 
-{I was at my grandmother's house speaking with Morton Harket, lead singer of the band A-Ha.}
+print {I was at my grandmother's house speaking with Morton Harket, lead singer of the band A-Ha.}
 
-[me: "Well, how do you like it here in America?"]
+dialog [
 
-[morton-harket: {Everything is incredibly empty. Not just people not showing up for the concerts, but for instance, in here...the walls are all white and no pictures.}]
+    me: "Well, how do you like it here in America?"
 
-[me: {Well I agree, but there's better interior design in lots of places.}]
+    morton-harket: {Everything is incredibly empty. Not just people not showing up for the concerts, but for instance, in here...the walls are all white and no pictures.}
 
-{We wandered into the kitchen, and my Mom was at a table.}
+    me: {Well I agree, but there's better interior design in lots of places.}
 
-[me: {I'd say my apartment has been decorated pretty well considering the budget, wouldn't you?}]
+]
 
-[mom: "Yes, now that's been done it's time we socialized."]
+print {We wandered into the kitchen, and my Mom was at a table.}
 
-[me: {Sorry, can't stay long. I'm asleep and dreaming right now, going to be gone in a second.}]
+dialog [
 
-[mom: "No you're not. Why would you say that?"]
+    me: {I'd say my apartment has been decorated pretty well considering the budget, wouldn't you?}
 
-[me: "Because I'm able to tell. Sorry, bye."]
+    mom: "Yes, now that's been done it's time we socialized."
 
-{With that I sorta passed out and woke up to start writing on a laptop. As I turned it on, I noticed I had a new email, titled 'The Old Fraggle Likes to Hoggle'. Before I could open it, there was a disruption and the machine logged out.}
+    me: {Sorry, can't stay long. I'm asleep and dreaming right now, going to be gone in a second.}
 
-{Tinkering with the computer and trying to get logged back in, I found another mail titled "Getting on the same page." Replying to it, I began to type frantically (and with numerous errors) a completely unreadable message about my name and who I was. I was awoken by sirens, which turned out to actually be outside my apartment.}
+    mom: "No you're not. Why would you say that?"
+
+    me: "Because I'm able to tell. Sorry, bye."
+
+]
+
+print << [
+
+    {With that I sorta passed out and woke up to start writing on a laptop. As I turned it on, I noticed I had a new email, titled 'The Old Fraggle Likes to Hoggle'. Before I could open it, there was a disruption and the machine logged out.}
+
+    {Tinkering with the computer and trying to get logged back in, I found another mail titled "Getting on the same page." Replying to it, I began to type frantically (and with numerous errors) a completely unreadable message about my name and who I was. I was awoken by sirens, which turned out to actually be outside my apartment.}
+
+]

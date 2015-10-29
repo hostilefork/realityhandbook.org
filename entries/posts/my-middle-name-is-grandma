@@ -5,82 +5,126 @@ Draem [
     tags: [lucid-dream negative alcohol conspiracy]
 ]
 
-{I was in some kind of large flourescently-lit room with high ceilings and folding tables.  The tables had items on it fairly sparsely; and someone who looked like my mother was coordinating activities that involved toys on the tables.}
+print << [
 
-{There was a small LEGO contraption that I picked up to contemplate, that was colored mostly gray and white.  I carried it around to show to someone else, who seemed fairly young.}
+    {I was in some kind of large flourescently-lit room with high ceilings and folding tables.  The tables had items on it fairly sparsely; and someone who looked like my mother was coordinating activities that involved toys on the tables.}
 
-[me: "I used to have these, rounded 2x2 bricks.  They were used to make missiles and rockets..."]
+    {There was a small LEGO contraption that I picked up to contemplate, that was colored mostly gray and white.  I carried it around to show to someone else, who seemed fairly young.}
 
-[young-man: "Hey; you should put that down."]
-
-{I now noticed that the toy was lightly covered with a kind of yellow sticky liquid.}
-
-[me: "Hm, yep, this is dirty."]
-
-[young-man: <pointing> "No, look, it's your hands."]
-
-{I observed that my hands seemed to be oozing this liquid from cracks that were appearing in them.}
-
-[me: "Yuck...well that doesn't look good."]
-
-[young-man: "You need to call 911 right now, that's serious."]
-
-{Becoming a little panicked, I went to point it out to the person I had perceived to be my mother.  But couldn't find her; someone said she'd gone to the restroom or similar.  I wandered out into a hallway to look for someone else, and ran into a woman dressed in a doctor's outfit.}
-
-[me: "Hey, I've got an issue here...people are telling me to call 911.  Can you help?"]
-
-{The woman laughed in an un-doctorly way, almost as if she were drunk and headed to a party.}
-
-[woman: <sneering> "Can't talk now, got stuff to do.  Looks like you've got a case of 'Fork', that's lethal."]
-
-[me: "Well, if you actually are a doctor, some doctor you are."]
-
-[note {I use a cartoon fork as an avatar in some places, as a reference to divergent efforts in computer software development - a "source fork".}]
-
-{I puzzled around a bit trying to get back to the room where I was, until eventually I noticed how labyrinthine the situation was.  It would seem the room I'd been in before had now become some kind of presentation area and was full...and I'd turn and find myself in a room with a coffin as if a funeral were going on.}
-
-[me: "All right, I know if my mom knew people were telling me to call 911 about something.  So here we are in dream world again."]
-
-{I walked out a door into what appeared to be the front yard of the house I am currently in, and in doing so fell down the steps of the front porch and scraped my knees so they were terribly damaged.  I stood and surveyed the damage now added to my hands.}
-
-{A man who seemed like a zombie with a lot of incredibly bad physical and skin problems sat on the sidewalk.  He was strumming a guitar.}
-
-[me: "Well, you might be the wrong person to ask.  But what should I do?"]
-
-[zombie: <smiling> "Don't give into it.  Just fix it."]
-
-{Taking his advice I held my hands up in front of me and just started to kind of rub my hands on my arms, and flex my fingers and focus on the sensations.}
-
-[me: "Okay, hands...that kind of worked.  What about the knees?"]
-
-[zombie: "Same thing."]
-
-{I managed to fix my knees with a similar method.  There was a brief detour with a gang of thugs who seemed to come and try and rob me and the zombie...but they left us with one guy to restrain us while seemingly they were going to go rob the house first.}
-
-{Cocky from my previous success in self-healing, I decided to reshape the tall thug restraining us into something kind of unmoving--like a tree.  Then kind of envisioned him being chopped down and knocked over to the ground.  He fell and lay motionless...so I could move on.}
-
-{Walking down the street I looked for places to go.  It did not correspond to the street where I am.  There was a neon sign for a bar-like place, but when I went in it seemed to be a relatively empty and brightly-lit arcade.  There was a door off to the side to go into a dark bar area with strange white counters that had amorphous tops that were like clouds and had seemingly no flat surfaces.}
-
-{I found a girl who seemed to be a bartender.}
-
-[bartender: "What would you like?"]
-
-[me: "Gin and tonic, I guess.  Whatever one drinks in dreams.  Although I guess I should check my dream-wallet and see if I have any dream-money, huh?"]
-
-{As I perceived the thugs hadn't managed to get around to robbing me, I drew out a wallet and inspected it.  There were some credit cards but they were unfamiliar.  A strange ID with lots of overwriting on it came out.}
-
-{My first and last name were the same in the darkest print I could read, but the middle name it showed that I had was "Grandma".  I could see that written underneath my name was a domain name that I read as `auto.com`.  It looked to me like the ID had been assembled out of a kind of layered collage of things that were fairly random.}
-
-[me: "So it says here, my middle name is 'Grandma'.  It isn't.  In the world I live in, it is 'Fisher'.  Not that anyone should trust names they didn't pick in the first place."]
-
-[note
-	{Interestingly, my grandmother on my dad's side did have the same day and month of birth as I did; and I currently live at her former address.  Don't tell me: let me guess, that's all tied up in some interdimensional scam?  :-/}
 ]
 
-{I still had my cup from the drink, and I went to try and carry it over to a place to sit.  It didn't seem to have any liquid in it.  There was an attractive girl with a revealing cutaway slit dress who sat down at one of the cloud-topped bar tables, and I tried to follow her to sit at that table.  Struggling to keep from waking up, I noticed she seemed to have two rather odd vertical holes in her back.}
+dialog [
 
-{Believing I had woken up (when I had not), I grabbed my laptop and tried to look up 'auto.com'.  The site that came up wasn't car related.  It was largely textual, and said something about gathering for a Neo 4000 meeting.}
+    me: {I used to have these, rounded 2x2 bricks.  They were used to make missiles and rockets...}
 
-[note
-	{I gathered the Neo 4000 reference, from context, related to "The Matrix" movie.}
+    young-man: "Hey; you should put that down."
+
 ]
+
+print {I now noticed that the toy was lightly covered with a kind of yellow sticky liquid.}
+
+dialog [
+
+    me: "Hm, yep, this is dirty."
+
+    young-man: <pointing> "No, look, it's your hands."
+
+]
+
+print {I observed that my hands seemed to be oozing this liquid from cracks that were appearing in them.}
+
+dialog [
+
+    me: "Yuck...well that doesn't look good."
+
+    young-man: "You need to call 911 right now, that's serious."
+
+]
+
+print {Becoming a little panicked, I went to point it out to the person I had perceived to be my mother.  But couldn't find her; someone said she'd gone to the restroom or similar.  I wandered out into a hallway to look for someone else, and ran into a woman dressed in a doctor's outfit.}
+
+dialog [me: {Hey, I've got an issue here...people are telling me to call 911.  Can you help?}]
+
+print {The woman laughed in an un-doctorly way, almost as if she were drunk and headed to a party.}
+
+dialog [
+
+    woman: <sneering> {Can't talk now, got stuff to do.  Looks like you've got a case of 'Fork', that's lethal.}
+
+    me: {Well, if you actually are a doctor, some doctor you are.}
+
+]
+
+note {I use a cartoon fork as an avatar in some places, as a reference to divergent efforts in computer software development - a "source fork".}
+
+print {I puzzled around a bit trying to get back to the room where I was, until eventually I noticed how labyrinthine the situation was.  It would seem the room I'd been in before had now become some kind of presentation area and was full...and I'd turn and find myself in a room with a coffin as if a funeral were going on.}
+
+dialog [me: {All right, I know if my mom knew people were telling me to call 911 about something.  So here we are in dream world again.}]
+
+print << [
+
+    {I walked out a door into what appeared to be the front yard of the house I am currently in, and in doing so fell down the steps of the front porch and scraped my knees so they were terribly damaged.  I stood and surveyed the damage now added to my hands.}
+
+    {A man who seemed like a zombie with a lot of incredibly bad physical and skin problems sat on the sidewalk.  He was strumming a guitar.}
+
+]
+
+dialog [
+
+    me: {Well, you might be the wrong person to ask.  But what should I do?}
+
+    zombie: <smiling> "Don't give into it.  Just fix it."
+
+]
+
+print {Taking his advice I held my hands up in front of me and just started to kind of rub my hands on my arms, and flex my fingers and focus on the sensations.}
+
+dialog [
+
+    me: {Okay, hands...that kind of worked.  What about the knees?}
+
+    zombie: "Same thing."
+
+]
+
+print << [
+
+    {I managed to fix my knees with a similar method.  There was a brief detour with a gang of thugs who seemed to come and try and rob me and the zombie...but they left us with one guy to restrain us while seemingly they were going to go rob the house first.}
+
+    {Cocky from my previous success in self-healing, I decided to reshape the tall thug restraining us into something kind of unmoving--like a tree.  Then kind of envisioned him being chopped down and knocked over to the ground.  He fell and lay motionless...so I could move on.}
+
+    {Walking down the street I looked for places to go.  It did not correspond to the street where I am.  There was a neon sign for a bar-like place, but when I went in it seemed to be a relatively empty and brightly-lit arcade.  There was a door off to the side to go into a dark bar area with strange white counters that had amorphous tops that were like clouds and had seemingly no flat surfaces.}
+
+    "I found a girl who seemed to be a bartender."
+
+]
+
+dialog [
+
+    bartender: "What would you like?"
+
+    me: {Gin and tonic, I guess.  Whatever one drinks in dreams.  Although I guess I should check my dream-wallet and see if I have any dream-money, huh?}
+
+]
+
+print << [
+
+    {As I perceived the thugs hadn't managed to get around to robbing me, I drew out a wallet and inspected it.  There were some credit cards but they were unfamiliar.  A strange ID with lots of overwriting on it came out.}
+
+    {My first and last name were the same in the darkest print I could read, but the middle name it showed that I had was "Grandma".  I could see that written underneath my name was a domain name that I read as `auto.com`.  It looked to me like the ID had been assembled out of a kind of layered collage of things that were fairly random.}
+
+]
+
+dialog [me: {So it says here, my middle name is 'Grandma'.  It isn't.  In the world I live in, it is 'Fisher'.  Not that anyone should trust names they didn't pick in the first place.}]
+
+note {Interestingly, my grandmother on my dad's side did have the same day and month of birth as I did; and I currently live at her former address.  Don't tell me: let me guess, that's all tied up in some interdimensional scam?  :-/}
+
+print << [
+
+    {I still had my cup from the drink, and I went to try and carry it over to a place to sit.  It didn't seem to have any liquid in it.  There was an attractive girl with a revealing cutaway slit dress who sat down at one of the cloud-topped bar tables, and I tried to follow her to sit at that table.  Struggling to keep from waking up, I noticed she seemed to have two rather odd vertical holes in her back.}
+
+    {Believing I had woken up (when I had not), I grabbed my laptop and tried to look up 'auto.com'.  The site that came up wasn't car related.  It was largely textual, and said something about gathering for a Neo 4000 meeting.}
+
+]
+
+note {I gathered the Neo 4000 reference, from context, related to "The Matrix" movie.}

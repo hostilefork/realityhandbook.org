@@ -6,18 +6,22 @@ Draem [
     old: http://realityhandbook.livejournal.com/29307.html
 ]
 
-"I answered a phone."
+print "I answered a phone."
 
-[phone: {You don't think she's just sitting there doing nothing, do you?}]
+dialog [
 
-[me: "Who?"]
+    phone: {You don't think she's just sitting there doing nothing, do you?}
 
-[phone: "Ann Candley"]
+    me: "Who?"
 
-[me: "Uh, can you spell that?"]
+    phone: "Ann Candley"
 
-[phone: {A-Y-N and Candley...with a C. As in I-Dream-of-Jeannie. There's a show very much like it in Britain.}]
+    me: "Uh, can you spell that?"
 
-[note {A search for British Genie sitcoms include [Genie in the House](http://en.wikipedia.org/wiki/Genie_in_the_House) and [Pardon my Genie](http://en.wikipedia.org/wiki/Pardon_My_Genie)...though they are children's shows and no one named Ayn is associated with it.}]
+    phone: {A-Y-N and Candley...with a C. As in I-Dream-of-Jeannie. There's a show very much like it in Britain.}
 
-[me: {Okay, that doesn't make any sense. Really there's no point in trying to speak over mangled communication lines...do you have a better way of contacting me, perhaps email?}]
+]
+
+note {A search for British Genie sitcoms include [Genie in the House](http://en.wikipedia.org/wiki/Genie_in_the_House) and [Pardon my Genie](http://en.wikipedia.org/wiki/Pardon_My_Genie)...though they are children's shows and no one named Ayn is associated with it.}
+
+dialog [me: {Okay, that doesn't make any sense. Really there's no point in trying to speak over mangled communication lines...do you have a better way of contacting me, perhaps email?}]

@@ -6,54 +6,62 @@ Draem [
     old: http://realityhandbook.livejournal.com/31104.html
 ]
 
-{I was in a dream where I was speaking to a girl behind the counter at a coffee shop. I was trying to order a large mocha, and she was saying something about my order...but I couldn't understand what she was saying. She was pretty.}
+print {I was in a dream where I was speaking to a girl behind the counter at a coffee shop. I was trying to order a large mocha, and she was saying something about my order...but I couldn't understand what she was saying. She was pretty.}
 
-[me: {Sorry, I can't understand you! Why not just pick anything that cost less than $4. I'll drink it.}]
+dialog [me: {Sorry, I can't understand you! Why not just pick anything that cost less than $4. I'll drink it.}]
 
-{Somehow I ended up outside, but decided I needed to go back in and talk to her. There was someone else behind the counter.}
+print {Somehow I ended up outside, but decided I needed to go back in and talk to her. There was someone else behind the counter.}
 
-[me: "Is the girl who was here before still around?"]
+dialog [me: "Is the girl who was here before still around?"]
 
-{They got excited and went in the back to fetch her, and she came out and jumped into my arms. I think I already knew I was dreaming, but the abnormality of this brought that issue to the forefront of my mind.}
+print {They got excited and went in the back to fetch her, and she came out and jumped into my arms. I think I already knew I was dreaming, but the abnormality of this brought that issue to the forefront of my mind.}
 
-[me: "Do you remember waking up this morning?"]
+dialog [
 
-[her: "No."]
+    me: "Do you remember waking up this morning?"
 
-[me: {Well, I'm asleep right now. So from my perspective, this is a dream.}]
+    her: "No."
 
-[her: "I know that about this."]
+    me: {Well, I'm asleep right now. So from my perspective, this is a dream.}
 
-[me: {Are you dreaming as well? I mean, can I contact you in the real world?}]
+    her: "I know that about this."
 
-[her: "Yes. I have email."]
+    me: {Are you dreaming as well? I mean, can I contact you in the real world?}
 
-[me: "Can you tell me the address?"]
+    her: "Yes. I have email."
 
-[her: "longbeach2000 [mutter mutter]"]
+    me: "Can you tell me the address?"
 
-[me: "Can you repeat that?"]
+    her: "longbeach2000 [mutter mutter]"
 
-[her: "longbeach2000 [mutter mutter]"]
+    me: "Can you repeat that?"
 
-[note
+    her: "longbeach2000 [mutter mutter]"
 
-    {Very few hits on the internet for longbeach2000, most relating to some car race. Some [guy named Darin](http://profiles.yahoo.com/longbeach2000) has the Yahoo! email, which makes me wonder how long before every email address you could possibly randomly think of is taken. Reminds me of this [saturday night live sketch](http://snltranscripts.jt.org/99/99adillon.phtml).}
+]
 
-    {This [Japanese blog](http://blog.livedoor.jp/longbeach2000/) with a single entry certainly fits the pattern of "longbeach2000 mumble mumble" because the only words I can read on it are longbeach2000, and it's a user account name.}
+note [
 
-    {If dreams are a communication channel, it's certainly noisy and polluted by one's internal vocabulary of senses. It's bad enough trying to translate between common human languages where you'd think we knew enough about them to do better than this Altavista-translated garble:}
+    print << [
 
-    [quote {Romantic love it does not should talk. If you discuss, it is understood, you will graduate such romantic love. If the ear it can tilt in voice of heart, perhaps many things know. The beginning first step of today and desire it did. It is contribution to new. Just a little it becomes tense.}]
+        {Very few hits on the internet for longbeach2000, most relating to some car race. Some [guy named Darin](http://profiles.yahoo.com/longbeach2000) has the Yahoo! email, which makes me wonder how long before every email address you could possibly randomly think of is taken. Reminds me of this [saturday night live sketch](http://snltranscripts.jt.org/99/99adillon.phtml).}
 
-    "The comment is equally confusing:"
+        {This [Japanese blog](http://blog.livedoor.jp/longbeach2000/) with a single entry certainly fits the pattern of "longbeach2000 mumble mumble" because the only words I can read on it are longbeach2000, and it's a user account name.}
 
-    [quote {It increases from in this pleasure of comment to this article. After the meeting it leaves.}]
+        {If dreams are a communication channel, it's certainly noisy and polluted by one's internal vocabulary of senses. It's bad enough trying to translate between common human languages where you'd think we knew enough about them to do better than this Altavista-translated garble:}
 
-    {As an exercise in translation, I left a comment pointing back here. I tried writing short, simple sentences...having them translated into Japanese, and then translating the Japanese back and seeing how close I got to what I'd originally typed. What I ended up with was:}
+    ]
 
-    [quote {I do not speak Japanese. I used the computer in order to translate this. I would like to share this dream. Regrettable that is written on English. You can read that?}]
+    quote {Romantic love it does not should talk. If you discuss, it is understood, you will graduate such romantic love. If the ear it can tilt in voice of heart, perhaps many things know. The beginning first step of today and desire it did. It is contribution to new. Just a little it becomes tense.}
 
-    {...we can hope it's a little more grammatical in Japanese.}
+    print "The comment is equally confusing:"
+
+    quote {It increases from in this pleasure of comment to this article. After the meeting it leaves.}
+
+    print {As an exercise in translation, I left a comment pointing back here. I tried writing short, simple sentences...having them translated into Japanese, and then translating the Japanese back and seeing how close I got to what I'd originally typed. What I ended up with was:}
+
+    quote {I do not speak Japanese. I used the computer in order to translate this. I would like to share this dream. Regrettable that is written on English. You can read that?}
+
+    print {...we can hope it's a little more grammatical in Japanese.}
 
 ]

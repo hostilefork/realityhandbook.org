@@ -6,26 +6,34 @@ Draem [
     old: http://realityhandbook.livejournal.com/37242.html
 ]
 
-"I saw this quote:"
+print "I saw this quote:"
 
-[quote
+quote [
 
-    {It is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.}
+    print << [
 
-    {Those afraid of the universe as it really is, those who pretend to nonexistent knowledge and envision a Cosmos centered on human beings will prefer the fleeting comforts of superstition. They avoid rather than confront the world. But those with the courage to explore the weave and structure of the Cosmos, even where it differs profoundly from their wishes and prejudices, will penetrate its deepest mysteries.} /source
+        {It is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.}
 
-    "Carl Sagan"
+        {Those afraid of the universe as it really is, those who pretend to nonexistent knowledge and envision a Cosmos centered on human beings will prefer the fleeting comforts of superstition. They avoid rather than confront the world. But those with the courage to explore the weave and structure of the Cosmos, even where it differs profoundly from their wishes and prejudices, will penetrate its deepest mysteries.}
+
+    ]
+
+    attribution "Carl Sagan"
 
 ]
 
-{It's interesting to hear a quote like this from a steadfast atheist. I generally associate atheism with an oeuvre of dogmatic rejection of experiences like my own, in which internal reports of are discarded merely because the analyzing parties don't experience them. Yet Sagan advocated for sending signals into space to try and tell aliens about Earth, which put him a bit on the fringe.  Here's what [Wikipedia](http://en.wikipedia.org/wiki/Carl_Sagan) notes about it:}
+print {It's interesting to hear a quote like this from a steadfast atheist. I generally associate atheism with an oeuvre of dogmatic rejection of experiences like my own, in which internal reports of are discarded merely because the analyzing parties don't experience them. Yet Sagan advocated for sending signals into space to try and tell aliens about Earth, which put him a bit on the fringe.  Here's what [Wikipedia](http://en.wikipedia.org/wiki/Carl_Sagan) notes about it:}
 
-[quote {Sagan was a proponent of the search for extraterrestrial life. He urged the scientific community to listen with radio telescopes for signals from intelligent extraterrestrial lifeforms. So persuasive was he that by 1982, he was able to get a petition advocating SETI published in the journal Science, signed by 70 scientists, including seven Nobel Prize winners. This was a tremendous turnaround in the respectability of this controversial field. Sagan also helped Dr. Frank Drake write the Arecibo message, a radio message beamed into space from the Arecibo radio telescope on November 16, 1974, aimed at informing extraterrestrials about Earth.}]
+quote {Sagan was a proponent of the search for extraterrestrial life. He urged the scientific community to listen with radio telescopes for signals from intelligent extraterrestrial lifeforms. So persuasive was he that by 1982, he was able to get a petition advocating SETI published in the journal Science, signed by 70 scientists, including seven Nobel Prize winners. This was a tremendous turnaround in the respectability of this controversial field. Sagan also helped Dr. Frank Drake write the Arecibo message, a radio message beamed into space from the Arecibo radio telescope on November 16, 1974, aimed at informing extraterrestrials about Earth.}
 
-{Culturally, we disagree and factionalize about so many things...even when we all experience them, presumably in approximately the same way. Two people can watch identical movie and one person can like it and another can hate it, or come away with completely different opinions--even though we generally assume they heard and saw roughly the same sensory input. So when you think about how much disagreement there is in the world already among people whose senses tell them the same things, it's no surprise we're going to disagree over things that are not common experiences.}
+print << [
 
-{In trying to place myself in the philosophical spectrum, I don't know where to be; I'm very empathetic to the aesthetics of the hardened scientists, but my life is so strange I feel like an outcast talking to them. But now and again they show so much openness about the ideas of other forms of life in other dimensions and with other properties that I wonder where we'd be at if I could feel like they'd take me seriously? In this speech by Richard Dawkins (entitled "Queerer than we can suppose") he speaks about many things I've thought about, including the idea of bringing quantum-level simulations up to a scale where we can learn them intuitively, and how we might be able to build intuition about things that we have no ability to naturally perceive:}
+    {Culturally, we disagree and factionalize about so many things...even when we all experience them, presumably in approximately the same way. Two people can watch identical movie and one person can like it and another can hate it, or come away with completely different opinions--even though we generally assume they heard and saw roughly the same sensory input. So when you think about how much disagreement there is in the world already among people whose senses tell them the same things, it's no surprise we're going to disagree over things that are not common experiences.}
 
-[youtube http://www.youtube.com/v/1APOxsp1VFw 425x350]
+    {In trying to place myself in the philosophical spectrum, I don't know where to be; I'm very empathetic to the aesthetics of the hardened scientists, but my life is so strange I feel like an outcast talking to them. But now and again they show so much openness about the ideas of other forms of life in other dimensions and with other properties that I wonder where we'd be at if I could feel like they'd take me seriously? In this speech by Richard Dawkins (entitled "Queerer than we can suppose") he speaks about many things I've thought about, including the idea of bringing quantum-level simulations up to a scale where we can learn them intuitively, and how we might be able to build intuition about things that we have no ability to naturally perceive:}
 
-"A good listen."
+]
+
+youtube [http://www.youtube.com/v/1APOxsp1VFw 425x350]
+
+print "A good listen."

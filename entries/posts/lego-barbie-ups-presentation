@@ -5,42 +5,54 @@ Draem [
     tags: [lucid-dream attack neutral sexual]
 ]
 
-{I was walking through an environment that was apparently built out of LEGO, with someone.  I had the impression (or understanding) that it was a game or movie.}
+print {I was walking through an environment that was apparently built out of LEGO, with someone.  I had the impression (or understanding) that it was a game or movie.}
 
-[note {A recent popular movie called "The LEGO Movie" has been receiving good critical reviews, I'd considered seeing it.}]
+note {A recent popular movie called "The LEGO Movie" has been receiving good critical reviews, I'd considered seeing it.}
 
-{My friend and I considered ourselves observers, as if we were just watching and waiting for events to happen.  There was a moment where a LEGO minifig-style character was doing some kind of archaeological dig, and found a small Barbie doll--unclothed and anatomically nondescript.}
+print {My friend and I considered ourselves observers, as if we were just watching and waiting for events to happen.  There was a moment where a LEGO minifig-style character was doing some kind of archaeological dig, and found a small Barbie doll--unclothed and anatomically nondescript.}
 
-[LEGO-bystander: <confused> {What is it?}]
+dialog [
 
-[LEGO-archaeologist: <enthusiastic> {This isn't LEGO at all!  This is a Barbie!}]
+    LEGO-bystander: <confused> "What is it?"
 
-{The Barbie became animated and seemed grateful for being unearthed.}
+    LEGO-archaeologist: <enthusiastic> "This isn't LEGO at all!  This is a Barbie!"
 
-[Barbie: {Thank you for saving me!}]
+]
 
-{Barbie kissed the LEGO archaeologist, but when she did so, she grew larger in size.}
+print {The Barbie became animated and seemed grateful for being unearthed.}
 
-{This led to some strange detour in dialogue.  Other LEGO characters were describing their marvelment at coming across this large nude girl who would grow each time she kissed someone.}
+dialog [Barbie: "Thank you for saving me!"]
 
-{Hearing people talk about the Barbie side-story kind of faded; and I became puzzled at how much of what I'd expected to be a story about LEGO had been spent developing a character I didn't believe belonged.  So my companion and I went into some kind of LEGO building.  I took a stairway downwards, and laid on the floor and kind of poked at the walls, looking at their structure.}
+print << [
 
-[companion: <confused> {Um, what are you doing?}]
+    {Barbie kissed the LEGO archaeologist, but when she did so, she grew larger in size.}
 
-[me: {Well, I came in and I could either go up or go down, and so I went down.  And when I went down there wasn't much here, but I decided to look at the bricks in this wall.}]
+    {This led to some strange detour in dialogue.  Other LEGO characters were describing their marvelment at coming across this large nude girl who would grow each time she kissed someone.}
 
-[companion: {Maybe you took a wrong turn?  You're in...like...the basement.  This isn't particularly interesting.  Come on, let's go look at what's going on in the upper levels.}]
+    {Hearing people talk about the Barbie side-story kind of faded; and I became puzzled at how much of what I'd expected to be a story about LEGO had been spent developing a character I didn't believe belonged.  So my companion and I went into some kind of LEGO building.  I took a stairway downwards, and laid on the floor and kind of poked at the walls, looking at their structure.}
 
-{I got up and followed him.  The hallways were odd structures of LEGO.  He pointed to the corridor he thought we should be in.}
+]
 
-[me: {I don't see a way over there.  Well, I guess we could take some of these side routes.}]
+dialog [
 
-{We dodged around the various halls; while there was a lot of LEGO base structure, it seemed there was glass as well.  We managed to weave our way around the maze and into a conference room, where we were seemingly walking into the middle of a lecture.}
+    companion: <confused> "Um, what are you doing?"
 
-[companion: <excited> {Oh yes!  I hear that the lecture embedded in the movie is one of the best parts, you shouldn't skip it.}]
+    me: {Well, I came in and I could either go up or go down, and so I went down.  And when I went down there wasn't much here, but I decided to look at the bricks in this wall.}
 
-{We moved forward to try and hear, but the room was packed.  I squatted on the ground behind some people who motioned to me that it was almost over and they'd be leaving, thus I could take their seat.  I listened but it sounded like gibberish... random words at a high rate.  But he ended the talk shortly thereafter.}
+    companion: {Maybe you took a wrong turn?  You're in...like...the basement.  This isn't particularly interesting.  Come on, let's go look at what's going on in the upper levels.}
 
-[speaker: <enthusiastically> "And that's why UPS is the greatest service in history!  Thank you."]
+]
 
-{The audience applauded and cleared out.  My companion and I found seats to take the spots where the previous people had been.  The projection screen began to be filled with schematic diagrams which I tried to understand, but could not...and I awoke.}
+print {I got up and followed him.  The hallways were odd structures of LEGO.  He pointed to the corridor he thought we should be in.}
+
+dialog [me: {I don't see a way over there.  Well, I guess we could take some of these side routes.}]
+
+print {We dodged around the various halls; while there was a lot of LEGO base structure, it seemed there was glass as well.  We managed to weave our way around the maze and into a conference room, where we were seemingly walking into the middle of a lecture.}
+
+dialog [companion: <excited> {Oh yes!  I hear that the lecture embedded in the movie is one of the best parts, you shouldn't skip it.}]
+
+print {We moved forward to try and hear, but the room was packed.  I squatted on the ground behind some people who motioned to me that it was almost over and they'd be leaving, thus I could take their seat.  I listened but it sounded like gibberish... random words at a high rate.  But he ended the talk shortly thereafter.}
+
+dialog [speaker: <enthusiastically> {And that's why UPS is the greatest service in history!  Thank you.}]
+
+print {The audience applauded and cleared out.  My companion and I found seats to take the spots where the previous people had been.  The projection screen began to be filled with schematic diagrams which I tried to understand, but could not...and I awoke.}

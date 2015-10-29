@@ -6,58 +6,70 @@ Draem [
     old: http://realityhandbook.livejournal.com/141121.html
 ]
 
-{I perceived that I was in the body of a small boy, in a messy kitchen. So I started looking at the products in it. There was a certain brand of cereal that came in a stark white box. It was either called "New York Times" cereal, or was just heavily branded at the top as being "brought to you by the New York Times".}
+print {I perceived that I was in the body of a small boy, in a messy kitchen. So I started looking at the products in it. There was a certain brand of cereal that came in a stark white box. It was either called "New York Times" cereal, or was just heavily branded at the top as being "brought to you by the New York Times".}
 
-[picture %the-new-york-times1.jpg]
+picture %the-new-york-times1.jpg
 
-[note {The idea of keywords identifying information sources being drowned out by marketing for products intentionally given the same name first made a dream appearance in [Eat Your Yamli](http://realityhandbook.org/lucid-dream/eat-your-yamli-rich-in-minerals/)}]
+note {The idea of keywords identifying information sources being drowned out by marketing for products intentionally given the same name first made a dream appearance in [Eat Your Yamli](http://realityhandbook.org/lucid-dream/eat-your-yamli-rich-in-minerals/)}
 
-{There were various sizes of this box. When opened--each contained a stack of shallower boxes. Sometimes there was one single inner box that was roughly the size of the outer box. I picked up some of the boxes, and sat them down in front of me in what appeared to be a living room...and began questioning a man in a blue outfit with a hat that the letter "P" on it.}
+print {There were various sizes of this box. When opened--each contained a stack of shallower boxes. Sometimes there was one single inner box that was roughly the size of the outer box. I picked up some of the boxes, and sat them down in front of me in what appeared to be a living room...and began questioning a man in a blue outfit with a hat that the letter "P" on it.}
 
-[me: {What is this cereal. Why does it need so many boxes?}]
+dialog [
 
-[mr-p: {Because they send them in packs and want to keep the packs together.}]
+    me: {What is this cereal. Why does it need so many boxes?}
 
-[me: <holding up the single> {But this one only has one in it. Why does it need the outer box?}]
+    mr-p: {Because they send them in packs and want to keep the packs together.}
 
-[mr-p: {Well that's just the campaign. It's like when they were trying to sell people circuit boards, they had the 'grab-N-go' campaign. Marketing genius.}]
+    me: <holding up the single> {But this one only has one in it. Why does it need the outer box?}
 
-[note {At the time I didn't understand what that had to do anything. But I guess in retrospect it seems he was saying that the marketing on the outer box might be different, and they might not have wanted to repack the inner box.}]
+    mr-p: {Well that's just the campaign. It's like when they were trying to sell people circuit boards, they had the 'grab-N-go' campaign. Marketing genius.}
 
-{Another man walked in and seemed to be giving envelopes to the P man.}
+]
 
-[man: {That's my birth-certificate... everything should be in order.}]
+note {At the time I didn't understand what that had to do anything. But I guess in retrospect it seems he was saying that the marketing on the outer box might be different, and they might not have wanted to repack the inner box.}
 
-[me: <to Mr. P> {Why is it that you are taking his birth certificate?}]
+print {Another man walked in and seemed to be giving envelopes to the P man.}
 
-[mr-p: {Because I'm the person who collects all the information.}]
+dialog [
 
-[me: {It would be much better if information were collected by an organization that was transparent about its methods and did not leave someone's personal information at the whims of one individual.}]
+    man: {That's my birth-certificate... everything should be in order.}
 
-[mr-p: <laughing> "Oh is that right?"]
+    me: <to Mr. P> {Why is it that you are taking his birth certificate?}
 
-{I was annoyed that he seemed to not take me seriously, perhaps because he thought I was a child. This made me decide to "blow cover" by mentioning something from this universe.}
+    mr-p: {Because I'm the person who collects all the information.}
 
-[me: <menacingly> {And if you don't get with that program yourself, Skynet is going to take care of making sure you do.}]
+    me: {It would be much better if information were collected by an organization that was transparent about its methods and did not leave someone's personal information at the whims of one individual.}
 
-{There was another part of a house where a woman, who I presumed might be the mother of the child who I was "channeling" through. She was in a jacuzzi of some kind. I dangled my feet in, eventually realizing that my whole body was getting wet as the small pool grew into a larger pool, and more people showed up in it. One attractive young girl swam over to me and began to kiss me.}
+    mr-p: <laughing> "Oh is that right?"
 
-[girl: "Let's go upstairs..."]
+]
 
-{I followed her up some narrow stairs, which led to what looked a bit like a laboratory. She was twiddling some instruments on a table, the dream seemed to fade a bit and I caught a flash of a domain name that said 71.science.mandymoore.com.}
+print {I was annoyed that he seemed to not take me seriously, perhaps because he thought I was a child. This made me decide to "blow cover" by mentioning something from this universe.}
 
-[note "Mandy Moore is a singer, not someone I follow."]
+dialog [me: <menacingly> {And if you don't get with that program yourself, Skynet is going to take care of making sure you do.}]
 
-[me: {I... well, I have to warn you, I am not who you might think I am.}]
+print {There was another part of a house where a woman, who I presumed might be the mother of the child who I was "channeling" through. She was in a jacuzzi of some kind. I dangled my feet in, eventually realizing that my whole body was getting wet as the small pool grew into a larger pool, and more people showed up in it. One attractive young girl swam over to me and began to kiss me.}
 
-[girl: <smirking> "In either case, I trust you to be *preservative*."]
+dialog [girl: "Let's go upstairs..."]
 
-[me: {Oh... you know about that? Modeling God as the great preservative.}]
+print {I followed her up some narrow stairs, which led to what looked a bit like a laboratory. She was twiddling some instruments on a table, the dream seemed to fade a bit and I caught a flash of a domain name that said 71.science.mandymoore.com.}
 
-{**girl** "Yes and I think we disagree on that."}
+note "Mandy Moore is a singer, not someone I follow."
 
-[note {I was assuming she was making an allusion to [Let God Be Your Preservative](http://realityhandbook.org/lucid-dream/let-god-be-your-preservative/)}]
+dialog [
 
-[me: {You have to have priorities. But why destroy things, even bad ones? You might need them some day.}]
+    me: {I... well, I have to warn you, I am not who you might think I am.}
 
-{I paced around in circles to try and stay in the dream.}
+    girl: <smirking> "In either case, I trust you to be *preservative*."
+
+    me: {Oh... you know about that? Modeling God as the great preservative.}
+
+]
+
+print {**girl** "Yes and I think we disagree on that."}
+
+note {I was assuming she was making an allusion to [Let God Be Your Preservative](http://realityhandbook.org/lucid-dream/let-god-be-your-preservative/)}
+
+dialog [me: {You have to have priorities. But why destroy things, even bad ones? You might need them some day.}]
+
+print {I paced around in circles to try and stay in the dream.}

@@ -6,72 +6,100 @@ Draem [
     old: http://realityhandbook.livejournal.com/19501.html
 ]
 
-{I was investigating information about a 2006 nuclear war. A reactor which was being kept secret for the wrong reasons was at the core of the problem, and I was flitting in on a survey mission...jumping around and looking at various parts of it using a special diagnostic device.}
+print << [
 
-{Somehow I had a flash of insight. The device I was using was not detecting radioactive elements, but rather--there was a database telling the device where to indicate the radioactive bits were and then the danger was coming from outside the system.}
+    {I was investigating information about a 2006 nuclear war. A reactor which was being kept secret for the wrong reasons was at the core of the problem, and I was flitting in on a survey mission...jumping around and looking at various parts of it using a special diagnostic device.}
 
-[note {This kind of deception would be somewhat similar to the idea of simulating a sexually transmitted disease if you had a database of who was having sex. Doctors could then give people a "test" which was actually the point at which they would choose to inject or not inject you with a poison based on whether you carried the marker.}]
-
-{My realization that my equipment was lying to me shocked me into another scenario, where I was reading over a protocols document called "Astarte".}
-
-[note {[Astarte](http://en.wikipedia.org/wiki/Astarte) is the goddess of fertility, sexuality, and war... a.k.a. Aphrodite.}]
-
-{The document was talking in a very roundabout notion about executing orders when those orders have been given on compromised credentials. I had the impression that even though there wasn't any actual "nuclear war" going on, a chain of disasters and panics were being triggered that were going to take eons to unwind.}
-
-{Suddenly I was in some kind of hospital-type environment. It had rooms with beds in them, but also a large common area where I was seated.}
-
-[me: {I just had a dream where there was a full-scale nuclear war in 2006. It was a hoax, though, but one with very serious consequences. In truth, I'm a software engineer...so it's weird that I was so convinced I was a nuclear engineer.}]
-
-[guy: "Have you heard of Avenar?"]
-
-[me: <excited> {Wait! Wait! What made you bring that up? I need to know *how* you knew to bring up that word in this context.}]
-
-[note
-
-    {Avenar means "to drain" in Spanish. It is also the name of a 15th century astrologer:}
-
-    [quote {A fifteenth-century astrologer who promised the Jews, on the testimony of the planets, that their Messiah should arrive without fail in 1444, or at the latest, in 1464. He gave, for his guarantors, Saturn, Jupiter, "the crab, and the fish." The Jews were said to have kept their windows open to receive the messenger of God who did not arrive.}]
-
-    {...at least, [according to answers.com](http://www.answers.com/topic/avenar) and some books on Google.}
+    {Somehow I had a flash of insight. The device I was using was not detecting radioactive elements, but rather--there was a database telling the device where to indicate the radioactive bits were and then the danger was coming from outside the system.}
 
 ]
 
-{Those of us in the common area were being watched, and and one of the men in our group became very agitated and loud. He was attracting a lot of attention, and I tried to get him to be quiet. An orderly of some sort approached us.}
+note {This kind of deception would be somewhat similar to the idea of simulating a sexually transmitted disease if you had a database of who was having sex. Doctors could then give people a "test" which was actually the point at which they would choose to inject or not inject you with a poison based on whether you carried the marker.}
 
-[orderly: {We'll have to dismiss your group if you're not quieter.}]
+print {My realization that my equipment was lying to me shocked me into another scenario, where I was reading over a protocols document called "Astarte".}
 
-{Someone brought up a computer console and showed me what it said:}
+note {[Astarte](http://en.wikipedia.org/wiki/Astarte) is the goddess of fertility, sexuality, and war... a.k.a. Aphrodite.}
 
-[quote {As of Avenar v.0.1.2, all loggers have pillows in (0,0) instead of genital +1".}]
+print << [
 
-{I had the gut feeling that "loggers" were bad--I associated this yelling guy with loggers. So at first I interpreted this update as saying I'd get two loggers for every one.}
+    {The document was talking in a very roundabout notion about executing orders when those orders have been given on compromised credentials. I had the impression that even though there wasn't any actual "nuclear war" going on, a chain of disasters and panics were being triggered that were going to take eons to unwind.}
 
-[guy: "Quick! Ask for someone to watch you!"]
+    {Suddenly I was in some kind of hospital-type environment. It had rooms with beds in them, but also a large common area where I was seated.}
 
-[someone-else: "Ask for a massage!"]
+]
 
-{Something clicked, and I realized it was a system for characterizing the humanoid caretakers. This was the characterization of male/female...males were "genital +1" and women were "pillows (0,0)" in this abstruse classification scheme.}
+dialog [
 
-[note {My feeling was that this was a treatment facility where male patients were being isolated with male orderlies...when they'd prefer female company, all things being equal.}]
+    me: {I just had a dream where there was a full-scale nuclear war in 2006. It was a hoax, though, but one with very serious consequences. In truth, I'm a software engineer...so it's weird that I was so convinced I was a nuclear engineer.}
 
-[me: "Please, can someone watch me?"]
+    guy: "Have you heard of Avenar?"
 
-{A female nurse (who was actually kind of pretty) was assigned to sit in a chair and take care of me. Another Asian girl ran to my side.}
+    me: <excited> {Wait! Wait! What made you bring that up? I need to know *how* you knew to bring up that word in this context.}
 
-[asian-girl: {Yes, we'll have everything taken care of for you Mr. Nicholson.}]
+]
 
-[me: "No no, that's Mr. Michelson."]
+note [
 
-[note {I perceived we were acting as a team to take the identity of some person in power in order to stage a coup.}]
+    print {Avenar means "to drain" in Spanish. It is also the name of a 15th century astrologer:}
 
-{The guy who had suggested I get a massage grabbed some paperwork and handed it over to the Asian girl.}
+    quote {A fifteenth-century astrologer who promised the Jews, on the testimony of the planets, that their Messiah should arrive without fail in 1444, or at the latest, in 1464. He gave, for his guarantors, Saturn, Jupiter, "the crab, and the fish." The Jews were said to have kept their windows open to receive the messenger of God who did not arrive.}
 
-[guy: {Don't worry, she's got it now. She can correct herself.}]
+    print {...at least, [according to answers.com](http://www.answers.com/topic/avenar) and some books on Google.}
 
-[me: <excitedly> "A ha!"]
+]
 
-{A somewhat inauthentic man approached me, and began giving a speech about how difficult it was for people, and that the town was in bad shape. I got the perception that he was some kind of two-faced political leader, and our maneuvering was all about overthrowing him. The Asian girl seemed to be humoring him.}
+print {Those of us in the common area were being watched, and and one of the men in our group became very agitated and loud. He was attracting a lot of attention, and I tried to get him to be quiet. An orderly of some sort approached us.}
 
-[asian-girl: "Oh yes, times are very bad."]
+dialog [orderly: {We'll have to dismiss your group if you're not quieter.}]
 
-[me: <smiling brightly> {Well, it's a beautiful day. I think we can do something about the town!}]
+print {Someone brought up a computer console and showed me what it said:}
+
+quote {As of Avenar v.0.1.2, all loggers have pillows in (0,0) instead of genital +1".}
+
+print {I had the gut feeling that "loggers" were bad--I associated this yelling guy with loggers. So at first I interpreted this update as saying I'd get two loggers for every one.}
+
+dialog [
+
+    guy: "Quick! Ask for someone to watch you!"
+
+    someone-else: "Ask for a massage!"
+
+]
+
+print {Something clicked, and I realized it was a system for characterizing the humanoid caretakers. This was the characterization of male/female...males were "genital +1" and women were "pillows (0,0)" in this abstruse classification scheme.}
+
+note {My feeling was that this was a treatment facility where male patients were being isolated with male orderlies...when they'd prefer female company, all things being equal.}
+
+dialog [me: "Please, can someone watch me?"]
+
+print {A female nurse (who was actually kind of pretty) was assigned to sit in a chair and take care of me. Another Asian girl ran to my side.}
+
+dialog [
+
+    asian-girl: {Yes, we'll have everything taken care of for you Mr. Nicholson.}
+
+    me: "No no, that's Mr. Michelson."
+
+]
+
+note {I perceived we were acting as a team to take the identity of some person in power in order to stage a coup.}
+
+print {The guy who had suggested I get a massage grabbed some paperwork and handed it over to the Asian girl.}
+
+dialog [
+
+    guy: {Don't worry, she's got it now. She can correct herself.}
+
+    me: <excitedly> "A ha!"
+
+]
+
+print {A somewhat inauthentic man approached me, and began giving a speech about how difficult it was for people, and that the town was in bad shape. I got the perception that he was some kind of two-faced political leader, and our maneuvering was all about overthrowing him. The Asian girl seemed to be humoring him.}
+
+dialog [
+
+    asian-girl: "Oh yes, times are very bad."
+
+    me: <smiling brightly> {Well, it's a beautiful day. I think we can do something about the town!}
+
+]

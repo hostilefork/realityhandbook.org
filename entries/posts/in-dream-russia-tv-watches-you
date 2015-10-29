@@ -6,62 +6,90 @@ Draem [
     old: http://realityhandbook.livejournal.com/146884.html
 ]
 
-{I was in some kind of school cafeteria setting, and I understood that I was the youngest of three brothers. The oldest brother had gotten a bit overweight and was being held back, while the middle brother had graduated. An incident had just happened where this older brother had felt I was starting to distance myself from him because he was "uncool"... and it was a repeat of what had apparently happened with the middle brother.}
+print {I was in some kind of school cafeteria setting, and I understood that I was the youngest of three brothers. The oldest brother had gotten a bit overweight and was being held back, while the middle brother had graduated. An incident had just happened where this older brother had felt I was starting to distance myself from him because he was "uncool"... and it was a repeat of what had apparently happened with the middle brother.}
 
-[note {How I understood all this is one of those mysterious dream-identity things, and it's certainly not the way my mind would work as I have no siblings.}]
+note {How I understood all this is one of those mysterious dream-identity things, and it's certainly not the way my mind would work as I have no siblings.}
 
-{He had sulked away to sit at a table by himself. I wanted to reach out to him and say that no, I'm not the kind of person who cares about looking cool at the cost of hurting other people. So I went to try and sit at the table with him, but there was a girl who sat down to console him.}
+print {He had sulked away to sit at a table by himself. I wanted to reach out to him and say that no, I'm not the kind of person who cares about looking cool at the cost of hurting other people. So I went to try and sit at the table with him, but there was a girl who sat down to console him.}
 
-[me: {Umm... hey, I wanted to come over and talk things over with you. I'd rather speak to you right now, but I don't want to interrupt since I see you just got company.}]
+dialog [
 
-[older-brother: "Sit down, why don't we all order some breakfast."]
+    me: {Umm... hey, I wanted to come over and talk things over with you. I'd rather speak to you right now, but I don't want to interrupt since I see you just got company.}
 
-{A waiter came out with some menus. I had a vague feeling of having eaten there before and that they made a good omelette that was served in a triangle that was the shape of a slice of pizza. I ordered one of those and picked three ingredients... spinach and two different types of cheese.}
+    older-brother: "Sit down, why don't we all order some breakfast."
 
-[picture %CroissantsPainauChocolatandBrioc-37.jpg]
+]
 
-{There was some discussion after my order, and the brother got mad at the waiter for trying to overcharge me. The waiter apologized but I got the feeling he was trying to scam us.}
+print {A waiter came out with some menus. I had a vague feeling of having eaten there before and that they made a good omelette that was served in a triangle that was the shape of a slice of pizza. I ordered one of those and picked three ingredients... spinach and two different types of cheese.}
 
-{Yet I became distracted by looking at my arms. I noticed there wasn't a certain red mole that I've been kind of concerned about lately. As I examined more closely I realized that these weren't my arms at all, they were tattooed and unfamiliar.}
+picture %CroissantsPainauChocolatandBrioc-37.jpg
 
-[me: "Wait a second... am I... in my body?"]
+print << [
 
-[woman: {No, you are not in your body. But at the moment, you are the only one here.}]
+    {There was some discussion after my order, and the brother got mad at the waiter for trying to overcharge me. The waiter apologized but I got the feeling he was trying to scam us.}
 
-{This answer came from across the room. The woman was actually on a TV in the corner. I got up to walk across this cafeteria/restaurant so I could engage her.}
+    {Yet I became distracted by looking at my arms. I noticed there wasn't a certain red mole that I've been kind of concerned about lately. As I examined more closely I realized that these weren't my arms at all, they were tattooed and unfamiliar.}
 
-[me: "Whose body is it?"]
+]
 
-[woman: "It belongs to *him*."]
+dialog [
 
-[me: "Him who?"]
+    me: "Wait a second... am I... in my body?"
 
-[woman: {The person who those people--the ones you were talking to--know and care about.}]
+    woman: {No, you are not in your body. But at the moment, you are the only one here.}
 
-[me: {If I'm 'the only one here', then where did 'he' go?}]
+]
 
-[woman: <shrugs> "Away. Perhaps he was unhappy, so now here you are."]
+print {This answer came from across the room. The woman was actually on a TV in the corner. I got up to walk across this cafeteria/restaurant so I could engage her.}
 
-{A group of people seated at a table next to the TV were looking at me somewhat puzzled. The woman on the TV vanished and I was just staring at nothing.}
+dialog [
 
-[me: <to self> {Please tell me there's not some frame of reference in which I made someone just get up and talk to a TV in front of everyone...}]
+    me: "Whose body is it?"
 
-{Turning to the people at the table, I joked with them a bit.}
+    woman: "It belongs to *him*."
 
-[guy: {Well you're definitely the kind of person we want at our New Year's Eve party...}]
+    me: "Him who?"
 
-[me: {Sure I'll come, but I've only got one rule. No TVs. As you just saw, me and TV don't get along so well.}]
+    woman: {The person who those people--the ones you were talking to--know and care about.}
 
-"Then I walked back to the table I'd come from."
+    me: {If I'm 'the only one here', then where did 'he' go?}
 
-[me: {Look, I don't know how to tell you this, but I'm not who you think I am. I mean, does the person you think I am know Russian? &#1044;&#1086;&#1073;&#1088;&#1099;&#1081; &#1076;&#1077;&#1085;&#1100;, &#1082;&#1072;&#1082; &#1074;&#1099; &#1076;&#1077;&#1083;&#1072;&#1077;&#1090;&#1077;? Or Spanish, for instance? It can't be hard for me to prove something is going on here.}]
+    woman: <shrugs> "Away. Perhaps he was unhappy, so now here you are."
 
-[older-brother: <dismissively> "You don't know Spanish. Lo que digas es tonto."]
+]
 
-[me: {That means *what I'm saying is silly*... and well, the Russian part is silly because I only know one or two phrases. But the point is if you talk to me long enough I'll say something I couldn't have known if I'm who you think I am.}]
+print {A group of people seated at a table next to the TV were looking at me somewhat puzzled. The woman on the TV vanished and I was just staring at nothing.}
 
-{When I decoded the Spanish correctly, the look on his face changed to one of worry. I got up and walked off, some people followed me. I saw some people whipping metal spikes on strings to break glass plates that were mounted on walls, as if it were a game like skeet-shooting. Catching a reflection of myself in the mirror, I seemed to be a fairly good-looking teenager with dark hair and a lot of tattoos.}
+dialog [me: <to self> {Please tell me there's not some frame of reference in which I made someone just get up and talk to a TV in front of everyone...}]
 
-{But suddenly I became panicked a bit about something that hadn't really bothered me before. If people could leave their bodies and be *inhabited* this way, then what if while I was here my body became inhabited by one of these things, and it was bad? I forced myself to wake up.}
+print {Turning to the people at the table, I joked with them a bit.}
 
-[note {I have rated this as a negative dream due to inspiring this very foreboding thought more than anything actually bad happening to me in it. Not to say that I am not already the "inhabiting" thing more than the original person who was in my current body! But at least I have a fairly consistent idea of how I got to be where I am from childhood.}]
+dialog [
+
+    guy: {Well you're definitely the kind of person we want at our New Year's Eve party...}
+
+    me: {Sure I'll come, but I've only got one rule. No TVs. As you just saw, me and TV don't get along so well.}
+
+]
+
+print "Then I walked back to the table I'd come from."
+
+dialog [
+
+    me: {Look, I don't know how to tell you this, but I'm not who you think I am. I mean, does the person you think I am know Russian? &#1044;&#1086;&#1073;&#1088;&#1099;&#1081; &#1076;&#1077;&#1085;&#1100;, &#1082;&#1072;&#1082; &#1074;&#1099; &#1076;&#1077;&#1083;&#1072;&#1077;&#1090;&#1077;? Or Spanish, for instance? It can't be hard for me to prove something is going on here.}
+
+    older-brother: <dismissively> "You don't know Spanish. Lo que digas es tonto."
+
+    me: {That means *what I'm saying is silly*... and well, the Russian part is silly because I only know one or two phrases. But the point is if you talk to me long enough I'll say something I couldn't have known if I'm who you think I am.}
+
+]
+
+print << [
+
+    {When I decoded the Spanish correctly, the look on his face changed to one of worry. I got up and walked off, some people followed me. I saw some people whipping metal spikes on strings to break glass plates that were mounted on walls, as if it were a game like skeet-shooting. Catching a reflection of myself in the mirror, I seemed to be a fairly good-looking teenager with dark hair and a lot of tattoos.}
+
+    {But suddenly I became panicked a bit about something that hadn't really bothered me before. If people could leave their bodies and be *inhabited* this way, then what if while I was here my body became inhabited by one of these things, and it was bad? I forced myself to wake up.}
+
+]
+
+note {I have rated this as a negative dream due to inspiring this very foreboding thought more than anything actually bad happening to me in it. Not to say that I am not already the "inhabiting" thing more than the original person who was in my current body! But at least I have a fairly consistent idea of how I got to be where I am from childhood.}

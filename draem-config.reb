@@ -13,21 +13,21 @@ draem/set-config object compose [
 
 	site-intro: [
 
-		{This site is mostly about my dreaming life. I consistently become aware that I'm dreaming while still asleep, having nearly the full presence of mind I have while awake. I write down some of the conversations and experiments that I perform in this state--and there are literally [hundreds of these logs](http://realityhandbook.org/tag/lucid-dream/) here!}
+		print {This site is mostly about my dreaming life. I consistently become aware that I'm dreaming while still asleep, having nearly the full presence of mind I have while awake. I write down some of the conversations and experiments that I perform in this state--and there are literally [hundreds of these logs](http://realityhandbook.org/tag/lucid-dream/) here!}
 
-		[note {Since that's a daunting amount of material, I've [excerpted some example experiences](http://realityhandbook.org/about/#examples) you might want to look at. If you wish, you can instead jump straight to the [complete list of entries](#entries), or [browse by a growing selection of tags](http://realityhandbook.org/tag/). There are also [open letters](http://realityhandbook.org/tag/open-letter/), [essays](http://realityhandbook.org/tag/essay/), and other writing stored on this site.}]
+		note {Since that's a daunting amount of material, I've [excerpted some example experiences](http://realityhandbook.org/about/#examples) you might want to look at. If you wish, you can instead jump straight to the [complete list of entries](#entries), or [browse by a growing selection of tags](http://realityhandbook.org/tag/). There are also [open letters](http://realityhandbook.org/tag/open-letter/), [essays](http://realityhandbook.org/tag/essay/), and other writing stored on this site.}
 
-		[heading {"Wow...really?"}]
+		heading {"Wow...really?"}
 
-		{Yes, really! In scientific parlance, what I do is called [lucid dreaming](http://en.wikipedia.org/wiki/Lucid_dreaming). Enough people have done it "on command" in laboratories that it has been proven to be possible. If you are interested in the peer-reviewed experiments where sleeping people have demonstrated this ability to scientists, you should read up on the very interesting work of [Dr. Stephen LaBerge](http://en.wikipedia.org/wiki/Stephen_LaBerge) at Stanford University.}
+		print {Yes, really! In scientific parlance, what I do is called [lucid dreaming](http://en.wikipedia.org/wiki/Lucid_dreaming). Enough people have done it "on command" in laboratories that it has been proven to be possible. If you are interested in the peer-reviewed experiments where sleeping people have demonstrated this ability to scientists, you should read up on the very interesting work of [Dr. Stephen LaBerge](http://en.wikipedia.org/wiki/Stephen_LaBerge) at Stanford University.}
 
-		{Let me be abundantly clear: I don't do drugs, and this is not a joke project for a sci-fi writer. I am a software developer and a devout supporter of critical thinking. My documentation here is for science, and the accounts are here to be studied as data. (Since we can't yet video-record the dreamworld the reports are naturally going to be a bit fuzzy. I've tried to be as accurate as possible while adopting a readable script-like format.)}
+		print {Let me be abundantly clear: I don't do drugs, and this is not a joke project for a sci-fi writer. I am a software developer and a devout supporter of critical thinking. My documentation here is for science, and the accounts are here to be studied as data. (Since we can't yet video-record the dreamworld the reports are naturally going to be a bit fuzzy. I've tried to be as accurate as possible while adopting a readable script-like format.)}
 
-		[heading {"So why are you noteworthy?"}]
+		heading {"So why are you noteworthy?"}
 
-		{Given that I just pointed out that lucid dreaming is a 'known' phenomenon, you might ask what the big deal is. Here are the points as I see it:}
+		print {Given that I just pointed out that lucid dreaming is a 'known' phenomenon, you might ask what the big deal is. Here are the points as I see it:}
 
-		[list
+		list [item << [
 
 		    {My emphasis is not on bending the dream-world to my will. Instead I try to interview the characters I meet, and carefully filter preconceptions which might influence what I "hear". The things they "say" aren't always nice--but are far more surprising, original, and coherent than most lucid dreamers report.}
 
@@ -37,13 +37,13 @@ draem/set-config object compose [
 
 		    {There are absolutely no "self-help" books or "psychic services" that I have to sell. To keep things on the up-and-up I'm never going to advertise on this site either.}
 
-		]
+		]]
 
-		{I am eager to engage any sleep-research lab that wants to study me. I believe that atypical individuals can serve as linchpins in the understanding of our minds and our reality (such as [Daniel Tammet](http://realityhandbook.org/open-letter/daniel-tammet/)). I also hold some hope that search engines and archiving will give us tools that history did not have in understanding if these dreams are actually a form of communication through an as-yet-unknown mechanism.}
+		print {I am eager to engage any sleep-research lab that wants to study me. I believe that atypical individuals can serve as linchpins in the understanding of our minds and our reality (such as [Daniel Tammet](http://realityhandbook.org/open-letter/daniel-tammet/)). I also hold some hope that search engines and archiving will give us tools that history did not have in understanding if these dreams are actually a form of communication through an as-yet-unknown mechanism.}
 
-		{Please do not hestitate to [contact me](http://realityhandbook.org/contact/), unless you are a scary interdimensional dream monster.  In which case, hesitate.  :-)}
+		print {Please do not hestitate to [contact me](http://realityhandbook.org/contact/), unless you are a scary interdimensional dream monster.  In which case, hesitate.  :-)}
 
-		[heading {Master List of Entries} %entries]
+		heading %entries {Master List of Entries}
 	]
 
 	google-analytics: [
@@ -52,9 +52,9 @@ draem/set-config object compose [
 	]
 
 	site-footer: [
-		{Currently I am experimenting with using Disqus for comments, however it is configured that you don't have to log in or tie it to an account.  Simply check the "I'd rather post as a guest" button after clicking in the spot to type in a name.}
+		print {Currently I am experimenting with using Disqus for comments, however it is configured that you don't have to log in or tie it to an account.  Simply check the "I'd rather post as a guest" button after clicking in the spot to type in a name.}
 
-		[html {
+		html {
 	<div id="disqus_thread"></div>
 	    <script type="text/javascript">
 	        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -69,7 +69,7 @@ draem/set-config object compose [
 	    </script>
 	    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-}]
+}
 	]
 
 	site-trailer-html: {<div style="text-align: right;"><span>

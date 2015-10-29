@@ -5,72 +5,108 @@ Draem [
     tags: [neutral lucid-dream sexual technology]
 ]
 
-{I was waiting with a group in some kind of line on a waterfront.  We were supposed to cross some kind of pier, but were being held back until it was time to go.}
+print << [
 
-{As we waited there was a video playing on a monitor near us.  The monitor was playing an ad about responsibility, specifically the responsibility of driving a car.}
+    {I was waiting with a group in some kind of line on a waterfront.  We were supposed to cross some kind of pier, but were being held back until it was time to go.}
 
-[announcer: {Now you might think you know everything about driving.  But imagine someone who doesn't understand what a motorcycle is, and hits one.  The momentum may be so much that the motorcycle goes airborne and lodges into the side of an upper floor of a building.}]
+    {As we waited there was a video playing on a monitor near us.  The monitor was playing an ad about responsibility, specifically the responsibility of driving a car.}
 
-{An animation of a car hitting a motorcycle causing it to do exactly that was shown.}
+]
 
-[announcer: {If you hit the motorcycle, you are obligated to go to the site to help.  But that site could be very high up.}]
+dialog [announcer: {Now you might think you know everything about driving.  But imagine someone who doesn't understand what a motorcycle is, and hits one.  The momentum may be so much that the motorcycle goes airborne and lodges into the side of an upper floor of a building.}]
 
-{I was engaged and made dizzy by the animation, which seemed to show a schematic of a building and people walking like construction workers on skyscrapers up to look into it.  The plot was that the woman who had hit the motorcyclist was experiencing a fear of heights from having to go find the cyclist she hit, while the others there were more used to it.}
+print {An animation of a car hitting a motorcycle causing it to do exactly that was shown.}
 
-{Somehow the immersion made me feel like the pier I was waiting on was very high up, and I became afraid.  A friend of mine was there, I asked him to grab me and pull me away from the edge.  When he did, he held me close.  I felt kind of lame.}
+dialog [announcer: {If you hit the motorcycle, you are obligated to go to the site to help.  But that site could be very high up.}]
 
-[me: <embarrassed> {I'm... sorry, I just, am afraid of heights I guess.}]
+print << [
 
-{When we were called to cross the pier, it turned out that we were not very high above the water at all.  Just a few steps up.  Each of us were given a printed schematic from a stack.  The schematic was large and slick; a difficult to carry poster about the height of the body.}
+    {I was engaged and made dizzy by the animation, which seemed to show a schematic of a building and people walking like construction workers on skyscrapers up to look into it.  The plot was that the woman who had hit the motorcyclist was experiencing a fear of heights from having to go find the cyclist she hit, while the others there were more used to it.}
 
-{We were to walk along the pier with the schematic to go to some kind of session.  I walked and tried to balance, navigating it.  It involved a lot of climbing and I was also burdened with this poster.  I tried to protect it as I climbed and worked with the seeming obstacle course I was on.}
+    {Somehow the immersion made me feel like the pier I was waiting on was very high up, and I became afraid.  A friend of mine was there, I asked him to grab me and pull me away from the edge.  When he did, he held me close.  I felt kind of lame.}
 
-{At one point I reached a metal chain that had been hung with a NO ENTRY BEFORE 4 PM sign on it.  A guard was there and looked at me.}
+]
 
-[me: {Ummm... I know I'm supposed to be on the other side of this chain.  I know it's before 4PM but we have an event, and I'm late.  I'm going to have to climb this.}]
+dialog [me: <embarrassed> {I'm... sorry, I just, am afraid of heights I guess.}]
 
-{The guard shrugged as I and my poster awkwardly lumbered over the chain, but didn't stop me.}
+print << [
 
-{Eventually I reached some kind of Swedish/Danish-looking design center.  It was a cross between a museum and I-don't-know-what.  They had collections of things, like old telephones.  At first I walked in and looked down to see the group I was trying to meet as being far below me.  After all the navigation feats I'd been through, I thought about jumping.  Then I noticed there were stairs, so I took those instead.}
+    {When we were called to cross the pier, it turned out that we were not very high above the water at all.  Just a few steps up.  Each of us were given a printed schematic from a stack.  The schematic was large and slick; a difficult to carry poster about the height of the body.}
 
-{In a foreign language, someone was chattering into what I thought were just exhibit phones.  An organizer of some sort greeted me as I approached.}
+    {We were to walk along the pier with the schematic to go to some kind of session.  I walked and tried to balance, navigating it.  It involved a lot of climbing and I was also burdened with this poster.  I tried to protect it as I climbed and worked with the seeming obstacle course I was on.}
 
-[organizer: {Ah, the last of the alpha group has arrived!  We're all here, now we may begin.  Our project here is telepresence, projecting your body into places using a machine as a proxy.}]
+    {At one point I reached a metal chain that had been hung with a NO ENTRY BEFORE 4 PM sign on it.  A guard was there and looked at me.}
 
-[me: <becoming lucid> {Yes... yes... well, that would kind of sum it up pretty well.  Given that I am not here, I'm sleeping.  This isn't my body, it must be something else.}]
+]
 
-[organizer: {Of course, none of us are *actually* here.  This body is a proxy as well, just like yours.  See?}]
+dialog [me: {Ummm... I know I'm supposed to be on the other side of this chain.  I know it's before 4PM but we have an event, and I'm late.  I'm going to have to climb this.}]
 
-{He pulled aside the collar of his shirt, exposing a small chip of some kind embedded into the front of his shoulder.}
+print << [
 
-[me: {Oh.  Okay.  But, I need you to understand, I'm not doing this *on purpose*.  It's some kind of accident.  If you understand this technology, I need your help.}]
+    {The guard shrugged as I and my poster awkwardly lumbered over the chain, but didn't stop me.}
 
-{I pulled my shirt aside as he had done.  There was a chip in the same position, but mine was larger and a lot weirder.  There were also several other things that flew out, one had a square looked half black and half white.  It was akin to the "flag" of the AI in the Matrix, or the cover of U2's "No Line on the Horizon" CD.}
+    {Eventually I reached some kind of Swedish/Danish-looking design center.  It was a cross between a museum and I-don't-know-what.  They had collections of things, like old telephones.  At first I walked in and looked down to see the group I was trying to meet as being far below me.  After all the navigation feats I'd been through, I thought about jumping.  Then I noticed there were stairs, so I took those instead.}
 
-{He looked over it and became puzzled.}
+    {In a foreign language, someone was chattering into what I thought were just exhibit phones.  An organizer of some sort greeted me as I approached.}
 
-[organizer: <concerned> {I'm sorry... I... I don't know what any of this is.  Who are you, again?}]
+]
 
-{The chips flew around and I tried to take a longer look at the thing embedded into my shoulder, when I felt that I awoke.  I don't know if I did, but I quickly re-immersed into the same building.  However, I was in a bed there, in a seeming pile of blankets.  I was naked but there were some shorts that I could put on.}
+dialog [
 
-{I really needed to use the bathroom.  I went looking around the design center and found one, it also had a shower in it.  The bathroom was a first chamber and then the shower was a second, so that you could use the toilet in a separate area from where whoever was showering.  Someone was using the shower area with the door open but I tried to close it off to use the toilet.}
+    organizer: {Ah, the last of the alpha group has arrived!  We're all here, now we may begin.  Our project here is telepresence, projecting your body into places using a machine as a proxy.}
 
-{Repeated attempts to achieve the separation seemed not to work and I had disrupted the curtain.  When I did, I noticed it was a large bathtub where people were relaxing, many of them attractive nude women.}
+    me: <becoming lucid> {Yes... yes... well, that would kind of sum it up pretty well.  Given that I am not here, I'm sleeping.  This isn't my body, it must be something else.}
 
-[me: {I apologize, I can't seem to close this off.}]
+    organizer: {Of course, none of us are *actually* here.  This body is a proxy as well, just like yours.  See?}
 
-[nude-woman: {Why are you so dead-set on doing so?  Why don't you get in here and join us?}]
+]
 
-{Weary and lured by her attractiveness, I decided it was probably the best idea.  They seemed relaxed and might give some answers anyway.  The toilet could wait.}
+print {He pulled aside the collar of his shirt, exposing a small chip of some kind embedded into the front of his shoulder.}
 
-{When I climbed in, I noticed that the woman who had beckoned me was sitting in the lap of a guy behind her.  It seemed there was also a child sitting next to them.  Assuming they were some kind of family unit, I wasn't lascivious and made my way into the large tub in my own area without making much contact.}
+dialog [me: {Oh.  Okay.  But, I need you to understand, I'm not doing this *on purpose*.  It's some kind of accident.  If you understand this technology, I need your help.}]
 
-[me: {All right.  I had to climb over lots of...weird obstacles to get here, a metal chain barrier, something about 4:00.  So there's some issue here about remote-controllable bodies.  Then I blacked out while discussing that, then I managed to awaken again.  Is there anything you can tell me?}]
+print << [
 
-{A girl was seemingly sitting on top of a shower curtain rod that was separating the bathtub from the rest of the bathroom.}
+    {I pulled my shirt aside as he had done.  There was a chip in the same position, but mine was larger and a lot weirder.  There were also several other things that flew out, one had a square looked half black and half white.  It was akin to the "flag" of the AI in the Matrix, or the cover of U2's "No Line on the Horizon" CD.}
 
-[curtain-rod-girl: {I can tell you I weigh less than 135 lbs.  So being up here is perfectly safe, don't let them tell you any different.}]
+    "He looked over it and became puzzled."
 
-{The water was warm, I was comfortable, but somehow I slipped out and awoke.}
+]
 
-[note {I actually did need to use the bathroom, however.}]
+dialog [organizer: <concerned> {I'm sorry... I... I don't know what any of this is.  Who are you, again?}]
+
+print << [
+
+    {The chips flew around and I tried to take a longer look at the thing embedded into my shoulder, when I felt that I awoke.  I don't know if I did, but I quickly re-immersed into the same building.  However, I was in a bed there, in a seeming pile of blankets.  I was naked but there were some shorts that I could put on.}
+
+    {I really needed to use the bathroom.  I went looking around the design center and found one, it also had a shower in it.  The bathroom was a first chamber and then the shower was a second, so that you could use the toilet in a separate area from where whoever was showering.  Someone was using the shower area with the door open but I tried to close it off to use the toilet.}
+
+    {Repeated attempts to achieve the separation seemed not to work and I had disrupted the curtain.  When I did, I noticed it was a large bathtub where people were relaxing, many of them attractive nude women.}
+
+]
+
+dialog [
+
+    me: "I apologize, I can't seem to close this off."
+
+    nude-woman: {Why are you so dead-set on doing so?  Why don't you get in here and join us?}
+
+]
+
+print << [
+
+    {Weary and lured by her attractiveness, I decided it was probably the best idea.  They seemed relaxed and might give some answers anyway.  The toilet could wait.}
+
+    {When I climbed in, I noticed that the woman who had beckoned me was sitting in the lap of a guy behind her.  It seemed there was also a child sitting next to them.  Assuming they were some kind of family unit, I wasn't lascivious and made my way into the large tub in my own area without making much contact.}
+
+]
+
+dialog [me: {All right.  I had to climb over lots of...weird obstacles to get here, a metal chain barrier, something about 4:00.  So there's some issue here about remote-controllable bodies.  Then I blacked out while discussing that, then I managed to awaken again.  Is there anything you can tell me?}]
+
+print {A girl was seemingly sitting on top of a shower curtain rod that was separating the bathtub from the rest of the bathroom.}
+
+dialog [curtain-rod-girl: {I can tell you I weigh less than 135 lbs.  So being up here is perfectly safe, don't let them tell you any different.}]
+
+print {The water was warm, I was comfortable, but somehow I slipped out and awoke.}
+
+note "I actually did need to use the bathroom, however."

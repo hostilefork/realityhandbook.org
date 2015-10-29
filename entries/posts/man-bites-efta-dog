@@ -5,58 +5,78 @@ Draem [
     tags: [lucid-dream neutral funny dogs]
 ]
 
-{I was at a house where a party seemed to be going on.  The sense I got was that I lived there, and that the party was happening without me being told about it.  Rather than worrying about it, I just went to my room.}
+print << [
 
-{In the room I wound up talking with a female friend.}
+    {I was at a house where a party seemed to be going on.  The sense I got was that I lived there, and that the party was happening without me being told about it.  Rather than worrying about it, I just went to my room.}
 
-[friend: "I think I'm going to go to the horse store."]
+    {In the room I wound up talking with a female friend.}
 
-{I heard her say "horse store" but it occurred to me it would be funny to say something about it sounding like "whore store".  However, I decided not to say anything.}
+]
 
-{Some people came and went, and eventually she came over and sat on the bed.}
+dialog [friend: "I think I'm going to go to the horse store."]
 
-[friend: "What you're doing...is probably illegal."]
+print << [
 
-[me: "What is that?"]
+    {I heard her say "horse store" but it occurred to me it would be funny to say something about it sounding like "whore store".  However, I decided not to say anything.}
 
-[friend: "The whole drinking yourself to death idea.  I think it's going to turn out to cause more trouble for you than you think."]
+    {Some people came and went, and eventually she came over and sat on the bed.}
 
-[me: <frustrated> "Given everything I've been through, and all I've tried, if the 'law' is seeking to punish me with some kind of afterlife based on arbitrary rules...I don't care anything about those rules.  What are they going to say about you picking up whores at the whore store, eh?"]
+]
 
-[friend: <confused> "Picking up whores...wha?  Ohhhh...haha, horse store, I get it.  You're a funny one."]
+dialog [
 
-{She got into the bed with me and we snuggled for a minute, but then I became on alert about some kind of computer invasion.  Somehow I could watch the screen and see whatever the person logging into my system was trying to do.  I read it out loud as we watched.}
+    friend: "What you're doing...is probably illegal."
 
-[me: "Okay, there are writes on the system.  But he's not writing anything, he's running a browsing tool that's doing it."]
+    me: "What is that?"
 
-[friend: "Doing what?"]
+    friend: {The whole drinking yourself to death idea.  I think it's going to turn out to cause more trouble for you than you think.}
 
-[me: "Nothing important, it's not hacking.  It's just that as he's looking to see what various servers are connected from here, the tool that's listing things is also doing some maintenance.  Deleting unused files, things like that.  He probably doesn't even know."]
+    me: <frustrated> {Given everything I've been through, and all I've tried, if the 'law' is seeking to punish me with some kind of afterlife based on arbitrary rules...I don't care anything about those rules.  What are they going to say about you picking up whores at the whore store, eh?}
 
-{It was stressful and I could somehow perceive the attacker as being like some kind of dog that was biting onto me and pulling.  I couldn't make it stop, so I decided to bite the dog myself on the back...hard.  The dog let go and the terminal connection detached, and it seemed to change into a young-looking man in a red college sweatshirt.}
+    friend: <confused> {Picking up whores...wha?  Ohhhh...haha, horse store, I get it.  You're a funny one.}
 
-[note {I believe the sweatshirt said "University of South Carolina".}]
+]
 
-[me: {SO hey!  What's with the invasion here.  What are you looking for?}]
+print {She got into the bed with me and we snuggled for a minute, but then I became on alert about some kind of computer invasion.  Somehow I could watch the screen and see whatever the person logging into my system was trying to do.  I read it out loud as we watched.}
 
-[college-kid: {I wanted to see who you were before talking to you.  If you were someone who was for real, or a member of the DAW Society.}]
+dialog [
 
-[me: {The DAW Society?}]
+    me: {Okay, there are writes on the system.  But he's not writing anything, he's running a browsing tool that's doing it.}
 
-[college-kid: <smirking> {The Don't-Ask-Who Society.}]
+    friend: "Doing what?"
 
-[me: {Well instead of us getting into some kind of fight where you turn into a dog and I have to bite your back, you could just try *asking*.}]
+    me: {Nothing important, it's not hacking.  It's just that as he's looking to see what various servers are connected from here, the tool that's listing things is also doing some maintenance.  Deleting unused files, things like that.  He probably doesn't even know.}
 
-[college-kid: {I prefer to ask questions in my own way.}]
+]
 
-[me: <becoming lucid> {Well I can tell you who I usually am.  But I don't know much about what's going on here.  Who are you?}]
+print {It was stressful and I could somehow perceive the attacker as being like some kind of dog that was biting onto me and pulling.  I couldn't make it stop, so I decided to bite the dog myself on the back...hard.  The dog let go and the terminal connection detached, and it seemed to change into a young-looking man in a red college sweatshirt.}
 
-[college-kid: {I'm Efta.}]
+note {I believe the sweatshirt said "University of South Carolina".}
 
-[note {He did say Efta like it was a name, but it seems to be mostly used as an acronym.  European Free Trade Alliance being one of them.}]
+dialog [
 
-[me: {If you're tech-savvy, then maybe you can help.  I have a very good memory of these encounters, and can write them down.  Any information you can give me could help.}]
+    me: {SO hey!  What's with the invasion here.  What are you looking for?}
 
-{I tried to get him to pay attention to what I was saying, but he seemed more interested in my friend.}
+    college-kid: {I wanted to see who you were before talking to you.  If you were someone who was for real, or a member of the DAW Society.}
 
-[college-kid: <eyeing her> {That's a nice puppet you have, there.}]
+    me: "The DAW Society?"
+
+    college-kid: <smirking> "The Don't-Ask-Who Society."
+
+    me: {Well instead of us getting into some kind of fight where you turn into a dog and I have to bite your back, you could just try *asking*.}
+
+    college-kid: "I prefer to ask questions in my own way."
+
+    me: <becoming lucid> {Well I can tell you who I usually am.  But I don't know much about what's going on here.  Who are you?}
+
+    college-kid: "I'm Efta."
+
+]
+
+note {He did say Efta like it was a name, but it seems to be mostly used as an acronym.  European Free Trade Alliance being one of them.}
+
+dialog [me: {If you're tech-savvy, then maybe you can help.  I have a very good memory of these encounters, and can write them down.  Any information you can give me could help.}]
+
+print {I tried to get him to pay attention to what I was saying, but he seemed more interested in my friend.}
+
+dialog [college-kid: <eyeing her> "That's a nice puppet you have, there."]

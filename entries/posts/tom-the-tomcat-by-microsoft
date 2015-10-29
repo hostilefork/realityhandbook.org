@@ -5,106 +5,138 @@ Draem [
     tags: [lucid-dream helpful neutral food technology elevators]
 ]
 
-{I got into an elevator somewhat hesitantly; on the verge of realizing I was dreaming.  When I got in, there was a friendly-seeming Indian or Asian looking guy.  The elevator went down one floor to the ground floor, and we got out.}
+print << [
 
-{Becoming lucid and knowing that I was dreaming, I decided to approach some girls.}
+    {I got into an elevator somewhat hesitantly; on the verge of realizing I was dreaming.  When I got in, there was a friendly-seeming Indian or Asian looking guy.  The elevator went down one floor to the ground floor, and we got out.}
 
-[me: <lasciviously> "Hello ladies..."]
+    {Becoming lucid and knowing that I was dreaming, I decided to approach some girls.}
 
-[note {I still am concerned about the "dreaming code of conduct" as I have come to believe that in many cases these are interactions with some kind of sentient force.  But not knowing what kind of sentient force it is, I try to express my preferences.}]
+]
 
-{I accosted a cute girl, who seemed to resist a bit but did not run.}
+dialog [me: <lasciviously> "Hello ladies..."]
 
-[me: "Hi.  Can I buy you a....whatever it is...they sell here?"]
+note {I still am concerned about the "dreaming code of conduct" as I have come to believe that in many cases these are interactions with some kind of sentient force.  But not knowing what kind of sentient force it is, I try to express my preferences.}
 
-{It had caught my attention that there were some sorts of shops or concession stands, and a large banquet room.  The girl seemed uncomfortable.}
+print {I accosted a cute girl, who seemed to resist a bit but did not run.}
 
-[me: "I'm not trying to make you uncomfortable.  If I can explain, I am currently what I would call 'asleep'.  Do you know what this would mean?"]
+dialog [me: {Hi.  Can I buy you a....whatever it is...they sell here?}]
 
-{She looked me in the eyes intently and seemed to sort of transform a little bit into seeming more animal like.  She was kind of sniffing at my face.}
+print {It had caught my attention that there were some sorts of shops or concession stands, and a large banquet room.  The girl seemed uncomfortable.}
 
-{Because she was kind of wavering a bit out of coherence, I decided to try something else.  The banquet room was a bit of an anarchy; and one guy seemed to have a tremendous amount of food piled up on several trays in front of him.  People were commenting on how much he could eat.}
+dialog [me: {I'm not trying to make you uncomfortable.  If I can explain, I am currently what I would call 'asleep'.  Do you know what this would mean?}]
 
-{I went to examine what was available at the buffet.  There was kind of a risotto and turkey thing, some potatoes.  In my curiosity about dream food, I tried to put some on my plate but was uncoordinated in doing so.  Someone pointed out that I had dropped some potato so I apologized and picked it up.}
+print << [
 
-{The risotto did not taste good; it was very bitter.  The turkey (or whatever meat it was) somewhat better.  But I found a drink station where I managed to find a 12-oz can of beer, which I thought I might try slamming to see what the effect was.  It almost woke me up...but I managed to regain a fix and afterwards it seemed to have stabilized me in the room.}
+    {She looked me in the eyes intently and seemed to sort of transform a little bit into seeming more animal like.  She was kind of sniffing at my face.}
 
-{But it seemed the banquet either moved at some great speed or I'd arrived right at the end, because they started closing and cleaning everything and said they would only leave the dessert station open for a few more minutes.  I didn't eat anything from the dessert station, but I examined it...and they had long dry tube-shaped cookies with a spiral on them...in several different varied metal cans, that I interpreted as flavor alternatives like strawberry cream.}
+    {Because she was kind of wavering a bit out of coherence, I decided to try something else.  The banquet room was a bit of an anarchy; and one guy seemed to have a tremendous amount of food piled up on several trays in front of him.  People were commenting on how much he could eat.}
 
-[note {I was going to call these "pralines" when writing it up, but then I realize that is the wrong name for them.  Looking up "tube shaped cookie" I found them as *"Pirouline"*.  Not only do they indeed come in metal cans--but they exist in alternate flavors.  I thought they must have been some kind of strawberry variant because the can was red and white...but looking now I see that the red and white cans contain "chocolate hazelnut".}]
+    {I went to examine what was available at the buffet.  There was kind of a risotto and turkey thing, some potatoes.  In my curiosity about dream food, I tried to put some on my plate but was uncoordinated in doing so.  Someone pointed out that I had dropped some potato so I apologized and picked it up.}
 
-{An Indian-looking woman sighed looking at the cans with the tube cookies.}
+    {The risotto did not taste good; it was very bitter.  The turkey (or whatever meat it was) somewhat better.  But I found a drink station where I managed to find a 12-oz can of beer, which I thought I might try slamming to see what the effect was.  It almost woke me up...but I managed to regain a fix and afterwards it seemed to have stabilized me in the room.}
 
-[woman: {Every time we bring these out, the kids from the family think they can take the cans off with them when they go.  They're only supposed to take some to eat now, not the entire can!}]
+    {But it seemed the banquet either moved at some great speed or I'd arrived right at the end, because they started closing and cleaning everything and said they would only leave the dessert station open for a few more minutes.  I didn't eat anything from the dessert station, but I examined it...and they had long dry tube-shaped cookies with a spiral on them...in several different varied metal cans, that I interpreted as flavor alternatives like strawberry cream.}
 
-{At this point I noticed that people were gathering and there was a stage, as if people were going to sing karaoke.  The song "Enjoy the Silence" started playing and I decided I wanted to get up and sing it.}
+]
 
-{When I got on stage, it seemed there were a bunch of instruments around like player pianos that were playing notes by themselves; as if they were being powered by my suggestion.  An attractive girl with a microphone got on stage and wanted to sing and dance with me.  When we got to the part of the song where they say *"All I ever wanted, all I ever needed, is here... in my arms"* she did a sort of dip.  But I became interested in communicating with the audience.}
+note {I was going to call these "pralines" when writing it up, but then I realize that is the wrong name for them.  Looking up "tube shaped cookie" I found them as *"Pirouline"*.  Not only do they indeed come in metal cans--but they exist in alternate flavors.  I thought they must have been some kind of strawberry variant because the can was red and white...but looking now I see that the red and white cans contain "chocolate hazelnut".}
 
-[me: "Hello!  I do not know where I am or who you are!  But that is a song by a band called Depeche Mode, where I am from--they are a band I like.  Had you heard it before?"]
+print {An Indian-looking woman sighed looking at the cans with the tube cookies.}
 
-{The audience that had gathered around the stage just sort of looked at each other and murmured a general "Nope."}
+dialog [woman: {Every time we bring these out, the kids from the family think they can take the cans off with them when they go.  They're only supposed to take some to eat now, not the entire can!}]
 
-[me: "Well... despite not knowing what's going on, I can give you some other tunes.  Oh jeez, what's something in my memory..."]
+print << [
 
-{Suddenly the instruments and my mind seemed to kind of get together and play the synth-line opening from Corey Hart's *"Sunglasses at Night"*.}
+    {At this point I noticed that people were gathering and there was a stage, as if people were going to sing karaoke.  The song "Enjoy the Silence" started playing and I decided I wanted to get up and sing it.}
 
-[me: {Oh, Corey Hart...Sunglasses at Night.  Well that's an odd choice I guess, but it was popular briefly.  Let's do it!  Wait, no I actually don't know if I have the words to that down completely even when I'm awake.  Is it "Don't masquerade with the guy in shades" or "Don't switch the blade on the guy in shades" or what?  Let's do something I know a bit better.}]
+    {When I got on stage, it seemed there were a bunch of instruments around like player pianos that were playing notes by themselves; as if they were being powered by my suggestion.  An attractive girl with a microphone got on stage and wanted to sing and dance with me.  When we got to the part of the song where they say *"All I ever wanted, all I ever needed, is here... in my arms"* she did a sort of dip.  But I became interested in communicating with the audience.}
 
-{The music shifted to "A-Ha: Analogue".}
+]
 
-[me: "A-Ha!  That's more recent, I listen to that even now.  Let's try this one...I might remember the words."]
+dialog [me: {Hello!  I do not know where I am or who you are!  But that is a song by a band called Depeche Mode, where I am from--they are a band I like.  Had you heard it before?}]
 
-{I began with the piano lead but then after repeating it a couple times realized that the song actually opens with guitar, and then brings in the piano lead.  The mistake was something I could recover from, and I sang a bit of Analogue: *"All I want you to know...I love you.  All I need is the time...to show you."*}
+print {The audience that had gathered around the stage just sort of looked at each other and murmured a general "Nope."}
 
-{Without finishing the entire song, I stepped off stage.  A boy and someone who seemed like would be his father came to talk to me.}
+dialog [me: {Well... despite not knowing what's going on, I can give you some other tunes.  Oh jeez, what's something in my memory...}]
 
-[me: "So was all that new to you?  The music?"]
+print {Suddenly the instruments and my mind seemed to kind of get together and play the synth-line opening from Corey Hart's *"Sunglasses at Night"*.}
 
-[father: "We've never heard that, no."]
+dialog [me: {Oh, Corey Hart...Sunglasses at Night.  Well that's an odd choice I guess, but it was popular briefly.  Let's do it!  Wait, no I actually don't know if I have the words to that down completely even when I'm awake.  Is it "Don't masquerade with the guy in shades" or "Don't switch the blade on the guy in shades" or what?  Let's do something I know a bit better.}]
 
-[me: "As I mentioned before, I don't know where I am.  But with your help--maybe I could map it out?  And we could exchange gifts.  Informational gifts we've just seen are possible; you might not like the music, but I know more things.  And maybe we could exchange even more--do you know what planet you are on?"]
+print {The music shifted to "A-Ha: Analogue".}
 
-[father: <confused> "What is a planet?  Where we are is *here*."]
+dialog [me: {A-Ha!  That's more recent, I listen to that even now.  Let's try this one...I might remember the words.}]
 
-[me: {Okay...planet.  Well it seems we're inside some kind of a building now.  It has an elevator and a stage and a banquet hall.  Is everything here "inside"?  Is there an outside?  Do you have a sky?  Have you ever seen the stars?}]
+print << [
 
-{The man seemed confused, but the boy pointed to a sort of projection TV and began bringing up pictures of galaxies and stars on it.}
+    {I began with the piano lead but then after repeating it a couple times realized that the song actually opens with guitar, and then brings in the piano lead.  The mistake was something I could recover from, and I sang a bit of Analogue: *"All I want you to know...I love you.  All I need is the time...to show you."*}
 
-[boy: <to father> "You know how we can project this animation on the ceiling?  He is talking about if you did it but it wasn't a projection.  Instead of reaching up to the picture but touching the ceiling, your hand would just keep reaching.  So the projection would not be a picture of the thing, but a thing in itself.  And it might be very far away before the reaching would stop."]
+    {Without finishing the entire song, I stepped off stage.  A boy and someone who seemed like would be his father came to talk to me.}
 
-[father: <nodding> "Oh, I understand.  He is talking about those movies where people go in the rockets."]
+]
 
-[me: "Well it's not a movie to us.  There is a real sky in the sense it keeps going.  Each of those stars represents some other sun that can have people who might live near it.  We know this theoretically, but the lifespan in terms of how long we live is only a hundred years or so.  Without better technology we have no way to travel there before we die."]
+dialog [
 
-[father: "I can see you might not be able to make it as an individual.  But it shouldn't be about the individual.  A whole society could cooperate, and over time build waystations and then eventually get anywhere you want."]
+    me: "So was all that new to you?  The music?"
 
-[me: "Our planet doesn't have that kind of collective thinking, usually.  People want to themselves go, they want a quicker solution.  Even if things were different it really is way too long without more technology; stars are very far apart.  That's one reason why we make machines and try to extend life."]
+    father: "We've never heard that, no."
 
-[father: "You would like me to show you some technology?"]
+    me: {As I mentioned before, I don't know where I am.  But with your help--maybe I could map it out?  And we could exchange gifts.  Informational gifts we've just seen are possible; you might not like the music, but I know more things.  And maybe we could exchange even more--do you know what planet you are on?}
 
-[me: <excitedly> "Yes!"]
+    father: <confused> "What is a planet?  Where we are is *here*."
 
-{He walked me along in an area that seemed to be kind of like an old back room, with plywood walls that had been painted black.  He opened a door that led to a garage or storage area.  In it, there was a sort of sit-down arcade machine.  Emblazenend on it was that it was a game called *"Tom the Tomcat"*.  It was marked with being made by Microsoft.}
+    me: {Okay...planet.  Well it seems we're inside some kind of a building now.  It has an elevator and a stage and a banquet hall.  Is everything here "inside"?  Is there an outside?  Do you have a sky?  Have you ever seen the stars?}
 
-[me: "Is there a company here that people work for?  Called Microsoft?  Do you know what that is?"]
+]
 
-[father: <disapprovingly> "No.  But if I ever could find that company I would blow it up."]
+print {The man seemed confused, but the boy pointed to a sort of projection TV and began bringing up pictures of galaxies and stars on it.}
 
-[me: "Well in my universe, I worked for a company called that for some years.  I'm not sure what it means in this context.  I've never heard of this Tom the Tomcat.  What is the game about?"]
+dialog [
 
-[father: "What's interesting isn't the game.  Watch."]
+    boy: <to father> {You know how we can project this animation on the ceiling?  He is talking about if you did it but it wasn't a projection.  Instead of reaching up to the picture but touching the ceiling, your hand would just keep reaching.  So the projection would not be a picture of the thing, but a thing in itself.  And it might be very far away before the reaching would stop.}
 
-{I watched as he maneuvered through several situations with Tom the Tomcat (who looked a bit like a yellower version of orange Cheetos mascot "Chester the Cheetah").  He was loading saved games and moving around to various places, eventually breaking into some console modes that broke through to dialup connections.  It seemed he had to go through a number of these until he managed to get to an SFTP client.}
+    father: <nodding> {Oh, I understand.  He is talking about those movies where people go in the rockets.}
 
-[note {SFTP stands for "Secure File Transfer Protocol", it was the Transport-Level-Security based successor to FTP.}]
+    me: {Well it's not a movie to us.  There is a real sky in the sense it keeps going.  Each of those stars represents some other sun that can have people who might live near it.  We know this theoretically, but the lifespan in terms of how long we live is only a hundred years or so.  Without better technology we have no way to travel there before we die.}
 
-[me: {Oh.  So the game had some kind of networked aspect, and you've managed to get down into the lower level services.  What do you know about the network you are connected to?}]
+    father: {I can see you might not be able to make it as an individual.  But it shouldn't be about the individual.  A whole society could cooperate, and over time build waystations and then eventually get anywhere you want.}
 
-{It was prompting for an email address, and I tried to describe what I wanted him to enter for one of mine.}
+    me: {Our planet doesn't have that kind of collective thinking, usually.  People want to themselves go, they want a quicker solution.  Even if things were different it really is way too long without more technology; stars are very far apart.  That's one reason why we make machines and try to extend life.}
 
-[father: {You can't format it that way!  When it asks for email address it has to look like *this*.}]
+    father: "You would like me to show you some technology?"
 
-[boy: <to father> {Give him the keyboard.  Let him type what *HE* thinks it is supposed to look like, it may be important.}]
+    me: <excitedly> "Yes!"
 
-{I struggled and managed to enter my email address.  But, indeed, as the father suspected it wouldn't accept what I believed to be a correctly formatted version of `name@domain.com`.  The efforts awoke me.}
+]
+
+print {He walked me along in an area that seemed to be kind of like an old back room, with plywood walls that had been painted black.  He opened a door that led to a garage or storage area.  In it, there was a sort of sit-down arcade machine.  Emblazenend on it was that it was a game called *"Tom the Tomcat"*.  It was marked with being made by Microsoft.}
+
+dialog [
+
+    me: {Is there a company here that people work for?  Called Microsoft?  Do you know what that is?}
+
+    father: <disapprovingly> {No.  But if I ever could find that company I would blow it up.}
+
+    me: {Well in my universe, I worked for a company called that for some years.  I'm not sure what it means in this context.  I've never heard of this Tom the Tomcat.  What is the game about?}
+
+    father: "What's interesting isn't the game.  Watch."
+
+]
+
+print {I watched as he maneuvered through several situations with Tom the Tomcat (who looked a bit like a yellower version of orange Cheetos mascot "Chester the Cheetah").  He was loading saved games and moving around to various places, eventually breaking into some console modes that broke through to dialup connections.  It seemed he had to go through a number of these until he managed to get to an SFTP client.}
+
+note {SFTP stands for "Secure File Transfer Protocol", it was the Transport-Level-Security based successor to FTP.}
+
+dialog [me: {Oh.  So the game had some kind of networked aspect, and you've managed to get down into the lower level services.  What do you know about the network you are connected to?}]
+
+print {It was prompting for an email address, and I tried to describe what I wanted him to enter for one of mine.}
+
+dialog [
+
+    father: {You can't format it that way!  When it asks for email address it has to look like *this*.}
+
+    boy: <to father> {Give him the keyboard.  Let him type what *HE* thinks it is supposed to look like, it may be important.}
+
+]
+
+print {I struggled and managed to enter my email address.  But, indeed, as the father suspected it wouldn't accept what I believed to be a correctly formatted version of `name@domain.com`.  The efforts awoke me.}

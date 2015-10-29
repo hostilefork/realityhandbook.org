@@ -5,96 +5,128 @@ Draem [
     tags: [lucid-dream neutral funny food god]
 ]
 
-{I arrived at a Subway store by myself.  There was light inside and it was midday.  A sign on the glass door said "Closed", but I pushed it open to peer in.  When I did, I noticed that cleaning buckets and other things seemed to have been used to fence off the counter.  No one was at the counter, but the door to a back room with stainless steel cleaning equipment/etc. was ajar and visible.}
+print {I arrived at a Subway store by myself.  There was light inside and it was midday.  A sign on the glass door said "Closed", but I pushed it open to peer in.  When I did, I noticed that cleaning buckets and other things seemed to have been used to fence off the counter.  No one was at the counter, but the door to a back room with stainless steel cleaning equipment/etc. was ajar and visible.}
 
-[me: <calling to back room> {Hello?  Anyone here?}]
+dialog [me: <calling to back room> "Hello?  Anyone here?"]
 
-{A seemingly too-young-to-be-working-at-Suway kid nervously poked his head out and looked at me.}
+print {A seemingly too-young-to-be-working-at-Suway kid nervously poked his head out and looked at me.}
 
-[young-kid: <nervously> {The seating area is... um, closed... for cleaning.}]
+dialog [young-kid: <nervously> "The seating area is... um, closed... for cleaning."]
 
-{I got the impression that he was doing some personal business instead of working and was making an excuse.  For some reason, I decided to push past the excuse rather than get more suspicious of the whole situation.}
+print {I got the impression that he was doing some personal business instead of working and was making an excuse.  For some reason, I decided to push past the excuse rather than get more suspicious of the whole situation.}
 
-[me: {Well I don't need to be in the seating area, it's just a take-out order.}]
+dialog [
 
-[young-kid: <getting behind the counter> {Okay, what kind of bread would you like?}]
+    me: {Well I don't need to be in the seating area, it's just a take-out order.}
 
-[me: {The parmesan kind.  And do you have the...vegetarian patties?  That are kind of like garden burgers?  Not every store has those.}]
+    young-kid: <getting behind the counter> "Okay, what kind of bread would you like?"
 
-[note {It does bug me that not every Subway has those.  In Texas I guess there aren't that many vegetarian orders, and even among vegetarians they're not super popular...they have things like water chestnuts in them.  But I can be in the mood for them.}]
+    me: {The parmesan kind.  And do you have the...vegetarian patties?  That are kind of like garden burgers?  Not every store has those.}
 
-[young-kid: {We have them.}]
+]
 
-{He retrieved a stack of rectangular patties that were individually wrapped in wax paper, and put two of them on the bread.  But when I looked at the bread he had laid out, it was four slices of raisin bread.  I began to get the impression that the kid was developmentally disabled, so I didn't say anything...figuring I could just eat the patties and raisin bread separately and mention it to the manager later.}
+note {It does bug me that not every Subway has those.  In Texas I guess there aren't that many vegetarian orders, and even among vegetarians they're not super popular...they have things like water chestnuts in them.  But I can be in the mood for them.}
 
-[note {This reminds me of a story from college, where a new foreign employee at the grill in the dining hall took my roommate's order for a "corn dog".  She fulfilled this by pulling a frozen corn dog out of the grill freezer, and putting it into an untoasted hot dog bun--still in the wrapper.  When he arrived back at the table with this, he shook his head at it.  We asked him why he didn't say anything.  His response was: "I wouldn't have known where to start."}]
+dialog [young-kid: "We have them."]
 
-{There were several oddly colored cubes stacked on the subway counter, that I've never seen before.  They seemed to be a kind of gel with pink and other colors encased into a plastic wrapper.  He noticed I was looking at them.}
+print {He retrieved a stack of rectangular patties that were individually wrapped in wax paper, and put two of them on the bread.  But when I looked at the bread he had laid out, it was four slices of raisin bread.  I began to get the impression that the kid was developmentally disabled, so I didn't say anything...figuring I could just eat the patties and raisin bread separately and mention it to the manager later.}
 
-[young-kid: {Do you want some of that Zap with your order?}]
+note {This reminds me of a story from college, where a new foreign employee at the grill in the dining hall took my roommate's order for a "corn dog".  She fulfilled this by pulling a frozen corn dog out of the grill freezer, and putting it into an untoasted hot dog bun--still in the wrapper.  When he arrived back at the table with this, he shook his head at it.  We asked him why he didn't say anything.  His response was: "I wouldn't have known where to start."}
 
-[me: {Hm, that looks interesting, I'll take one to know what it is.}]
+print {There were several oddly colored cubes stacked on the subway counter, that I've never seen before.  They seemed to be a kind of gel with pink and other colors encased into a plastic wrapper.  He noticed I was looking at them.}
 
-{In response the kid took a cube and crushed the plastic so a yogurt-like substance went onto the veggie patties and the raisin bread.  I decided I'd just take it and go.  On the way out I ran into someone who I thought was the owner of this franchise, and believed to be someone I knew and liked (for some reason).  This sense of previous knowledge may inform why I reacted how I did.}
+dialog [
 
-[me: {So, I'm not really sure what's going on here...}]
+    young-kid: "Do you want some of that Zap with your order?"
 
-{I explained the situation, what I had ordered and gotten instead.  The conversation did get to a point where it was about the fact that the kid had been in an accident or something, and there was a reason behind it.  It seemed that the Subway had gone from being deserted to being crowded as it was opened.  There was even what seemed to be a waiting area that materialized by the entrance with wooden high-back benches, with people seating there.  A woman seated with a man addressed me.}
+    me: {Hm, that looks interesting, I'll take one to know what it is.}
 
-[woman: {You are always open... looking for reasons to understand the behavior of someone as possibly being an accident; allowing that you may not have all the information at hand.  Having that disposition is the only way to correct misunderstandings, or operate kindly to those who are weak.  And that is something we've always liked about you.}]
+]
 
-[me: <confused> {Um... thanks, but do I know you?}]
+print {In response the kid took a cube and crushed the plastic so a yogurt-like substance went onto the veggie patties and the raisin bread.  I decided I'd just take it and go.  On the way out I ran into someone who I thought was the owner of this franchise, and believed to be someone I knew and liked (for some reason).  This sense of previous knowledge may inform why I reacted how I did.}
 
-[woman: <smiling> {*We* know you.  And we might take a little nap in you.}]
+dialog [me: "So, I'm not really sure what's going on here..."]
 
-{At this point I realized that she and the person seated next to her were morphing and doing odd things, their heads flattening and turning into animal heads.  The oddity tripped me into lucidity.  We got up and walked out of the store together.}
+print {I explained the situation, what I had ordered and gotten instead.  The conversation did get to a point where it was about the fact that the kid had been in an accident or something, and there was a reason behind it.  It seemed that the Subway had gone from being deserted to being crowded as it was opened.  There was even what seemed to be a waiting area that materialized by the entrance with wooden high-back benches, with people seating there.  A woman seated with a man addressed me.}
 
-[me: {All right, then.  Who do you think I am?}]
+dialog [
 
-[woman: {Maybe more interesting is who *you* think you are.}]
+    woman: {You are always open... looking for reasons to understand the behavior of someone as possibly being an accident; allowing that you may not have all the information at hand.  Having that disposition is the only way to correct misunderstandings, or operate kindly to those who are weak.  And that is something we've always liked about you.}
 
-[me: {By day I'm a human being, living on Earth... (etc.)}]
+    me: <confused> "Um... thanks, but do I know you?"
 
-[man: <shaking his head> {Nope.  Wrong!}]
+    woman: <smiling> {*We* know you.  And we might take a little nap in you.}
 
-[me: {I allow for it being an aspect of something else, and events seem to prove it.  But that something else is never explained solidly.}]
+]
 
-{We were seemingly moving at a swifter pace along a road that was ending into some kind of amphitheater, structured a bit like a large outdoor racetrack.  It had short fencing set up and signs for various kinds of corporate sponsorship, or other notices posted as you went along.  The crowd was jostly and I tried not let them wake me up.}
+print {At this point I realized that she and the person seated next to her were morphing and doing odd things, their heads flattening and turning into animal heads.  The oddity tripped me into lucidity.  We got up and walked out of the store together.}
 
-{The man pointed excitedly up to the sky.}
+dialog [
 
-[man: {Look!  I think God's going to speak!}]
+    me: "All right, then.  Who do you think I am?"
 
-{The sky was large, purple and black, with fractal patterns that looked a bit like black birds at times but would group and make larger patterns.  As he pointed the fractals morphed and moved a bit, like they were going to form a face.  I expected to see a face and maybe hear some kind of voice, but that never happened.}
+    woman: "Maybe more interesting is who *you* think you are."
 
-[me: {Well...even if a face materialized and spoke from the sky, I'd avoid jumping directly to the conclusion that it was "God" vs. someone "playing God".}]
+    me: {By day I'm a human being, living on Earth... (etc.)}
 
-{We seated to watch the sky.  I felt a tug or attack at my back and tried to get it to go away, writhing to figure out what it was I saw a girl in a purple catsuit outfit had attacked me with a long grappling arm with a claw on the end.}
+    man: <shaking his head> "Nope.  Wrong!"
 
-[girl: <running away> {I'm robo-grapple girl!  Fear my claw!}]
+    me: {I allow for it being an aspect of something else, and events seem to prove it.  But that something else is never explained solidly.}
 
-[woman: {Why'd you make her go away?  She liked you.}]
+]
 
-[me: {Well I had no way of knowing what that attack was first of all, and secondly I've never really been into the catsuit thing actually.}]
+print << [
 
-{But given that the sky wasn't talking, I got up and walked after her to see where the other people who weren't sitting were going.  It seemed everyone was in some kind of costume, many Super-hero-like.}
+    {We were seemingly moving at a swifter pace along a road that was ending into some kind of amphitheater, structured a bit like a large outdoor racetrack.  It had short fencing set up and signs for various kinds of corporate sponsorship, or other notices posted as you went along.  The crowd was jostly and I tried not let them wake me up.}
 
-{I found a guy standing in the center of a cement pad who addressed me.}
+    "The man pointed excitedly up to the sky."
 
-[cement-guy: {Hey, I heard you were in the market for a doomer.  What you want a weapon like *that* for?}]
+]
 
-[me: {It seems--lately--that I could probably use all the weapons I could get.}]
+dialog [man: "Look!  I think God's going to speak!"]
 
-[cement-guy: {Don't buy one without talking to me first.}]
+print {The sky was large, purple and black, with fractal patterns that looked a bit like black birds at times but would group and make larger patterns.  As he pointed the fractals morphed and moved a bit, like they were going to form a face.  I expected to see a face and maybe hear some kind of voice, but that never happened.}
 
-{A small child (or masked being that was small) approached me, holding up some pieces of paper and art.  I looked at him puzzled.}
+dialog [me: {Well...even if a face materialized and spoke from the sky, I'd avoid jumping directly to the conclusion that it was "God" vs. someone "playing God".}]
 
-[cement-guy: {He wants your autograph.}]
+print {We seated to watch the sky.  I felt a tug or attack at my back and tried to get it to go away, writhing to figure out what it was I saw a girl in a purple catsuit outfit had attacked me with a long grappling arm with a claw on the end.}
 
-{I looked over the pieces of art, some of which were kind of interesting.  There was a blank gray page as well that seemed to have a malleable surface.}
+dialog [
 
-[me: {Well, I don't have any dream-pens.  And I don't want to mess up your nice art.  So I'll just scratch on this one.}]
+    girl: <running away> "I'm robo-grapple girl!  Fear my claw!"
 
-{Using my fingernail I scratched out a ligatured "ae".}
+    woman: "Why'd you make her go away?  She liked you."
 
-[cement-guy: <looking at it> {Oh, a lowercase a and e stuck together.  I get it.  That's cool.}]
+    me: {Well I had no way of knowing what that attack was first of all, and secondly I've never really been into the catsuit thing actually.}
+
+]
+
+print << [
+
+    {But given that the sky wasn't talking, I got up and walked after her to see where the other people who weren't sitting were going.  It seemed everyone was in some kind of costume, many Super-hero-like.}
+
+    {I found a guy standing in the center of a cement pad who addressed me.}
+
+]
+
+dialog [
+
+    cement-guy: {Hey, I heard you were in the market for a doomer.  What you want a weapon like *that* for?}
+
+    me: {It seems--lately--that I could probably use all the weapons I could get.}
+
+    cement-guy: "Don't buy one without talking to me first."
+
+]
+
+print {A small child (or masked being that was small) approached me, holding up some pieces of paper and art.  I looked at him puzzled.}
+
+dialog [cement-guy: "He wants your autograph."]
+
+print {I looked over the pieces of art, some of which were kind of interesting.  There was a blank gray page as well that seemed to have a malleable surface.}
+
+dialog [me: {Well, I don't have any dream-pens.  And I don't want to mess up your nice art.  So I'll just scratch on this one.}]
+
+print {Using my fingernail I scratched out a ligatured "ae".}
+
+dialog [cement-guy: <looking at it> {Oh, a lowercase a and e stuck together.  I get it.  That's cool.}]

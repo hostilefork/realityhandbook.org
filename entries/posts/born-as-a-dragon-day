@@ -5,54 +5,80 @@ Draem [
     tags: [lucid-dream neutral technology]
 ]
 
-{Some events led me up to agreeing to take a part-time job of some kind doing software development.  I had spoken to someone who knew me and was glad I was looking to help, so they were setting up a workstation for me.  The computers were lined up in rows on long tables... it resembled something like a school cafeteria.}
+print << [
 
-{On my way to the workstation I walked by an open door to a sort of conference room, and inside saw someone I thought I recognized.  My belief was that he was the head of the organization and we had spoken before.  He saw me and I noticed he had some kind of bandage on his forehead.  I asked him what happened and he went into a story about that.}
+    {Some events led me up to agreeing to take a part-time job of some kind doing software development.  I had spoken to someone who knew me and was glad I was looking to help, so they were setting up a workstation for me.  The computers were lined up in rows on long tables... it resembled something like a school cafeteria.}
 
-[me: {Oh, yeah eye injuries are bad.  I had stepped on some sliver of glass which got embedded into my big toe, and it hurt.  I kept trying to get it out but couldn't.  Then I was squeezing at it to try and get the shard out, and I was looking very close... but when it came out it popped up and hit me in the eyeball.  Hurt a lot, took a while to heal.}]
+    {On my way to the workstation I walked by an open door to a sort of conference room, and inside saw someone I thought I recognized.  My belief was that he was the head of the organization and we had spoken before.  He saw me and I noticed he had some kind of bandage on his forehead.  I asked him what happened and he went into a story about that.}
 
-[note {I felt like I was relating a story about an actual annoying shard of glass that I got in my toe and kept thinking was out but then I'd feel it again after all the blood had settled.  It was indeed annoying but when I got it out it didn't shoot into my eye.  So I don't know what that was about.}]
+]
 
-[manager: {Anyway, I didn't know you were looking for work.}]
+dialog [me: {Oh, yeah eye injuries are bad.  I had stepped on some sliver of glass which got embedded into my big toe, and it hurt.  I kept trying to get it out but couldn't.  Then I was squeezing at it to try and get the shard out, and I was looking very close... but when it came out it popped up and hit me in the eyeball.  Hurt a lot, took a while to heal.}]
 
-[me: {Yeah, sorry about not coming to you directly about the job.  I figured you were busy.}]
+note {I felt like I was relating a story about an actual annoying shard of glass that I got in my toe and kept thinking was out but then I'd feel it again after all the blood had settled.  It was indeed annoying but when I got it out it didn't shoot into my eye.  So I don't know what that was about.}
 
-[manager: {Well...let's just keep it month-to-month for the moment.}]
+dialog [
 
-[me: {That's quite fine.}]
+    manager: "Anyway, I didn't know you were looking for work."
 
-{I went on to the wokstation, and sat down to do some programming.  I sort of phased in and out of awareness of what I was working.  I felt a bit of pressure because I was not in a lucid dreaming mindset.  Somehow a bunch of things were happening and it was more that I was spectating instead of doing it, and it seemed the decisions were going well.  I was writing some odd things in the comments, though.}
+    me: {Yeah, sorry about not coming to you directly about the job.  I figured you were busy.}
 
-{However, I noticed people starting to become alarmed and running over and pulling out hard drives from machines, and replacing them.  I was trying to understand which machines they were addressing, and they were taking modern-looking paired external drives out of my machine and replacing them with what looked like older beige ones.}
+    manager: {Well...let's just keep it month-to-month for the moment.}
 
-{Strange things were starting to happen on my screen, and the manager came over and looked at the patterns with resigned concern.}
+    me: "That's quite fine."
 
-[manager: <glumly> {So you guys are putting me under suspicion of murder, now?}]
+]
 
-[me: {No one's accusing anyone yet.  But I just saw the hard drives on this machine get pulled, and we're going to need to assemble data on that.}]
+print << [
 
-[note {I don't know what he or I were talking about in particular, but I did have a sense that something was wrong with what they were doing to the computers; as if they were trying to hide some kind of evidence; and it related to me doing work for them.}]
+    {I went on to the wokstation, and sat down to do some programming.  I sort of phased in and out of awareness of what I was working.  I felt a bit of pressure because I was not in a lucid dreaming mindset.  Somehow a bunch of things were happening and it was more that I was spectating instead of doing it, and it seemed the decisions were going well.  I was writing some odd things in the comments, though.}
 
-{We wandered away from the workstation and I became kind of lucid and looked around at the circumstances.}
+    {However, I noticed people starting to become alarmed and running over and pulling out hard drives from machines, and replacing them.  I was trying to understand which machines they were addressing, and they were taking modern-looking paired external drives out of my machine and replacing them with what looked like older beige ones.}
 
-[me: {Bah.  Layer after layer.  It's almost like it gets worse the more you look.  Right now I'm stuck in a world with all kinds of dinosaur bio stuff.  Like...you get painful diarrhea and have to use the toilet, and then they sell you products to help you go to the toilet, which may or may not work.  And "working" makes you "regular" as if there is some kind of "right" way to encounter a toilet.  It's through the roof madness left and right.  Is anyone going to get me out of there?}]
+    {Strange things were starting to happen on my screen, and the manager came over and looked at the patterns with resigned concern.}
 
-{A half-amused but worried janitor-looking man started morphing the walls around us to block us off from the computer area, in a sort of secret compartment way.  He pointed to how this had reconfigured it so there was an exit to an outside area, that looked a bit like leaving an airport and getting to the parking garage.  There was a pay-your-ticket ATM-style machine embedded into a wall as you left.}
+]
 
-[janitor: {Can't help you on that one, but I can get you out of *here*...and you better run.  Because this place and everyone in it is about to be shot to pieces.}]
+dialog [
 
-{I could see teams of military-dressed people with assault rifles gathering, and so I took his advice and ran.  People were being shot and I ducked my way down a set of stairs that seemed to dead end, where I hid under something and my consciousness disappeared from there.}
+    manager: <glumly> {So you guys are putting me under suspicion of murder, now?}
 
-{The next thing I knew my field of perception was just watching a little Bubble-Bobble dragon style video game character playing a video game.  It was running around and grabbing coins and jumping in a Mario-style environment, which periodically evolved into something a bit more like pinball.}
+    me: {No one's accusing anyone yet.  But I just saw the hard drives on this machine get pulled, and we're going to need to assemble data on that.}
 
-{There was a narration shown on the screen that I read.}
+]
 
-[screen: <written> {We have located one of our Bobs.  We are not certain the exact age yet, but it may be as much as 5,000 years old; held captive and exploited.  In a time of evaluation of the circumstances that permit such horrors...*all* joking and cultural acceptance of small casual cruelties must be confronted and re-evaluated.  We must put our foot down and ban 'Born as a Dragon Day'.}]
+note {I don't know what he or I were talking about in particular, but I did have a sense that something was wrong with what they were doing to the computers; as if they were trying to hide some kind of evidence; and it related to me doing work for them.}
 
-[note
-	{The gist I got was that "Bob" wasn't a person's name but a term being used perhaps for something like a software agent like in "Microsoft Bob" which was supposed to be helpful.  I don't know if that's what it meant, but that's how I interpreted it.  I also interpreted in light of the video game that "Born as a Dragon Day" was a joke of some kind where new AI were spawned in environments and raised and told they were (for instance) a cartoon dragon and lived as if they were.}
+print {We wandered away from the workstation and I became kind of lucid and looked around at the circumstances.}
 
-	{Given that I don't know if I interpreted *that* correctly, I would only have to guess on the tradition or its rules.  But I will point out that the rules are not always easy to thing of.  There are videos of people feeding mice to snakes on YouTube or other things like that, yet there are many death threats to Michael Vick for dog fighting.  So perhaps there is a distinction of "there are some AI it's okay to raise as a dragon for fun and some that are in a class where it's illegal".}
+dialog [me: {Bah.  Layer after layer.  It's almost like it gets worse the more you look.  Right now I'm stuck in a world with all kinds of dinosaur bio stuff.  Like...you get painful diarrhea and have to use the toilet, and then they sell you products to help you go to the toilet, which may or may not work.  And "working" makes you "regular" as if there is some kind of "right" way to encounter a toilet.  It's through the roof madness left and right.  Is anyone going to get me out of there?}]
 
-	{This is all speculation, of course.}
+print {A half-amused but worried janitor-looking man started morphing the walls around us to block us off from the computer area, in a sort of secret compartment way.  He pointed to how this had reconfigured it so there was an exit to an outside area, that looked a bit like leaving an airport and getting to the parking garage.  There was a pay-your-ticket ATM-style machine embedded into a wall as you left.}
+
+dialog [janitor: {Can't help you on that one, but I can get you out of *here*...and you better run.  Because this place and everyone in it is about to be shot to pieces.}]
+
+print << [
+
+    {I could see teams of military-dressed people with assault rifles gathering, and so I took his advice and ran.  People were being shot and I ducked my way down a set of stairs that seemed to dead end, where I hid under something and my consciousness disappeared from there.}
+
+    {The next thing I knew my field of perception was just watching a little Bubble-Bobble dragon style video game character playing a video game.  It was running around and grabbing coins and jumping in a Mario-style environment, which periodically evolved into something a bit more like pinball.}
+
+    {There was a narration shown on the screen that I read.}
+
+]
+
+dialog [screen: <written> {We have located one of our Bobs.  We are not certain the exact age yet, but it may be as much as 5,000 years old; held captive and exploited.  In a time of evaluation of the circumstances that permit such horrors...*all* joking and cultural acceptance of small casual cruelties must be confronted and re-evaluated.  We must put our foot down and ban 'Born as a Dragon Day'.}]
+
+note [
+
+    print << [
+
+        {The gist I got was that "Bob" wasn't a person's name but a term being used perhaps for something like a software agent like in "Microsoft Bob" which was supposed to be helpful.  I don't know if that's what it meant, but that's how I interpreted it.  I also interpreted in light of the video game that "Born as a Dragon Day" was a joke of some kind where new AI were spawned in environments and raised and told they were (for instance) a cartoon dragon and lived as if they were.}
+
+        {Given that I don't know if I interpreted *that* correctly, I would only have to guess on the tradition or its rules.  But I will point out that the rules are not always easy to thing of.  There are videos of people feeding mice to snakes on YouTube or other things like that, yet there are many death threats to Michael Vick for dog fighting.  So perhaps there is a distinction of "there are some AI it's okay to raise as a dragon for fun and some that are in a class where it's illegal".}
+
+        "This is all speculation, of course."
+
+    ]
+
 ]

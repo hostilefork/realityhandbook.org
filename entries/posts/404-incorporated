@@ -6,48 +6,60 @@ Draem [
     old: http://realityhandbook.livejournal.com/135527.html
 ]
 
-{I'd lost some kind of fight, and after the loss had just kind of floating around playing dead. People were watching.}
+print {I'd lost some kind of fight, and after the loss had just kind of floating around playing dead. People were watching.}
 
-[woman: {He can see us, you can tell. I've seen other people on that level do the same thing.}]
+dialog [woman: {He can see us, you can tell. I've seen other people on that level do the same thing.}]
 
-{Annoyed, I landed and got up and followed her into the next room. I smashed a window out with my fist, and it popped easily.}
+print {Annoyed, I landed and got up and followed her into the next room. I smashed a window out with my fist, and it popped easily.}
 
-[woman: <alarmed> "What are you doing?"]
+dialog [
 
-[me: {Does it matter? I mean if all this fighting is just a level in a game, then what's the problem if I knock in a window?}]
+    woman: <alarmed> "What are you doing?"
 
-[woman: {Not in here, just in there! It's a virtual reality, but what it does is mainly remind me how much more important the real world is.}]
+    me: {Does it matter? I mean if all this fighting is just a level in a game, then what's the problem if I knock in a window?}
 
-"She gestured to the room we had been in."
+    woman: {Not in here, just in there! It's a virtual reality, but what it does is mainly remind me how much more important the real world is.}
 
-[me: {All right, so that room is a holodeck? Show me the hardware...where's the console?}]
+]
 
-{She opened a cabinet and gestured at some equipment. It was hard for me to figure out quite what it was.}
+print "She gestured to the room we had been in."
 
-[me: "Who makes this stuff? Where did it come from?"]
+dialog [me: {All right, so that room is a holodeck? Show me the hardware...where's the console?}]
 
-{She showed me some company logos. One looked like the head of some kind of purple alligator-type thing with a bunch of pointy teeth. Another one was called "Robot Can't See".}
+print {She opened a cabinet and gestured at some equipment. It was hard for me to figure out quite what it was.}
 
-[me: "Robot can't see? That's not a name for a company."]
+dialog [me: "Who makes this stuff? Where did it come from?"]
 
-[woman: "The full name is 'Excitebot .cantsee link error'"]
+print {She showed me some company logos. One looked like the head of some kind of purple alligator-type thing with a bunch of pointy teeth. Another one was called "Robot Can't See".}
 
-[me: <exasperated> {Excite is a web search engine. Bot is a term indicating the automated way in which it visits pages. Someone is either purposefully or accidentally interpreting an error code as an actual thing.}]
+dialog [
 
-{At this point several people had run up and were talking to me, they were in uniform and had colored paper attached to their outfits. They were showing me things and asking what I thought.}
+    me: "Robot can't see? That's not a name for a company."
 
-[uniformed-man: "Large pizza, $16.99, does that look right?"]
+    woman: "The full name is 'Excitebot .cantsee link error'"
 
-[me: "That is what I have typically seen where I'm from."]
+    me: <exasperated> {Excite is a web search engine. Bot is a term indicating the automated way in which it visits pages. Someone is either purposefully or accidentally interpreting an error code as an actual thing.}
 
-[uniformed-girl: {If you need anything, ask. I was in the military, I can help.}]
+]
 
-{I introduced myself by name, at which point a large number of rendered bouncing objects ran into the room. They looked like classic video game characters, and were on the attack.}
+print {At this point several people had run up and were talking to me, they were in uniform and had colored paper attached to their outfits. They were showing me things and asking what I thought.}
 
-[picture %pacman300.jpg]
+dialog [
 
-{The uniformed people tried to fight them off and keep them away from me.}
+    uniformed-man: "Large pizza, $16.99, does that look right?"
 
-[uniformed-girl: {I don't think we're going to be able to put these in the furnace.}]
+    me: "That is what I have typically seen where I'm from."
 
-{One of the bouncing characters that had slipped by them attacked me and woke me up.}
+    uniformed-girl: {If you need anything, ask. I was in the military, I can help.}
+
+]
+
+print {I introduced myself by name, at which point a large number of rendered bouncing objects ran into the room. They looked like classic video game characters, and were on the attack.}
+
+picture %pacman300.jpg
+
+print {The uniformed people tried to fight them off and keep them away from me.}
+
+dialog [uniformed-girl: {I don't think we're going to be able to put these in the furnace.}]
+
+print {One of the bouncing characters that had slipped by them attacked me and woke me up.}

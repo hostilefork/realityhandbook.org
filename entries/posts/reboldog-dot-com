@@ -5,76 +5,104 @@ Draem [
     tags: [lucid-dream neutral sexual helpful technology dogs]
 ]
 
-{I was in a bed with all white sheets and a white comforter with a girl who I'd dated about eight years ago.  Engaging her romantically, I paused and looked at her.}
+print {I was in a bed with all white sheets and a white comforter with a girl who I'd dated about eight years ago.  Engaging her romantically, I paused and looked at her.}
 
-[me: {This is nice and everything.  But you should know I haven't been with this person for eight years; we're not together.}]
+dialog [
 
-[girl: <frowning> {Well at least you're honest.  Thanks for telling me.}]
+    me: {This is nice and everything.  But you should know I haven't been with this person for eight years; we're not together.}
 
-{She began to kind of shrivel and evaporate, slithering off the bed and morphing into someone that looked like a male human with glasses.}
+    girl: <frowning> {Well at least you're honest.  Thanks for telling me.}
 
-{I stayed in the bed and looked around the room.  There was a computer desk with a PC, and a big screen TV on a far wall.  It was a typical bedroom otherwise.}
+]
 
-{Examining the nightstand I noticed a purple piece of paper on it.  It had some printed typewritten writing with blanks to fill in, and looked like some kind of homework assignment.  But there was writing in black ink in the spare room on the paper that was various scrawled iterations of the words "DUCK" and "DICK", filling the page.}
+print << [
 
-[me: <pointing to paper> {Argh, this "dick" thing.  Not a good word to be in one's name.  Charles Dickens was lucky to live before automated filtering.  Me... not so lucky.  What is this paper about, is someone having to channel to get a word past a filter?}]
+    {She began to kind of shrivel and evaporate, slithering off the bed and morphing into someone that looked like a male human with glasses.}
 
-[glasses-guy: {To be honest, I don't know what that is all about; I'll let you interpret it.}]
+    {I stayed in the bed and looked around the room.  There was a computer desk with a PC, and a big screen TV on a far wall.  It was a typical bedroom otherwise.}
 
-{I stood up and went to the walls and knocked on them as a solidity check.}
+    {Examining the nightstand I noticed a purple piece of paper on it.  It had some printed typewritten writing with blanks to fill in, and looked like some kind of homework assignment.  But there was writing in black ink in the spare room on the paper that was various scrawled iterations of the words "DUCK" and "DICK", filling the page.}
 
-[me: {This is... really solid.  Unusually so.  Why?  "Divergent air gravity" or some other rationale that would evade any understanding in where I am from?}]
+]
 
-[note {I was referring to a phenomenon claimed to be common in various "zones" from ["The Interdimensional Billionaire Faces Divergent Air Gravity"](http://realityhandbook.org/lucid-dream/billionaire-faces-divergent-air-gravity/).}]
+dialog [
 
-[glasses-guy: <puzzled> {Where do you *think* "you are from"?}]
+    me: <pointing to paper> {Argh, this "dick" thing.  Not a good word to be in one's name.  Charles Dickens was lucky to live before automated filtering.  Me... not so lucky.  What is this paper about, is someone having to channel to get a word past a filter?}
 
-[me: {Best guess, of late?  A pre-upload Earth.  At least they believe it's pre-upload.  The deal is it's a planet going around a star, star emits heat, gravity keeps it in a circular orbit.  That sort of thing.  You have that here?}]
+    glasses-guy: {To be honest, I don't know what that is all about; I'll let you interpret it.}
 
-[glasses-guy: <frowning> {You mean like... actually walking on the ground?  Cars driving on the ground?}]
+]
 
-[me: "Yes, exactly."]
+print {I stood up and went to the walls and knocked on them as a solidity check.}
 
-[glasses-guy: {No, we don't have that here.  Though I did hear not too long on ago that they had found one of those still running somewhere--it was on the news.  But you simply couldn't be here if that's where *you are from*; it wouldn't be possible.}]
+dialog [me: {This is... really solid.  Unusually so.  Why?  "Divergent air gravity" or some other rationale that would evade any understanding in where I am from?}]
 
-{The guy transformed back into the girl and rejoined me on the bed.  She looked into my eyes.}
+note {I was referring to a phenomenon claimed to be common in various "zones" from ["The Interdimensional Billionaire Faces Divergent Air Gravity"](http://realityhandbook.org/lucid-dream/billionaire-faces-divergent-air-gravity/).}
 
-[girl: {You're going to need to remember some numbers.  Let's start, repeat the sequences in segments.  Four-five-five.}]
+dialog [
 
-[me: "Four-five-five..."]
+    glasses-guy: <puzzled> {Where do you *think* "you are from"?}
 
-[note {I do not remember the numbers actually.  She did advance the recitations in units of three, however, and I'm pretty sure the second and third numbers in the first set of three were the same.  I'll just make up the rest here, to give the sense of the interaction.}]
+    me: {Best guess, of late?  A pre-upload Earth.  At least they believe it's pre-upload.  The deal is it's a planet going around a star, star emits heat, gravity keeps it in a circular orbit.  That sort of thing.  You have that here?}
 
-[girl: "Four-five-five, four-eight-six"]
+    glasses-guy: <frowning> {You mean like... actually walking on the ground?  Cars driving on the ground?}
 
-[me: "Four-five-five... um, again?"]
+    me: "Yes, exactly."
 
-[girl: "Four-five-five, four-eight-six"]
+    glasses-guy: {No, we don't have that here.  Though I did hear not too long on ago that they had found one of those still running somewhere--it was on the news.  But you simply couldn't be here if that's where *you are from*; it wouldn't be possible.}
 
-[me: "Four-five-five, four-eight-six"]
+]
 
-[girl: "Four-five-five, four-eight-six"]
+print {The guy transformed back into the girl and rejoined me on the bed.  She looked into my eyes.}
 
-[me: "Four-five-five, four-eight-six"]
+dialog [
 
-[girl: "Four-five-five, four-eight-six, seven-two-seven..."]
+    girl: {You're going to need to remember some numbers.  Let's start, repeat the sequences in segments.  Four-five-five.}
 
-[me: <frustrated> {Okay, I'm sorry.  You're at nine digits now, which is already pushing what I can remember when I'm awake.  How long is this number going to be--a cryptographic hash?  Forget about it.  Is it supposed to be a way to reach back at you after I wake up?}]
+    me: "Four-five-five..."
 
-[girl: "Yes."]
+]
 
-[me: {The only thing I would know to do with a digit sequence *if* I could remember it would be a phone number.  And I'll bet you it wouldn't call anything useful.  But since you can morph your body, and think of Earth-going-around-the-Sun as a distant memory, perhaps it's better to reach from the outside-in?  How about websites, do you have those?  Domain name system?  Dot coms and dot orgs?  GoDaddy?  Does any of this sound familiar?}]
+note {I do not remember the numbers actually.  She did advance the recitations in units of three, however, and I'm pretty sure the second and third numbers in the first set of three were the same.  I'll just make up the rest here, to give the sense of the interaction.}
 
-[girl: {We have the domain name system, dot coms, that kind of thing.  Yes.}]
+dialog [
 
-[me: <excited> {Okay, well that might be easier.  Can I use your computer?}]
+    girl: "Four-five-five, four-eight-six"
 
-{I got up from the bed and went to the keyboard.  The environment was still remarkably stable and I could type well.  I tried to enter `realityhandbook.org` into a browser, but there was a kind of auto-correct in effect that kept changing what I typed.}
+    me: "Four-five-five... um, again?"
 
-{I tried again and again; feeling confident I'd hit the correct keys but getting odd things back.  Instead of `realityhandbook.org` I got `reboldog`, which jumped to a site asking me what kind of dog I had, or what kind of dog I wanted.}
+    girl: "Four-five-five, four-eight-six"
 
-[me: {Argh.  Rebol dog?  What's that supposed to mean.  It's a programming language I use; in fact it's used to *make* realityhandbook.org.}]
+    me: "Four-five-five, four-eight-six"
 
-{The girl had turned back into the glasses guy again, and was playing something loud on the large wall-mounted television.}
+    girl: "Four-five-five, four-eight-six"
 
-[me: {The TV is distracting; and I think maybe you should look into your browser and why it's doing so much guessing... going to the wrong places.  I don't recognize this OS; try installing something more like, uh, Linux.  Well without preloaded filters or guesses, something built from source.}]
+    me: "Four-five-five, four-eight-six"
+
+    girl: "Four-five-five, four-eight-six, seven-two-seven..."
+
+    me: <frustrated> {Okay, I'm sorry.  You're at nine digits now, which is already pushing what I can remember when I'm awake.  How long is this number going to be--a cryptographic hash?  Forget about it.  Is it supposed to be a way to reach back at you after I wake up?}
+
+    girl: "Yes."
+
+    me: {The only thing I would know to do with a digit sequence *if* I could remember it would be a phone number.  And I'll bet you it wouldn't call anything useful.  But since you can morph your body, and think of Earth-going-around-the-Sun as a distant memory, perhaps it's better to reach from the outside-in?  How about websites, do you have those?  Domain name system?  Dot coms and dot orgs?  GoDaddy?  Does any of this sound familiar?}
+
+    girl: {We have the domain name system, dot coms, that kind of thing.  Yes.}
+
+    me: <excited> {Okay, well that might be easier.  Can I use your computer?}
+
+]
+
+print << [
+
+    {I got up from the bed and went to the keyboard.  The environment was still remarkably stable and I could type well.  I tried to enter `realityhandbook.org` into a browser, but there was a kind of auto-correct in effect that kept changing what I typed.}
+
+    {I tried again and again; feeling confident I'd hit the correct keys but getting odd things back.  Instead of `realityhandbook.org` I got `reboldog`, which jumped to a site asking me what kind of dog I had, or what kind of dog I wanted.}
+
+]
+
+dialog [me: {Argh.  Rebol dog?  What's that supposed to mean.  It's a programming language I use; in fact it's used to *make* realityhandbook.org.}]
+
+print {The girl had turned back into the glasses guy again, and was playing something loud on the large wall-mounted television.}
+
+dialog [me: {The TV is distracting; and I think maybe you should look into your browser and why it's doing so much guessing... going to the wrong places.  I don't recognize this OS; try installing something more like, uh, Linux.  Well without preloaded filters or guesses, something built from source.}]

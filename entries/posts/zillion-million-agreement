@@ -5,38 +5,50 @@ Draem [
     tags: [lucid-dream injection attack negative]
 ]
 
-{I was in some sort of office building, with lots of desks and lockers.  Areas were divided off with groups of desks and monitors.  But they didn't seem to be organized so much as functional work units as storage, or perhaps a showroom for selling office equipment--like a kind of office-based IKEA.}
+print << [
 
-{At first my experience was relatively solid.  I walked around looking to see if I could find any people, as the areas were all deserted.  As I walked I felt dizzier and found myself unable to stand upright.  I'd fall but not feel any pain; but then try and get up and noticed it was getting harder to maneuver.  As if I were on some kind of numbing drug and being damaged--just not noticing.}
+    {I was in some sort of office building, with lots of desks and lockers.  Areas were divided off with groups of desks and monitors.  But they didn't seem to be organized so much as functional work units as storage, or perhaps a showroom for selling office equipment--like a kind of office-based IKEA.}
 
-{Eventually I found a black man who was filing some stuff in a locker.  I approached him to ask for help.}
+    {At first my experience was relatively solid.  I walked around looking to see if I could find any people, as the areas were all deserted.  As I walked I felt dizzier and found myself unable to stand upright.  I'd fall but not feel any pain; but then try and get up and noticed it was getting harder to maneuver.  As if I were on some kind of numbing drug and being damaged--just not noticing.}
 
-[me: "Hello?  Where is this?  What's going on."]
+    {Eventually I found a black man who was filing some stuff in a locker.  I approached him to ask for help.}
 
-{He looked at me and then changed forms, into something that looked like a giant plastic anthropomorphic bird.}
+]
 
-[bird: "Well, Frank, why don't you know where you are?"]
+dialog [me: "Hello?  Where is this?  What's going on."]
 
-{I was dizzy.  He changed back into a more human-looking form, and addressed me again.}
+print {He looked at me and then changed forms, into something that looked like a giant plastic anthropomorphic bird.}
 
-[man: "*I said...* Steve, why don't you know where you are.  Hey look at me.  Look straight ahead at me in the eyes."]
+dialog [bird: "Well, Frank, why don't you know where you are?"]
 
-{Trying to comply I looked at him, but I didn't say anything.  He seemed annoyed.}
+print {I was dizzy.  He changed back into a more human-looking form, and addressed me again.}
 
-[man: "Hey.  You're still not looking straight at me.  Speak up."]
+dialog [man: {*I said...* Steve, why don't you know where you are.  Hey look at me.  Look straight ahead at me in the eyes.}]
 
-[me: "I'm asking for help.  And I'm not any of those names you list.  I'm just not sure whether to say anything when you're not being helpful."]
+print {Trying to comply I looked at him, but I didn't say anything.  He seemed annoyed.}
 
-{Eventually I told him my name, and he pulled out a pen-like object with a needle tip and stabbed me with it, as another person who was dressed like an Asian doctor in a white coat stuck me with more stuff from a more complicated machine.}
+dialog [
 
-[me: "ARGH, what is the deal with this?  You've got to give me an answer as to why this is considered acceptable."]
+    man: {Hey.  You're still not looking straight at me.  Speak up.}
 
-[doctor: "It's because of an agreement that was made between the networks regarding you, called the 'Zillion Million' deal.  You were to only allowed to be in one network at a time.  So if we ever find you're getting out, we have to push you back in."]
+    me: {I'm asking for help.  And I'm not any of those names you list.  I'm just not sure whether to say anything when you're not being helpful.}
 
-{They had stopped the injecting and stood off.  I was able to get up and glare at them.}
+]
 
-[man: "It's my strong suspicion that the only reason you are doing this is to try and build up your strength--as practice--until you're completely immune to the method."]
+print {Eventually I told him my name, and he pulled out a pen-like object with a needle tip and stabbed me with it, as another person who was dressed like an Asian doctor in a white coat stuck me with more stuff from a more complicated machine.}
 
-{The scene transformed to where I was watching music videos that had in them a song whose lyrics were going on about "A Zillion Million things".  I tried to look further into what there was to say on connotations to "Zillion Million" but found nothing.}
+dialog [
 
-[note {While I haven't used the phrase "Zillion Million", the closest thing I could think of would be in Austin Powers where Tim Robbins plays the president and laughs at Dr. Evil for the amount of his ransom.  He asks for 100 billion dollars in 1969 and is mocked with: "That's like saying I want a kajillion bajillion dollars!".  There are some invocations of "Zillion Million" here and there as Twitter handles and YouTube aliases...but nothing particularly notable.}]
+    me: {ARGH, what is the deal with this?  You've got to give me an answer as to why this is considered acceptable.}
+
+    doctor: {It's because of an agreement that was made between the networks regarding you, called the 'Zillion Million' deal.  You were to only allowed to be in one network at a time.  So if we ever find you're getting out, we have to push you back in.}
+
+]
+
+print {They had stopped the injecting and stood off.  I was able to get up and glare at them.}
+
+dialog [man: {It's my strong suspicion that the only reason you are doing this is to try and build up your strength--as practice--until you're completely immune to the method.}]
+
+print {The scene transformed to where I was watching music videos that had in them a song whose lyrics were going on about "A Zillion Million things".  I tried to look further into what there was to say on connotations to "Zillion Million" but found nothing.}
+
+note {While I haven't used the phrase "Zillion Million", the closest thing I could think of would be in Austin Powers where Tim Robbins plays the president and laughs at Dr. Evil for the amount of his ransom.  He asks for 100 billion dollars in 1969 and is mocked with: "That's like saying I want a kajillion bajillion dollars!".  There are some invocations of "Zillion Million" here and there as Twitter handles and YouTube aliases...but nothing particularly notable.}

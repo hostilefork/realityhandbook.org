@@ -6,30 +6,38 @@ Draem [
     old: http://realityhandbook.livejournal.com/57034.html
 ]
 
-[note {There is a part on the website for [Skeptical Analysis for the Paranormal Society](http://www.skepticalanalysis.com/reports/opinions/opinions.html) where they ask for your opinions. I happened across this site and liked the tone, so I thought I'd write my 2 cents.}]
+note {There is a part on the website for [Skeptical Analysis for the Paranormal Society](http://www.skepticalanalysis.com/reports/opinions/opinions.html) where they ask for your opinions. I happened across this site and liked the tone, so I thought I'd write my 2 cents.}
 
-"Hello Alison/SAPS..."
+print << [
 
-{I found your website through StumbleUpon. Specifically, the part I saw was a page critiquing the effectiveness of dye-packets advertised as chromatherapy to put in the bath. Following that to see the rest of the site, I noticed there was a section where you solicited comments from people on why they either do (or do not) believe in the paranormal.}
+    "Hello Alison/SAPS..."
 
-{Here is my submission which you may print, if you so choose. I'd also like to talk with you or your staff if you would like. Among your listed categories, I would consider myself to be a "paranormal investigator", though it's not my day job!}
+    {I found your website through StumbleUpon. Specifically, the part I saw was a page critiquing the effectiveness of dye-packets advertised as chromatherapy to put in the bath. Following that to see the rest of the site, I noticed there was a section where you solicited comments from people on why they either do (or do not) believe in the paranormal.}
 
-{I'm a very strong critical thinker, who grew up as an atheist and was deemed by society to be exceptionally intelligent...well, at least back then. The only reason I ever ended up confronting the paranormal was due to an emerging pattern of lucid dreaming that arose in my early 20s. After not remembering my dreams for most of my life, I was suddenly able to walk around and interrogate dream environments... ask questions, and examine objects. It was shocking at first, and I could only hold it for a few seconds before I would wake up or lose clarity. Yet the stability rose to the point where it became a whole second existence for me.}
+    {Here is my submission which you may print, if you so choose. I'd also like to talk with you or your staff if you would like. Among your listed categories, I would consider myself to be a "paranormal investigator", though it's not my day job!}
 
-{It became obvious that the information I was processing could not be reasonably explained as a product of my own mind--well, at least not any more than the solipsistic view that my waking life is "just me"! It is undeniable that my own mental infrastructure "colors" any objective signal that might be reaching me in dreams. Yet we know this to be the case with being awake, it might just be a question of degree. Despite my well-reasoned arguments and analogies, most of the intelligent people I knew denied that I was experiencing anything of value--they believed it was random neural discharge and I should forget about it and take sleeping pills.}
+    {I'm a very strong critical thinker, who grew up as an atheist and was deemed by society to be exceptionally intelligent...well, at least back then. The only reason I ever ended up confronting the paranormal was due to an emerging pattern of lucid dreaming that arose in my early 20s. After not remembering my dreams for most of my life, I was suddenly able to walk around and interrogate dream environments... ask questions, and examine objects. It was shocking at first, and I could only hold it for a few seconds before I would wake up or lose clarity. Yet the stability rose to the point where it became a whole second existence for me.}
 
-{My own proving strategy was at somewhat of a dead-end, since I was waking up most mornings with keywords and names that returned nothing on Google. So I independently began to read up on New Age topics... anyone who felt they were in contact with things that were somehow "other-dimensional" (the astral projectors, out of body experiencers, trance channelers, psychics, etc.) I was very ready to believe, and searched with high hopes for someone who had both ability and the critical thinking to help me make a breakthrough in "proof".}
+    {It became obvious that the information I was processing could not be reasonably explained as a product of my own mind--well, at least not any more than the solipsistic view that my waking life is "just me"! It is undeniable that my own mental infrastructure "colors" any objective signal that might be reaching me in dreams. Yet we know this to be the case with being awake, it might just be a question of degree. Despite my well-reasoned arguments and analogies, most of the intelligent people I knew denied that I was experiencing anything of value--they believed it was random neural discharge and I should forget about it and take sleeping pills.}
 
-{Haven't found any of that yet, or at least not what one might call a "breakthrough". What I did find in my search into the New Age community were a lot of open-minded and nice people who do not dismiss the experiences of other people, merely because they do not experience that thing themselves. I find it a very telling failure of science that lucid dreaming itself was doubted until repeatable experiments by Stephen LaBerge showed that yes-- a person whose brain is in sleep state can communicate with researchers in a lab through eye movements:}
+    {My own proving strategy was at somewhat of a dead-end, since I was waking up most mornings with keywords and names that returned nothing on Google. So I independently began to read up on New Age topics... anyone who felt they were in contact with things that were somehow "other-dimensional" (the astral projectors, out of body experiencers, trance channelers, psychics, etc.) I was very ready to believe, and searched with high hopes for someone who had both ability and the critical thinking to help me make a breakthrough in "proof".}
 
-http://en.wikipedia.org/wiki/Stephen_LaBerge
+    {Haven't found any of that yet, or at least not what one might call a "breakthrough". What I did find in my search into the New Age community were a lot of open-minded and nice people who do not dismiss the experiences of other people, merely because they do not experience that thing themselves. I find it a very telling failure of science that lucid dreaming itself was doubted until repeatable experiments by Stephen LaBerge showed that yes-- a person whose brain is in sleep state can communicate with researchers in a lab through eye movements:}
 
-{Great experiment, and it makes my life a few percentage points easier in terms of explaining what I go through. But why didn't the centuries of consistent first hand testimony mean anything to "scientists"? Is a "brain" "scan" that much more valid than what an otherwise intelligent person has to say? Validation shouldn't be about "okay, you're not crazy like we said...sorry" but rather "hey, now we understand that thing you've been telling us about better...cool!" I wrote about a disturbing recent example of that exact thing with out of body experiences, whose verification was spun as a way of mocking those who'd had the experience:}
+]
 
-http://realityhandbook.org/open-letter/validating-out-of-bady-experiences/
+link http://en.wikipedia.org/wiki/Stephen_LaBerge
 
-{The absence of benevolence has created a true polarization between the paranormal and the scientific communities. Instead of working together harmoniously, they see each other as adversaries. One need not look long at the language of the people in the JREF to see it as a kind of holier-than-thou mockery, that seems to be more about feeling superior than actually educating anyone. In the meantime, the absence of an appreciation for critical thinking has made the paranormal community a hodgepodge of folks who'll welcome any ol' crazy idea that wanders in the door. This gap needs to be closed--and one thing that will close it is good, open, kind, patient communication.}
+print {Great experiment, and it makes my life a few percentage points easier in terms of explaining what I go through. But why didn't the centuries of consistent first hand testimony mean anything to "scientists"? Is a "brain" "scan" that much more valid than what an otherwise intelligent person has to say? Validation shouldn't be about "okay, you're not crazy like we said...sorry" but rather "hey, now we understand that thing you've been telling us about better...cool!" I wrote about a disturbing recent example of that exact thing with out of body experiences, whose verification was spun as a way of mocking those who'd had the experience:}
 
-{Please feel free to read or critique my journal, which I have tried my best not to "enhance":}
+link http://realityhandbook.org/open-letter/validating-out-of-bady-experiences/
 
-http://realityhandbook.org/about/
+print << [
+
+    {The absence of benevolence has created a true polarization between the paranormal and the scientific communities. Instead of working together harmoniously, they see each other as adversaries. One need not look long at the language of the people in the JREF to see it as a kind of holier-than-thou mockery, that seems to be more about feeling superior than actually educating anyone. In the meantime, the absence of an appreciation for critical thinking has made the paranormal community a hodgepodge of folks who'll welcome any ol' crazy idea that wanders in the door. This gap needs to be closed--and one thing that will close it is good, open, kind, patient communication.}
+
+    {Please feel free to read or critique my journal, which I have tried my best not to "enhance":}
+
+]
+
+link http://realityhandbook.org/about/

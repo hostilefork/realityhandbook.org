@@ -6,60 +6,84 @@ Draem [
     old: http://realityhandbook.livejournal.com/125574.html
 ]
 
-{In an outdoor courtyard, I was speaking with someone I knew to be a progressive political leader (sort of like an Obama character), and a group of his advisors.}
+print {In an outdoor courtyard, I was speaking with someone I knew to be a progressive political leader (sort of like an Obama character), and a group of his advisors.}
 
-[leader: {I still don't believe the reports about what's going on in these meetings. I'm going to have to go there myself.}]
+dialog [
 
-[me: {That won't be safe, you could be killed. You really have to figure out if it's worth it or not. I'm not saying it isn't--but there's a balance to be struck between old-school politics, and dealing with the new concerns brought up by science. With human digitization, it's quite possible to scan people and put them into oppressive environments that are beyond the scope of conventional regulation.}]
+    leader: {I still don't believe the reports about what's going on in these meetings. I'm going to have to go there myself.}
 
-{My suggestion got his advisors to start buzzing about various horror scenarios that people might put digitized people into.}
+    me: {That won't be safe, you could be killed. You really have to figure out if it's worth it or not. I'm not saying it isn't--but there's a balance to be struck between old-school politics, and dealing with the new concerns brought up by science. With human digitization, it's quite possible to scan people and put them into oppressive environments that are beyond the scope of conventional regulation.}
 
-[me: {Just imagine, you could while you slept have your genetic code and memories taken, and then two copies of you could wake up the next morning--no much the wiser.}]
+]
 
-{Somehow this transitioned to where I was walking down a hall with a woman.}
+print {My suggestion got his advisors to start buzzing about various horror scenarios that people might put digitized people into.}
 
-[woman: "So are you ready to meet your source?"]
+dialog [me: {Just imagine, you could while you slept have your genetic code and memories taken, and then two copies of you could wake up the next morning--no much the wiser.}]
 
-[note {From context I believed she was talking about a person who I was a clone of at some level.}]
+print {Somehow this transitioned to where I was walking down a hall with a woman.}
 
-[me: "Sure...?"]
+dialog [woman: "So are you ready to meet your source?"]
 
-[woman: {I have to warn you, he really committed to technology long ago...and after the upgrading, not much human remains.}]
+note {From context I believed she was talking about a person who I was a clone of at some level.}
 
-{We walked up to a door which was being guarded. The guard looked at her.}
+dialog [
 
-[guard: "One?"]
+    me: "Sure...?"
 
-{The woman pointed at me, indicating that I would be going inside also.}
+    woman: {I have to warn you, he really committed to technology long ago...and after the upgrading, not much human remains.}
 
-[guard: "Oh, two. Very well."]
+]
 
-{We walked inside and there was a second door. A man was standing there with a totally blank expression, as if he were a zombie or unconscious. He moved out of the way (or was pushed) as the second door opened, and I was facing a large caricature-type of a cowboy on a swing with a large plastic head.}
+print {We walked up to a door which was being guarded. The guard looked at her.}
 
-[note {I suppose the best comparison would be to the Burger King king:} [picture %theKing.jpg] {...except this was a cowboy. But creepy nonetheless.}]
+dialog [guard: "One?"]
 
-{When the cowboy saw me, his face briefly turned into a skull, and I got a little creeped out. He swung back on the swing and then forward as if he were going to hit me, but I stood my ground. The swing stopped, and he went back and did it again a couple of times.}
+print {The woman pointed at me, indicating that I would be going inside also.}
 
-[cowboy: <pleased> "Very good handling of fear!"]
+dialog [guard: "Oh, two. Very well."]
 
-[me: <joking> {Nah, I just had all my fear-neurons removed from my cerebral cortex.}]
+print {We walked inside and there was a second door. A man was standing there with a totally blank expression, as if he were a zombie or unconscious. He moved out of the way (or was pushed) as the second door opened, and I was facing a large caricature-type of a cowboy on a swing with a large plastic head.}
 
-[cowboy: <laughing> "Oh, of course. Well it's good to see you."]
+note [
 
-[me: {If it's so good to see me, then why can't you do something to make this last longer than the 20 seconds or however long I have left? I could really use some answers.}]
+    print {I suppose the best comparison would be to the Burger King king:}
 
-[cowboy: <sadly> {To answer that I have to speak about some unpleasant things.}]
+    picture %theKing.jpg
 
-{The cowboy pulled out a large book, that was a series of movie listings.}
+    print {...except this was a cowboy. But creepy nonetheless.}
 
-[note {I wasn't sure if it was just a movie catalog, or a list of showtimes.}]
+]
 
-[cowboy: {It won't come as much of a surprise that there are times when children do not follow the path you would desire, but take a dark path, and...}]
+print {When the cowboy saw me, his face briefly turned into a skull, and I got a little creeped out. He swung back on the swing and then forward as if he were going to hit me, but I stood my ground. The swing stopped, and he went back and did it again a couple of times.}
 
-{As he was speaking and flipping through the listings, a crowd gathered behind me to look. On the paper the cowboy was reading--it listed several movies, like Disney ones. Along the side it had symbols that were graphic designs from which you could sort of extract words, though it was a bit ambiguous because the letters were overlapping and tied together to look like shapes. I couldn't tell if one said "cogs" or "bogs", for example.}
+dialog [
 
-{A slender Middle-Eastern-or-Indian looking man sidled up to me and began to pinch at me. I yelled for help, but it seemed no one in the crowd could hear me. At first I tried to fight back using a number of techniques, but then I started laughing and distracting myself.}
+    cowboy: <pleased> "Very good handling of fear!"
 
-{The next thing I knew I was alone in a room, holding the Middle Eastern guy's head down against a table. A shadowy figure was looming in the distance, and I couldn't tell who it was though he was in the position I had perceived the cowboy as being.}
+    me: <joking> {Nah, I just had all my fear-neurons removed from my cerebral cortex.}
 
-[figure: "Get him, Bogs."]
+    cowboy: <laughing> "Oh, of course. Well it's good to see you."
+
+    me: {If it's so good to see me, then why can't you do something to make this last longer than the 20 seconds or however long I have left? I could really use some answers.}
+
+    cowboy: <sadly> {To answer that I have to speak about some unpleasant things.}
+
+]
+
+print {The cowboy pulled out a large book, that was a series of movie listings.}
+
+note {I wasn't sure if it was just a movie catalog, or a list of showtimes.}
+
+dialog [cowboy: {It won't come as much of a surprise that there are times when children do not follow the path you would desire, but take a dark path, and...}]
+
+print << [
+
+    {As he was speaking and flipping through the listings, a crowd gathered behind me to look. On the paper the cowboy was reading--it listed several movies, like Disney ones. Along the side it had symbols that were graphic designs from which you could sort of extract words, though it was a bit ambiguous because the letters were overlapping and tied together to look like shapes. I couldn't tell if one said "cogs" or "bogs", for example.}
+
+    {A slender Middle-Eastern-or-Indian looking man sidled up to me and began to pinch at me. I yelled for help, but it seemed no one in the crowd could hear me. At first I tried to fight back using a number of techniques, but then I started laughing and distracting myself.}
+
+    {The next thing I knew I was alone in a room, holding the Middle Eastern guy's head down against a table. A shadowy figure was looming in the distance, and I couldn't tell who it was though he was in the position I had perceived the cowboy as being.}
+
+]
+
+dialog [figure: "Get him, Bogs."]

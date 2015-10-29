@@ -6,40 +6,52 @@ Draem [
     old: http://realityhandbook.livejournal.com/10134.html
 ]
 
-{I was in bed with a girl in a dream, who resembled someone I know.}
+print {I was in bed with a girl in a dream, who resembled someone I know.}
 
-[me: {All right. Now I need you to answer these questions as honestly as possible. They may sound silly, but I need your perspective.}]
+dialog [
 
-[her: "Ok."]
+    me: {All right. Now I need you to answer these questions as honestly as possible. They may sound silly, but I need your perspective.}
 
-[me: "What is my name?"]
+    her: "Ok."
 
-[her: "Michael Jackson."]
+    me: "What is my name?"
 
-[me: "What is your name?"]
+    her: "Michael Jackson."
 
-{She said some nonsense words, which made me laugh a bit. I decided to ignore that.}
+    me: "What is your name?"
 
-[me: "Nevermind. What year is it?"]
+]
 
-[her: <confused> "29?"]
+print {She said some nonsense words, which made me laugh a bit. I decided to ignore that.}
 
-[me: {I'm used to year ranges that go something like four digits. To give you an example, my concept of the year is 2006.}]
+dialog [
 
-[her: {Oh, you're not asking your age. You're asking the *date*.}]
+    me: "Nevermind. What year is it?"
 
-[me: "Yes, the date."]
+    her: <confused> "29?"
 
-[her: "In our time most of the music has no name."]
+    me: {I'm used to year ranges that go something like four digits. To give you an example, my concept of the year is 2006.}
 
-[me: {Okay, that's pretty useless. But let me break this down for you the way I see it. Michael Jackson is a famous celebrity, once he was famous for being a great musician but now for being a child molester. That's not my name, and where I'm from I'm not famous at all. The thing you said for your name, didn't sound like a name at all to me. But you physically resemble someone I know.}]
+    her: {Oh, you're not asking your age. You're asking the *date*.}
 
-[her: "I like you. Will you come back?"]
+    me: "Yes, the date."
 
-{My teeth started grinding and feeling painful, I spat a tooth out onto the ground.}
+    her: "In our time most of the music has no name."
 
-[me: {I can't really 'aim' in dreams, it's different all the time, and I better wake up soon because my teeth are falling out.}]
+    me: {Okay, that's pretty useless. But let me break this down for you the way I see it. Michael Jackson is a famous celebrity, once he was famous for being a great musician but now for being a child molester. That's not my name, and where I'm from I'm not famous at all. The thing you said for your name, didn't sound like a name at all to me. But you physically resemble someone I know.}
 
-[her: {You could if you wanted to. But you probably can't wait to talk to her about the books and the songs.}]
+    her: "I like you. Will you come back?"
 
-[note "I don't know who the referenced 'her' was."]
+]
+
+print {My teeth started grinding and feeling painful, I spat a tooth out onto the ground.}
+
+dialog [
+
+    me: {I can't really 'aim' in dreams, it's different all the time, and I better wake up soon because my teeth are falling out.}
+
+    her: {You could if you wanted to. But you probably can't wait to talk to her about the books and the songs.}
+
+]
+
+note "I don't know who the referenced 'her' was."

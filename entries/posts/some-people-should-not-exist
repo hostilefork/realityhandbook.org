@@ -6,68 +6,92 @@ Draem [
     old: http://realityhandbook.livejournal.com/118348.html
 ]
 
-{I was trying to park at a place that looked a bit like my old High School. Yet I had a realization that even though I was parked in a space someone had marked out, the existing configuration of spaces would not permit one of the cars to leave. Not wanting to be blocked in...I sat around trying to figure out how to deal with this problem until eventually I decided to go inside and ask someone.}
+print << [
 
-{Inside the "school", I encountered some people at two tables. I sat in a seat that seemed also occupied by a young girl, with whom I felt a certain awkward familiarity.}
+    {I was trying to park at a place that looked a bit like my old High School. Yet I had a realization that even though I was parked in a space someone had marked out, the existing configuration of spaces would not permit one of the cars to leave. Not wanting to be blocked in...I sat around trying to figure out how to deal with this problem until eventually I decided to go inside and ask someone.}
 
-[me: {Have any you ever tried to park out in front of the building, when you drove here?}]
+    {Inside the "school", I encountered some people at two tables. I sat in a seat that seemed also occupied by a young girl, with whom I felt a certain awkward familiarity.}
 
-"The crowd shook their heads and murmured no."
+]
 
-[girl: {I don't know who parks there. Lately I've seen people around here who shouldn't... *exist*.}]
+dialog [me: {Have any you ever tried to park out in front of the building, when you drove here?}]
 
-[guy: "What?"]
+print "The crowd shook their heads and murmured no."
 
-[me: {I think she was trying to make a more broad statement than 'they don't go to school here' by rather saying they seem so generally unsavory that rather than saying they shouldn't be here, they just shouldn't exist at all.}]
+dialog [
 
-[girl: "Exactly."]
+    girl: {I don't know who parks there. Lately I've seen people around here who shouldn't... *exist*.}
 
-{There were drinks on the table, and a woman walked by who said something to me and I was going to get up. But realizing I had a series of dreams to write down (and this was just another one) I decided to stay with my beer.}
+    guy: "What?"
 
-[girl: <to me> {You probably think I'm too young, and want to follow her off.}]
+    me: {I think she was trying to make a more broad statement than 'they don't go to school here' by rather saying they seem so generally unsavory that rather than saying they shouldn't be here, they just shouldn't exist at all.}
 
-[me: {Well, what I really want to do is get back to my writing. But don't worry about it. You seem like you can carry a conversation, that's fine.}]
+    girl: "Exactly."
 
-[girl: "I didn't know you wrote. What do you write?"]
+]
 
-{At the tables were now me, the girl, and two guys. At some point they called me by another name. I had the usual impression that they thought they were talking to someone else through whom I was channeling. Decided just to talk casually about it.}
+print {There were drinks on the table, and a woman walked by who said something to me and I was going to get up. But realizing I had a series of dreams to write down (and this was just another one) I decided to stay with my beer.}
 
-[me: {Have you ever heard of lucid dreaming? Well, I write about that. You seem to think I'm someone and have called me a name other than the one I use, so I don't know who you think you're talking to. But from my point of view, I'm currently asleep. My name is (name).}]
+dialog [
 
-"After saying my name, I spelled it."
+    girl: <to me> {You probably think I'm too young, and want to follow her off.}
 
-[guy-one: <annoyed> "I know how to spell it."]
+    me: {Well, what I really want to do is get back to my writing. But don't worry about it. You seem like you can carry a conversation, that's fine.}
 
-[me: {These kinds of double and triple-checks are quite necessary. The dream state is complex. It's not a good environment for making assumption.}]
+    girl: "I didn't know you wrote. What do you write?"
 
-[guy-two: <mockingly> {Making assumption? You can't even get your grammar right, and you're trying to teach us to spell.}]
+]
 
-[me: <angry> {When you can remember your dreams--much less actively communicate about your waking life in them--let me know. Until then, I don't think minor errors on my part deserve mockery.}]
+print {At the tables were now me, the girl, and two guys. At some point they called me by another name. I had the usual impression that they thought they were talking to someone else through whom I was channeling. Decided just to talk casually about it.}
 
-[guy-two: {You're pathetic. Treating the whole thing like some kind of Olympic Sport, so you can be the best at it.}]
+dialog [me: {Have you ever heard of lucid dreaming? Well, I write about that. You seem to think I'm someone and have called me a name other than the one I use, so I don't know who you think you're talking to. But from my point of view, I'm currently asleep. My name is (name).}]
 
-[me: {Look here, asshole. Are you mocking the idea of trying to do something well? Ha--you'll go far with that attitude. And for your information, I don't do it for reasons of ego. It just happens whether I want it to or not...and since that's how it's going, I'm trying to figure it out to advance the state of science. Not that science or technology is an end in and of itself... I've seen stuff I've worked hard on distorted in ways that were bad.}]
+print "After saying my name, I spelled it."
 
-[guy-two: "It's all stupid, there's no point."]
+dialog [
 
-{He tried to run away. I was able to grab him and looked directly into his eyes.}
+    guy-one: <annoyed> "I know how to spell it."
 
-[me: {Nope, you pay attention. You look at me, and you pay attention to what I am telling you. Without the advance of knowledge, we cannot possibly solve the fundamental issues of reality. Resource constraints, injustice...we can't design safe systems, and prevent bad people from oppressing good people who have less technology. If we don't know the nature of communication we can't know ourselves or each other. What I do is very, very important. And it's not important because of me. The sooner you get with the program and realize it's important, the better.}]
+    me: {These kinds of double and triple-checks are quite necessary. The dream state is complex. It's not a good environment for making assumption.}
 
-"I sat down again. The guy sat down."
+    guy-two: <mockingly> {Making assumption? You can't even get your grammar right, and you're trying to teach us to spell.}
 
-[guy-two: {Part of that's the red eyes talking, but part is the Golden Boy.}]
+    me: <angry> {When you can remember your dreams--much less actively communicate about your waking life in them--let me know. Until then, I don't think minor errors on my part deserve mockery.}
 
-{As I was talking, colors and scenery around began to change and become more vibrant. I noticed that various people were being shuffled around in the background by police. One was a young black woman who seemed to have parts of her skin patterned in a kind of patchy white.}
+    guy-two: {You're pathetic. Treating the whole thing like some kind of Olympic Sport, so you can be the best at it.}
 
-[note {This reminds me of the story about the [newscaster who had vitiligo](http://www.usatoday.com/life/television/2007-12-16-vitiligo_N.htm)--a skin disease in which pigment cells are destroyed and melanin no longer can be produced by the body:} [picture %Vitiligo.jpg] {...white or pale spots or blotches of varying sizes develop on the face, arms, torso and other areas of the body.}]
+    me: {Look here, asshole. Are you mocking the idea of trying to do something well? Ha--you'll go far with that attitude. And for your information, I don't do it for reasons of ego. It just happens whether I want it to or not...and since that's how it's going, I'm trying to figure it out to advance the state of science. Not that science or technology is an end in and of itself... I've seen stuff I've worked hard on distorted in ways that were bad.}
 
-{I couldn't tell if she was under arrest for something or being accompanied to be protected from something or taken to better conditions. Either way she seemed sad, so I got up and hugged her. We held hands for a second then the police moved her along. The police procession kept going and I got mired in a crowd of people, causing physical sensations that I couldn't shake that eventually woke me up.}
+    guy-two: "It's all stupid, there's no point."
 
-[note {I felt a kind of euphoric instinct that was familiar, like I'd found out something important about a network of people and things were being shuffled in response to that... but in a good way. There was no real basis for this feeling.}]
+]
 
-{Though I had awoken and taken in the room around me, I could hear a sound like a radio playing. I couldn't tell if it was real--it certainly was too early for the alarm. But rather than snap into immediate awareness to check, or write down the dream, I just stayed in the somewhat fuzzy state so I could tune it in. The most memorable part sounded like something that would play on Christian Radio during a commercial break, with a woman's voice speaking about her experience of God.}
+print {He tried to run away. I was able to grab him and looked directly into his eyes.}
 
-[radio-voice: {"Sometimes I don't know what's going on. I know I'm not God, but I'm just as certain that I'm part of God. He doesn't necessarily *like* me, but how much can He *not like* me? Being hated by God would be like being hated by Mother Nature.}]
+dialog [me: {Nope, you pay attention. You look at me, and you pay attention to what I am telling you. Without the advance of knowledge, we cannot possibly solve the fundamental issues of reality. Resource constraints, injustice...we can't design safe systems, and prevent bad people from oppressing good people who have less technology. If we don't know the nature of communication we can't know ourselves or each other. What I do is very, very important. And it's not important because of me. The sooner you get with the program and realize it's important, the better.}]
 
-{After she'd finished the speech, it returned to someone who spoke about sponsorship and other details that I couldn't quite get a firm hold on. Afraid I'd not remember the rest of the dream I went ahead and snapped out.}
+print "I sat down again. The guy sat down."
+
+dialog [guy-two: {Part of that's the red eyes talking, but part is the Golden Boy.}]
+
+print {As I was talking, colors and scenery around began to change and become more vibrant. I noticed that various people were being shuffled around in the background by police. One was a young black woman who seemed to have parts of her skin patterned in a kind of patchy white.}
+
+note [
+
+    print {This reminds me of the story about the [newscaster who had vitiligo](http://www.usatoday.com/life/television/2007-12-16-vitiligo_N.htm)--a skin disease in which pigment cells are destroyed and melanin no longer can be produced by the body:}
+
+    picture %Vitiligo.jpg
+
+    print {...white or pale spots or blotches of varying sizes develop on the face, arms, torso and other areas of the body.}
+
+]
+
+print {I couldn't tell if she was under arrest for something or being accompanied to be protected from something or taken to better conditions. Either way she seemed sad, so I got up and hugged her. We held hands for a second then the police moved her along. The police procession kept going and I got mired in a crowd of people, causing physical sensations that I couldn't shake that eventually woke me up.}
+
+note {I felt a kind of euphoric instinct that was familiar, like I'd found out something important about a network of people and things were being shuffled in response to that... but in a good way. There was no real basis for this feeling.}
+
+print {Though I had awoken and taken in the room around me, I could hear a sound like a radio playing. I couldn't tell if it was real--it certainly was too early for the alarm. But rather than snap into immediate awareness to check, or write down the dream, I just stayed in the somewhat fuzzy state so I could tune it in. The most memorable part sounded like something that would play on Christian Radio during a commercial break, with a woman's voice speaking about her experience of God.}
+
+dialog [radio-voice: {"Sometimes I don't know what's going on. I know I'm not God, but I'm just as certain that I'm part of God. He doesn't necessarily *like* me, but how much can He *not like* me? Being hated by God would be like being hated by Mother Nature.}]
+
+print {After she'd finished the speech, it returned to someone who spoke about sponsorship and other details that I couldn't quite get a firm hold on. Afraid I'd not remember the rest of the dream I went ahead and snapped out.}

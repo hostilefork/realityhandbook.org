@@ -5,46 +5,62 @@ Draem [
     tags: [lucid-dream sexual technology neutral]
 ]
 
-{I believed I had woken up in bed, and there was someone else in the bed on the other side.  Uncertain who it was I poked them to wake them up.  A young Indian boy sleepily responded.}
+print {I believed I had woken up in bed, and there was someone else in the bed on the other side.  Uncertain who it was I poked them to wake them up.  A young Indian boy sleepily responded.}
 
-[me: {Hey.  Who are you, and what are you doing in my bed?}]
+dialog [
 
-[boy: {My name is Hashir, but I go by "Hash".  Your dad said I could stay here for the night.  You don't remember?}]
+    me: {Hey.  Who are you, and what are you doing in my bed?}
 
-[me: {Nope, no clue.  Wait, is this my bed?  Is this my room?}]
+    boy: {My name is Hashir, but I go by "Hash".  Your dad said I could stay here for the night.  You don't remember?}
 
-{I stopped to examine it.}
+    me: {Nope, no clue.  Wait, is this my bed?  Is this my room?}
 
-[me: {Nope, not my room.  Although the geometry is like a room at my parents house I've slept in, sort of.  Except without all the junk that room has in it.  So tell me what you know: whose house is it?}]
+]
 
-[boy: {You should use the 4D phone.  Here.}]
+print "I stopped to examine it."
 
-{He handed me a headset of some kind.  When I put it on, it seemed to kind of clamp onto my face.  Little metal-seeming-thingies went up into my nose...as if they were a "smell providing" interface.  There was no particular smell however, just a different-smelling air.}
+dialog [
 
-{Once the headset was on, it changed what I could see out the bedroom door to what looked like a long row of computer terminals with very large screens.  My point of view was kind of eerie and holographic, but I could walk into it and mess with the terminals.  There was a sign saying that the login account was GUEST and the password was GUEST so I typed that in.}
+    me: {Nope, not my room.  Although the geometry is like a room at my parents house I've slept in, sort of.  Except without all the junk that room has in it.  So tell me what you know: whose house is it?}
 
-{After typing that in, I got to a screen I didn't really know what to do with.  It looked like a fairly simple file selection interface on a web-like terminal, which wasn't offering me options.  It seemed to expect me to type in what "holographic file" I wanted to play.}
+    boy: "You should use the 4D phone.  Here."
 
-{I couldn't really figure it out, but on the large screen at the station next to me I could see it playing a documentary on virtual sex.  It was titled "Dirty Minds: The Pioneers of Virtual Reality Pornography".  It seemed to be a fairly dry account with interviews and didn't show anything too explicit, but it would cut from interviewee to interviewee with them explaining all the things people could try...sex with cartoons, etc.}
+]
 
-{A man who seemed to be associated with whatever establishment came up and addressed me.}
+print << [
 
-[man: "Hey, you're not using the big machines to play old Nintendo games, are you?"]
+    {He handed me a headset of some kind.  When I put it on, it seemed to kind of clamp onto my face.  Little metal-seeming-thingies went up into my nose...as if they were a "smell providing" interface.  There was no particular smell however, just a different-smelling air.}
 
-[me: "Honestly, I have no idea what I'm doing.  I've never used one of these before."]
+    {Once the headset was on, it changed what I could see out the bedroom door to what looked like a long row of computer terminals with very large screens.  My point of view was kind of eerie and holographic, but I could walk into it and mess with the terminals.  There was a sign saying that the login account was GUEST and the password was GUEST so I typed that in.}
 
-[man: "Well let's switch you to another station."]
+    {After typing that in, I got to a screen I didn't really know what to do with.  It looked like a fairly simple file selection interface on a web-like terminal, which wasn't offering me options.  It seemed to expect me to type in what "holographic file" I wanted to play.}
 
-{He moved me over to another machine, that wasn't as big.  Some person in the back apparently wasn't sitting at a computer but had left something running, and so the guy told him to shut that down.  He did, and I attempted to take the headset off.}
+    {I couldn't really figure it out, but on the large screen at the station next to me I could see it playing a documentary on virtual sex.  It was titled "Dirty Minds: The Pioneers of Virtual Reality Pornography".  It seemed to be a fairly dry account with interviews and didn't show anything too explicit, but it would cut from interviewee to interviewee with them explaining all the things people could try...sex with cartoons, etc.}
 
-[note {I was trying to take the headset off to leave it behind with the other machine.  This apparently indicates I'd forgotten that the headset was not part of the machine I was leaving, but was rather something that "Hash" had given me earlier...so presumably it was a "bring-your-own-headset" environment.}]
+    {A man who seemed to be associated with whatever establishment came up and addressed me.}
 
-{I fumbled with the headset that was somewhat intimately stuck into my nose and wrapped into my head in a strange way.}
+]
 
-[me: <confused> "As I mentioned, I've never used one of these before.  So I don't know how to take it off."]
+dialog [
 
-{In response, the man held up a large flat device.  I didn't know what the device was, but he turned it around and it appeared to be a mirror where I could see the headset on my head.  The image in the reflection looked to me as I look, with a thing on my head.  I seemed to have a small bit of a scratch that was bleeding, perhaps due to my fumbled attempt at removal.}
+    man: {Hey, you're not using the big machines to play old Nintendo games, are you?}
 
-[me: "Hmmm...it automatically put the things in my nose before, so maybe it automatically takes them off?  Do I just grab here at the sides and..."]
+    me: {Honestly, I have no idea what I'm doing.  I've never used one of these before.}
 
-{When I started pulling the headset off it, it kind of whirred to life to completely disengage and collapsed.  I was startled and awoke.}
+    man: "Well let's switch you to another station."
+
+]
+
+print {He moved me over to another machine, that wasn't as big.  Some person in the back apparently wasn't sitting at a computer but had left something running, and so the guy told him to shut that down.  He did, and I attempted to take the headset off.}
+
+note {I was trying to take the headset off to leave it behind with the other machine.  This apparently indicates I'd forgotten that the headset was not part of the machine I was leaving, but was rather something that "Hash" had given me earlier...so presumably it was a "bring-your-own-headset" environment.}
+
+print {I fumbled with the headset that was somewhat intimately stuck into my nose and wrapped into my head in a strange way.}
+
+dialog [me: <confused> {As I mentioned, I've never used one of these before.  So I don't know how to take it off.}]
+
+print {In response, the man held up a large flat device.  I didn't know what the device was, but he turned it around and it appeared to be a mirror where I could see the headset on my head.  The image in the reflection looked to me as I look, with a thing on my head.  I seemed to have a small bit of a scratch that was bleeding, perhaps due to my fumbled attempt at removal.}
+
+dialog [me: {Hmmm...it automatically put the things in my nose before, so maybe it automatically takes them off?  Do I just grab here at the sides and...}]
+
+print {When I started pulling the headset off it, it kind of whirred to life to completely disengage and collapsed.  I was startled and awoke.}

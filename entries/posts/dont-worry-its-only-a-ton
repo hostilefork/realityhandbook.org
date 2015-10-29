@@ -6,38 +6,54 @@ Draem [
     old: http://realityhandbook.livejournal.com/87589.html
 ]
 
-{I was in a strange factory, and trying to get some secret information from a friend.}
+print {I was in a strange factory, and trying to get some secret information from a friend.}
 
-[note {A skeptic of the idea that any connections between people exist in dreaming, he has challenged me to extract his high-school nickname out of a dream.}]
+note {A skeptic of the idea that any connections between people exist in dreaming, he has challenged me to extract his high-school nickname out of a dream.}
 
-[friend: "stupid boy...goofball...it is along these lines"]
+dialog [friend: "stupid boy...goofball...it is along these lines"]
 
-{I tried to follow up with that some more but decided it wasn't really going anywhere, and his form had changed to some person I didn't recognize. Both he and I were wearing several name tags, and my own designated me as an "Administrator".}
+print << [
 
-{Exploring the factory further, there were many computers and people doing weaving or other crafts. Encountering an attractive woman who was assembling something, I interrupted her.}
+    {I tried to follow up with that some more but decided it wasn't really going anywhere, and his form had changed to some person I didn't recognize. Both he and I were wearing several name tags, and my own designated me as an "Administrator".}
 
-[me: {Excuse me, I'm not really sure how to conduct myself here. What's considered to be unacceptable behavior in this environment?}]
+    {Exploring the factory further, there were many computers and people doing weaving or other crafts. Encountering an attractive woman who was assembling something, I interrupted her.}
 
-[woman: <depressed and woodenly> "It's not acceptable to enjoy f---ing."]
+]
 
-[note {As much as it bothers me to censor words here in the journal, I guess it might be wise to, but she was referring enjoying sex not being acceptable.}]
+dialog [
 
-[me: {Well that doesn't sound like a very pleasant policy. Who says you're not allowed to enjoy that?}]
+    me: {Excuse me, I'm not really sure how to conduct myself here. What's considered to be unacceptable behavior in this environment?}
 
-{She took me to a window and pointed out a building that was called the Humbert House, which was where the oppressors lived. It had a Marquee up with some writing I couldn't read. As I tried to, a voice came over a loudspeaker.}
+    woman: <depressed and woodenly> "It's not acceptable to enjoy f---ing."
 
-[voice: "Okay, they're about to launch a 20,000 ton attack."]
+]
 
-{Worried, I herded a group of people together near some computer terminals.}
+note {As much as it bothers me to censor words here in the journal, I guess it might be wise to, but she was referring enjoying sex not being acceptable.}
 
-[me: "All right, everybody...we've got to get down."]
+dialog [me: {Well that doesn't sound like a very pleasant policy. Who says you're not allowed to enjoy that?}]
 
-[someone: {The announcement said *ton*, not *megaton*. We'll be fine. It's worth the risk, we get paid well.}]
+print {She took me to a window and pointed out a building that was called the Humbert House, which was where the oppressors lived. It had a Marquee up with some writing I couldn't read. As I tried to, a voice came over a loudspeaker.}
 
-{I noticed there were computer terminals and went on trying to look for a web browser. They gathered around me and twittered nervously.}
+dialog [voice: "Okay, they're about to launch a 20,000 ton attack."]
 
-[someone: {What are you DOING? Are you crazy? None of these computers are even *connected*.}]
+print {Worried, I herded a group of people together near some computer terminals.}
 
-[me: "Where can I find a 'connected' computer."]
+dialog [
 
-[someone: {The one on your desk is connected, but...what are you doing here in the first place? They monitor *everything*.}]
+    me: "All right, everybody...we've got to get down."
+
+    someone: {The announcement said *ton*, not *megaton*. We'll be fine. It's worth the risk, we get paid well.}
+
+]
+
+print {I noticed there were computer terminals and went on trying to look for a web browser. They gathered around me and twittered nervously.}
+
+dialog [
+
+    someone: {What are you DOING? Are you crazy? None of these computers are even *connected*.}
+
+    me: "Where can I find a 'connected' computer."
+
+    someone: {The one on your desk is connected, but...what are you doing here in the first place? They monitor *everything*.}
+
+]

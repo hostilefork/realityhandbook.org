@@ -6,58 +6,74 @@ Draem [
     old: http://realityhandbook.livejournal.com/56378.html
 ]
 
-"I got a chance to speak to a room full of people."
+print "I got a chance to speak to a room full of people."
 
-[me: {It is nice here, it is calm and quiet... things are stable. Why is it so stable? Where do these objects come from?}]
+dialog [
 
-[them: "We get them at the mall."]
+    me: {It is nice here, it is calm and quiet... things are stable. Why is it so stable? Where do these objects come from?}
 
-[me: {How are they manufactured to produce such stability?}]
+    them: "We get them at the mall."
 
-[them: {It isn't always good to have solidity. People are always asking for the feature of their mates to be more malleable and do what they are asked.}]
+    me: {How are they manufactured to produce such stability?}
 
-[note "They didn't seem to be joking with that remark."]
+    them: {It isn't always good to have solidity. People are always asking for the feature of their mates to be more malleable and do what they are asked.}
 
-[me: {Fine, but in many dreams objects are generally not this stable, and I'd like to know why *these* objects are.}]
+]
 
-[them: "Unsure, you'd have to go to Watershed(?)."]
+note "They didn't seem to be joking with that remark."
 
-[me: {Then I'd like to go to Watershed. Not now, I don't think there's time, but the next time you see me please take me there}]
+dialog [
 
-[them: "All right."]
+    me: {Fine, but in many dreams objects are generally not this stable, and I'd like to know why *these* objects are.}
 
-[me: {Is there a strong belief in physical reality? As in... where I am from? Is it known I come from 'somewhere else' among you guys?}]
+    them: "Unsure, you'd have to go to Watershed(?)."
 
-[them: "Yes."]
+    me: {Then I'd like to go to Watershed. Not now, I don't think there's time, but the next time you see me please take me there}
 
-[me: "So everyone here knows our society is there?"]
+    them: "All right."
 
-[them: "Absolutely."]
+    me: {Is there a strong belief in physical reality? As in... where I am from? Is it known I come from 'somewhere else' among you guys?}
 
-[me: {Please clear your minds, and I'd like to go around the room and have everyone say what they would call me.}]
+    them: "Yes."
 
-[note {The "clear your mind bit" was because I feared treating the question automatically would just reflect my given name back at me.}]
+    me: "So everyone here knows our society is there?"
 
-{My point of view shifted to a piece of paper which had a collection of terms "New guy", "Om", "AM", 7/5, "AM" again, other gobbledygook.}
+    them: "Absolutely."
 
-[me: <narrating the paper> {7/5? Uh... what? I'll go with AM, since that came around multiple times. But why?}]
+    me: {Please clear your minds, and I'd like to go around the room and have everyone say what they would call me.}
 
-[them: <laughing> "Because you're always chasing after FM."]
+]
 
-[note {I caught a deliberate reference to Amplitude Modulation vs. Frequency Modulation here, but there may have been a joke in there with FM also referring to females, not sure.}]
+note {The "clear your mind bit" was because I feared treating the question automatically would just reflect my given name back at me.}
 
-[me: {Do any of you have physical bodies with which you can transfer information to the world I am from?}]
+print {My point of view shifted to a piece of paper which had a collection of terms "New guy", "Om", "AM", 7/5, "AM" again, other gobbledygook.}
 
-[them: "Nope, sorry."]
+dialog [
 
-[me: "Okay, another question"]
+    me: <narrating the paper> {7/5? Uh... what? I'll go with AM, since that came around multiple times. But why?}
 
-[man: "Hey, wait listen to me..."]
+    them: <laughing> "Because you're always chasing after FM."
 
-[me: "I'm going to wake up soon, I can't really delay."]
+]
 
-[man: "No, LISTEN!"]
+note {I caught a deliberate reference to Amplitude Modulation vs. Frequency Modulation here, but there may have been a joke in there with FM also referring to females, not sure.}
 
-[me: "All right fine, please hurry."]
+dialog [
 
-[man: <laughing> {It's simple. You just take ALL the food and the non-religious food will rot away.}]
+    me: {Do any of you have physical bodies with which you can transfer information to the world I am from?}
+
+    them: "Nope, sorry."
+
+    me: "Okay, another question"
+
+    man: "Hey, wait listen to me..."
+
+    me: "I'm going to wake up soon, I can't really delay."
+
+    man: "No, LISTEN!"
+
+    me: "All right fine, please hurry."
+
+    man: <laughing> {It's simple. You just take ALL the food and the non-religious food will rot away.}
+
+]

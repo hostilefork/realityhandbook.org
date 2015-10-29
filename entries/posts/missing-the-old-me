@@ -5,54 +5,78 @@ Draem [
     tags: [lucid-dream neutral sexual god]
 ]
 
-{A thin and light looking naked girl was running down an office hallway toward where I was.  She jumped up and wrapped her arms and legs around me.  For some reason I didn't expect her to be heavy enough that I'd notice.  But I did, and so I leaned her against a wall to support the weight.  She looked into my eyes.}
+print {A thin and light looking naked girl was running down an office hallway toward where I was.  She jumped up and wrapped her arms and legs around me.  For some reason I didn't expect her to be heavy enough that I'd notice.  But I did, and so I leaned her against a wall to support the weight.  She looked into my eyes.}
 
-[her: "I'd do anything for love..."]
+dialog [
 
-[me-and-her: <in unison> "...but I won't do that."]
+    her: "I'd do anything for love..."
 
-"Another man walked up to us and I addressed him."
+    me-and-her: <in unison> "...but I won't do that."
 
-[me: {As you guys are dream characters, are you in my head?  Can you read my thoughts?}]
+]
 
-[man: {No, I can't read your mind.  But I can calculate the square root of your IQ.  And it's double what you need to do the job.  That's the kind of odds I like.}]
+print "Another man walked up to us and I addressed him."
 
-{We proceeded along the hallway toward a door into a cavernous sort of workshop area, with lots of model constructions.  There was a rather large mock-up of a supercollider like the LHC.}
+dialog [
 
-{man: "The creator usually likes to stick relatively close to the plan.  So it's a bit surprising he's taking so long with this.  Must have hit something he wasn't expecting."}
+    me: {As you guys are dream characters, are you in my head?  Can you read my thoughts?}
 
-[me: {Do you mean... something about the Large Hadron Collider?  Is it causing some kind of space-time rift.}]
+    man: {No, I can't read your mind.  But I can calculate the square root of your IQ.  And it's double what you need to do the job.  That's the kind of odds I like.}
 
-[man: <scoffing> {No.  That physics and particle collision stuff is just a story, or a metaphor about the search for God.  Kind of like how sex is kind of a game about the archetype of returning to the mother.  Think of these things as being like comic books.}]
+]
 
-"He turned to someone else and made a remark."
+print << [
 
-[man: "The two of them will come back to us."]
+    {We proceeded along the hallway toward a door into a cavernous sort of workshop area, with lots of model constructions.  There was a rather large mock-up of a supercollider like the LHC.}
 
-"Then he turned to me."
+    {man: "The creator usually likes to stick relatively close to the plan.  So it's a bit surprising he's taking so long with this.  Must have hit something he wasn't expecting."}
 
-[man: "Working for Kapparu is a waste of your time."]
+]
 
-[me: <confused> {I don't work for anyone.  I work for myself, programming.}]
+dialog [
 
-{I believe I told him some of the details of my life, to which he seemed to be surprised.}
+    me: {Do you mean... something about the Large Hadron Collider?  Is it causing some kind of space-time rift.}
 
-[man: {Wait a minute...you're not even AWAKE here?  Oh.  Well then you just have ADHD.  So then I guess you are going to ask me some questions...about what 'dream beings' can tell you about the 'afterlife' or something along those lines, right?}]
+    man: <scoffing> {No.  That physics and particle collision stuff is just a story, or a metaphor about the search for God.  Kind of like how sex is kind of a game about the archetype of returning to the mother.  Think of these things as being like comic books.}
 
-"He sighed."
+]
 
-[man: {All right, here you go.  Your new body is already grown in a pod somewhere.  When you die wherever it is you are now, the system will activate you there.  How exciting for you!  The end.}]
+print "He turned to someone else and made a remark."
 
-{As we were speaking, a robot walked up alongside us that seemed to have a window into its helmet, where you could see fluid and organic material inside with tubes.  There might have been a brain in it--but it was hard to see through all the wiring.}
+dialog [man: "The two of them will come back to us."]
 
-{This robot seemed to morph into a young man who had crazy white paint on his face, but it was smeared so some of it was coming off.  He looked kind of like The Joker from Batman done in black &amp; white, and addressed me in a grave tone.}
+print "Then he turned to me."
 
-[joker: {Well, don't be too sure.  We're having one concern with this particular unit.  It's a technical glitch.  It keeps going into a coma.}]
+dialog [
 
-"He paused."
+    man: "Working for Kapparu is a waste of your time."
 
-[joker: {Yup...it happens whenever anyone gets close or intimate.  Not sure if they're going to be able to fix it.}]
+    me: <confused> {I don't work for anyone.  I work for myself, programming.}
 
-{He laughed maniacally, and then stopped and stared at me.}
+]
 
-[joker: "WE...MISS...the OLD YOU."]
+print {I believe I told him some of the details of my life, to which he seemed to be surprised.}
+
+dialog [man: {Wait a minute...you're not even AWAKE here?  Oh.  Well then you just have ADHD.  So then I guess you are going to ask me some questions...about what 'dream beings' can tell you about the 'afterlife' or something along those lines, right?}]
+
+print "He sighed."
+
+dialog [man: {All right, here you go.  Your new body is already grown in a pod somewhere.  When you die wherever it is you are now, the system will activate you there.  How exciting for you!  The end.}]
+
+print << [
+
+    {As we were speaking, a robot walked up alongside us that seemed to have a window into its helmet, where you could see fluid and organic material inside with tubes.  There might have been a brain in it--but it was hard to see through all the wiring.}
+
+    {This robot seemed to morph into a young man who had crazy white paint on his face, but it was smeared so some of it was coming off.  He looked kind of like The Joker from Batman done in black &amp; white, and addressed me in a grave tone.}
+
+]
+
+dialog [joker: {Well, don't be too sure.  We're having one concern with this particular unit.  It's a technical glitch.  It keeps going into a coma.}]
+
+print "He paused."
+
+dialog [joker: {Yup...it happens whenever anyone gets close or intimate.  Not sure if they're going to be able to fix it.}]
+
+print {He laughed maniacally, and then stopped and stared at me.}
+
+dialog [joker: "WE...MISS...the OLD YOU."]

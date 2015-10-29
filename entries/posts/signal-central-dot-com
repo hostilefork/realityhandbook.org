@@ -6,56 +6,76 @@ Draem [
     old: http://realityhandbook.livejournal.com/53829.html
 ]
 
-{I was in bed with a friend, watching an advertisement for some kind of spiritual center on a laptop. It was on "signalcentral.com". The introduction started out as "Step 1: The question", "Step 2: The signal"... it was very 'New Age'. It had use of the "AE" symbol in various parts of the page.}
+print {I was in bed with a friend, watching an advertisement for some kind of spiritual center on a laptop. It was on "signalcentral.com". The introduction started out as "Step 1: The question", "Step 2: The signal"... it was very 'New Age'. It had use of the "AE" symbol in various parts of the page.}
 
-[note {The domain is [registered to some people](http://whois.net/whois_new.cgi?d=signalcentral&tld=com) but there's nothing there. They are on various spam blacklists but otherwise not present on Google.}]
+note {The domain is [registered to some people](http://whois.net/whois_new.cgi?d=signalcentral&tld=com) but there's nothing there. They are on various spam blacklists but otherwise not present on Google.}
 
-{The page was very interesting to me, though I asserted that I was probably dreaming and I'd just check into it when I woke up. Yet almost instantly I found myself at the Signal Central Ranch or whatever it was, just like on the ad. The gates opened for me, and I walked in... a man smiled and greeted me as I walked past.}
+print << [
 
-{The first building I walked into looked like some kind of grocery store warehouse. Someone handed me a red pail to put things in. There were several other people wandering in who were babbling about how they're seeing patterns in colors and such.}
+    {The page was very interesting to me, though I asserted that I was probably dreaming and I'd just check into it when I woke up. Yet almost instantly I found myself at the Signal Central Ranch or whatever it was, just like on the ad. The gates opened for me, and I walked in... a man smiled and greeted me as I walked past.}
 
-[me: {I see I'm here among the afflicted. I ask many of the same questions. Like 'why do I have a red pail and not another color'? Is that significant? Maybe it is, maybe it isn't. But if you worry too much about why they gave you a red pail you won't learn anything else.}]
+    {The first building I walked into looked like some kind of grocery store warehouse. Someone handed me a red pail to put things in. There were several other people wandering in who were babbling about how they're seeing patterns in colors and such.}
 
-[girl: "Your pail is red because you have $15 of credit."]
+]
 
-[me: "I didn't come here to shop at Costco."]
+dialog [
 
-[girl: {Well why don't we take that shovel over there and knock over all the groceries?}]
+    me: {I see I'm here among the afflicted. I ask many of the same questions. Like 'why do I have a red pail and not another color'? Is that significant? Maybe it is, maybe it isn't. But if you worry too much about why they gave you a red pail you won't learn anything else.}
 
-{This disruptive suggestion caused some kind of alert, and a small blond dwarf woman came over and started speaking sternly to her about not knocking it over.}
+    girl: "Your pail is red because you have $15 of credit."
 
-[me: {I think I will speak with this petite woman here about my questions.}]
+    me: "I didn't come here to shop at Costco."
 
-[dwarf: "Petite? Yeah, watch it buddy."]
+    girl: {Well why don't we take that shovel over there and knock over all the groceries?}
 
-[me: {Ok, whatever, sorry. Look, I saw an ad for something called signalcentral.com, and it wasn't a grocery store. It's kind of urgent that if there's anything going on here of a spiritual nature I speak to the person in charge, because I saw the ad in a dream... and now I'm here and I'm dreaming... and I'm going to wake up pretty soon and this will all be gone.}]
+]
 
-{A man approached me who was kind of like a Wizard-of-Oz type floating head for a bit. We started a conversation and I roughly filled him in on things. As I spoke to him about issues he would somewhat continuously morph. This is highly paraphrased as the specifics of our conversation were not simple to remember:}
+print {This disruptive suggestion caused some kind of alert, and a small blond dwarf woman came over and started speaking sternly to her about not knocking it over.}
 
-[him: {We are in communication with many things in the universe. There are things that are known to some of your people but some that they have no idea about, far beyond space.}]
+dialog [
 
-[me: {I would be grateful for any assistance, and would do what I could to assist, in establishing contact with you and these other entities.}]
+    me: {I think I will speak with this petite woman here about my questions.}
 
-[him: {But there is such a thing as a comfortable illusion, you cannot show everything!}]
+    dwarf: "Petite? Yeah, watch it buddy."
 
-[me: {I'm not comfortable by things being hidden. Well, besides the comfortable illusion of looking at you and seeing only your outside, not your brain.}]
+    me: {Ok, whatever, sorry. Look, I saw an ad for something called signalcentral.com, and it wasn't a grocery store. It's kind of urgent that if there's anything going on here of a spiritual nature I speak to the person in charge, because I saw the ad in a dream... and now I'm here and I'm dreaming... and I'm going to wake up pretty soon and this will all be gone.}
 
-[him: {Brain? Oh. A brain is just a computer, fires a certain way...}]
+]
 
-{At this point his head turned into a cutaway animation and I could see all the workings of it. I expressed a mixture of queasiness and thinking that was cool, but then his head re-formed as if it were made out of robotic parts that were white industrial plastic, and as it reassembled itself from a cutaway he sort of mock-gestured at his head with a comb and hairdryer as if it were necessary on plastic hair.}
+print {A man approached me who was kind of like a Wizard-of-Oz type floating head for a bit. We started a conversation and I roughly filled him in on things. As I spoke to him about issues he would somewhat continuously morph. This is highly paraphrased as the specifics of our conversation were not simple to remember:}
 
-[me: {I really like what you're able to do, there, with the morphing. I've always felt that I live in a society which is very primitive, and as if I'm held back by the limitations.}]
+dialog [
 
-[him: {Well I appreciate your quandary, but I just don't see what form of payment you have that could be useful to us.}]
+    him: {We are in communication with many things in the universe. There are things that are known to some of your people but some that they have no idea about, far beyond space.}
 
-[me: {Payment? I mean, I'd like to be helped and I'm willing to do whatever I can in return.}]
+    me: {I would be grateful for any assistance, and would do what I could to assist, in establishing contact with you and these other entities.}
 
-[him: "Would there be a musical payment?"]
+    him: {But there is such a thing as a comfortable illusion, you cannot show everything!}
 
-[me: {What? Well I can make music, and I'm a visual artist. If you would establish communication with me over the internet I could send you samples.}]
+    me: {I'm not comfortable by things being hidden. Well, besides the comfortable illusion of looking at you and seeing only your outside, not your brain.}
 
-[him: {Well I can't use the internet, but the people at the City Lounge have ways. Write your address here.}]
+    him: {Brain? Oh. A brain is just a computer, fires a certain way...}
 
-{He handed me a calendar, and some other people joined us. I tried to write in my address twice, and they seemed to watch and understand.}
+]
 
-[them: {We also need your signature to authorize it so that *anyone* at the City Lounge can contact you.}]
+print {At this point his head turned into a cutaway animation and I could see all the workings of it. I expressed a mixture of queasiness and thinking that was cool, but then his head re-formed as if it were made out of robotic parts that were white industrial plastic, and as it reassembled itself from a cutaway he sort of mock-gestured at his head with a comb and hairdryer as if it were necessary on plastic hair.}
+
+dialog [
+
+    me: {I really like what you're able to do, there, with the morphing. I've always felt that I live in a society which is very primitive, and as if I'm held back by the limitations.}
+
+    him: {Well I appreciate your quandary, but I just don't see what form of payment you have that could be useful to us.}
+
+    me: {Payment? I mean, I'd like to be helped and I'm willing to do whatever I can in return.}
+
+    him: "Would there be a musical payment?"
+
+    me: {What? Well I can make music, and I'm a visual artist. If you would establish communication with me over the internet I could send you samples.}
+
+    him: {Well I can't use the internet, but the people at the City Lounge have ways. Write your address here.}
+
+]
+
+print {He handed me a calendar, and some other people joined us. I tried to write in my address twice, and they seemed to watch and understand.}
+
+dialog [them: {We also need your signature to authorize it so that *anyone* at the City Lounge can contact you.}]

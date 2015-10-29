@@ -5,68 +5,92 @@ Draem [
     tags: [lucid-dream positive funny helpful attack food]
 ]
 
-{I was looking at a freezer full of sourdough sausage biscuits, seemingly some kind of factory storage situation.  A cowboy-looking guy was looking at them sadly.}
+print {I was looking at a freezer full of sourdough sausage biscuits, seemingly some kind of factory storage situation.  A cowboy-looking guy was looking at them sadly.}
 
-[cowboy: "I work all day makin' sourdough...but I can't eat any of it.  I get hungry but it's all frozen, it won't be any good like that."]
+dialog [
 
-[me: "You don't have microwaves at work, like in a kitchen?  We have microwaves... and two kitchens per floor."]
+    cowboy: {I work all day makin' sourdough...but I can't eat any of it.  I get hungry but it's all frozen, it won't be any good like that.}
 
-[note {I was offhandedly referring to a layout I saw in my mind of some kind of office that was arranged a certain way; it is not one in which I've actually worked, but perhaps reminiscent of some layout plans in Microsoft buildings.}]
+    me: {You don't have microwaves at work, like in a kitchen?  We have microwaves... and two kitchens per floor.}
 
-[cowboy: {Nope, no microwaves.  You know what they need to invent?  A portable microwave. Nuke on the go.}]
+]
 
-{We went into a large open dining area, with people everywhere.  I sat down at a table and was given a bunch of Asian food...in addition to having sushi there was some rice.  There were two sets of chopsticks, and one set was smaller than the other.}
+note {I was offhandedly referring to a layout I saw in my mind of some kind of office that was arranged a certain way; it is not one in which I've actually worked, but perhaps reminiscent of some layout plans in Microsoft buildings.}
 
-[me: <holding small chopsticks> {What are these little ones for?}]
+dialog [cowboy: {Nope, no microwaves.  You know what they need to invent?  A portable microwave. Nuke on the go.}]
 
-{A man sitting next to me answered.}
+print {We went into a large open dining area, with people everywhere.  I sat down at a table and was given a bunch of Asian food...in addition to having sushi there was some rice.  There were two sets of chopsticks, and one set was smaller than the other.}
 
-[man: "Those are the smaller chopsticks, they are used for eating rice.  What do you use to pick up small things?"]
+dialog [me: <holding small chopsticks> "What are these little ones for?"]
 
-[me: "Um, we just have one size of chopstick."]
+print "A man sitting next to me answered."
 
-{I tried using the small chopsticks but the man felt I was holding them wrong.}
+dialog [
 
-[man: "You should be using more fingers!"]
+    man: {Those are the smaller chopsticks, they are used for eating rice.  What do you use to pick up small things?}
 
-{He held out his hand to try and show me how he was holding it, and I tried to adjust but kept holding them in a way he considered to be wrong (but I considered correct from waking life).}
+    me: "Um, we just have one size of chopstick."
 
-{Eventually an older man who I perceived to be the chef of the food came by and took my hand.  He wedged the chopstick between my middle finger and ring finger.  Then he flipped my hand around in a way so that I could aim the chopsticks precisely while having them threaded through my hand for support.  It was uncomfortable but I sort of felt like I was figuring it out.}
+]
 
-[me: "Oh, I think I see.  Thanks."]
+print {I tried using the small chopsticks but the man felt I was holding them wrong.}
 
-[chef: "I've taught a lot of people!"]
+dialog [man: "You should be using more fingers!"]
 
-[me: "Do you know who I am?  How I got here?"]
+print << [
 
-{He exaggeratedly looked to the left and then to the right.}
+    {He held out his hand to try and show me how he was holding it, and I tried to adjust but kept holding them in a way he considered to be wrong (but I considered correct from waking life).}
 
-[chef: "Yes.  Don't worry, when the rest of them are all looking the other way, I will explain everything to you that no one else will explain."]
+    {Eventually an older man who I perceived to be the chef of the food came by and took my hand.  He wedged the chopstick between my middle finger and ring finger.  Then he flipped my hand around in a way so that I could aim the chopsticks precisely while having them threaded through my hand for support.  It was uncomfortable but I sort of felt like I was figuring it out.}
 
-[me: "Great!"]
+]
 
-[chef: <frowning> "That's a joke.  I am of course not going to do that.  You must have picked up on the idea that there is some kind of very important reason people aren't telling you all that much."]
+dialog [
 
-{Someone who might have been the man from earlier spoke.}
+    me: "Oh, I think I see.  Thanks."
 
-[man: {Before...you could make a movie nearly instantly with two minds tied behind your back.  But going forward will be a new chapter.  So it really isn't all that useful for us to try and "tell you who you are" because of your past...any moreso than it is for us to dwell on it ourselves.  We all change even if some parts of us stay the same.}]
+    chef: "I've taught a lot of people!"
 
-{The dining room was suddenly attacked by people who ran in, some pulling off masks that made them look like other people.  Though some had a chaotic response, I just sighed and sat to try and finish off my sushi.}
+    me: "Do you know who I am?  How I got here?"
 
-{A woman who was holding two stick-like things that seemed to shoot laser beams of some kind came and held them at me.  Somehow I resisted whatever damage it was doing until someone shot her.  Others seemed to be coming to target me so I tried to pick up what I could to throw as a weapon of my own.}
+]
 
-{I found a kind of heavy glass jar of what seemed like artichoke hearts.  What I wanted to do was basically use it to bash attackers in the face, but I really didn't have the strength to make that happen.  My dream motions were too sluggish, and nothing had enough force.  So I decided to "think outside the box" and opened the jar, and threw the wet squishy contents onto one of the guys faces.}
+print {He exaggeratedly looked to the left and then to the right.}
 
-{That seemed to slow him down so that he became sluggish, and as he tried to move away we had what would have seemed like a fight between two extremely weak people.  But I got him up against a wall and held his neck...forcing it to see if that did anything.  His face turned kind of red and he didn't appear to be fighting back (using an attack I could see).}
+dialog [
 
-[attacker: <unconvincingly> "I like you."]
+    chef: {Yes.  Don't worry, when the rest of them are all looking the other way, I will explain everything to you that no one else will explain.}
 
-{I didn't loosen my grip, I just kept holding his neck.}
+    me: "Great!"
 
-[note {I thought of Walter White's first murder in Breaking Bad when he figures out the drug dealer is planning to kill him if he let him go.}]
+    chef: <frowning> {That's a joke.  I am of course not going to do that.  You must have picked up on the idea that there is some kind of very important reason people aren't telling you all that much.}
 
-{My ability to focus on the force of gripping his neck was causing me to lose a fix on the dream.}
+]
 
-[attacker: <sinisterly> "I love you."]
+print {Someone who might have been the man from earlier spoke.}
 
-{My grip on the dream faltered, and I awoke.}
+dialog [man: {Before...you could make a movie nearly instantly with two minds tied behind your back.  But going forward will be a new chapter.  So it really isn't all that useful for us to try and "tell you who you are" because of your past...any moreso than it is for us to dwell on it ourselves.  We all change even if some parts of us stay the same.}]
+
+print << [
+
+    {The dining room was suddenly attacked by people who ran in, some pulling off masks that made them look like other people.  Though some had a chaotic response, I just sighed and sat to try and finish off my sushi.}
+
+    {A woman who was holding two stick-like things that seemed to shoot laser beams of some kind came and held them at me.  Somehow I resisted whatever damage it was doing until someone shot her.  Others seemed to be coming to target me so I tried to pick up what I could to throw as a weapon of my own.}
+
+    {I found a kind of heavy glass jar of what seemed like artichoke hearts.  What I wanted to do was basically use it to bash attackers in the face, but I really didn't have the strength to make that happen.  My dream motions were too sluggish, and nothing had enough force.  So I decided to "think outside the box" and opened the jar, and threw the wet squishy contents onto one of the guys faces.}
+
+    {That seemed to slow him down so that he became sluggish, and as he tried to move away we had what would have seemed like a fight between two extremely weak people.  But I got him up against a wall and held his neck...forcing it to see if that did anything.  His face turned kind of red and he didn't appear to be fighting back (using an attack I could see).}
+
+]
+
+dialog [attacker: <unconvincingly> "I like you."]
+
+print {I didn't loosen my grip, I just kept holding his neck.}
+
+note {I thought of Walter White's first murder in Breaking Bad when he figures out the drug dealer is planning to kill him if he let him go.}
+
+print {My ability to focus on the force of gripping his neck was causing me to lose a fix on the dream.}
+
+dialog [attacker: <sinisterly> "I love you."]
+
+print "My grip on the dream faltered, and I awoke."

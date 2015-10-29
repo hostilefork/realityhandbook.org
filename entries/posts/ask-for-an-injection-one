@@ -6,66 +6,82 @@ Draem [
     old: http://realityhandbook.livejournal.com/129585.html
 ]
 
-{*When I asked for suggestions of things to try in dreams, reader /rick said I should try asking someone to give me an injection. The idea would be to experiment with expectations--what would happen if I was the one to initiate such an exchange. Last night was my first case of making an attempt at this, because I was in a situation where I happened to remember the idea. I'll try it a few more times.*}
+print {*When I asked for suggestions of things to try in dreams, reader /rick said I should try asking someone to give me an injection. The idea would be to experiment with expectations--what would happen if I was the one to initiate such an exchange. Last night was my first case of making an attempt at this, because I was in a situation where I happened to remember the idea. I'll try it a few more times.*}
 
 divider
 
-{I was in a cave with a girl who looked a bit like Ash, the character from Avalon, but seemingly a bit younger.}
+print {I was in a cave with a girl who looked a bit like Ash, the character from Avalon, but seemingly a bit younger.}
 
-[picture %avalon2.jpg]
+picture %avalon2.jpg
 
-{Despite not having anything in my hand, I was making lobbing gestures at a cliff wall that seemed to be opposing our cave. I was having a fair amount of success destroying turrets and strange web-like structures. It was a situation that reminded me of a "shooting gallery" style level, such as in the game Contra:}
+print {Despite not having anything in my hand, I was making lobbing gestures at a cliff wall that seemed to be opposing our cave. I was having a fair amount of success destroying turrets and strange web-like structures. It was a situation that reminded me of a "shooting gallery" style level, such as in the game Contra:}
 
-[picture %Contra.png]
+picture %Contra.png
 
-[me: "Hm, I wonder what the bonus points will be."]
+dialog [me: "Hm, I wonder what the bonus points will be."]
 
-{When the wall had collapsed, the webbing fell. We won some kind of prize of umbrellas, and stopped the girl and kissed her. But I started to float off the ground which seemed to disturb her, and then she seemed to look at the top of my head as if she didn't expect whatever was there.}
+print {When the wall had collapsed, the webbing fell. We won some kind of prize of umbrellas, and stopped the girl and kissed her. But I started to float off the ground which seemed to disturb her, and then she seemed to look at the top of my head as if she didn't expect whatever was there.}
 
-[note {I do not have much hair on the top of my head, so my natural thought would be that she was surprised by that. Though it could be something else.}]
+note {I do not have much hair on the top of my head, so my natural thought would be that she was surprised by that. Though it could be something else.}
 
-{I shrugged and followed her down the hall into a dorm room type place. There were a lot of people in it. Sitting by the door was a kind of fat guy, who raised his arm at me and I put on my guard. I then saw that he had a watch on his elbow and was raising his arm to read it.}
+print {I shrugged and followed her down the hall into a dorm room type place. There were a lot of people in it. Sitting by the door was a kind of fat guy, who raised his arm at me and I put on my guard. I then saw that he had a watch on his elbow and was raising his arm to read it.}
 
-[fat-guy: "I was just checking the time."]
+dialog [
 
-[me: {Oh. Well, sorry. People attack me a lot, I get jumpy.}]
+    fat-guy: "I was just checking the time."
 
-{I left the room and tried to backtrack. There were corridors with white walls and beige carpet--a fairly standard interior. At first I was worried that I would be crowded with attackers, but then I started to worry that I wasn't going to find anyone else at all before I woke up.}
+    me: {Oh. Well, sorry. People attack me a lot, I get jumpy.}
 
-{A room I entered had a large figure with his back turned toward me. He was about the size of a football player but wearing dark clothing.}
+]
 
-[me: {Hey, I need you to inject me. With one of those injection things.}]
+print << [
 
-{He seemed to quickly access a briefcase with syringes in it.}
+    {I left the room and tried to backtrack. There were corridors with white walls and beige carpet--a fairly standard interior. At first I was worried that I would be crowded with attackers, but then I started to worry that I wasn't going to find anyone else at all before I woke up.}
 
-[me: "Okay wait. First, what's that called?"]
+    {A room I entered had a large figure with his back turned toward me. He was about the size of a football player but wearing dark clothing.}
 
-[him: "Kevinase, for my daughter."]
+]
 
-[me: "Wait, can you spell that?"]
+dialog [me: {Hey, I need you to inject me. With one of those injection things.}]
 
-[him: "U M L A B E R R E N C I A"]
+print {He seemed to quickly access a briefcase with syringes in it.}
 
-[me: {Uh... that spells 'UML Abberencia'. As in, an aberration of the uniform markup language?}]
+dialog [
 
-[him: "Exactly, yes, the same."]
+    me: "Okay wait. First, what's that called?"
 
-[note {I was attempting to refer, actually, to the [Unified *Modeling* Language](http://en.wikipedia.org/wiki/Unified_Modeling_Language).}]
+    him: "Kevinase, for my daughter."
 
-[me: {Well clearly there's some kind of digital basis for a lot of what I see here.}]
+    me: "Wait, can you spell that?"
 
-"He raised the syringe at me."
+    him: "U M L A B E R R E N C I A"
 
-[me: {I fail to understand what rationale you have for wanting to inject me--a stranger to you--with this.}]
+    me: {Uh... that spells 'UML Abberencia'. As in, an aberration of the uniform markup language?}
 
-"The needle came closer, but I backed off."
+    him: "Exactly, yes, the same."
 
-[me: {Think about it. This has been going on for a long time now, and I'd like less trouble. Less trouble for me, less trouble for you, less trouble for everybody. Can't you explain?}]
+]
 
-{He grumbled, put the syringe away, and walked over to a bookshelf.}
+note {I was attempting to refer, actually, to the [Unified *Modeling* Language](http://en.wikipedia.org/wiki/Unified_Modeling_Language).}
 
-[him: "All right, fine."]
+dialog [me: {Well clearly there's some kind of digital basis for a lot of what I see here.}]
 
-[me: {Well, you'll have to hurry it up a bit, as I don't have a lot of time.}]
+print "He raised the syringe at me."
 
-{He grabbed a large brown book that seemed to be made out of leather. There were two lines of gold writing on the top, and I could barely make out something like "Los Angeles Shopping Guide".}
+dialog [me: {I fail to understand what rationale you have for wanting to inject me--a stranger to you--with this.}]
+
+print "The needle came closer, but I backed off."
+
+dialog [me: {Think about it. This has been going on for a long time now, and I'd like less trouble. Less trouble for me, less trouble for you, less trouble for everybody. Can't you explain?}]
+
+print {He grumbled, put the syringe away, and walked over to a bookshelf.}
+
+dialog [
+
+    him: "All right, fine."
+
+    me: {Well, you'll have to hurry it up a bit, as I don't have a lot of time.}
+
+]
+
+print {He grabbed a large brown book that seemed to be made out of leather. There were two lines of gold writing on the top, and I could barely make out something like "Los Angeles Shopping Guide".}
