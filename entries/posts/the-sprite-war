@@ -18,7 +18,7 @@ print << [
 
 ]
 
-note {Besides being a drink, ["sprite"](http://en.wikipedia.org/wiki/Sprite_(computer_graphics)) is a technical term for a computer graphic that can be animated independently and move around the screen. You could call Mario in Super Mario Brothers a "sprite"}
+note {Besides being a drink, ["sprite"](http://en.wikipedia.org/wiki/Sprite_%28computer_graphics%29) is a technical term for a computer graphic that can be animated independently and move around the screen. You could call Mario in Super Mario Brothers a "sprite"}
 
 print {In the section she mentioned that she was reading computer code which used a lot of pairs of colons in a row ("::"). She recognized it as C++ code, because she had taken a class in programming in college.}
 

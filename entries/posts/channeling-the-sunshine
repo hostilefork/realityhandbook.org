@@ -28,7 +28,7 @@ print {We were both typing on the same screen and somewhat interfering with each
 
 note [
 
-    print {It strongly resembled [PINE](http://en.wikipedia.org/wiki/Pine_(e-mail_client)):}
+    print {It strongly resembled [PINE](http://en.wikipedia.org/wiki/Pine_%28e-mail_client%29):}
 
     picture %pine.png
 

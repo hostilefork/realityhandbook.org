@@ -35,7 +35,7 @@ print "She paused and looked at me intently."
 
 dialog [asian-girl: "Michael Bolton."]
 
-print {People around us looked completely perplexed. I struggled in my semi-conscious state to respond, and remember why Michael Bolton was cool...it took me a little time, but I remembered the Saturday Night Live music video [Captain Jack Sparrow](http://en.wikipedia.org/wiki/Jack_Sparrow_(song)):}
+print {People around us looked completely perplexed. I struggled in my semi-conscious state to respond, and remember why Michael Bolton was cool...it took me a little time, but I remembered the Saturday Night Live music video [Captain Jack Sparrow](http://en.wikipedia.org/wiki/Jack_Sparrow_%28song%29):}
 
 dialog [me: {Yes! Michael Bolton is great...because...of Captain Jack Sparrow!}]
 

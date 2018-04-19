@@ -40,7 +40,7 @@ dialog [
 
 ]
 
-note {This is a bit of a computer science joke, because in object-oriented programming an object has both data and functions called [methods](http://en.wikipedia.org/wiki/Method_(computer_science)) which operate on that object.}
+note {This is a bit of a computer science joke, because in object-oriented programming an object has both data and functions called [methods](http://en.wikipedia.org/wiki/Method_%28computer_science%29) which operate on that object.}
 
 print {Because I got the impression that he was smart, I decided to abandon my quest to go elsewhere and just talk to him.}
 

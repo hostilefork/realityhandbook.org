@@ -70,7 +70,7 @@ print {The next thing I knew, our text chat disappeared. There were all kinds of
 
 dialog [cop: {Surprise guys, we found this frame. And if you think a fraud can't last for long, you're right!}]
 
-note {The term "frame" was interesting to me, because I heard it sort of the way you might think of a [Sandbox](http://en.wikipedia.org/wiki/Sandbox_(computer_security)) in computer security.}
+note {The term "frame" was interesting to me, because I heard it sort of the way you might think of a [Sandbox](http://en.wikipedia.org/wiki/Sandbox_%28computer_security%29) in computer security.}
 
 dialog [
 
