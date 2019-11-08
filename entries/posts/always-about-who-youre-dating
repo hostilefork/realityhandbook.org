@@ -1,0 +1,56 @@
+Draem [
+    date: 17-Dec-2016/9:56+3:00
+    title: "Always About Who You're Dating"
+    slug: %always-about-who-youre-dating
+    tags: [lucid-dream neutral disney helpful]
+]
+
+print {Someone came to a house I was in, looking for someone who lived there...but wasn't there.  I had the idea that I was visiting this person, but they had taken off and not come back yet.  So I didn't really know what to say.}
+
+dialog [
+    guy: "Oh, you've fooled us again."
+
+    me: "Um, not trying to fool you."
+]
+
+print {There was some issue walking around in the house where I couldn't find a way to get downstairs, but wound up on a kind of ledge looking down on the place I wanted to get to.  I decided I would jump.  Someone in a van picked me up and we were going somewhere, and I was laying in the back...but we were going to pick up some other people.}
+
+dialog [
+    me: "I'm in my underwear.  Oh, but now I'm in jeans.  Hm.  Okay, this is... a dream pretty clearly.  So, questions I guess..."
+]
+
+print << [
+    {I got out of the car and looked around at the place we had pulled up to.  Inside it, there human figures sitting motionless wearing headsets, and devices that were kind of robot like on desks in front of them.  They were in rows, like at a computer lab.}
+
+    {I went and tried to wave at one of the people, and waved my hand back and forth.  The people didn't seem to notice me.  But the device reacted and faced me and would follow my hand around and as I moved it.}
+]
+
+dialog [
+    me: "Hey, does anybody see me, here?!"
+]
+
+print {A guy who wasn't sitting down walked up to me.  He was wearing some kind of hood, and looked like a sort of Hawaiian sith lord.}
+
+dialog [
+    man: <laughing> "I can see you.  But my facial recognition software is better than yours."
+
+    me: "What's all this about?"
+
+    man: "I hate to break it to you, but really it's all just about who you're dating...that's what it's about now, and that's what it's going to be.  Probably always.  I don't mean to brag, but here's my recent conquest list."
+]
+
+print {He had some kind of placard or tag on his shirt, which was like a denim shirt with an unusual number of buttons.  It had the names of women I hadn't really heard of, although I think one was "Chrissy Tiegen", which sounded like a familiar name.}
+
+note {It appears that is the name of a Sports Illustrated Swimsuit model.  She is alright looking as such people go.}
+
+dialog [
+    me: "So jeez, this is all really solid...unusually so."
+]
+
+print {I focused on things, a cardboard box on the floor, and messed with it.  Then the reality kind of phased in and out and I got frustrated with it.}
+
+dialog [
+    me: "Argh.  WHAT IS GOING ON!  What is all this, what answers do people know that they aren't telling.  What would happen if I just killed myself?"
+
+    guy: "Well, I'm part of Disney, and we have a certain way of thinking about stories.  I like you and admire how brave you are.  So if you did that, we'd probably just go back over it and rework things so there was a happier ending."
+]

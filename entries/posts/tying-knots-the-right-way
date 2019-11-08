@@ -1,0 +1,84 @@
+Draem [
+    date: 29-Nov-2017/9:56+3:00
+    title: "Tying Knots The Right Way"
+    slug: %tying-knots-the-right-way
+    tags: [lucid-dream positive technology]
+]
+
+print {Somehow I'd been told that there was someone who lived on an island, and that it was isolated and rather small.  I was walking along a path and saw a woman in a very small and rickety seeming structure--more the size of a tent than anything--that was tethered off of the edge of a path on the shore of someplace.  It seemed like the structure was so rickety as to be unsafe.}
+
+dialog [
+    me: "I heard you lived on a small island.  Is this...is this what people meant?  That the island is artificial and only large enough for you to sit on?"
+]
+
+print << [
+    {She confirmed that it was true, and got up to show me how her structure was built and how the island was tethered to keep it in place.  Either something went wrong with the process of this demonstration, or I interpreted it that way...as the structure seemed to come apart and unwind in a way that produced it into a long snakelike object.}
+
+    {Wanting to help, I went out to try and grab the snakey linked structure and carry it back to where it had been.  It had been tied down so I tried to retie it using a little loop of a knot.}
+
+    {As we moved the structure into place an older man came up to me and inspected one of the knots.}
+]
+
+dialog [
+    man: <disapprovingly> "Who tied this?"
+
+    me: "Er, I might have tied that one."
+
+    man: "If this was intended to be untied very easily, you did a perfect job.  But presumably your goal was to *tie a knot*, one that should not undo itself."
+]
+
+print {The woman whose "island" it had been walked to where we were standing and confirmed that had been one of the knots I'd tied.}
+
+dialog [
+    man: "You should sense you are doing something wrong, when a technique you use involves so little sophistication and thought that it holds no surprise for anyone but perhaps a native child who has never seen so much as a piece of string before.  The first thing that comes to mind is rarely going to be the best."
+
+    me: "Well, really the only time anyone ever taught me to tie a knot was when I was taught to tie my shoelaces."
+
+    man: "...which even if that were taught correctly--and it's not--would still involve something meant to be untied.  A knot like this one you've made could get someone hurt or killed, this house could have floated away.  So it's important all of you know how to do this right--I'm going to call everyone to a session and make sure everyone learns this the right way."
+]
+
+print << [
+    {Somehow I was then at a meeting at a kind of banquet hall, where the man had gathered a large number of young people with a bunch of things to learn how to tie.  The things seemed more like napkins than ropes, and the goal appeared to be to tie them together along the edges into larger sheets.  To help see how pieces of different sheets contributed to final products, they had colors and patterns.}
+
+    {I followed along reasonably with the first step.  It involved setting up a loop around the bunched up napkin-like thing, where that loop was sitting on top of another loop--both loops were loose.  The idea was that the top loop would ultimately form the location of the knot, so you would slide it into place where you wanted this knot, and then tighten until the longer loop underneath narrowed to match the width of the loop on the top.}
+
+    {However, this moved to a second step where a bigger challenge was given.  I wound up being stuck in a situation which was very much like the problem of not being able to fold a piece of paper more than N times before the exponential growth in the number of layers is too great.}
+
+    {We had some kind of manual to look at for the early steps, and I grumbled another student near me about not being able to find what to do at this step.}
+]
+
+dialog [
+    student: "The solution is not given, you're supposed to figure it out yourself.  Think about it, you don't have to keep going with the process at this point.  You're free to pull partial pieces out and rethink...imagine you were starting all over but with the parts you've built up."
+
+    me: <frustrated> "But there are a *lot* of ways you could do that, and they'd all come out with different outcomes.  The shape of what you'd get would be different with every choice."
+
+    student: "Exactly--that's the realization.  It's not just a 'knot', it's a 'knot group'; a family of knots which are built using variations of a process.  So make up a reason why you picked the path you did and why that outcome might be more useful for some purposes than others."
+]
+
+print {I didn't know what to do, so a young child came over and unrolled the partially wound sheets, the patterns showing the contributions from the previous steps to each component.  He pointed at the frayed edges.}
+
+dialog [
+    child: "If you look closely at the edges here, see how some edges have more exposed thread than others do.  These are clues, it shows you what God wants you to see, where the next connections need to be made first."
+]
+
+print << [
+    {Despite historically thinking of myself as being smart and "getting it", I could only get a few arrangements to seemingly work before I gave up and wandered off.}
+
+    {I came across some people talking about a competition involving this form of folding and weaving.  A young girl who had made it to the championships for her work but had lost to some sort of factory or university team.}
+]
+
+dialog [
+    girl: "They beat me but it involved--'some amount of prep work'.  Which is an understatement.  I was asked not to reveal the secret of how they did it, but they showed me a video documentary of how, and it was a very long video."
+]
+
+print {Somehow my point of view was such that I was in the room where this sheet-weaving process was being done by the winning team.  Large white sheets were hanging around in a room that was configured by some industrial robotics.  I watched phases go by, as cascading scaffolding structures would raise behind the sheets in hierarchies, threading things together.}
+
+dialog [
+    me: <realizing> "Oh, they modified the target sites to accept multiple threads in the same phase and integrated the passes."
+]
+
+print << [
+    {I watched as something I'd (ostensibly) previously understood to be done in single discrete steps was being done together by machines.  Pieces that one would have once been understood to be a single component in this process (imagine like a bead with one hole to thread through) were being composed to produce stranger beads with many holes.}
+
+    {There was a large computer shaped like a giant dodecahedron that had lights flashing on it which was apparently choreographing the process, that I understood to be beyond the abilities of most.}
+]

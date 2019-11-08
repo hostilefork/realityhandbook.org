@@ -1,0 +1,22 @@
+Draem [
+    date: 17-Apr-2018/9:56+3:00
+    title: "Sampling the Aging Goo"
+    slug: %sampling-the-aging-goo
+    tags: [lucid-dream neutral]
+]
+
+print {As is often the case, I was spitting out a lot of goo from my mouth.  I kind of wadded it up and complained, and handed it to a woman.}
+
+dialog [
+    me: "What's WITH this stuff that's always coming out of my mouth in dreams, anyway?"
+]
+
+print {She took it from me and rubbed it on herself.  Her hair fell out and she aged very rapidly--first becoming old, then a mummy, then a skeleton...and collapsed.}
+
+dialog [
+    me: <aghast> {Well, jeez, I'm sorry!}
+
+    mummified-skeleton: {No, it's interesting!  This is about giving you *options*.  Isn't it important to see all the different ways of being?}
+]
+
+print {What remained of the mummy/skeleton then broke into song.  I don't remember the lyrics, but the gist was that in the end, you'll eventually see all the options--so you might as well try everything when you can.}

@@ -21,7 +21,7 @@ quote [
     print << [
         {Oh the power of my ring is very real}
 
-        {And I keep it in a bowl...this bowl...} 
+        {And I keep it in a bowl...this bowl...}
 
         {It's completely black! (pause)}
 
@@ -35,9 +35,7 @@ quote [
 
 print {The song went on to declare that after all this talk it just looked like a black bowl to you, that there was a reason.  Because this was the very bowl from which the **idea** of black first originated.  Which I found funny and kind of woke up laughing, also at the song structure.}
 
-note [
-    print {I don't see any particularly relevant meanings for "timbralated" or "briots".  But in the context of the song, the absence of any sensible meaning for the details of the bowl would make sense...as we are perhaps led to believe that this is just a plain black bowl.  :-)}
-]
+note {I don't see any particularly relevant meanings for "timbralated" or "briots".  But in the context of the song, the absence of any sensible meaning for the details of the bowl would make sense...as we are perhaps led to believe that this is just a plain black bowl.  :-)}
 
 print {Another dream around the same time had someone telling a joke about a Snopes Bar:}
 

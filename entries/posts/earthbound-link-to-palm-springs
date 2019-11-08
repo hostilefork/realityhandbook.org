@@ -1,0 +1,44 @@
+Draem [
+    date: 19-Jul-2017/9:56+3:00
+    title: "Earthbound Link To Palm Springs"
+    slug: %earthbound-link-to-palm-springs
+    tags: [lucid-dream neutral attack]
+]
+
+print {I was in a rather lucid state, where my awareness of my location was very high.  I recounted where I was, accurately--to someone in an office.}
+
+dialog [
+    me:  "I'm in Palm Springs California, at a place called the Knight's Inn.  That's spelled K N I G H T'S I N N.  I'm in room 26.  If you need to get in touch with me, get an Earthbound link and call them."
+]
+
+note "This was true.  I'll add that it was a particularly low-end hotel, even by my standards."
+
+print {Someone picked up a phone and when they did, an alarm went off.}
+
+dialog [
+    me: <sighing> "Oh, crap."
+]
+
+print {I paced while the building seemed to get into a frenzy.  A non-frenzied man got off of an elevator and approached me.  I decided to try being friendly.}
+
+dialog [
+    me: <extending hand> "I'm going to guess you're looking for me."
+]
+
+print {He reached out and shook my hand, and started walking me out.}
+
+dialog [
+    me: "Look, I'm going to wake up anyway.  You don't have to attack me.  Just wait a few minutes, we'll talk and hang out--I'll be out of your hair before you know it."
+
+    man: "We have only the best interest in your development as a being."
+]
+
+print {He seemed to reach around my back and inject me with a thing, as per usual.}
+
+dialog [
+    me: <furious> "Dammit!  I swear...well if you're 'developing' me then be warned, this treatment is only going to make me madder once I am developed.  And I'll be coming back for you with more than just injections."
+]
+
+print {When I awoke I just sort of had a weird vision.  Though hard to call it a vision.  It was knowledge of a report about a widely circulated stock photo of a baby making a lewd drawing of some kind.  It had caused an issue about the parents of the baby.  The origin of the photo was traced, and discovered that this photo from a stock photo site had originated on another stock photo site, and the drawing had been faked in.}
+
+note {This is fairly common these days, as I just saw a picture of fake toy-company logo tattoo jobs on babies.  It's becoming par for the course for people to be outraged by faked photos--no machine learning needed to fool the average idiot.}

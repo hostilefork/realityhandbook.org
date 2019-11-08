@@ -27,9 +27,7 @@ dialog [
     monitor: "C-c-c...con--*con-crete*."
 ]
 
-note [
-    print {This dialog experience reminds me a bit of the movie *Electric Dreams* which I saw as a kid, when he pours champagne on the computer and it becomes artificially intelligent, asking questions like *"What is a B-b-brain?"* (after being told it doesn't have one).}
-]
+note {This dialog experience reminds me a bit of the movie *Electric Dreams* which I saw as a kid, when he pours champagne on the computer and it becomes artificially intelligent, asking questions like *"What is a B-b-brain?"* (after being told it doesn't have one).}
 
 print {In response to saying it was choosing a monitor representation because that was "concrete" (vs. abstract), I tapped it.  It felt like tapping any monitor might and it didn't react to that.}
 

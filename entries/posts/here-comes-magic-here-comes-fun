@@ -1,0 +1,51 @@
+Draem [
+    date: 26-Jan-2018/9:56+3:00
+    title: "Here Comes Magic, Here Comes Fun"
+    slug: %here-comes-magic-here-comes-fun
+    tags: [non-lucid-dream neutral music]
+]
+
+print << [
+    {I was at some kind of concert venue, which wasn't overly fancy...it was dark and there weren't a whole lot of people there.}
+
+    {There was a break between performances, but some kind of minimalist electronic stuff sounded.  A black man took to the stage who I understood--for some reason--to be a preacher of some kind.  He began to kind of rap over the electronic buzzing...and did so with some kind of passion.  I noticed that he used the "N-word" which kind of surprised me.}
+]
+
+note [
+    print {My desire for accuracy in reporting makes me extremely upset that I can't write certain words *even when quoted* due to automated filtering.  So the whole "N-word" phenomenon infuriates me to write here.  *A quote is distinct from a usage*, and it strikes me as an intrinsic failure of human minds to allow such a flagrant weakness in their communications to *require* not saying what happened.  This nonsense has been allowed to evolve to censoring my NAME--which was a perfectly fine (and famous) name--but in my lifetime has become an obscenity and people won't write it out.}
+]
+
+print << [
+    {I was sitting in the middle of the venue and he walked off the stage.  I was worried he was going to bother me but he kind of rapped a bit at me and walked around to the back and started rapping at the sound mixing guy.}
+]
+
+dialog [
+    sound-mixing-guy: <inaudible> "..."
+
+    black-performer: {WHAT DID YOU JUST SAY!  I demand this man be removed from this venue!}
+
+    me: <intervening> {We didn't hear the conversation.  What did he say?}
+
+    black-perfomer: {He asked me "Is this music?"}
+
+    me: "Okay, so I get how that can be offensive, if it's your artistic outlet and such.  But people are always going to have opinions.  It would be one thing if you were staying on the stage and keeping it there, and then if people yell that out they are heckling.  You're blurring the lines by walking off the stage, so you're asking for reactions at that point."
+]
+
+print << [
+    {While the original performer kind of sulked, another group of people started coming to the stage and kind of moving on to a next performance.  I was still seated, and a kind of not-too-attractive girl had decided to sit on my lap for some reason.  I'd been facing back toward the mixing booth...and I was uphysically ncomfortable, so I had to kind of find a way to gesture her off to the side so I could turn around.}
+
+    {The owner of the club came out to give a speech about the performance kerfuffle.}
+]
+
+dialog [
+    owner: {We all come together here, to an event, that doesn't charge any cover.  It's so people can come and have a good time, and use it how they want.  Some people are here to come and test their mixing gear or whatever--practice setting up and unpacking and packing back...and that's good.  But just because you're getting that practice, this is not a "practice gig".  This **IS** a *real* concert, and everyone should have respect for the magic we are making here.}
+]
+
+print {He proceeded to lead the room in a fairly cheezy-sounding repetitive sing along.}
+
+quote [
+    print {Here comes magic...}
+    print {Here comes fun...}
+    print {Add in practice...}
+    print {And make them one...}
+]

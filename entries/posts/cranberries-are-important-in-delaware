@@ -1,0 +1,42 @@
+Draem [
+    date: 3-Dec-2017/9:56+3:00
+    title: "Cranberries are Important In Delaware"
+    slug: %cranberries-are-important-in-delaware
+    tags: [lucid-dream positive helpful]
+]
+
+print {I was standing in some kind of kitchen, that I could only dimly make out...and an older guy was tinkering with a blender.  He was talking somewhat fast and I didn't have a lot of chance to interrupt.  For some reason he was talking about cranberries:}
+
+dialog [
+    man: "...and that's why in Delaware the cranberries are important, so..."
+
+    me: <interrupting> "Um, er, I went to Cranberry World once."
+
+    man: "What's that?"
+
+    me: "It's like, a tourist attraction, I don't really remember it was a long time ago."
+]
+
+print {My field of view was completely black now, and the counter I had seen before me a moment ago was gone.}
+
+print {Though realizing it was a dream, I still didn't go straight to talking about that.  For variety, I thought I would say something else first.}
+
+dialog [
+    me: "The only thing I recently heard about cranberries was on the John Oliver show, where he was sort of showing how much sugar they had to add to it...an unreasonable amount, because the cranberries are so sour."
+]
+
+note {John Oliver did do a show [which mentions cranberries](https://www.youtube.com/watch?v=MepXBJjsNxs), though the topic was actually sugar.  I remembered cranberries being a bigger part of it than it actually is.}
+
+dialog [
+    voice: "Well cranberry growers these days, are just scraping by, trying to find a way to make a living."
+
+    me: "Uh...yeah.  Okay, so...it's interesting to be here having this casual 'conversation' about cranberries.  *But my field of view is blank.*  I'm in bed actually, taking a nap anyway.  So kind of strange I'd just be talking when I can't see you at all."
+
+    voice: "Well, *you're* a good looking guy."
+
+    me: "Um...thanks?  So...this is the part of the dream where I usually ask questions.  But I'll leave it more open-ended.  Do you have any advice?"
+
+    voice: "People in complex situations would often be surprised to find out how there are others out there, who understand us more than we understand ourselves.  About what it's like to...."
+]
+
+print {I kind of lost the voice around here as I was waking up.  But it was drifting into some kind of soliloquy about waking up in the morning, and ending with "and want to live and live and live..."}

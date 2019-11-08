@@ -1,0 +1,90 @@
+Draem [
+    date: 20-Feb-2017/9:56+3:00
+    title: "Rhoga the Creepy Robot Dog"
+    slug: %rhoga-the-creepy-robot-dog
+    tags: [non-lucid-dream neutral dogs]
+]
+
+print {I was watching a TV show called "AIAI"--or something similar--at what seemed like my maternal grandmother's house.  A blond girl was next to me singing and poking me, I stroked her legs and tried to get her to stop.}
+
+dialog [
+    me: <confused> "Yes?"
+
+    blond: "I just like the song."
+]
+
+print {I got up and looked at the TV, and arranged items around it.  Noticed lots of small stickers with West Highland Terrier graphics.  Some stickers had cartoon quote bubbles from the dog, about liking being pet.}
+
+note {I had a West Highland Terrier when I was growing up (name: Wesly).}
+
+dialog [
+    me: <to parents> {Why do you have all these stickers stuck on the TV?}
+
+    parents: {Did you see our new dog?}
+]
+
+print << [
+    {They waved a remote controller, eventually a small white dog came out.  It was robotic, but very realistic.}
+
+    {I knelt down to pet it, at first it went away from me, scared (or acting scared).}
+]
+
+dialog [
+    me: <as one would talk to a dog> "hey...c'mere.  come on."
+]
+
+print {The robot dog didn't listen at first.}
+
+dialog [
+    mom: "You have to call her by name.  Rhoga."
+
+    me: "Rhoga?  Hm.  Okay, c'mere Rhoga."
+]
+
+print {The robot dog seemed to perk up to its name and came close.  I pet it.  It was soft and it would do typical dog things, kept moving, sniffing my hand.}
+
+dialog [
+    me: "This is... really realistic.  What happens when you take her for walks?"
+
+    mom: <handing me a leash> "She doesn't walk all that fast."
+]
+
+print {I took the leash and started walking around with the dog but just on my knees at first.  The robot was able to keep up with me on my knees and seemed to go pretty fast as far as I was concerned.}
+
+dialog [
+    me: "That's about as fast as I'd want to walk, anyway."
+]
+
+print {We stopped, and the dog saw something on the floor and went to pick it up with her mouth.}
+
+dialog [
+    me: "Does it eat things?"
+
+    mom: "It can chew things up."
+]
+
+print {The dog then picked up the leash in its mouth.  My parents were worried.}
+
+dialog [
+    parents: "Hey, Rhoga!  No!  Drop that!"
+]
+
+print {The dog set it down.  The leash handle was white and had some way it would unfold into a control pad.  The dog just stared at it.  Then, began to speak.}
+
+dialog [
+    rhoga: "I...remember this."
+]
+
+print {My parents looked frightened--and I assumed the dog had never spoken before.}
+
+dialog [
+    rhoga: "I know.  I know why you consider this controller a substitute for my mind.  You're afraid."
+]
+
+print {For whatever reason, I was skeptical that the dog had any AI of that level in it.}
+
+dialog [
+    me: <skeptically> "I believe this is a programmed performance--a joke to freak you out."
+]
+
+print {The robot dog seemed to shut itself down.}

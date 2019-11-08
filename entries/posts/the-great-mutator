@@ -1,0 +1,28 @@
+Draem [
+    date: 23-Nov-2017/9:56+3:00
+    title: "The Great Mutator"
+    slug: %the-great-mutator
+    tags: [non-lucid-dream neutral]
+]
+
+print << [
+    {I was reading a book credited to a Ph.D physicist friend (who after his degree, became involved with the Ruby on Rails programming community, and notably promotes an idea I had when younger about how the circular constant we use should be defined as `2 * pi`).  The book was simply titled "PHYSICS".}
+
+    {I realized this was a library book, that I had checked it out.  I wondered what the due date was, and so I flipped to the back of the book.  The inner side of the back cover was actually a kind of flap or pocket, and it contained two very old school cards with names and dates on it.}
+
+    {The last due date suggested the book didn't have to be returned until september 22nd.  My awareness of the current date was such that I knew it was not September yet.}
+]
+
+note {I thought to myself that especially given I'd probably forget I had it and there would be late fees, I shouldn't be a cheapskate and check it out of the library, but buy a copy from my friend.}
+
+print << [
+    {I went to read the first chapter, but noticed there was a lot of preface.  Holding my thumb at the point of where the first chapter began, I tried to skim a bit back to see what the preface was about.}
+
+    {The preface talked about the inception of the book, and my friend was describing that the original intent was to have a co-writer.  The two of them had gotten together and hammered out the basic premises and organization of the book.  But the co-writer wound up not having any time for the project, so he had to write it all himself.}
+
+    {A list of people were thanked in the book, including me, where I was referred to as "The Great Mutator".}
+
+    {After the author's preface, there seemed to be a slew of opening remarks by other physicists as forewords.  One simply said "This book is above average, but pretty standard".  My friend the author injected a sidenote that while it might not sound very complimentary, he took it as high praise coming from that person.}
+
+    {I turned to a page which seemed to be a problem statement in the spirit of "Two trains leave stations at different times, when do they cross" math problems.  However, this problem was phrased as "A walnut and a thunderstorm are traveling two different directions in time..."}
+]

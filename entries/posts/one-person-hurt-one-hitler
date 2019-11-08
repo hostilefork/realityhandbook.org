@@ -1,0 +1,42 @@
+Draem [
+    date: 1-Mar-2018/11:05+3:00
+    title: "One Person is Hurt, One Person is Hitler"
+    slug: %one-person-hurt-one-hitler
+    tags: [non-lucid-dream neutral]
+]
+
+print {I was walking toward home across a beach, and I met a girl who was talking to me while somehow also playing Jeopardy.  She'd won it three days in a row.  I was looking at her while she spoke, and eyeing her legs (but tried to be unobtrusive lest she notice).}
+
+dialog [
+    me: {How much did you win?}
+
+    her: {$75,000. But I also got an Ackerman scholarship for math in college worth $25,000.  It's a scholarship for vectors.}
+
+    me: <joking> {Why'd they give the money to *you*, if it's a scholarship *for* vectors?  If the vectors got it, they could use it to increase their magnitude.}
+]
+
+note {My joke seemed funny at the time, where the presumption was that she was studying vector mathematics...so it was "for her to study that".  But saying it was "for" vectors I was imagining the only think vectors would spend money on, which would be increasing their magnitude.  As opposed to changing their orientation, which is limited over a range.  I dunno.  It wasn't as funny when I woke up.}
+
+print << [
+    {I parted ways with the girl some how, and noticed a large red Nord keyboard instrument sitting on the ground.  Then I saw several music vendors, including a guy selling guitars.  We had a conversation about his life being divorced and having children; I listened.}
+]
+
+note {I had kind of a parallel conversation in waking life with a guy who works in a paper mill, who has 4 kids and his wife recently divorced him.  He was saying life kind of sucked and he didn't like going out.}
+
+dialog [
+    man: {Hey, do you want to get something to eat?}
+
+    me: {I'm going to be meeting a girl for a date later, but not doing anything until then.  We could eat now then I could just drink, so...sure.}
+]
+
+print {On our way to wherever we were going, a car came careening along and knocked him over.  He got up and seemed okay.  The car kept going, and yelled back at him...but then that car got in a deadly-looking collision flipping their cars into a building.}
+
+dialog [
+    man: <laughing> {Well--talk about instant karma!}
+]
+
+print {A bystander picked up a phone to report the situation.}
+
+dialog [
+    bystander: {We have a situation here.  One person is hurt, and one person is Hitler.}
+]

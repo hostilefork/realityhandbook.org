@@ -15,17 +15,13 @@ dialog [
 
 print {We did embrace a bit and I asked her a question about what her name was.  We went back and forth from where she would say a word and I would say it back, which started as me hearing it as Brutus Plume, but corrected it to what sounded like Brutulus Prume}
 
-note [
-    print {There is a boss monster in World of Warcraft apparently, which lists "Brutallous" as the name of an Orc Warrior with knives for hands.  She was better looking than him.}
-]
+note {There is a boss monster in World of Warcraft apparently, which lists "Brutallous" as the name of an Orc Warrior with knives for hands.  She was better looking than him.}
 
 dialog [
     woman: <wistfully> "You should have stayed with Emily longer, I liked that.  That could have been fun.  But you have a tendency to go talking and thinking off in a direction and then it just winds up ending.  I never thought jinxes were real and people had them, but you might."
 ]
 
-note [
-    print {I have dated two girls named Emily in my life, and she clarified she was referring to the second--by name.  She was someone who believed she was a channeler, so interesting she would be mentioned by an entity seeming to talk about possession.}
-]
+note {I have dated two girls named Emily in my life, and she clarified she was referring to the second--by name.  She was someone who believed she was a channeler, so interesting she would be mentioned by an entity seeming to talk about possession.}
 
 print {During this time she was holding me and I was sort of examining her body under the fabric.  It was a little strangely shaped.}
 

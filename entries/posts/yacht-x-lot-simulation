@@ -1,0 +1,38 @@
+Draem [
+    date: 9-Jun-2018/9:56+3:00
+    title: "Yacht X Lot Simulation"
+    slug: %yacht-x-lot-simulation
+    tags: [lucid-dream neutral attack technology]
+]
+
+print {A strange looking being was talking to me.  Its head that seemed to be made out of gumdrops that were translucent and reflective.  It was manipulating a humanoid puppet.}
+
+dialog [
+    gumdrop-head: <about the puppet> "We've haven't been making these in your style lately.  And before you ultimately get your way, we're going to do another that's not quite your style again.  This is a Yacht-X-Lot simulation...you don't know what that is do you?"
+]
+
+print {He didn't wait for me to answer.  I noticed the room we were in had cannisters surrounding us.}
+
+dialog [
+    gumdrop-head: "Fine, doesn't matter.  But I'll ask: do you think of yourself as more of a builder, or more of a user?  A couple of years ago I would have said that you'd probably go for the builder side of this game.  But...keep a mad scientist cooped up long enough and he might want to take it easy."
+
+    me: "Trapping people in simulations...aren't there laws against this kind of thing?"
+
+    gumdrop-head: <laughing> "Laws?  Oh, no.  I could probably take you on a road show if I wanted to."
+
+    me: <frustrated> "Why would you do that?  What species are you?"
+
+    gumdrop-head: <angry> "Don't talk to me like that!  I'm still very much a *man*, and the slightest thing could set me off.  K?"
+]
+
+print {He pulled some kind of rainbow-colored gun on me and pointed it in my direction.  I tried to kind of avoid it, but he held it in such a way I could see down the barrel.  It seemed to have a few bullet-like things in it down a white plastic-type track, though the bullets were loaded with the points sideways.}
+
+dialog [
+    me: <nervously> "K?"
+]
+
+print << [
+    {The gun fired, and I struggled to try and see what maneuvering I could do while being shot.  I could feel myself laying down as in my bed, but I could still see the room where I'd been.  There was some kind of monitor with an animated rendering that seemed to be like it was displaying a respawning meter for me.}
+
+    {I could still see the gumdrop character from where I was, all while feeling my body.  I reached out to try and grab at him, but the act of doing so woke me up.}
+]

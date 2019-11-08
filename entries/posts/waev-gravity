@@ -1,0 +1,68 @@
+Draem [
+    date: 17-May-2017/9:56+3:00
+    title: "WAEV Gravity"
+    slug: %waev-gravity
+    tags: [lucid-dream neutral technology]
+]
+
+print << [
+    {I was at school in a bathrobe, and somehow I knew it was the last day--or near the last day.  People were picking up yearbooks.}
+
+    {Thinking I'd want go around having to sign them and talk to people, I went to find some jeans to put on.  As I stood in line to pick up my yearbook, I became lucid and laughed...and remarked to a girl next to me.}
+]
+
+dialog [
+    me: "Funny, I started to worry what my yearbook picture might have turned out like...being old and bald.  Guess just the way my mind works to then go 'well, what are you doing in a yearbook in your 40s'.  Hence, snapping into this being a dream.  I bet other people would just go on stressing out about the picture and never realize they're not awake."
+]
+
+print << [
+    {I started looking around.  In addition to the yearbook there were other papers available to look at.}
+
+    {One was a pink piece of folded paper titled something like *"The Lost and Lonely One"*, and it was a mixture of cartoons and writing.  I had a hard time following the writing because I couldn't tell if a sentence fragment was continued across a given horizontal fold or wrapped to a vertical fold.}
+
+    {It seemed to be a note written to me, and had a sentence roughly as:}
+]
+
+quote [print {In your boasts of sleeping with a lot of women, I've heard you've generously put me in the list of the ten 'actual girlfriends'.}]
+
+print << [
+    {It went on a bit, something about her dating a lawyer and still thinking of me.  I went to flip through the yearbook itself.  I actually had two of them, one with more a reddish binding and one with more a bluish one.  The printing was unlike that of any yearbook I've seen, very high quality and said it was for the University of Wisconsin.}
+]
+
+dialog [
+    me: "Wisconsin?  Well I don't know anyone from Wisconsin."
+]
+
+print << [
+    {I was then using a web browser and chatting with someone who was presenting themselves as an intellectual girl, who was being slightly flirty and asking me to solve puzzles.  I was suspicious it was a chatbot and began trying to think of a good question a chatbot wouldn't be able to answer reasonably, but I also had other tabs in my browser open such that I kept losing the chat I was trying to focus on.}
+
+    {At one point, one of the puzzles came up and I managed to solve it, and I was speaking to someone next to me.}
+]
+
+dialog [
+    me: "A ha.  Well, now this probably got his attention.  So now there'll be an intervention with the chat bot flow."
+]
+
+print << [
+    {On the terminal it said "well, you're invited to come join the chat room, I'm sure there are some girls there..." and linked me to another site.}
+
+    {Somehow I was able to look around the corner of a computer and saw a guy on another computer, as if I were seeing into another dimension...yet somehow with the effect of being around the corner.  He was looking at the results of what I'd done on the computer.  Behind him was a bookshelf, I looked across the books and the most notable was a very large black one with gold writing on the binding titled "WAEV Gravity".}
+]
+
+dialog [
+    me: <typing> "Well, perhaps you can answer one of *my* questions now.  That WAEV Gravity book you've got on your shelf there, did you buy it to show off or do you actually understand it well enough to explain it?  Shall we have some questions about that?"
+]
+
+print {This seemed to irritate the chatbot master, who began typing a missive at me.}
+
+dialog [
+    chatter: <typing> {Look, I don't see how you can think there's anything wrong with me using my talents to make the world a little more interesting.  I have nothing to hide from you, I'm an openly gay man.  Since when do you...}
+]
+
+print {I sort of lost track of the page as it seemed the person was able to materialize levitating where I was.  He threw a ball at me, and I caught it.}
+
+dialog [
+    me: {Material telepresence is interestingly impossible to the science I know.  So I'd like to hear more about what you're doing.  BUT I'D ALSO LIKE TO HEAR MORE ABOUT WHAT THE HECK I'M DOING HERE.}
+
+    him: {The real question isn't what you're doing HERE, it's *what are you up to there*, in that place no one bothers with anymore?}
+]

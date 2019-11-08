@@ -1,0 +1,54 @@
+Draem [
+    date: 19-Jun-2018/9:56+3:00
+    title: "The XY Graph of Math and Sex"
+    slug: %xy-graph-math-and-sex
+    tags: [non-lucid-dream neutral funny microsoft]
+]
+
+print {I was in some kind of college environment, where a professor was in front of a chalkboard peering over his glasses to read admissions essays from potential new students.}
+
+dialog [
+    professor: "Oh, this is a classic.  In response to 'what do you want to get out of your college experience' it says they want to 'smoke a lot of carcinogens' and 'do every drug [they] can get their hands on'"
+]
+
+print {He wrinkled it up and threw it away.}
+
+dialog [
+    professor: {Let's see if we can find an application from someone who isn't homeless, here's one.  It says he used to work for Microsoft, and then an earthquake research center.}
+
+    student: <raising hand> "...uh, are we going to do any math today?"
+]
+
+print {The professor drew on the chalkboard a diagram that had an X axis which said "Math" and then a Y axis which said "Sex", then drew an arc across it.}
+
+dialog [
+    professor: "So here you can see the correlation between Math and Sex, and what they have in common: the more safe they are, the less fun."
+
+    me: <raising hand> "Uh, is this something you made up just now--or are you copying another one of the things you're getting from the joke applications?"
+
+    professor: "Sorry, did I offend you?"
+
+    me: "Well, I don't care, I'm not easy to offend.  But I'm not everybody"
+]
+
+print << [
+    {We got into a discussion about solving simultaneous equations, where for every time one person did something, another person would take an action N times.  I was being challenged to solve it...but my head was fuzzy and I thought it was underspecified.}
+
+    {Somewhere in the process of this, computer monitors in the room started to flash and drew the attention of people.}
+]
+
+dialog [
+    student: "Ok, that's scary.  Why is that happening?"
+]
+
+print << [
+    {My high school girlfriend was in the room for some reason, and had been leaning herself and her chair into me previously--but at this point fell over.  I picked her chair up and helped her back into it, with a "okay, stay there" gesture to try and keep her from tipping it any more.}
+
+    {Another girl pointed to some beer bottles that were in the classroom, for some reason.}
+]
+
+dialog [
+    other-girl: <to me> "You're right, they make a lot of beers you wouldn't expect for a place like this."
+
+    me: <confused> "Uh, I don't remember saying that.  Which isn't to say I don't agree...why's there beer in this classroom?"
+]

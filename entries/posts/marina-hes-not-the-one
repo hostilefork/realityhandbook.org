@@ -1,0 +1,101 @@
+Draem [
+    date: 8-Mar-2018/9:56+3:00
+    title: "Marina, He's Not The One"
+    slug: %marina-hes-not-the-one
+    tags: [lucid-dream neutral technology]
+]
+
+print << [
+    {I was walking across dark lawns in an area that had various stores and fast-food restaurants, at night.  There was a McDonalds open, with most other businesses closed.  Some kind of pancake house that looked like a non-chain restaurant was open, so I figured I'd head there since it seemed to have more character.}
+
+    {When I arrived, there was a line to be seated.  I became involved in a conversation with a group of three youngish people, who didn't seem to be much older than teenagers.  Somehow our conversation turned to music.}
+]
+
+dialog [
+    kid: {Do you play drums?}
+
+    me: {No.  But I play keyboard...kind of.}
+
+    kid: {We're in a ZZ Top cover band.}
+
+    me: <surprised> {Oh.  Someone was just telling me they saw a ZZ Top cover band, that must have been you.}
+]
+
+note {While no one in my waking life had actually told me that, I will mention that I'd had a conversation the week before with someone telling me he'd seen a Queen cover band in Salt Lake City.}
+
+print {One of the young people in the group was a girl who somehow transferred her contact information to my phone.  She could somehow highlight a photo of her from some years before, which was overweight and styled much less attractively.}
+
+dialog [
+    her: "That's me.  Believe it?"
+
+    me: <jokingly> "Actually... no?  What did you do.  Kill someone and take their body?"
+
+    her: "Nope.  I just exercised a lot."
+]
+
+print << [
+    {The cell phone app we were using acted like an augmented-reality-Facebook.  It seemed to have the ability to put together stories highlighting what you might want to know about a person based on your interests.}
+
+    {The OS on the phone had a lot of purple tiles, and the app we were using appeared to be called "Oddity".  It brought up a juxtaposition of the girl and one of the kids I was talking to and labeled them "No longer together".}
+]
+
+note {A strange app acting like this reminded me of the phones in the video for ["Too Many Friends" by Placebo](https://www.youtube.com/watch?v=Y5cZvbOisk4).  Looking it up now, I notice there are actually several "official" videos for the song.  The one I'm referencing starts with a narration and title saying "Unfortunate Details", then as the song plays it covers various slow-motion shots of people at a party.  The scene takes place while a woman hits a man in the head with a champagne bottle and he falls into a pool.}
+
+print {I was curious what the phone would say about me if I took a picture of myself.  So I did.  It began broadcasting text in an entirely different way than it had done with the other people.}
+
+dialog [
+    phone: <printed> "OH, you want MY OPINION!?!"
+]
+
+print {I was taken a back a bit as white writing went scrolling by in a rant--ostensibly about me--and my personality flaws.  It was difficult to read, but it seemed to think I (or whoever it thought I was in this context) was a womanizer.  It was kind of seeming to lose its mind writing about that topic.}
+
+note {While I freely admit to flaws in this respect--there are some mitigating factors (like, say, this whole dream inhabitation thing) which make having relationships difficult.  Beyond that I'm not sure I stand out comparing particularly badly with the average person I know of.}
+
+print {I couldn't read everything the phone was saying, and I tried talking to it.  The information and rant seemed to be broadcast off the phone to the TVs in the pancake house so everyone was reading it.}
+
+dialog [
+    me: <to phone> "Hey!  WAIT!  Go back."
+]
+
+print {Instead of scrolling back the text so I could read it, the interpetation was like pushing the back button in a browser and closed the "Oddity" app altogether.  Now I saw a main menu of some kind--with a picture in the middle and blue borders on the left and right.  Options were written in white on the sides.}
+
+dialog [
+    me: "No, I didn't mean 'go back' to the menu.  I meant go back to the writing about what you were saying so I can read it."
+]
+
+print {The kids and people in the pancake house were looking at me.}
+
+dialog [
+    me: "Um... sorry if it appears that I am talking to nobody.  I took a picture of myself, and then this screen was saying a bunch of mean stuff about me.  But it wasn't waiting long enough for me to read it."
+
+    girl: "Yeah, uh...I have to show you something.  Really, really strange things are happening.  I actually received this about you, earlier."
+]
+
+print << [
+    {She handed me a piece of printed paper that looked normal at the top and then decayed as the print went down.  Halfway down the page the ink seemed to just be very low and missing some colors, then transitioned into a look like "your printer is dying a mad death and the print head may be on fire".  There were purple stripes that seemed scratched through by fingernails, and dot matrix-looking writing in multiple colors.}
+
+    {The scrawled writing seemed to be the result of the girl doing some search on me, which had produced another rant:}
+]
+
+source 'text {
+    Okay well, the thing is
+    HAHA HAH AHHA HAHHAA HAAA
+    HAHAAH HAHAAHAHAHAA HA HA HA
+    HA HA HAA  HAH HA HA HAH HAHHAAAAHAHA
+    HAHAHAHAHAHAHA
+    NO.
+
+    HAHA, HA.  HA.  **NO**.
+
+    MARINA, HE'S NOT THE ONE.
+}
+
+print {We both looked at it puzzledly.}
+
+dialog [
+    girl: "I mean...I dunno.  You see, I get interested in people pretty quickly, I liked our conversation so I wanted a report.  And then, this happened.  I printed this at home, so it was my printer, and now it's completely dead and won't turn on."
+
+    me: "Right up until this the printer was fine?  Was the toner already low?  It really only started happening there, right by the HAHAHAHA?"
+
+    girl: "Yes."
+]

@@ -1,0 +1,33 @@
+Draem [
+    date: 12-May-2017/9:56+3:00
+    title: "Buying An Executable Coffee"
+    slug: %buying-an-executable-coffee
+    tags: [non-lucid-dream matrix neutral funny technology]
+]
+
+
+print << [
+    {I was watching a situation where a woman was listed her coffee order as a really long name `Susan-Janice-383820cee3...Xy3.exe`.  The baristas were not questioning it, and entering her coffee order exactly as she gave it.}
+
+    {Looking at the baristas and the people in line, I tried to call their attention to this.}
+]
+
+dialog [
+    me: <alarmed> "You can't just enter this stuff.  Whenever you see something that's 'nonsense' you have to ask questions, or find someone who knows.  That 'EXE' means 'Executable', and I don't know how that can cause problems in a coffee order entry but don't just *do* it because someone tells you to."
+]
+
+print << [
+    {Either because of this (or some other escalation I don't remember) I pulled out my phone and tried to call 911.  Just typing in the number caused the OS to crash, with an orange-ish UI and animations.}
+
+    {This led somehow into where I was in a Matrix-themed universe, where people were discussing that Neo and Trinity were taking time off to train their 10 kids.}
+]
+
+dialog [
+    me: "They have ten kids?"
+
+    bystander: "No, it's a joke.  That's binary.  1-0.  e.g. two.  They're good parents."
+]
+
+note [
+    print {I took a look around the place I was in, and it seemed like sort of a themed place...like a "Rainforest Cafe" might be thought of.  But it was more like a "Matrix Cafe" where these people were role-playing.}
+]

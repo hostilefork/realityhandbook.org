@@ -1,0 +1,54 @@
+Draem [
+    date: 24-Jul-2017/9:56+3:00
+    title: "The Zine of Ethics"
+    slug: %zine-of-ethics
+    tags: [non-lucid-dream neutral]
+]
+
+print << [
+    {I was somewhere going through a library, looking at books.  One shelf had a couple of mostly empty lower levels, and a tiny red book on it.  It was titled something like "The Manual of Ethics" or something that was rather grandiose for such a small thing.}
+
+    {Picking it up, I flipped through it.  There was very little writing on each page, a few pictures, and it was cheap print like a magazine.  The cover price listed it at something like $5.95.}
+
+    {I turned to some people nearby.}
+]
+
+dialog [
+    me: <laughing> "Well, I don't know if it's so much a manual as it is a 'zine'."
+]
+
+print {Walking out with some people (maybe the same) down a street.  They seemed to ignore a "dead end" sign, I turned around it to stay on the road, but there was a chain link fence so I could still see where they were going.  It looked like they'd reached a dead end.}
+
+dialog [
+    me: "You guys missed the turn, and now you're stuck."
+
+    guy: "Yeah, but, why's the fence up?  It's around this building, what's it for?"
+]
+
+print << [
+    {Somehow they climbed on the roof and knocked off what seemed to be a large wrecking ball hanging from a chain.  This turned into a long deal where I was working on a plan to try and use some trick to get the ball back up.  Some aspect of my plan involved hanging onto the chain of the ball while it was flying up, so I spent a lot of time looking for some black gloves or other way to hang tight, possibly tying myself to the ball.}
+
+    {While I was doing all of this, there was commotion outside where apparently someone had managed to get the wrecking ball up and onto the roof of a building across the street.  They were driving bikes across the chain like it was a tightrope.  The police (or some authority) showed up, and they fearfully cut the wrecking ball chain, and dropped the bikes to the ground and raced off.}
+
+    {An angry authority figure confronted the people who'd gathered to observe all this.}
+]
+
+dialog [
+    authority: "Look, I'm not saying that you can't have activities outside of church.  A lot of you are in bands, and in these houses play music, and I'm in favor of that.  But when you guys are unsupervised, it can go too far too quickly."
+]
+
+print {He gestured at me.}
+
+dialog [
+    authority: "I see Batman had a plan to put the ball back.  But the only way he could do this would be require Nitrile Acetate 32B, which you can only get out of burnt out jet engines.  I need to know if any of you have that around here."
+]
+
+note [
+    print {I'm making up the chemical name, but it sounded kind of like that.}
+]
+
+print {He pulled out a piece of strange looking paper and set it on fire, and began waving it in front of people.}
+
+dialog [
+    authority: "It smells like this.  So if any of you have smelled something like that in this area, tell me immediately."
+]

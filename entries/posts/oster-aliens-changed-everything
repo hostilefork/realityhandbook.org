@@ -1,0 +1,52 @@
+Draem [
+    date: 3-Jun-2018/9:56+3:00
+    title: "The Oster Aliens Changed Everything"
+    slug: %oster-aliens-changed-everything
+    tags: [lucid-dream neutral technology]
+]
+
+print {I was on something like a bus or train, standing next to my dad, and looking at boxes of graphics cards.  They were advertising some kind of artificial intelligence task powered by a "P-series 09 Chip", and had a big P on them.}
+
+dialog [
+    me: "Ah okay, there it is.  We've found it.  But I can't report it, I'm still asleep.  Two levels deep, maybe?  I might be able to force wake."
+]
+
+print << [
+    {Trying to force myself to wake up just got me into a situation where I was holding a slick college textbook with a glossy cover, on the topic of how to apply the P09 Chip.  It showed the interior of a machine--which looked more like the inside of an air conditioner than a "modern" computer--mostly hoses and boxes.}
+
+    {This shifted to another point of view where I was holding a much more generic tan book with spare white writing on it.  Thumbing around in the book I found a preface, wtalking about how chip development in 1906 had led to the realizations needed to build the P09.}
+]
+
+note {The first microchip in my world was unveiled by Texas Instruments, in March 24, 1959.}
+
+print {This shifted to where I was talking to a guy about it and asking him questions.  He seemed worried.}
+
+dialog [
+    man: <nervously> "You sure have a *lot* of questions.  I think we need to take you to see the king."
+]
+
+print << [
+    {There was a strange sudden sense of alarm, as we and everyone around us began to float in the air.  People were barking orders to loosen your muscles and sort of stretch as we were in free fall.}
+
+    {I floated over to an attractive girl and hugged her.}
+]
+
+dialog [
+    girl: "This... this is a forced landing, I've never seen one happen.  In the past the only reason any have landed was when the people on the ground insisted, to prove they were there."
+]
+
+print << [
+    {It turned out the "building" we were in had actually been levitating in the sky.  I asked the man how that had been possible.}
+
+    {He took me to look at some kind of steam vent on the corner of the building.}
+]
+
+dialog [
+    man: "It's based on Sipitium...which has 4 protons, 4 electrons, and 4 neutrons."
+
+    me: "Neutrons are electrically neutral, they shouldn't affect the chemical properties unless you're actually breaking atoms apart."
+
+    him: <thinking> "Well, you may be right.  But a lot has changed, ever since the Oster aliens arrived.  Their technology warped everything, even chemistry changed."
+]
+
+note "Four protons, four electrons, and four neutrons is the stable form of Beryllium."

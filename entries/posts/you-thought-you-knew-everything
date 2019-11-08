@@ -1,0 +1,45 @@
+Draem [
+    date: 11-Feb-2015/9:56+3:00
+    title: "You Thought You Knew Everything, Everything"
+    slug: %you-thought-you-knew-everything
+    tags: [lucid-dream neutral music]
+]
+
+print << [
+    {I was in a pizza restaurant sitting at a table with a girl.  I reached out to hold her arm and something happened between us with that contact.  It felt like I was being attacked, so I yelled and struggled a bit as the room went black.}
+
+    {This nearly woke me up.  But I managed to get myself to somehow phase back into the restaurant booth, and she was still there.  I began apologizing.}
+]
+
+dialog [
+    me: "I'm sorry, I dunno...this seems to be 'panic' or 'stress' related.  Like if I were actually on a date in a pizza restaurant..."
+]
+
+print {She looked at me crossly.  I paused, and looked around, wondering: had I been on a date?  What had been going on before I became lucid?}
+
+dialog [
+    me: "Okay, sorry about the 'actually'.  Loaded term?  I mean to say that I wouldn't like it if I was holding a girl's arm, and she had a bad reaction to it as if I'd twisted it out of joint.  That's the kind of thing that would lead to stress and concern.  What I *think* happened there is that the stress 'woke up' the body and pulled me out."
+
+    girl: <amused> "Ah, I see.  So your body gets stressed, wakes up, and then decides to send a completely different person?  The first one had a panic attack over a date's reaction on an arm.  But the second one is ready to seize the day and kick down the door of a pizza restaurant?"
+]
+
+print {I grumbled.}
+
+dialog [
+    me: "I don't think it's about being a 'different person'.  Maybe it's just that I learn fast... and make a quick turnaround."
+
+    girl: "I sort of got that sense from you.  You're a tremendously fast learner...who *never actually learns anything*."
+]
+
+print << [
+    {She sat back in the booth, and some music started playing.  She mouthed the lyrics of it, but didn't seem to be the singer.  It was as if she was singing along to something pre-recorded.}
+
+    {The part that started waking me up was the chorus, which had a loud female vocal echoing:}
+]
+
+source 'text {
+    "But you thought you knew... everything (everything, everything)"
+    "Yeah you thought you knew... everything (everything, everything)"
+}
+
+print {Somewhere in this, I was looking at a feed of chat messages, on a site called `be-control.com`.  It seemed to be interspersed conversations that had coherent messages seemingly copied from my StackOverflow chat account, with spam responses to what I was saying.  e.g. someone named Alena responding with "I listened to that Zelda track" to me talking about something not video-game music related at all.}

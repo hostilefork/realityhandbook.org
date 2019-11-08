@@ -1,0 +1,34 @@
+Draem [
+    date: 28-Jan-2018/9:56+3:00
+    title: "Quincy, Zoltan, and Samsara"
+    slug: %quincy-zoltan-and-samsara
+    tags: [non-lucid-dream neutral names]
+]
+
+print << [
+    {I was helping someone pick out a name for changing their name legally.  I suggested not changing it legally until they'd tried it out for a while.}
+
+    {We were looking through some name book, and in the Q's it had one name: Quincy.}
+]
+
+dialog [
+    me: "Only one Q name.  Well there's more than that.  And this is not very out of the box.  It could include for instance Quine.  A Quine is a computer program that outputs its own source code."
+
+    guy: "Really?  Oh that's cool."
+]
+
+print {I flipped forward into Z's.}
+
+dialog [
+    me: "Oh, there's always Zoltan.  It's like, Hungarian."
+
+    man: "In my culture there is very low stigma when someone leaves a woman, who gets pregnant for some reason...maybe even accidental, or such.  If another guy comes along and wants to marry her and be the father that is seen as a win-win, like everyone is happy it worked out."
+
+    me: <confused> "Okay, I guess?  But I thought we were picking *your* name."
+]
+
+print {I flipped through back through the S's.  There were pages of variants on Sam.  One caught my eye, which had a picture with a girl next to it...it said "Samsara"}
+
+dialog [
+    me: "Hey, Samsara.  That's a pretty good name, though probably more for a girl.  The infinite cycle of death and rebirth without knowing that's what's happening."
+]

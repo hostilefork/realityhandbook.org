@@ -15,9 +15,7 @@ dialog [
     man: {Hey.  Slipcasting, rivelcasting, snap-frame attacks...I could teach you about any of those all day.  I went to college just like anyone.  But still not as smart as you are, many would say.}
 ]
 
-note [
-    print {I didn't get the terms right, probably...but he was rattling off a bunch of kinds of "casting" attacks I do not know of and that's the closest I could remember.  An Internet search suggests "SubNetwork Access Protocol" is a term which might have some kind of technical 'frame' units in it to muck with, so maybe SNAP was something.}
-]
+note {I didn't get the terms right, probably...but he was rattling off a bunch of kinds of "casting" attacks I do not know of and that's the closest I could remember.  An Internet search suggests "SubNetwork Access Protocol" is a term which might have some kind of technical 'frame' units in it to muck with, so maybe SNAP was something.}
 
 dialog [
     man: {But I don't think that sitting around talking about tech is what you want, someone wants to see you.}
@@ -41,9 +39,7 @@ dialog [
     man: {*Or*... maybe you hit your head right around near the time you died and you're getting some echoes of that.  Could be a sense from near-time of death.  Or could be a head punching owl.  Maybe neither, we might have rewritten parts of your brain on purpose just to confuse you...guess you're going to have to get used to not knowing.}
 ]
 
-note [
-    print {I had hit my head fairly seriously a few days prior to this dream.}
-]
+note {I had hit my head fairly seriously a few days prior to this dream.}
 
 dialog [
     me: {If I'm to take it that I'm some sort of simulated being who has been having provable experiences of being pulled in various directions, why would I be the only one?  Wouldn't there have been others like me?}

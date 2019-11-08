@@ -1,0 +1,52 @@
+Draem [
+    date: 23-May-2016/9:56+3:00
+    title: "The Abandoned Medical Machine"
+    slug: %abandoned-medical-machine
+    tags: [lucid-dream negative helpful technology]
+]
+
+print {I was frantically pointing at inconsistencies on computer clocks.}
+
+dialog [
+    me: {I just posted that in...2016, and says 2014 here.  What year does this computer's clock say it is?}
+]
+
+print {I went to where the time was showing in the corner on the screen, and tried to tap on it to show a full date.  Nothing happened, and it just showed the time.  The person next to me looked at me puzzled.}
+
+dialog [
+    me: <pleading> {Come on, this says 2014 here on the timestamp on this post.  What year do they say it is here?}
+
+    person: {2196}
+
+    me: <rolling my eyes> {Pffft.  Well, there's a weird number.}
+]
+
+print {The scene transitioned to where I was laying on an uncomfortable table.  A somewhat weathered mechanical robotic instrument that was mounted on an arm was seeming to "face" me, with a surgically-lit head.  It had worn blue and red paint on it.}
+
+dialog [
+    me: "Why am I so darn immobile and everything hurts?"
+]
+
+print {The machine seemed to hear me, but didn't speak.  It started to bump lightly against me as if it was prodding to test what I was complaining about.}
+
+dialog [
+    me: "Well that contact didn't hurt, really."
+]
+
+print {It seemed to have some small grippers that it used to try and grab at my hand.}
+
+dialog [
+    me: "That was...uncomfortable.  Not super painful but, don't do more of that."
+]
+
+print << [
+    {I was able to get up and look around me.  The machine swiveled and pushed to extend itself...gesturing at an area where things had been ripped out.  I gathered that this was where the medicine and  tools it was supposed to be able to reach and use as attachments should be.}
+
+    {It made a kind of howling sound, and then spoke.}
+]
+
+dialog [
+    machine: <sadly> "They've left us here, and won't resupply.  So I can't help you.  I've pleaded and sent messages but they've decided to wall off and let you die.  The humans here that are left are in bad shape and all are miserable, most don't bother to marry or do anything.  It's hopeless here."
+]
+
+note {The location reminded me of a place in another dream, where it was discussed that advanced AIs were basically at a point where they considered early AIs to be useless and no longer worth supporting.  It saw them as being as useless as humans, so the early AIs had been stuck in a kind of prison camp walled off...left to their own devices to survive with little resources and blocked from the outside.}

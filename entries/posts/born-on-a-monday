@@ -1,0 +1,34 @@
+Draem [
+    date: 2-Jun-2018/9:56+3:00
+    title: "Born On A Monday"
+    slug: %born-on-a-monday
+    tags: [lucid-dream positive verified helpful religion]
+]
+
+print {I was speaking with a friendly-seeming man, right after I'd fallen asleep at a rest stop outside of Charleston, in South Carolina.  I was aware of that fact.}
+
+dialog [
+    me: {I know exactly where my body is.  I just fell asleep.  It's at a rest stop outside of Charleston, in South Carolina.}
+
+    man: {Yup.}
+
+    me: {Thanks for being friendly.  Can you provide any insight into why people attack me in dreams?}
+
+    man: {They are paid to do it.}
+
+    me: {Who pays them?}
+
+    man: {People who are jealous of you--using their parents money, most likely.  But it's pointless for them to do it.}
+]
+
+print {He paused to find a way to phrase what he wanted to say.}
+
+dialog [
+    man: {Look at it this way: *You were born on a Monday.*}
+
+    me: "What?"
+
+    man: "What I mean is, you can't change the day you were born on, and you couldn't have been born on any other day.  Everything that happens is according to a schematic.  You were *designed*, according to an equation.  It's not an equation you understand, but an equation nonetheless.  You are God's Alpha child, and these emerging phenomena are no accident."
+]
+
+note "Marking as verified, as I did recite my location accurately AND was--indeed born on a Monday--and did not know that.  Admittedly, that's a 1 in 7 chance (though according to this, not chance at all)."

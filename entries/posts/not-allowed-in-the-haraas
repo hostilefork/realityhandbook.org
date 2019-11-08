@@ -1,0 +1,38 @@
+Draem [
+    date: 1-Apr-2015/9:56+3:00
+    title: "Not Allowed In The Haraas"
+    slug: %not-allowed-in-the-haraas
+    tags: [lucid-dream neutral helpful religion]
+]
+
+print {I was seeing markings on the wall, then watching it morph into a solid texture.  Going down a set of stairs, I ran into my parents.}
+
+dialog [
+    me: <sighing> "What's up guys, it's a dream again.  So what's the deal?"
+
+    mother: "It is unfortunate that there are constant attacks, because pretty much everyone wants to kill you.  We called for some help.  Getting the reinforcements up to this altitude shouldn't be a problem...but we should sweep, they're very sensitive to dust."
+]
+
+note {While I can't tell you what that meant, I had some kind of thought that I was only projecting human structures onto the experience...and I was actually inhabiting a bird, or somesuch.  This is wild speculation.}
+
+dialog [
+    me: "All right, so I gotta ask.  Why do all these people want to kill me?"
+
+    mother: "Because it's their religion, and their rules.  You're not allowed to be in their 'haraas'..."
+
+    me: "Huh?  Are you trying to say 'harem'?"
+]
+
+print {It was hard to understand what the word was, so I tried to get it clarified.  We had a bit of a back and forth trying to spell it.}
+
+dialog [
+    mother: "No, though it is a word of middle-eastern origin, very old.  HARA-SEE."
+]
+
+print << [
+    {We were waiting, and older people in orange and green Florida Gators outfits arrived and came in.  I greeted them.}
+
+    {They began looking at the apartment's unit number we were in, on the outside door.  It was not numbers in a straight way, but all jumbled and different slightly skewed sizes.  This made them nervous, and began asking questions regarding concern about the some contract or protocol.}
+]
+
+print {Given the impression I had earlier that altitude involved animals, it's interesting another animal would come up.  For what it is worth, my father studied molecular biology at University of Florida, whose sports mascot is an alligator: the aforementioned "Florida Gators".}

@@ -1,0 +1,42 @@
+Draem [
+    date: 14-Nov-2015/9:56+3:00
+    title: "Like Hacking Mr. Ed"
+    slug: %like-hacking-mr-ed
+    tags: [lucid-dream neutral funny]
+]
+
+print {I was walking around the house where I was asleep, and watching people going through drilling through walls and messing with things...pulling devices out of the walls.}
+
+dialog [
+    me: <annoyed> "WHAT are they doing?"
+
+    man: "Well before, you didn't have quite as many of these things in your house.  But now you've got a new one.  So someone is still installing them--that's notable--we need to figure out who."
+
+    me: "And just WHO exactly are they?"
+
+    man: "They're elves.  All the things you move in your dreams if it's in the house actually *do* get moved.  They just remember where all the stuff was, and have to come in and put it back."
+
+    me: "Being a programmer, and knowing a bit about virtual reality, I doubt that's how it works."
+]
+
+print {The man backed away from me.}
+
+dialog [
+    man: {Don't touch me, or anything I touch.  It's very painful.}
+
+    me: "Why?"
+
+    man: "Because you're like 99% disease, contaminated...death.  It hurts.  Let me give you an example..."
+]
+
+print {He was cut off by a woman came running in the house, who shoed him away.  I saw a vision of 3D logos and icons being thrown around from various things I've put on the Internet--avatars and words, all seemingly being fought over on some kind of auctioning platform.}
+
+dialog [
+    woman: "It was us who negotiated your relationship in Austin, moving her there.  It wasn't exactly solving cancer.  But you were lonely.  You got two years out of it you wouldn't have had."
+
+    me: "Exactly how is it you feel you can take credit for this?"
+
+    woman: "How can I put this.  It's a bit like...hacking Mr. Ed."
+
+    me: <insulted> "Mr. Ed the talking horse?  Well Mr. Ed was in context, kind of the smartest character on the show.  So, in that story universe, it was actually the horse who probably was hacking you."
+]

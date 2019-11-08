@@ -92,14 +92,14 @@ draem/set-config object compose [
 
 	javascript: [
 		http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js
-		
+
 		{
 /* http://stackoverflow.com/questions/1402698/binding-arrow-keys-in-js-jquery */
 $(document).keydown(function(e) {
 	if (e.shiftKey || e.ctrlKey || e.altKey || e.metaKey)
 		return;
 	switch(e.which) {
-		case 37: // left (up is 38) 
+		case 37: // left (up is 38)
 			anchors = $("#prev > a");
 			if (anchors.length > 0) {
 				window.location.href = anchors.eq(0).attr('href');
@@ -139,7 +139,7 @@ $(document).keydown(function(e) {
 
 	;-- Optional header-checking hook
 	check-header: function [header [object!]] [
-		if find [lucid-dream non-lucid-dream] header/tags [ 
+		if find [lucid-dream non-lucid-dream] header/tags [
 			unless any [
 				find header/tags 'neutral
 				find header/tags 'positive
@@ -162,7 +162,7 @@ $(document).keydown(function(e) {
 			header/slug
 		] [
 			category: intersect valid-categories header/tags
-			assert [1 == length? category] 
+			assert [1 == length? category]
 			to file! rejoin [
 				stringify/dashes first category
 				{/}

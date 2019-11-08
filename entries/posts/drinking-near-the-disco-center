@@ -1,0 +1,38 @@
+Draem [
+    date: 11-Apr-2018/11:05+3:00
+    title: "Drinking Near the DISCO Center"
+    slug: %drinking-near-the-disco-center
+    tags: [lucid-dream positive alcohol]
+]
+
+print {I had become lucid and was speaking to a woman in a car.}
+
+dialog [
+    me: {Okay, it's... a Thursday.  And it's April.  I don't know what numeric day.}
+
+    woman: <skeptical> {How is it that you don't know the *number* of today's date?}
+
+    me: {I never really do when awake; that's not weird.  In fact, they stopped putting it on the phone status bar so I'm even less likely to notice.}
+]
+
+print {We drove past some giant building that said DISCO CENTER.  She laughed.}
+
+dialog [
+    woman: {That's a silly building.  But don't bother with that, there's another place I want to show you.}
+]
+
+print << [
+    {I followed along and kind of (oddly) lost interest in the distinction that it was a dream.  We went into something that looked like a library at first.  But as we climbed stairs past rooms of books where people were at tables and at terminals, we went up to a door that was an open room full of liquor bottles and beer taps at random places.}
+
+    {There was a $5 cover, and I seemed to be able to pull the money out and hand it to them.  Before getting a drink, we sat and waited for some of her friends.}
+
+    {She told a long story about getting stalked by someone she knew from Long Island.  She said they used data to find her through an indexing service; and that if anyone looked up someone for dating on that indexing service it meant they were sketchy.}
+
+    {Her friends arrived and we shared a first drink.  Then a group of the 4 of us decided to have a contest to see who could make the worst drink.  I started with sour mix, and then put in something called "Juvenile Ale" from one of the taps.}
+
+    {The cups were slanted so you couldn't fill them very high.  I still began to wonder about the business model of letting people mess with that much alcohol for $5.}
+
+    {My cell phone caught me by surprise on a graphical app alert, broadcasting that we'd had 2 out of 6 drinks.  It had figured out our table of 4 had the drinks together.  So the $5 gets you 2 drinks, $4 for additional drinks.}
+
+    {I awoke wondering how the app would be tracking all that.}
+]

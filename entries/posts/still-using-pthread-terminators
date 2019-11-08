@@ -1,0 +1,18 @@
+Draem [
+    date: 11-Mar-2018/11:05+3:00
+    title: "Still Using Pthread Terminators"
+    slug: %still-using-pthread-terminators
+    tags: [non-lucid-dream neutral names technology]
+]
+
+print {I was watching a trailer on a computer for a movie called "LEAKD".  The font for the title was red lined letters.  It starred Rami Malek (the actor from Mr. Robot, among other things).  It seemed he had bulked up muscularly for the role.}
+
+note {The titling for Mr. Robot is also red lettering with lines.  I do not recall quite how similar the look was.}
+
+print << [
+    {I deleted the trailer from whatever thread I was looking at--wondering what it had to do with anything I was working on.  Then I noticed a bounced message to someone who lived in my college dorm who I haven't talked to in many years.}
+
+    {A community manager who works on a competing open source to mine was emailing me and others about security settings by default, and how people were getting popups about "plv lists".  He was demanding to know why we needed to be still using "pthread terminators" in our code, because that was what was causing this problem.}
+]
+
+note {"PLV" doesn't ring any bells in computing.  "pthreads" are a real thing, though--and actually something I use in code I work on at the moment.}

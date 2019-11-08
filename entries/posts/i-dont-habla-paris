@@ -1,0 +1,108 @@
+Draem [
+    date: 13-Nov-2015/9:56+3:00
+    title: "I Don't...Habla...Paris"
+    slug: %i-dont-habla-paris
+    tags: [lucid-dream neutral sexual attack helpful]
+]
+
+print << [
+    {I was in a bed looking down at a girl with dark long hair on a bed, she had bangs and was pretty.  There was a sense that she was a girl I had dated once.  Since I was feeling affectionate, I kissed her on the lips.}
+]
+
+dialog [
+    girl: <pleased> "I had a Dominos pizza today."
+
+    me: <reflectively> "I don't know why, but that's the second time someone has mentioned eating a fast food pizza to me today...it was Pizza Hut though.  No, wait...what am I talking about?"
+]
+
+print {I couldn't actually track when that conversation had been.  Further, I realized I didn't know where I was, and she didn't actually look like the girl I had been treating her as.  (Though still very pretty with dark hair.)}
+
+dialog [
+    me: <skeptically> "Who *are* you?"
+
+    her: <smiling> "I'm not like those other girls, I'll tell you that.  I'm *much* more...unusual."
+
+    me: "How did I get here?"
+]
+
+print << [
+    {She didn't answer the question.  I found that her body I'd thought I was holding sort of just turned into kind of stick with a circle on it, and I was alone on the bed.}
+
+    {I looked around and the room was small with pink walls and nothing much more besides the bed in it.  But there was a door, so I got up and walked hazily through it.}
+
+    {The outer area was very open.  It seemed to be a cross between a house, a mall, and something more like an Ikea Showroom.  People were running by me and seemed to move very fast, sometimes floating.}
+]
+
+note {The experience felt a bit like the chaotic environment of the virtual reality game "Second Life".}
+
+dialog [
+    me: <yelling> "What's going on?  How did I get here?"
+]
+
+print {A blond man yelled back (though he didn't quite stop to talk to me, and stayed in motion.)}
+
+dialog [
+    blond-man: "Your confused states are a by-product of the cloning process."
+
+    me: "Why?  What cloning?"
+]
+
+print {The conversation was discontinous, as it seemed very different people would stop to answer just one line of my questioning.  Some I could understand better than others, either due to accents or distortion.  Attributing the remarks to the right "avatars" would be difficult though I will try to capture some of the ones I saw.}
+
+dialog [
+    bearded-man: "You've been dead for so long that the recovery can't quite work the normal way.  If it had been less time, there'd be more to work with."
+
+    me: "Well I'm here now, and while this isn't perfect I've got it relatively straight.  So why do I have to go back?"
+]
+
+print {A large-ish woman in a purple outfit and glasses, looked at me and appeared to copy herself so there were two of her.}
+
+dialog [
+    large-woman: "You really should just stop get things straight where you are.  There are already so many things to do!"
+
+    bearded-man: "And your temper...yelling at people...it's really not necessary."
+
+    me: <pissed off> "I think perhaps, you guys are not affording me the necessary slack considering THIS IS NOT MOST PEOPLE'S LIFE WHERE I AM FROM.  I am really at my wit's end with it."
+
+    bearded-man: "Well, yes, we love you.  We liked the color of your hair also, and some of the work you did, still interesting."
+
+    me: "What?  My hair?"
+]
+
+note {In my late 20s, basically much of my hair fell out.  So this is pretty off-base...unless their favorite color is "invisible".}
+
+print {By now people were sort of levitating around me, and one woman kind of levitated up and began singing.  The song was like:}
+
+source 'text {
+    All the things you could do...within your reach...
+    Go out for dinner, walk on the beach...
+    See a movie with a friiiiiend...
+    And it's about [garbled, garbled] children...
+    the children [garbled garbled]
+}
+
+dialog [
+    me: <annoyed> "I've done all those things, and it looks here that you have kitchens and can levitate and such, and I was just in bed with someone who pulled off a really good simulation of an attractive girl.  I'd be surprised if movies have ceased to exist.  It's fine by me if it's different.  What's this about children?  I don't have any and don't want any."
+]
+
+print {I tried to chase people down for more answers on the cloning mechanism and what the thing about children was.  A man said something to me in French, but I couldn't respond.}
+
+dialog [
+    me: "I'm sorry, I don't... habla... Paris."
+]
+
+note {I was trying to say "No parlez-vous Francais" but could not, in the moment or state, remember the expression.  So I decided to say something kind of purposefully funny instead.}
+
+print << [
+    {I made my way around tables which had people sitting at them.  Some would speak at me in other languages, and some seemed earnest at trying to communicate in English...but they were still hard to understand.  But at some point, everyone seemed to get into a panic and start running away.}
+
+    {I was feeling a bit spent and not feeling like having a usual gruesome death when something comes to kill me.  So I almost woke myself up.  But I decided to stick around and get a close look at whatever the things everyone was running away from were.}
+
+    {A woman in black leather with a shotgun was the first to come running back from the direction that all the people were retreating to.  I tried to hide from her, but she stopped to set up the gun--like she was going to fight the things that were coming and not me.}
+
+    {An Asian man motioned wildly at me to hurry up, signaling me forward toward him, looking very panicked.  I was moving slowly.}
+
+    {I saw some kind of rolling robot coming along on the other side of a low divider that I was on the other side of (so we were sort of like in two columns of an escalator channel at an airport.)  I couldn't really see the base of the machine.  But it was thin at the top with an arc'd head...it looked more like a vacuum cleaner attachment than anything.}
+
+    {It turned to point its top at me, and I couldn't outrun it.  I awoke when I was pointed at.}
+]

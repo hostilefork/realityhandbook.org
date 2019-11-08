@@ -1,0 +1,34 @@
+Draem [
+    date: 1-Oct-2017/9:56+3:00
+    title: "Interdimensional Travel Is Boring"
+    slug: %interdimensional-travel-is-boring
+    tags: [lucid-dream neutral]
+]
+
+print {I was dissatisfied with a book someone showed me, claiming to explain how we were talking.}
+
+dialog [
+    me: <frowning> "This isn't what I meant."
+
+    man: "I thought you might be able to appreciate his lighter book, which explains maybe the *spirit* of the idea in metaphor."
+
+    me: "Well, I think I'd rather some technical explanation.  Or if that would be over my head, maybe some useful generality.  For instance, I've heard it said that three dimensions is the only dimensionality in which you can tie a one-dimensional rope into a knot."
+]
+
+print {A woman sitting at a table looked at me puzzled for having made the remark.}
+
+dialog [
+    woman: "What *use* is a statement like that?  That's just a mathematical impossibility.  Are you saying you're asking us to give you observations on something *no one can do, ever* in any context?"
+
+    me: "Well it's also a statement of what you can do.  Even if you didn't know how to tie a knot, you'd limit your search in the space of where you should try it."
+]
+
+print << [
+    {The man pulled out a small box which had a white surface with looked like a piece of tissue paper on it.  The piece of paper had two kind of pink-ish buttons on what looked like bows on it.  He pulled another darker strip of material out and said "all right, try watching this"}
+
+    {He began to fold the dark strip of material in a certain way, tightening a loop in a pattern.  I couldn't follow it, and he gave up.}
+]
+
+dialog [
+    man: <sighing> "Look.  The fact of it is, that interdimensional travel is really rather boring after you build the gate."
+]

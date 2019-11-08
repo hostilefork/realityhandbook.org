@@ -1,0 +1,32 @@
+Draem [
+    date: 15-Feb-2019/9:56+3:00
+    title: "Hard to Compete With Dreams"
+    slug: %hard-to-compete-with-dreams
+    tags: [lucid-dream negative music]
+]
+
+print {I was watching a music video that seemed to be shot at night.  It claimed to be for the band "Machines of Loving Grace", for the song "Casual Users".}
+
+note [
+    print {Machines of Loving Grace is a band who takes their name from a poem by Richard Brautigan.  I listened to their music in high school.  The song "Casual Users" does not appear to have a music video on YouTube as I see it--the album came out around the time I was graduating college IIRC.}
+]
+
+print << [
+    {The video was rather morbid.  A guy carrying a briefcase was going through a door in what looked to be a covered bridge, where the structure was made out of straw.  He was oblivious that someone wielding an axe was following him.}
+
+    {One cut in the video showed the axe chopping into a tree, then being removed and leaving blood.  It then cut to another scene where the axe person was graphically chopping the head off the guy's body.}
+
+    {My point of view shifted to another scene where a woman was visiting a young girl in either a sickbed or a hospital.}
+]
+
+dialog [
+    young-girl: "I've been having bad dreams."
+]
+
+print {I could somehow see a sort of spooky scene wher wedding dresses in a large closet had come alive, and were going around in circles on their own in a ghostly fashion.}
+
+dialog [
+    young-girl: "It's hard to compete with dreams."
+
+    woman: <sympathetically> "Yes.  Sometimes it's hard to compete with dreams."
+]

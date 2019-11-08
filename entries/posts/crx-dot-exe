@@ -1,0 +1,24 @@
+Draem [
+    date: 10-Mar-2019/9:56+3:00
+    title: "CRX dot EXE"
+    slug: %crx-dot-exe
+    tags: [lucid-dream neutral technology]
+]
+
+print << [
+    {I was talking in chat to someone who was installing software on my machine.  We seemed to be discussing computer hacking, but we were also talking about doing something regarding automation.}
+
+    {I couldn't see the person I was talking to, but I could see them remotely clicking through directory paths.  They were long and it was like `Governments / United States / CIA / Hacking Tools`.  Ultimately this drilled down to a file called `CRX.EXE`.}
+]
+
+note {I had a thought at the time that this was likely a grandiose labeling--and that the person was over-inflating their association with any intelligence agency.  e.g. there wasn't anything in the other directories, and this was being done for show.}
+
+print << [
+    {The machine the software was installed on had a Windows-95 looking menu.  I went looking around to see where this CRX had been installed.  It actually had gotten put in the top level as just "crx.exe" in the start menu.}
+
+    {I clicked it to run, but it said it didn't have any input parameters.  So the window just said "hit any key to close window".}
+]
+
+dialog [
+    me: "Ummm...this is not a GUI program, apparently.  What am I supposed to pass on the command line to get it to do something?"
+]

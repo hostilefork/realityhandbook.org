@@ -1,0 +1,48 @@
+Draem [
+    date: 15-Mar-2018/11:05+3:00
+    title: "Heather O Tattoo"
+    slug: %heather-o-tattoo
+    tags: [lucid-dream neutral technology names]
+]
+
+print {I had been speaking with an attractive blond girl, realizing I was dreaming.  This led me into one of my usual scripts to see if I could find any connection with anyone existing in the world when I wake up.}
+
+dialog [
+    me: "Do you have a name, on Earth?"
+
+    girl: "Yes... can you remember... Heather O Tattoo"
+
+    me: "Um, sure?"
+]
+
+print << [
+    {I tried to force myself to wake up, but instead foudn myself looking at a monochromatic blue-writing-on-gray screen.  It seemed like it was already in progress, showing city maps and doing name searches on things relating to "Heather O Tattoo".}
+
+    {Rather than try to force myself to wake up all the way, I just watched as it seemed to be scanning pretty wildly and fast.  I tried talking out loud to it, and it reacted showing me things.}
+]
+
+dialog [
+    me: "So... Heather O Tattoo?  So someone named Heather with a last name that begins with O that has a Tattoo?  That's...well, that's probably a lot of people.  Or is it a way of memoizing her name?  Could it be something like Heather Otto?"
+]
+
+print {The machine seemed to run with my guesses, listing out various words and name fragments...as if it were trying to come up with potential encoded meanings for it.  It was *fast*.  It just kept running along, I directed it, it seemed to be one step ahead of me more or less guessing at what I wanted it to do.}
+
+dialog [
+    me: "I don't know what else to suggest.  Females...um, under 50, uh...let's see?"
+]
+
+print {It seemed to have databases more exhaustive than Facebook; I rejected non-matches.}
+
+dialog [
+    me: "Hm, no... no that's not her.  She didn't look like an athlete or anything like that.  Rule out anyone who seems overly athletic in nature.  But, hey.  Wait a second."
+]
+
+print << [
+    {I sort of tapped my hands against the surface of whatever it was I was looking at all these computational mapping things on.  It wasn't like a monitor, it was more like there was a piece of glass between me and some kind of hologram further back behind the glass.}
+]
+
+dialog [
+    me: "Uh, given that you're apparently really good at this, and listening to what I'm saying looking for some random person in a dream...do you have any particular explanation for why it is that I'm talking to *you* in this kind of a situation?  Can we change the subject to finding *me*?  I should be able to give you plenty of details..."
+]
+
+print {Unfortunately, I woke up.}

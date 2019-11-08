@@ -7,9 +7,7 @@ Draem [
 
 print {After talking for a while to some woman with a small dog at a bank about how she couldn't clear a check, I found myself hooked onto some kind of "video game treadmill" branded by a company called GABER.}
 
-note [
-    print {Several companies appear to use the name GABER, ranging from oil companies to jewelry.  The only real "electronics" company seems to be in Egypt.}
-]
+note {Several companies appear to use the name GABER, ranging from oil companies to jewelry.  The only real "electronics" company seems to be in Egypt.}
 
 print << [
     "I was running on the treadmill seeing the screen, and feeling winded and panicked about the game.  The image I saw switched from being running on the treadmill to seeing some kind of electric equipped vehicles which were designed to go out and electrify roads to assassinate people.  It was a dark Tron-Legacy type look."
@@ -36,7 +34,7 @@ print {It then broke into a catchy sort of chorus:}
 quote [
     print << [
         "Don't drop the bomb,"
-        
+
         "Don't drop it on..."
     ]
 ]

@@ -1,0 +1,40 @@
+Draem [
+    date: 15-Aug-2017/9:56+3:00
+    title: "The Mormon Zoo"
+    slug: %mormon-zoo
+    tags: [lucid-dream neutral religion]
+]
+
+print {Having become lucid, I was in a discussion with a young boy about where he was from relative to me.}
+
+dialog [
+    boy: "What planet are you from?"
+
+    me: "Earth"
+
+    boy: "Where is that?"
+
+    me: "Ummm.   Milky Way Galaxy.  I dunno how useful that is, as it's a term that comes from Earth.  It's the third planet from a sun, if that's any help."
+]
+
+print {He pulled up a big starmap on a screen.  I looked at it blankly.}
+
+dialog [
+    me: <sheepishly> "Ummm.  I guess I should have at some point memorized some kind of fundamental properties like the ratio of the planets from the sun or something, if you're going to search."
+]
+
+print {I stopped to look more closely at the "starmap".  When I did, it seemed like it was a video game with space battles going on.}
+
+dialog [
+    me: <skeptically> "Are you *sure* that's a starmap, and not just a screen in some video game?  Because that seems a bit too pixely and has cartoon ships fighting on it.  Where are YOU from?"
+
+    boy: "The Mormon Zoo."
+
+    me: "Uh... what is that?"
+
+    boy: "It's in some of the older cores, a simulation."
+
+    me: "The name 'Mormon Zoo' doesn't sound like the people running it are pro-Mormon...are they?  Who runs the simulation?"
+
+    boy: "It's kept active by a corporation by contract."
+]

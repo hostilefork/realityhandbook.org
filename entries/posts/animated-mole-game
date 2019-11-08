@@ -1,0 +1,43 @@
+Draem [
+    date: 1-Dec-2016/9:56+3:00
+    title: "Animated Mole Game"
+    slug: %animated-mole-game
+    tags: [non-lucid-dream neutral sexual]
+]
+
+print {I was watching some animation of animals, which seemed to be a young chipper female mole (or maybe a shrew-like thing) talking to family of other animals.}
+
+dialog [
+    female-mole: {Don't worry guys, it's time to leave the burrow!  I'm going to have a great time out in the big world, and I'll write you and tell you all about it.}
+]
+
+print {She left, and the remaining animals were talking about her.  I think the one that spoke might have been a bird.}
+
+dialog [
+    bird: <rolling eyes> {Oh, we'll be seeing her in the morning.}
+
+    other-mole: {Why do you say that?}
+
+    bird: {Just trust me.  It's a scary world out there...predators, cars, and...humans.}
+]
+
+print << [
+    {Then a loading screen came up and ran through an initialization.  It was the training mode for a video game, where you were this female mole and you had to practice digging in the garden before you could leave for the outside world.  Various signs were popping up out of the ground and the view was panning around, presumably of practice levels.}
+
+
+    {But the game crashed to a terminal, or was exited in mid-initialization during the pan.  I somehow tried to run it again but it said something about files being corrupt.  To reinitialize it, I had to type `molegame ,restart`.  The space before a comma in that position surprised me--as I'm unfamiliar with that as any kind of syntax for command line parameters.}
+
+    {The restarted game replayed the opening animation which I had seen before.  I tried to watch it and not have it perceptually zip by as fast it had the first time.}
+
+    {There was a cut scene where the character was talking.}
+]
+
+dialog [
+    female-mole: {It's not far to where I'm going, and I should be able to avoid the humans.  They are pretty bad, just like everyone says.  But one thing: when you find a fast food restaurant and look around in the trash bins, the humans don't seem quite so ugly after all}
+]
+
+print << [
+    {While the game was booting I went to look up "mole game" in some kind of browser window.  The first page that came up had animations of the characters that were sketched, with the images tagged with labels like `dirty` or `nasty`.  One was of one of the other characters of the game performing oral sex on this female animal.}
+
+    {I gathered the game was not American in origin (and somehow that it had perhaps come from India).  Either the web page or the game launch seemed to have a very purple-ish theme.}
+]

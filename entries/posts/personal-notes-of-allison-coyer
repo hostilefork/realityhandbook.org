@@ -19,9 +19,7 @@ print << [
     {What I found was a video about how the original handwritten notes of this woman's work were on paper, but they had done some kind of preservation and stitchwork with machines over top of the paper.  This transformed it into cloth, but with the paper still inside.}
 ]
 
-note [
-    print {The movements of stitching in the machine were leaving vertical bands between lines.  It did not look like it would be any human writing on the original, though I didn't see if the original paper was typewritten or handwritten.}
-]
+note {The movements of stitching in the machine were leaving vertical bands between lines.  It did not look like it would be any human writing on the original, though I didn't see if the original paper was typewritten or handwritten.}
 
 print {The video focused on the white embossed-looking stitches, which were extruding letters.  Then the stitches themselves were glazed and preserved somehow...with certain letters at various points "capped" with some kind of unusual studs that looked like old typewriter keys with a circular lens in it.}
 

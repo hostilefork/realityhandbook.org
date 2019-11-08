@@ -1,0 +1,34 @@
+Draem [
+    date: 15-Jul-2015/9:56+3:00
+    title: "Knocking On The Wrong Girl's Door"
+    slug: %knocking-on-the-wrong-girls-door
+    tags: [non-lucid-dream neutral bathroom smoking]
+]
+
+print {I was trying to meet with a girl who lived in an apartment complex with interior cooridors.  I accidentally knocked on the wrong door, and the girl came out of another apartment.}
+
+dialog [
+    girl: <panicked> "You can't knock on the wrong door here!  They'll call the police!"
+]
+
+print {She told me I couldn't come in but now I'd have to wait for the police.  So I went and sat in a waiting area.  I was looking at a computer and reading it, and didn't notice the police walk up behind me when they came.}
+
+dialog [
+    police: <suspiciously> "Why didn't you notice when we walked up?"
+
+    me: "I was waiting here a while and didn't know if you were actually coming.  I'm reading what's on this computer screen."
+]
+
+print {The police officer pointed past me toward the far wall.}
+
+dialog [
+    police: "I think you sat here so you could see inside the girls bathroom."
+]
+
+print {I was taken aback by the suggestion.}
+
+dialog [
+    me: <angry> "What are you talking about?  No!  There are two places to sit here, and this is one of them.  Beyond that being too far to see, what would I want with seeing an empty bathroom when someone leaves the door open anyway?  What is *wrong* with this building."
+]
+
+print {Somehow the scene transitioned to where I was encountering a girl with a kind of bleached-blond hair, nearly white.  She seemed to recognize me.  I saw she had an interesting shirt with Rubiks cubes placed in 5 positional rotations around it.  But something I pointed out to her--which she may not have noticed--was the CAMEL cigarettes logographic text very faintly overlaid on her shirt.}

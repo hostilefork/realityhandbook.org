@@ -1,0 +1,90 @@
+Draem [
+    date: 24-Jul-2017/9:56+3:00
+    title: "Manta Research and Famous Amy's"
+    slug: %manta-research-and-famous-amys
+    tags: [lucid-dream neutral names]
+]
+
+print {I was in what seemed like a hotel room, where I picked up a small iPhone-looking device.  I decided to talk to it.}
+
+dialog [
+    me: "Hey, phone... um... show me a map of how to get out of this building."
+]
+
+print << [
+    {I walked out the door and passed a strange looking robot.  It seemed to have some kind of sign for a face.  Remaining calm, I passed it peacefully, and it didn't bother me.}
+
+    {Trying to make sense of the map, I noticed a man who looked like a construction worker push an elevator button on the wall.  Nonchalantly I followed him, but when the elevator came it was rather shallow and wide.}
+]
+
+dialog [
+    construction-worker: "Hm, is the main elevator not working?"
+
+    me: <playing it cool> "...it might not be..."
+]
+
+print << [
+    {Fumbling with the phone it seemed to be able to expand into a wallet, and had some kind of built in lighter.  Looking into the wallet, it appeared to be full of a lot of large bills.  I discreetly closed it back up.}
+
+    {Fearing the usual dream attacks, I didn't want to look suspicious.  So I decided to make small talk.}
+]
+
+dialog [
+    me: "So...how's your day?"
+
+    man: "About as good as it gets?  Had a meeting, and I feel like I can't get anywhere because I'm always getting judged on how I look.  Maybe I should wear fancier shoes."
+
+    me: "Well, if someone judges you on your shoes, then you have a piece of information of what kind of person they are.  I'd just turn it around and judge them for it."
+]
+
+print << [
+    {He smiled and we walked outside, passing an opening area of a building that seemed to have some restaurants or stores built into its bottom level.  I walked out into the dark, and turned around to try and see the context of where I was.  A sign on the outside said **Amy's Roadhouse**}
+
+    {I tried talking to the phone some more, but now--for some reason--it talked back.  It seemed to punctuate what it said with laughter.}
+]
+
+dialog [
+    phone: <laughing> "It's owned by the Radisson Group."
+
+    me: "So it's like, a hotel?  Are the units all rented, or owned, or what is it?"
+
+    phone: <laughing> "You have to pay to stay there."
+
+    me: "Yes, but I mean, what kind of building.  Is it all hotel, or mixed residential and hotel?"
+]
+
+note [
+    print {I'm not sure why of all things I would care about the zoning makeup of the building I'd come out of.}
+]
+
+print {I wandered about staring at the phone's map, and decided to go into a local shop to see what I could learn about the body I was in before I woke up.  I addressed the female shopkeeper, starting with some kind of innocuous-seeming questions.}
+
+dialog [
+    me: "Do you remember seeing me before?"
+
+    woman: "Yes."
+
+    me: "Do you know what I do, like, for a living?"
+
+    woman: "I don't know anyone that knows you've said anything about it."
+
+    me: "Would you say this area is a good area?  Is it high end, average, or is it dangerous or something?"
+
+    woman: "It used to be sort of the second nicest neighborhood around here, because of Manta Research.  Maybe not quite as nice these days, but still good."
+]
+
+note {"Manta Research" sounds like the name of some supervillain's cover company from a comic book or movie.  However, pretty much every organization I can find on Google calling itself "Manta Research" is very literally involved in researching mantas, e.g. the aquatic fish.  I suppose that could still have a villainous angle to it.}
+
+dialog [
+    me: "Okay, well, let me tell you the situation here.  I don't know anything about this place.  I don't recognize this place, this city, the room I was in before, 'Amy's Roadhouse', 'Manta Research' the phone I'm carrying... none of it.  Basically, the way you could model this is that I'm an amnesiac, except... I'm not.  I have an entire life that I know about, it just is unrelated to whatever this one is."
+
+    woman: <shrugging> "It's pretty easy to get hacked.  You just read a few pages, and next thing you know, whoosh."
+
+    me: "Sure, I'm a programmer.  And I get that.  But it seems if anyone's been hacked, it would be the body I'm occupying...not me, the occupier.  I'll wake up fine in a minute--near certain, regardless of attacks.  I just have no idea how I got connected in here, wherever here is."
+
+    woman: "The one person who knows about your situation is Rohit.  He knows, but he just can't say anything."
+
+    me: "Who?"
+
+    woman: "Rohit...of Famous Amy's and Michaels."
+]
