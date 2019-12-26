@@ -1,0 +1,23 @@
+realityhandbook [
+    date: 25-Aug-2009/8:41+3:00
+    category: 'lucid-dream
+    title: "Nobody in the Future Is Wonderful"
+    slug: %nobody-in-the-future-is-wonderful
+    tags: [negative sexual technology]
+    old: http://realityhandbook.livejournal.com/140106.html
+]
+[{I found myself in a dark room, and the first person I encountered was a guy slouching in a chair.}]
+[guy: {There you are! Why don't you take off those big glasses and give me a kiss!}]
+[{He grabbed my glasses and made some kind of face that looked a bit like a horse baring its teeth. I kissed my hand and blew it toward him.}]
+[me: {Um, I don't want to offend or anything, but no thank you.}]
+[guy: "Well you should check her out..."]
+[{The room began to come into focus and I saw several other people, including an Asian-looking woman who was laying naked on her back. Her body seemed to be made out of some kind of translucent plastic, and there was an area which was glowing a blueish animation under the skin. She seemed to be showing it off (as one might show off a new Tattoo). I ran my hand over it.}]
+[me: "That is very interesting."]
+[{Taking stock of some of the other people in the room, I saw they were all pretty weird. One girl had a second head on her neck, another guy had wings.}]
+[me: {Look...I am from a place where this kind of thing isn't possible yet. Do you understand the implications of what I'm saying?}]
+[asian-woman: ("looking depressed") {That you're not that wonderful? That nobody here is that wonderful, either?}]
+[me: {No, that's not what I mean. I'm going to look around more.}]
+[{I walked out of the strange dark room and found I was in someplace that was like a very futuristic mall, with high ceilings. Robots were whizzing around that resembled things out of WALL*E:}]
+[picture %burn-e-robot.jpg]
+[{I lost track of the dream but sort of managed to get my bearings again in a parking lot. Robots with lasers seemed to be tracking me. A small humanoid form that was covered in black reflective clothing got out of a vehicle with a gun pointed at me. I held up my hands.}]
+[{It opened a small blue box and ordered me inside. Frightened of being stuffed in that small space, I forced myself awake.}]

@@ -1,0 +1,34 @@
+realityhandbook [
+    date: 28-Apr-2009/21:15+3:00
+    category: 'lucid-dream
+    title: "Full Moore Control"
+    slug: %full-moore-control
+    tags: [attack neutral technology]
+    old: http://realityhandbook.livejournal.com/130821.html
+]
+[{I was in a fight with a guy who had some kind of laser gun, who was hopping around maniacally. There were a lot of people around, but few of them seemed to be reacting--they were just kind of sitting there at banquet tables. The guy had shot some people I was with, but I knocked over a large white round table so that it deflected the beam.}]
+[{Eventually one person seated at a table with a small light-saber type device got up and started cutting into the face of the guy. Yet this didn't seem to stop his attack, and we began a fist fight. I transitioned into a conversation with a couple of people about it.}]
+[person: {You *almost* killed him, without any weapons! But this level is boring. What else is there?}]
+[{We started flipping through maps on a kind of piece of virtual paper, that reminds me of augmented reality demonstrations.}]
+[me: "Wait, what level is my character?"]
+[{I looked at my wrist, and a number "75" showed up.}]
+[me: {Grumble, that's too basic. I must have a better save somewhere.}]
+[{There was a strange terminal and a girl went with me to it. I could barely read the letters because the pixels were in multiple colors. There was a menu labeled CHARACTER OPTIONS. Among the list of submenus, one was "level of control in the game." One menu option had something like the Google Chrome logo next to it and said "Full Moore Control"}]
+[girl: "Full Moore Control? What does that mean."]
+[me: {You can't do that! You'd be dead...I mean, unless you seriously insulated against the address invasion.}]
+[note {I have little idea what I was talking about in this dream thus far. But at this point, I had some sort of feeling that this would be something like in the game <a href="http://en.wikipedia.org/wiki/Core_War">CoreWars</a>, where two independent threads of execution could overwrite each other.}]
+[{As I spoke, I turned up to see what looked like giant balls of crystal ice wrecking the environment we were in. People ran around in a panic. It was very computational and reminded me of the Neuromancer video game:}]
+[picture %948156857-00.gif]
+[{I found myself in a rather large house, and I really had to use the restroom. I went in and used the bathroom, noticing there was a yellow washrag of some kind in the toilet. Deciding to just forget about the restroom, I decided to move on and had some kind of laugh about a character's "wet cycle". Looking in the mirror I noticed I looked rather much like I do today.}]
+[{This transitioned a bit into a room full of bookshelves. Books scrolled past my field of vision, I began to try and remember them all but I can't remember specific names of authors or titles. One did stand out that I tried to focus on, it was <i>Rome Being Burned As Watched From The Sea By Marco Polo from His Ship</i>.}]
+[{I tried to read these titles out loud, anxiously asking if anyone else could read them. I realized I was standing on the edge of a bed where I was talking to a girl. The room was covered in tall black Ikea bookshelves, the books were everywhere.}]
+[me: {From this point of view, I imagine it fails to impress you that I am reading the titles of books on a shelf. We for some reason are in a library, or have an undue number of books in our bedroom. In another life I'm apparently some kind of crazed book-o-phile. Well that's ironic, considering I don't have ANY books when I'm awake.}]
+[girl: {This is a reasonable number of books. They're all cheap. Except for those.}]
+[{She indicated a low, flat case of old books under glass.}]
+[me: {Oh, the rare books. Wait, so this is the future where having a large virtual room of crazy books is like a wine cellar?}]
+[{There was a shift to where I was looking at a large window full of icon-sized pictures of animated people. They were like movie clips, but they were numbered. An odd looking police guy who looked like a muppet with an orange face was in there several times, with filenames like police1, police2, police3... etc.}]
+[picture %300px-guy-smiley.jpg]
+[{My point of view went back to the room, and he was then standing there. The girl was talking to him about me.}]
+[girl: {So then when he was gone for a while. I was like, well, heck if he doesn't come back, then that's that. But then I found him wandering around out there acting all weird.}]
+[police: ("to me") "What's the last thing you remember?"]
+[me: {From here? I don't... I don't remember any of this!}]

@@ -1,0 +1,21 @@
+realityhandbook [
+    date: 4-Jan-2006/19:06+3:00
+    category: 'lucid-dream
+    title: "Dream Cell Phone Calls to Dream Mexico"
+    slug: %dream-cell-phone-calls-to-dream-mexico
+    tags: [positive sexual]
+    old: http://realityhandbook.livejournal.com/85302.html
+]
+[{It was late at night at a dance club, and many people were going home because the place was about to close. Two average-looking girls were debating whether to go home or go do something else, and I volunteered to go do something with them. They decided they were too tired, and left.}]
+[{A much more attractive girl than either of the previous two was watching me from the side of the room. She came up to me and was kind of sweaty. We briefly touched as she leaned in to speak to me.}]
+[pretty-girl: "Hello there."]
+[me: {Well hello! It's nice to see a woman dancing hard enough to get that sweaty, it means you're here to dance and not just pose. It usually makes people afraid to touch, because...}]
+[{I suddenly reached my arm around her as if I were a sleazy guy, and then feigned repulsion that she was wet. She kept the embrace going and grabbed me to kiss.}]
+[pretty-girl: "I loved you from when I first saw you!"]
+[{My luck is generally not this good, so I was cued into realizing it was a dream at this point.}]
+[me: ("sighing") {Oh, damn, a dream. That means I'm going to wake up fairly soon if you don't know any means of intervention...drinks, drugs, etc.}]
+[pretty-girl: "I'm afraid I don't have anything like that."]
+[me: {Darn it. Y'know, it's funny though--even though I don't know much about this world or where we are at this moment, I'd be willing to take risks to get stuck here and learn more. So if you ever find anything extreme--like a Matrix pill--save it for me, ok? Even if it prevented me from returning to Earthly life, I'd do it.}]
+[{We were overheard by some people who decided to come over and mock my ideas about creating a linkage between worlds.}]
+[heckler: {You think that maybe in a dream you're in the same room as someone who actually lives in Mexico in your world. But that's ridiculous. It doesn't work the other way; you don't have people in bed with you and then go to sleep and have a conversation with them where you're at dream-home and talking to them in dream-Mexico!}]
+[me: {Of course I could! If I had a dream-cell-phone at my dream-home, I could make a dream-call to dream-Mexico. Why wouldn't that be possible?}]

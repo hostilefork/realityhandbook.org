@@ -1,0 +1,33 @@
+realityhandbook [
+    date: 23-Aug-2008/9:12+3:00
+    category: 'lucid-dream
+    title: "Hitler and the Homeless"
+    slug: %hitler-and-the-homeless
+    tags: [helpful neutral sexual]
+    old: http://realityhandbook.livejournal.com/98788.html
+]
+[{I was waiting in line at some kind of food counter and saw an attractive blond girl who seemed to recognize me. She sidled up to me and I touched her, I was in some kind of awareness that I was dreaming.}]
+[me: "Um, hey, sorry is that ok?"]
+[blond: ("smiling") "I'm a uni."]
+[me: "Uni what? Are you in some kind of... union?"]
+["She didn't answer that."]
+[blond: "Where are you from?"]
+[me: "Um... the year 2000?"]
+[blond: "Which part? Earth?"]
+[me: "Yes."]
+["Her smile disappeared."]
+[blond: "That is not looked upon highly."]
+[me: "Hey, well me neither, I didn't like it very much."]
+[blond: {Well just because you're here now, this isn't because of anything about you... you just slipped through a crack in the fabric.}]
+[me: {Look, I'm not asking for anything. Please don't attack me. I just want to know how I got here, and what's going to happen to me in the future.}]
+[blond: "Well, there is a screening process."]
+[{We began walking through a very beautiful and refined mall-type environment, a classier version of the wacky and well done interiors of certain Vegas casinos.}]
+[blond: "Your world was too competive."]
+[me: "You mean, com-pet-it-ive?"]
+[blond: {Yes, a lot of contention for resources. Here hotel rooms are given out on a first-come, first-serve basis. For example. There are exceptions, but few.}]
+[me: {That sounds nice in theory, but what do you do when there are people who are pathological? The homeless who cannot or will not work?}]
+[blond: ("smiling") "I kill them."]
+[me: {What?! You, personally, kill people just because they don't have homes?}]
+[blond: {There are many military operations, I'm part of some.}]
+[me: {Well there has to be a better way! If you're all evolved and we're such dumb schmucks, can't you come up with something more elegant than extermination?}]
+[{I woke up kinda pissed off as we walked into a club-like area.}]

@@ -1,0 +1,14 @@
+realityhandbook [
+    date: 11-Feb-2007/16:16+3:00
+    category: 'lucid-dream
+    title: "Who the Hell is Richard Butler?"
+    slug: %who-the-hell-is-richard-butler
+    tags: [names neutral]
+    old: http://realityhandbook.livejournal.com/78118.html
+]
+[{I had a laptop and was watching some kind of bizarre movie called "It's My Party" with someone.}]
+[someone: {Oh yes, this is a good one. It stars Ann Taylor, and was produced by Richard Butler.}]
+[me: {Okay, thanks. I'll look this up on IMDB and see if it actually exists.}]
+[note {I knew that looking it up on the dream laptop would NOT be the same as looking it up on my real laptop when I woke up, but decided it could be interesting anyway.}]
+[{Though I did bring up a web browser, a bouncing "new email" icon distracted me, and I switched to Apple Mail. There was a <a href="http://www.nerve.com/login/LaunchPad.asp">Nerve Personals</a> notification, and some stuff that looked like spam.}]
+[{The email that interested me most was titled "Subject: Fourth". It had what appeared to be a Doonesbury cartoon attached. Looking closely at the "To:" address I tried to piece out what the recipient of all this mail was, and it came out as something along the lines of A.Chang@ILikeAsiaImportCandies.com.}]

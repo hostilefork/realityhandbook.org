@@ -1,0 +1,17 @@
+realityhandbook [
+    date: 17-Mar-2007/0:02+3:00
+    category: 'misc
+    title: "Shakespeare's Epitaph"
+    slug: %what-does-shakespeares-epitaph-mean
+    tags: []
+    old: http://realityhandbook.livejournal.com/28325.html
+]
+[{The epitaph on Shakespeare's supposed tomb says this:}]
+["Good friend, for Jesus' sake forbear,"]
+["To dig the dust enclos&egrave;d here."]
+["Blest be the man that spares these stones,"]
+["And cursed be he that moves my bones."]
+[{This is clearly an <i>allusion</i> to the whole Egyptian mummy's curse and related folklore. But we're talking about a genius writer who thinks people are just actors on the World's Stage. Isn't it likely that he'd see his skeleton as little more than a prop to be played with in Hamlet?}]
+[{They say Shakespeare penned this, which implies that he wrote it while he was *alive*. Now if while still alive *you* said: "Cursed is the (wo)man who moves my bones!", you'd be saying "Argh, my life sucks, what a plight I have." That's because YOU move your bones...with your muscles...under the control of your mind.}]
+[{Shakespeare is full of double entendres. I'd go so far as to say he was notorious for them. We can take bets on which of these was meant in more seriousness--but they both were intended--otherwise it's a non-sequitur. But when I search the web trying to find someone else who agrees with me on this, I just find a lot of people wondering why Shakespeare would believe in curses!}]
+[{I'm like Mugatu from Zoolander: <i>"Doesn't anybody notice this? I feel like I'm taking crazy pills!"</i> Perhaps this isolation is the kind of curse of which the Bard was speaking...}]

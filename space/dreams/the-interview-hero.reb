@@ -1,0 +1,38 @@
+realityhandbook [
+    date: 4-Jul-2006/12:10+3:00
+    category: 'lucid-dream
+    title: "The Interview Hero"
+    slug: %the-interview-hero
+    tags: [helpful positive sexual technology]
+    old: http://realityhandbook.livejournal.com/12012.html
+]
+[{I found myself in a very mall-type environment with pools and an excess of furniture around. There were various sexual activities, in a pool and other places, and I was participating. When I noticed the number of people watching on couches this snapped me out of thinking it was a good idea and into dream interrogation mode.}]
+[me: {Hey, can anyone tell me something I don't already know? I mean seriously--<i>surprise me</i>--help give me proof that I'm communicating with other beings!}]
+[someone: "Bicycle. Toothbrush."]
+[note {I don't actually remember what they said, but it was two random words.}]
+[me: {I don't mean be <i>random</i>. Be <i>original</i>, and tell me why you said it. Have it be something I wouldn't--or couldn't know!}]
+[{There was some conversation about this that I don't remember, and eventually I decided on a new question.}]
+[me: "Can you describe your favorite recent invention?"]
+[{People yelled back a few things that didn't pique my interest, but a kind of older Indian guy started talking.}]
+[indian-guy: ("out of it") {Yes... I... I was working on a modification. It was... an invention of mine... for a chromatographic light...}]
+[me: "Yes? How did it work?"]
+[indian-guy: "It... it... let me see. It..."]
+[{A man dressed as a doctor had a cardkey on one of those retractable fishing-line-type things. Except he had it hooked to his fly instead of to his belt, and pulled on it suggestively.}]
+[doctor: ("jokingly") {Check out the extension I just got. Now *that's* a great invention!}]
+[me: ("sighing") "I've seen those card key tethers. Not interesting."]
+[doctor: "Oh yeah? Well maybe this will interest you..."]
+[{He pulled a pen-sized tube out of his jacket. He unfolded the tube, and then unfolded the result several times...as if it were a hinged set of Russian stacking dolls. Ultimately, the unpacking revealed an entire caddy of utensils--some of which seemed to be writing instruments.}]
+[me: {Okay, that's cool. But how does it work, given that the mass of the tools seems much greater than the mass of the original container? What kind of environment is this that physics does not apply, is it virtual? I don't think that device can be implemented in the place I spend my daily life.}]
+[{By this point, there was extremely loud music, and a nice guy came up to me.}]
+[nice-guy: {I think you'd prefer to talk somewhere that there isn't all this noise. Would you like to go outside?}]
+[me: "Okay."]
+[{I tried to follow him and several people out of the building and onto the roof, which was a parking lot. I had some trouble, and was negotiating a stairway and somehow ended up stranded where I could hear their group but not see them.}]
+[someone: "Hey, we lost him. Where'd our 'interview hero' go?"]
+[note {I think they were making fun of me, although I actually think it's not a bad title for me.}]
+[{I managed to figure out how to get back on the main stairwell, and began talking to the nice guy some more.}]
+[nice-guy: {To answer your question about this place--no it's not some kind of sin city that has a function on its own. Everyone here is in a varying state of awareness. They're all pretty much like you--disease people.}]
+[me: "Disease people?"]
+[nice-guy: {Nevermind I said that. Oh...well...fine, all right. What I mean are people whose sexual restraint in their lives is based on a fear of disease. You're right, by the way: those diseases were introduced to try and regulate behavior, it's awful. Lots of things were modified in the code even beyond that--things to make people unappealing in various non-contagious ways to limit overall sexuality--like dry skin or weird hair where it shouldn't be. Anyway, so that's why there's so much sex obsession here...it's all about being free from that.}]
+[note {I didn't say anything about conspiracies to create diseases in this dream, though I have been suspicious about it. I am something of a conspiracy theorist when it comes to <a href="http://en.wikipedia.org/wiki/AIDS_conspiracy_theories">things like AIDS</a>.}]
+[nice-guy: {People like you and me, at our age, will never age. I mean to say, we're pretty much going to be about like this here on out...}]
+[note {He kept trying to clarify what he meant about age here, but I sadly woke up.}]

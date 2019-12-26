@@ -1,0 +1,33 @@
+realityhandbook [
+    date: 12-Oct-2007/7:04+3:00
+    category: 'lucid-dream
+    title: {Pizza Slice $1.49, Root Beer $11, Eating someone's belt... priceless.}
+    slug: %eleven-dollar-root-beer-with-a-side-of-belt
+    tags: [attack money neutral]
+    old: http://realityhandbook.livejournal.com/48759.html
+]
+[{I was in swirling gray clouds of imagery. From the swirling shapes, I picked an image out of the clouds and focused onto it, until I found myself in a very stable dark room. I felt like I had been there before.}]
+[{A large Disney-like character came running straight at me, and I could see that it was built out of projected light. Walking around and up some ramps, someone handed me a small black leather belt. It was too small to wear, and I perceived that the people in these rooms were fighting each other and it had been given to me as a weapon.}]
+[{A guy in a stereotypical "gay" S&M outfit tried to hit me with a belt, I grabbed it and took a bite out of it and spat it on the ground.}]
+[s&m-guy: ("effeminately") "Ooo, I <i>like</i> your <i>style</i>!"]
+[me: ("angrily") {My style is not attacking people with belts. You should cut that out.}]
+[{I kept walking away from these somewhat barren looking areas to a living room, with pillowed couches. Walking toward two women who I thought I recognized, I sat down on the floor.}]
+[me: {I sat here once before, you may remember me. Everything is remarkably clear this time. I can see things very well, it's usually distorted or out of proportion but I can pretty much say that my vision is spot on, almost like waking life. Better maybe, I can read numbers in the distance without glasses.}]
+[note {I don't know what I was referring to, because I've never logged a dream in this place, but in the dream I had the feeling of deja-vu.}]
+[her: "My name is Judy. I'm from the management."]
+[me: "You manage... what?"]
+[her: {This building, the T-shaped <i>(B-shaped?)</i> thing}]
+[{I looked outside a window and saw several tall buildings, I wondered if she managed those too. We got up and started walking into a fairly nice Italian restaurant.}]
+[note {The restaurant evoked a memory of a place where a previous dream where I was questioning people about how to pay for meals in dream currency.}]
+[me: {You know, I used to wonder what the problem was with the pain and everything, but now that my senses are working I see you have people out there... hitting people with belts. If you're the manager, can you do something about the psychos with belts out there?}]
+[her: {It's a real problem, they killed a FedEx guy, and...}]
+[{She then talked about some other types of people who had shown up they'd killed I couldn't quite catch.}]
+[me: "So what happens when you kill <i>them</i>?"]
+[her: ("sigh") "Well, maybe we'll be able to get to that."]
+[{While she was ordering something from a man behind a counter, I took in some of the prices for food on the wall. Pizza slices were in the $1.49ish range. I was actually kind of thirsty, so I decided to try and order a root beer. Curious again about the monetary issue, I fumbled for my wallet.}]
+[me: {Am I going to have some kind of back to the future issue with money, here?}]
+[{The wallet I was carrying was like my ordinary wallet, but the bills were a more pale shade of green and looked a little older, and everything was like 11 dollar bills. I tried to hand one to the cashier.}]
+[cashier: {Oh, man, no... you aren't seriously going to make me go get quarters are you?}]
+[{An older man stepped in front of me, said my real name while shaking his head, and encouraged me to put my money away. He seemed friendly enough, so I didn't get the gist that he was saying I couldn't have anything, but that I shouldn't be concerned about payment. Still, I slapped an 11 dollar bill on the counter.}]
+[me: "Well in any case, I'll have a root beer."]
+["I awoke and never got my root beer."]

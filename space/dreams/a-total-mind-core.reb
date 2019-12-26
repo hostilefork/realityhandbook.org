@@ -1,0 +1,33 @@
+realityhandbook [
+    date: 12-Aug-2009/12:02+3:00
+    category: 'lucid-dream
+    title: "A Total Mind-Core"
+    slug: %a-total-mind-core
+    tags: [death helpful positive sexual technology]
+    old: http://realityhandbook.livejournal.com/138174.html
+]
+[{I was on my way out of a lounge/kitchen area of what seemed like a cubicle-oriented tech office. The carpet was grey, and there was a big-screen TV with some gaming consoles attached to it. I fiddled a little with the consoles, which seemed rather old.}]
+[{Though I felt like I was a guest in the office and not someone who worked there, I decided to grab a drink from the kitchen refrigerator to go. They had "Pom" pomegranate juice in the funny shaped bottles, and although it's pretty expensive as juice goes I decided to take it anyway.}]
+[picture %pom.jpg]
+[{But there was something weird about it, because when I opened it the drink was white and milky instead of red. I decided to leave it, and just go without a drink.}]
+[{A girl with very large breasts intercepted me on my way out of the kitchen. She gave me a hug, kind of holding me against a wall. She looked very familiar but I couldn't place her.}]
+[girl: "Hi sweetie."]
+[me: ("confused") "Uh, hi?"]
+[girl: {You don't remember me, I know, I know. But I'm Amanda. I used to work the cages, with the equipment.}]
+[note {I got the sense that she meant a steel security cage, and that she was a clerk who would make sure that only authorized people took equipment out of it. After waking up and thinking about it, I remembered who it was she looked like--someone I didn't know particularly well who lived in my college dorm. Her name was Claire and she was involved in an agriculture-type thing and had horses.}]
+[{I noticed that her shirt was almost completely open, and I could see her entire chest.}]
+[girl: "Are you... uncomfortable?"]
+[me: {No, no. It's all good. But wait...! I have questions. I mean, I'll be waking up soon, what's going to happen? Am I just going to disappear in a puff of smoke, but you'll still be standing here?}]
+[girl: "Yep."]
+[me: {At that point I'll wake up and be in my physical body. But do you <i>have</i> a physical body to wake up to?}]
+[girl: "No."]
+[me: {I'm a little groggy, but please bear with me: At night I dream, and materialize in a random place like this. Then I wake up and I'm in my physical body, but I go *poof* here. What happens when my physical body dies? Do I go *poof* there AND go *poof* here so I'm nowhere? Or does this place start becoming permanent?}]
+[{By now a small group of people had joined us and were standing there listening in. Someone else answered my question.}]
+[someone: {When the body dies, the mind does something really weird. It's a total mind-core.}]
+[me: "A mind-<i>what</i>??"]
+[someone: "Mind core. And it's really, really strange."]
+[note {In certain computer operating systems, there is something called a <a href="http://en.wikipedia.org/wiki/Core_dump">core dump</a>--when a program crashes, it takes the whole state of the system and writes it to a file. Wikipedia notes that core dump "...has become jargon to indicate any deposition of a large amount of unedited data for further examination."}]
+[me: {You speak like you've had experience. Have you guys died?}]
+[group: "Oh yes! Thousands of times."]
+[me: {Well I don't remember having ever died. Is this something I'll be remembering after the... mind-core??}]
+["I woke up before I got an answer."]

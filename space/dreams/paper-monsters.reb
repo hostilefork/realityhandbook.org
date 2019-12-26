@@ -1,0 +1,15 @@
+realityhandbook [
+    date: 27-Dec-2004/15:38+3:00
+    category: 'lucid-dream
+    title: "Paper Monsters"
+    slug: %paper-monsters
+    tags: [neutral telekinesis]
+    old: http://realityhandbook.livejournal.com/4294.html
+]
+[{I was applying for citizenship of some sort, and I sat down at a desk with a paper to fill out my information. I kept losing the paper, and picking up other papers, until there was a heap of papers on my desk. An administrative person walked by and shook her head.}]
+[administrator: {You shouldn't get lost in the paperwork. Be careful and take it one page at a time.}]
+[me: ("shrugging") {It's not <i>my</i> fault. It seems like your papers are breeding here on the desk as we speak. Why...just look!}]
+[{The papers started heaping up, and I felt I was causing this telekinetically. At this point I was feeling a bit cocky, so I directed my attention to a nearby bookshelf.}]
+[me: {This whole place is a disaster, your books don't even stay on the shelves!!}]
+[{A book jumped off the shelf and I guided it so it slammed up against a nearby support beam and then went flying back the other direction. Then I made another book jump up and hit the beam from the other side. People seemed to take that in stride, so I walked around pulling off a few other interesting tricks...like getting a door to lock and barricade itself so some people couldn't get out of a room.}]
+[{It seemed like I was then eaten by a herd of giant fuzzy dragon-looking things, though it was hard to tell.}]

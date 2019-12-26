@@ -1,0 +1,11 @@
+realityhandbook [
+    date: 16-Sep-2007/14:00+3:00
+    category: 'non-lucid-dream
+    title: "Before The After"
+    slug: %before-the-after
+    tags: [names neutral]
+    old: http://realityhandbook.livejournal.com/43038.html
+]
+[{I was watching some Homestar Runner cartoons also made an appearance with something about Abraham Lincoln, Peanut Butter, and Screensavers. Somehow I found myself looking at an image which would change as you walked by it; the first one was an anti-piracy ad which changed from "PIRACY" to "POISON" to "PRISON". The words would distort strangely.}]
+[{This led me to a circumstance where I was outside a giant billboard for a movie entitled "Before the After" It appeared to be an ordinary picture from the front, but as you walked past the various angles you could see superimposed the members of the cast...one at a time as you changed angle. I think Michael Douglas was in it, and he was standing at the installation of the bulletin board looking pleased.}]
+[note {When I got up to check on movies or books titled "Before the After", there wasn't a single one--although the domain name is taken by a <a href="http://beforetheafter.com/">domestic harmony group</a>. If getting no hits on Google for things in my dreams is good for anything, it's so I could use them myself.}]

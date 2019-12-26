@@ -1,0 +1,35 @@
+realityhandbook [
+    date: 7-Feb-2009/13:09+3:00
+    category: 'lucid-dream
+    title: "Cloning and IHOP"
+    slug: %cloning-and-ihop
+    tags: [helpful matrix microsoft positive time]
+    old: http://realityhandbook.livejournal.com/123510.html
+]
+[{I was trying to decide where to meet my parents for breakfast, and for some reason the idea of going to IHOP came up. Getting up a little early, I walked outside my building and was semi-shocked to see a shiny new IHOP restaurant right out front.}]
+[me: ("thinking") {That's strange, did they build this there overnight? How could that be possible? And everything around here looks a little too perfect and pristine...the gardening is immaculate.}]
+[{Walking into the IHOP I saw my extended family sitting at a table. For some reason, my mom was a waitress there. I decided to go ahead and say hi, but had barely gotten through the greeting phase when all the people in the restaurant started vanishing.}]
+[{My point of view shifted to an error message log in something that looked like a web browser. It seemed like a pretty standard message stream, except for the things it was complaining about were Illegal Clones.}]
+[picture %Console2.jpg]
+[{I decided to make a copy of the error log. Since there were so many errors I was losing some as the scroll buffer ran out...so I hit some kind of refresh button. The people showed back up and then vaporized again with a new stream of errors.}]
+[{The fancy UI of the system I was using seemed to be a Microsoft product, and I became even more alerted by the fact that I was somehow instantiating buildings and people with a web browser. I began poking at the machine but something I did logged me out, and I couldn't log back in without a password. My Dad was present and looking over my shoulder.}]
+[me: {Where we're at Windows 7 isn't even out yet. I told everyone about all this, no one bothered to believe me. Unfortunately I don't remember the password.}]
+[him: {I keep an administrative account on here that has an empty password, it's... the one next to the last in the account list.}]
+[me: {Security schmurity, eh? Well log in with that and see if you can reset my password with it, I'm going to walk around and look at this place}]
+[{I found what seemed like a gift shop you'd find in a restaurant in a tourist town. There was a woman standing there.}]
+[me: {If you guys need anything, my memory is really good. I mean, my memory of the things that happened to me. Of course it's a bit tricky to make use of that information, seeing as how time doesn't... really... EXIST.}]
+[{Returning to the computer, I found my Dad looking through a manual and chatting with some people in a World-of-Warcraft-type room.}]
+[me: "Oh no. You're one of THOSE people now."]
+[him: {I have to set the password to one of two specific values to get it to work.}]
+[me: {You're not getting ADVICE from the n00b room are you? Walking in there and saying 'I lost my password can you help' is like having a sign on your head that says 'Please hack me'.}]
+[{Closing all the windows on the machine, I noticed they vanished in what looked like small explosions. Then I went back to the gift shop, where there was a crowd of people... mostly younger boys. It seemed like the situation might go south and turn into an attack, but when they got what seemed like too close we would balance it somehow. We had a rather ethereal talk about how there was no inside or outside of oneself.}]
+[{I started experimenting with using my mind to make the room bounce and shake to music I improvised a cool song, and as I did the room went flying up in the air. The room bounced all around a landscape; there was a bit of concern about crashing but whenever we did it wasn't a catastrophe.}]
+[note {Controlling this situation with my mind in such a freeform way contrasted with the terminal interactions, and during the dream I thought back to <a href="http://realityhandbook.org/lucid-dream/the-hercules-pill/">The Hercules Pill</a> where I was told: "So many men are stuck, their minds clinging to the ideas of computers. They are unable to grasp the leaps and bounds that have taken place long since." I often think back to that one.}]
+[{My mouth began to feel like it was full of tar. A boy handed me a candy bar in a red wrapper, and broke off a piece for himself but handed me the rest. He showed me to eat it in a way that was almost like brushing one's teeth with it.}]
+[boy: "Here. To fix your mouth, eat it like this."]
+[me: {Hey, that worked pretty well. Why is this labeled as a candy bar, and not 'fix your mouth medicine'.}]
+[boy: {I don't think there's anything wrong with the way it is.}]
+[{This triggered a sequence of false awakenings, one in which I awoke in the room where I started. Out the window I saw sort a table setting which was outside the window which was a reproduction of the restaurant scene from the IHOP, except with scarecrows in place of people sitting at the table. A girl I had been sleeping with got up and looked out with me as I became upset about it.}]
+[note {I was upset due to a wave of understanding about how this voodoo table was part of a trick. These innocuous seeming objects had been used in the process of fooling a system into illicitly cloning "real" people. I can't really describe now how the trick I was perceiving worked...but it was as if someone was using this setup to convince investigators that a scene they had scene was made of inanimate objects all along, when they'd switched the people out.}]
+[girl: {You'll wish you and your mom had gotten together when you were in the same place, back before she was being such a tool.}]
+[{I made several attempts to find a place to write down the dream on a laptop. The dream logging software I was using had a kind of XML log format that is nothing like what I use here.}]

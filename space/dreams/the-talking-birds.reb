@@ -1,0 +1,13 @@
+realityhandbook [
+    date: 15-May-2006/13:17+3:00
+    category: 'lucid-dream
+    title: "The Talking Birds"
+    slug: %the-talking-birds
+    tags: [neutral]
+    old: http://realityhandbook.livejournal.com/10708.html
+]
+[{While dreaming about flying, I was trying to aim and hit certain places on the ground. All I had to do was think and then I'd reach a certain point, though I couldn't "stick"--I'd just go up into the sky again.}]
+[{Looking on the ground I realized it was a lot of kind of strange and scary stuff, though none of it was trying to harm me. I finally decided to give in and let the upward pull grab me. As I accelerated, I got a little panicked about burning up in the atmosphere.}]
+[{While I was raising into a vortex of clouds, a deep voice began a somewhat chastising but encouraging speech. I do not remember much, because it was fairly long and used a lot of words I wasn't familiar with. As I raised into the atmosphere and started to wake up, the last sentence was:}]
+[voice: {AND THE KEY TO ALL THINGS IN HEAVEN AND EARTH COULD HAVE BEEN YOURS SOONER IF ONLY...}]
+[note {As I woke up, the voice started raising and trilling in pitch until it morphed into the sound a bird outside my window was making. It was twittering and trilling in a way that sounded more like some kind of modem than a mating call.}]

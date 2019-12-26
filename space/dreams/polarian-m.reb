@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 20-Feb-2008/13:10+3:00
+    category: 'lucid-dream
+    title: "Polarian M"
+    slug: %polarian-m
+    tags: [names neutral verified]
+    old: http://realityhandbook.livejournal.com/56607.html
+]
+[{I had a very long dream where I was helping construct a tower out of wood beams. People were going onto levels of the tower that I didn't feel were safe.}]
+[me: {People need to get off this thing, at least until we can put some stakes in the ground and support it with cables.}]
+[{A young boy ran up to me while his mother protested.}]
+[boy: "I'll go with you to get the wire!"]
+[me: "You should listen to your mother."]
+[boy: "I want to know. Why did they pass zero one?"]
+[me: {The people involved in passing that legislation are just very... uneducated. They made a mistake.}]
+[note {Though I seem to have interpreted "Zero One" as some kind of piece of legislation, I know it to be a <a href="http://en.wikipedia.org/wiki/The_Second_Renaissance">city from the Matrix mythology</a>.}]
+[{Somehow this transitioned to a view of what seemed like the future of the same spot, when much fancier buildings and a city had replaced the primitive installation. I ended up inside a plane that was in some scary aerial battles, and I steeled myself as I got the feeling I was just watching a movie. The other person on the plane didn't understand.}]
+[me: {I'm just going to lean back and appreciate the explosions and what it's like to be high in the air. I can't be hurt, this is a movie we are watching.}]
+[him: "How do you figure?"]
+[me: {Actually, furthermore, it's also a dream. So I'm watching a movie inside of a dream. That means not only can I not be hurt I can also potentially control it.}]
+[{I made our plane fly down toward a specific rock and picked it up.}]
+[me: {Not being able to do what I just did wouldn't prove it WASN'T a dream. But I certainly can't control movies while I'm awake like that.}]
+[{We landed and began walking around what appeared to be some kind of public library.}]
+[him: {If you're so sure you're untouchable, then why don't you sit on that table over there?}]
+[{He indicated a table in the library, there was some kind of administration desk nearby. I decided I'd go ahead and sit on it, and a woman came up to yell at me.}]
+[her: {You do realize they're closing the convention center to the public for exactly this kind of behavior.}]
+[me: "Nope. Don't know that."]
+[her: "Can't you read the sign?"]
+[{I looked at a sign and it had writing in a few different colors. It seemed like French with words like "qui".}]
+[me: "Nope, can't read French."]
+[her: ("laughing") "No... apparently not!"]
+[me: {Well it looks like French. Anyway, I need to know anything you can tell me about your knowledge of other beings, or anything you might have heard about Earth?}]
+[{By now we had been joined by some other people. There was some murmuring:}]
+[her: "Polarian M!"]
+[someone: "[so-and-so] took me there"]
+[note {Polarian is a rather direct hit onto something I've never heard of. It's a term apparently coined by Madame Blavatsky about <a href="http://www.kheper.net/topics/Theosophy/HBP-Polarian.html">alien root races</a>. I've certainly never read any of her stuff.}]

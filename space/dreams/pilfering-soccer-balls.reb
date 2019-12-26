@@ -1,0 +1,37 @@
+realityhandbook [
+    date: 13-Aug-2008/11:50+3:00
+    category: 'lucid-dream
+    title: "Pilfering Soccer Balls"
+    slug: %pilfering-soccer-balls
+    tags: [helpful positive technology telekinesis]
+    old: http://realityhandbook.livejournal.com/97571.html
+]
+[{I was walking down the sidewalk and saw a kid playing with something that looked rather fantastical. It had images hovering, it was morphing... I can't exactly explain what it was. It was in ways like the Riddler's invention in Batman Forever:}]
+[picture %riddlers_invention.jpg]
+[me: "What... what is that? How does it work?"]
+[kid: {It's something I'm working on for the government. Turns out the fundamental properties of the image change when you use a certain rate. Watch.}]
+[{I looked more closely, and there was a projection screen. Also a computer, but the interface looked very old school... like a DOS program, with character graphics and windows. He started a test image on the screen that looked like ordinary video.}]
+[kid: {Okay, um, this might hurt to look at. Just warning you.}]
+[{Watching the video, it did start to hurt. But it hurt my ears, and... well, my head in general.}]
+[me: {Ow. Yes. Okay, that hurts. But you said there's a particular rate. What's the rate?}]
+[kid: "1450 kbps."]
+[{Pulling out a pencil I wrote it on my hand. I thought of asking for a sharpie, but then I thought, ah, it won't be there when I wake up. A pencil is fine, I'll just try and remember.}]
+[me: {Did you mean... hm... I mean, that's not a frame rate. Is it... 1450 Hz? That's a lot of frames.}]
+[note {It would be a lot of frames. TV is 30 frames per second, not 1450. But he did say kbps when I first asked, which is a digital measure of data transfer--"kilobytes per second"}]
+[{This transitioned to me being inside of a room, the kid had become a bearded guy. I looked around at various things, including an oddly shaped Rubik's Cube on a table. It was taller than it was wide.}]
+[note {In real life, if a Rubiks cube were, say, 5x3x3, it wouldn't work very well. The puzzle depends on symmetry. I don't know what these puzzles would be about.}]
+["I put the Rubik's cube down and faced the guy."]
+[me: {Um. Hm. I'm wondering if it's good to ask my 'usual' questions. Like...}]
+["Trailing off, I just sorta waved my hand."]
+[me: {Oh, nevermind. I'm going to look around since it seems no one is going to attack me that way. Not gonna mention Earth, that might screw this all up. Oh I just did. Ha.}]
+[{The guy laughed. Walking around the house, it seemed somewhat familiar. There were bedrooms, but no kitchen... just a small pink table with two chairs in the hallway. I tried not to invade anyone's privacy by going in the rooms, but all the doors were open. I returned to the living area, and the guy was still there.}]
+[guy: {It should be clear to you that when you leave, this room... well... it will becomes whatever we want it to be. It could be whatever you wanted right now, while you are here, in fact. Why don't you try something?}]
+[{I envisioned a soccer ball and made soccer ball gestures with my hand. A girl came over and tried to help, shaping her hand as the ball. When nothing materialized she cupped her hand over an invisible piece of space, and spoke to it.}]
+[girl: ("to her cupped hand") "Go out there. And *get* it for us."]
+[{She motioned the invisible thing and threw it out the window. Perplexed, I walked to the window and looked out. It was just a sidewalk and some grass, with cars going by. But a gigantic pick-up truck with tons of items in the back started driving past. I noticed among the things in it were several soccer balls, one that was all orange... one that was orange with black marks... and one that was the more traditional white with black spots.}]
+[me: ("excited") "There! In the truck!"]
+[{I held out my hand and motioned to the balls, and the all-orange one came to me.}]
+[note [["Such balls do exist:"] [picture %51CN0KVXRYL_SL500_AA280_.jpg] ["...so all orange is apparently not unpopular."]]]
+[{Triumphantly I looked to the guy and the girl but then had some second thoughts. They seemed to have some kind of concern.}]
+[me: {Oh, I'm not going to steal it... I... I'll put it back.}]
+[{By now the truck had started driving off so it was further away. Using as much focus as I could, I sent the orange ball back toward it, chasing the truck. It would look like it was about to fall, but then I'd manage to get it up in the air again. Finally, it made it into the truck, but the energy of chasing the truck wore me out and I awoke.}]

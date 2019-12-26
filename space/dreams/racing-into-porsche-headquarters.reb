@@ -1,0 +1,14 @@
+realityhandbook [
+    date: 9-Oct-2007/12:03+3:00
+    category: 'lucid-dream
+    title: "Racing Into Porsche Headquarters"
+    slug: %racing-into-porsche-headquarters
+    tags: [attack money neutral]
+    old: http://realityhandbook.livejournal.com/66741.html
+]
+[{I followed a couple of black cars that went driving directly into a building labeled as Porsche headquarters, leaving behind a long roll of tape behind them. They stopped and put some kind of device that looked like an orange dial at the entrance.}]
+[note {I felt like this device had something to do with detonation, and they were terrorists of some kind. At the end of the process they would either choose to detonate their explosives or not.}]
+[{Once they were far enough away, I picked up the tape. It had been printed with some kind of tag, which was establishing an accusation. It said the management had promised a $3007 pay raise to workers that was never delivered. Then in handwritten lettering there was something that said you could either say the accusation was "T" or "F".}]
+[{I hung back near where the detonation device had been put down. There were two newsstands, a yellow one that appeared to be for the regular news and a green one for The Onion. They were in incredibly good repair for outdoor news stands, and looked quite perfect.}]
+[{The stories were tough to make out but seemed to be about current names. People like Sean Penn and bands like Muse were mentioned. Front page news was a situation where some girl was being denied food and water by the president and was going to die, but there was a grassroots emotional plea that she be allowed to live.}]
+[{Trying to make out the date was difficult, but I believe it said Feb 4th, 56782. Managed to just make out the date as a man yelled "hey!" and came and attacked me.}]

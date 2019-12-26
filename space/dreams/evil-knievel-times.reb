@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 31-Aug-2008/2:58+3:00
+    category: 'lucid-dream
+    title: "Evil Knievel Times"
+    slug: %evil-knievel-times
+    tags: [conspiracy google helpful positive]
+    old: http://realityhandbook.livejournal.com/100066.html
+]
+[{I was watching some kind of cartoon, it was set in the past and had a lot of blue and purple hues. The first segment had a guy who was complaining about the job he had because of his name, because he'd drawn a certain card. Other people were kind of going "yeah, tough luck!" and they were using the cards he had drawn his fate from to build card houses. The next segment had some king who was frustrated trying to learn Latin and saying a phrase out of it (something like "VIVA LA VIVENDI", but more nonsensical). The king expressed that it was all nonsense, and the viewer could see the book was upside-down.}]
+[{There were many false awakenings in which I tried to get up and do my dream journal to document that. I was very curious about what the original Latin phrase might be which would map to the upside-down nonsense. But during these false awakenings, I kept getting up and being redirected to fake Googles. Someone I mistook for my neighbor (who might plausibly walk in the room as I was typing) arrived and I complained.}]
+[me: "Ack! DNS hacks! How can this be happening!"]
+[neighbor: "It was a poor decision by the company's president."]
+[me: {You bet it's poor. Damn it, I should drive my car into their offices. Stealing identity like that is just morally wrong!}]
+[neighbor: {Well, ultimately identity is a very secure thing. It's a matter of algebra, combinatorics, etc.}]
+[me: {I was trying to write down this thing, it was about a cartoon I saw...this king was looking at a book upside down...read like, VIVA LA VIVENDI.}]
+[neighbor: {Yes, you were watching the Evil Knievel Show. No, um, Evil Times.}]
+[{At this point I really became aware that I was still dreaming, and that this person was trying to impart information through a noisy channel. Reading between the lines, I guessed what he was trying to say.}]
+[me: ("excitedly") "Wait, are you trying to say Evil Medieval?"]
+[neighbor: {Yes, exactly. The show centers on that first character who got dealt the card and has a lousy job, people don't like him and he's kind of a loser so they pick on him.}]
+[{At this point, there were many people entering the room, picking up small white notepads and scribbling on them. They were also moving a lot of objects around, going through the drawers of the desk I was sitting at.}]
+[me: {Wow! I mean I dunno if you guys are doing all this shuffling to help me or what. But you're talking to me and you're not stabbing me, so that gives me hope.}]
+["There was a small guy who looked kind of Hawaiian."]
+[hawaiian-guy: "How good is his recall here?"]
+[{The neighbor looked at the computer, where I'd been typing our conversation out as we spoke.}]
+[neighbor: "Pretty good actually. Not 100%, but, good."]
+[hawaiian-guy: {So how much should we tell the muddling about the plan?}]
+[note [[{I read that as some sort of Harry Potter term, like "muggle"...which is used to describe those who have no magical ability. However, looking it up shows it to have relevant meaning as "muddle-ing" instead of "mud-ling":}] ["1. A disordered condition; a mess or jumble."] ["2. Mental confusion."] [{...so perhaps they were just saying I was confused.}]]]
+[me: "Muddling? You mean me? Tell me what's going on!"]
+[hawaiian-guy: "Why? To <i>impress</i> you?"]
+[me: {Look. While you guys go about pondering how well I can remember my dream-state, I'll tell you that I experience it pretty directly. Like now. And a lot of times, I'm getting stuck with syringes and I can't move and it really sucks in a big way. I need information and tools to defend myself.}]
+[{The group of people assembled and sitting in colored plastic chairs with metal legs just sort of looked at me.}]
+[picture %54_Student_Chairs_CLS.jpg]
+[hawaiian-guy: {You're going to just go to the first music thing you see.}]
+[me: "Beg your pardon?"]
+[hawaiian-guy: {Yeah you'll be into the music. Because you don't like surfing.}]
+["Woke up."]

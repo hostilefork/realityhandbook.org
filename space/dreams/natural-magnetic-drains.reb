@@ -1,0 +1,28 @@
+realityhandbook [
+    date: 11-Sep-2009/10:59+3:00
+    category: 'lucid-dream
+    title: "Natural Magnetic Drains"
+    slug: %natural-magnetic-drains
+    tags: [attack bathroom cats helpful lightswitch neutral purple technology]
+    old: http://realityhandbook.livejournal.com/141941.html
+]
+[{I walked into my bathroom, which typically has lights that come on automatically due to motion. Wondering if the light had burnt out, I went to other lightswitches--which did not turn on either. Noticing that the computer and other electric items are working, I walked into my roommate's room.}]
+[me: {Okay, either all the lights burned out simultaneously, or this is a dream.}]
+[{He got up to look at the lights. I noticed that he was significantly taller than in real life. When I pointed that fact out, he smiled and began to shrink down and morph into a stocky Hispanic man. He seemed friendly and was wearing a bright purple velvet jacket.}]
+[picture %purple-smoking-jacket.jpg]
+[me: {Hey, a purple jacket! Been noticing purple lately...}]
+[{We talked about something I don't remember. At various points in our conversation it seemed like we were going to get stuck to each other or have some kind of unnatural collision that would wake me up, but he seemed to pretty successfully extract himself from it so that nothing was too severe. A pale German-seeming guy with glasses spoke in some strange words that I found difficult to understand.}]
+[german-guy: {Vat yoo needs is run crypto ring buffer, take last bit and re-put at head of queue in iteration, ven overflow... vit your technology it take 3 month... computationally iz feazible.}]
+[note {That's the spirit of the communication, but I couldn't really understand much at all.}]
+[me: "I... I'm sorry, I can't understand you."]
+["The Hispanic guy sort of waved off the German Guy."]
+[hispanic-guy: ("to me") {What you should do if you really want to communicate is get yourself to one of the Earth's natural magnetic drains. There's about 10 of them.}]
+[note {I don't know what a "magnetic drain" would be. Wikipedia has some information on Earth's <a href="http://en.wikipedia.org/wiki/Magnetic_anomaly">magnetic anomalies</a>}]
+[me: {If you know about Earth's magnetic fields, do you know about the internet? My journal? realityhandbook}]
+[hispanic-guy: "Yes, we know."]
+[me: "Can you post to the Internet?"]
+[hispanic-guy: {It would be nice if we were able to outreach in a more direct way. But doing so would alert our enemies to our location.}]
+[me: {Enemies? Are they enemies because we talk, or would they just be enemies if you showed yourself anywhere at all?}]
+[hispanic-guy: "The latter."]
+[note {I did not think to ask if "our enemies" suggested that the party being spoken about was also intrinsically my enemy.}]
+[{Our conversation trailed off and they disappeared. A lot of cats started showing up. One cat jumped at me and woke me up.}]

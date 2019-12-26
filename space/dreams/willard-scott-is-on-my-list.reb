@@ -1,0 +1,30 @@
+realityhandbook [
+    date: 10-Aug-2008/9:30+3:00
+    category: 'lucid-dream
+    title: "Willard Scott: You're on my list!"
+    slug: %willard-scott-is-on-my-list
+    tags: [helpful positive religion]
+    old: http://realityhandbook.livejournal.com/96743.html
+]
+[{I was watching some kind of news report, where a normal-looking anchor was interviewing a man in a somewhat joking manner. The interviewee's face was shifting like stop motion animation to different expressions, though his body was fixed (like a paper cut-out). Everything was in color except for the interviewee, who was in black and white.}]
+[anchor: "So, now that you're dead, what's it like?"]
+[interviewee: {Oh it's interesting actually, and it's rather amazing what I can do. You'd be surprised what powers you have after you die buried in concrete.}]
+[note {Though I couldn't quite remember who the interviewee looked like, I now recognize that I thought he looked like <a href="http://en.wikipedia.org/wiki/Willard_Scott">Willard Scott</a>, who isn't dead...yet.}]
+[{The paper cut out man poked out the top of a chimney, holding a bright white-and-red umbrella. He laughed.}]
+[interviewee: "In fact, watch now as I wash the entire temple!"]
+[{Somehow I and a Chinese man were up on the roof watching him, as he pulled out a Post It note with something written on it. Thunder and lightning happened, and it began to rain. Suddenly feeling a bit awkward at the great height of the roof I was on, I was triggered into lucidity and was no longer afraid. I addressed the Chinese man, who I assumed was some kind of monk due to his dress and the reference to a 'temple'.}]
+[note {He changed form many times during our conversation--but I sensed continuity in our conversation. Thus I will call that being 'monk' for the sake of this transcript, whether they were one or not.}]
+[me: ("looking down") "Is it possible for a monk to have no fear?"]
+[monk: {Yes, that's possible. It's a way of being, for a monk. But only way #16,432 and not necessarily a good idea. You said it yourself; fear is supposed to be a tool, a quick way of compressing the data analysis process based on previous experience. As a sensation it must only be a tool.}]
+[note {Number approximated, was some large number to illustrate a point.}]
+[me: {That makes sense, but I think learning to not be afraid of things is really important.}]
+[monk: "Well, I'll tell you what's important."]
+[{He ripped a page off of a small notepad. The paper was lined, and it had pencil writing on it that looked like my own...that said something like <i>To-Do: Make list of spiritual objectives</i>.}]
+[{We went back inside the 'temple', and continued our conversation in a fairly ordinary room with a bed. I was floating around fairly aimlessly.}]
+[me: {Am I usually here, in some kind of trance? Looking at like, a little grain of sand or something and getting lost in it? Then sometimes I 'wake up' here, and there's a transfer of consciousness?}]
+[monk: "You're not too far off, it's something like that."]
+[me: {And let me get this straight...you guys just hang around and don't snap your fingers in front of my face going 'hey! hey! cut it with the sand, we can show you something you don't know'??? Why NOT?}]
+[monk: {I am the one who fought for this contact, and others. I knew I was right. It was apparent to some of us for a long time now that you are homeless.}]
+[me: {Homeless? I don't know what that means. But I'm going to wake up soon, why don't you do something so I can hang out here for a couple days and learn from you, whatever you know.}]
+[{The monk was by now a black woman holding and petting a small dog.}]
+[monk: {I'm afraid that isn't possible right now. But make the list.}]

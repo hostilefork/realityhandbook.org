@@ -1,0 +1,38 @@
+realityhandbook [
+    date: 17-Jun-2009/5:43+3:00
+    category: 'lucid-dream
+    title: "Like lemon (or something)"
+    slug: %like-lemon-or-something
+    tags: [helpful neutral technology]
+    old: http://realityhandbook.livejournal.com/133247.html
+]
+[{Conscious that I was dreaming, I was laying on a bed and scanning over something like Google News. At first I didn't have a lot of control over it, and headlines scrolled all over. I caught bits and pieces as they passed.}]
+[note {Although it's rare that I take the interpretation that what I'm looking over are fragments of things that I've seen during the day out of the corner of my eye...I did start wondering in this case if that was what I was looking at.}]
+[{Though still feeling glued to the bed, I managed to gain control of a search box. The screen was seemingly next to me--as if it were projected from above onto the sheets. My fingers traced over the surface as I used something like an image search:}]
+[picture %imageGoogleFounders.jpg]
+[{A ton of thumbnails went by when I entered my last name. I was able to highlight one image (not of me) but it didn't seem that clicking on it would open it. Looking around, I managed to notice there was a large black computer with "SEATTLE" written on it. My attention was directed to a computer window somewhere that had a lot of information, like:}]
+[quote [["Password for SEATTLE: *****"] ["To reboot hit ctrl-alt-delete"] ["To change users hit ****"] ["<i>(etc)</i>"]]]
+[{I hit ctrl-alt-delete. When I did, a badly-mechanized voice spoke aloud:}]
+[voice: {System PC1EXOR is now shut down. System unavailable.}]
+[note {PC1EX0R is not exactly what it said, and the window with information had actual password and other stuff...not asterisks. I rebooted because I was feeling too incapacitated to do much with those details.}]
+[{As the computer rebooted, it showed a couple of warnings. I didn't catch them all, but I did notice something like WARNING: Telephone services may be temporarily interrupted in MICHIGAN, and DELAWARE. I watched the screen and had a feeling of dread as the computer seemed to be hung on a message about unencrypting.}]
+[me: ("out loud, to no one in particular") {What am I involved in? How did all this happen? What am I?}]
+[inner-voice: {Don't panic, this is just something I install on all the systems I work with. Can't be too careful.}]
+[{My feeling of dread continued as I went through a spectrum of physical sensations, while the system booted into something that looked more like the introduction to a D&D text adventure than an operating system. There were skull graphics and gray tones, but otherwise it resembled old C64 software more than the Windowing OS I felt I'd been using...}]
+[picture %telengard_01.gif]
+[{The skull graphics--though they were probably just part of the dungeon/adventure theme--made me feel more dread. I wasn't quite sure what was going to happen when the loading was finished, or what this had to do with interrupting phone service. It was very Matrix-y, only no Morpheus or anyone to speak with.}]
+[{I popped into a situation where I was running up some stairs, and ran into a man carrying something in a bag through a doorway on the floor above. My motor controls were completely screwed up.}]
+[me: "I can't move normally, can you help?"]
+[man: {It's the brushes they use to clean the outside walls. Causes this static-type attraction, we're trying to fix that.}]
+[{He reached out a hand to help. But it seemed every time I took a step backward, he was forced backward. If I went forward, so he was forced to as well. Standing further away seemed to alleviate the jerky coupled motions, and I began to compensate for the weirdness.}]
+[me: {Okay. I actually think I can figure this out, but...I'm used to gravity going up and down, all the time.}]
+[man: {We're certainly a neighborhood that can tolerate a bit of variety!}]
+[{I introduced myself and held out my hand to shake. He shook it, though he held his palm relatively flat.}]
+[man: {Ah, you've got a hook on that shake. I guess I'm too old and don't do it that way.}]
+[me: ("jokingly") {I'm getting pretty old myself. But all my angles are, hm...still acute, you might say.}]
+[man: {Ha ha! Ah, yes. This Kryn woman you are staying with, she has said you are very clever--good with that. And good with the <i>other</i> sort of thing, too.}]
+[note {It seemed he was suggesting I was good in bed, following on my joke. I have made it an agenda to try and be more witty and at least have some fun with that.}]
+[{We were walking downstairs in what looked like a very fancy and well-decorated apartment, when a woman joined us and was looking at me. She frowned at me.}]
+[man: {Hey, hey. It's not that she doesn't like you! She's just worried you're going to get hurt.}]
+[woman: ("strong unidentifiable accent") {Yes! Dear me. Kryn, well...she might not worry. But a lot of the rest of us don't think you'll be able to survive interstellar travel. You'll be pulled all apart...like, like lemon or something! And we'll all just be there watching--terrified and not able to do anything--like oh-my-GOD!}]
+[{She made distorted faces to convey her point. I pondered what I thought about being torn apart in some kind of space travel operation, and awoke.}]

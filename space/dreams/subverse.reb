@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 22-Dec-2008/11:22+3:00
+    category: 'lucid-dream
+    title: "Subverse"
+    slug: %subverse
+    tags: [helpful names neutral technology]
+    old: http://realityhandbook.livejournal.com/116203.html
+]
+[{I needed to use a restroom, and was wandering through a strange house. I went into a room which was a strange jumble... there was a toilet, and a shower, but it also looked like a bedroom. Things were set up in crazy ways so that there were laptop computers getting wet from the shower. Things were all mixed up.}]
+[{A girl wearing an animal print bikini had followed me in and was sharing in my puzzlement.}]
+[{girl: "There's something wrong with this room."}]
+[{me: "I think it goes beyond there being 'something wrong'. It's more like there isn't anything right about it."}]
+[{Unable to get past the junk to reach the toilet, and feeling a bit like I needed to just get on with the dream investigation, I decided to just pee where I was. Leaving the room, I entered a party atmosphere and began asking questions. One person I spoke to was a man on a large TV monitor with a goatee, who looked a bit like "The Master" from the original Doctor Who.}]
+[picture %the_master.jpg]
+[me: {So what am I supposed to do about all these dreams?}]
+[goatee-man: "I have three answers to that."]
+[me: "Ok, let's hear them."]
+[goatee-man: {Answer #1 is, forget the dreams. Just.... forget them.}]
+[me: "Well, I can't do that. So what's your answer #2?"]
+[{I felt a tap on my shoulder from behind. When I turned around, the man with the goatee was standing there in person.}]
+[me: "Oh... hm, how did you do that?"]
+[goatee-man: "Look at the screen."]
+[{Turning back around, I saw the screen he had been on now had a logo for something that said what I thought was "Subversive". It was red writing, and there were bits of white text underneath representing menu options. One of them said "buy tickets"}]
+[me: "Okay, what is subversive?"]
+[goatee-man: "Not subversive. SUBVERSE."]
+[{He pushed me forward toward a group of people who were talking.}]
+[goatee-man: {Ladies and gentlemen, I'd like you to meet the producer. The creator of Subverse.}]
+[me: ("mad") {I didn't do it. Don't remember making it, therefore I didn't do it in any way that you can give meaning.}]
+[goatee-man: {You would have us believe it *wasn't you* who sent the only two pieces to individuals who would later--just by 'coincidence'--meet in a cafe and put them together?}]
+[me: {No. It wasn't, and I have no idea what you're talking about. So get on with #3.}]
+[goatee-man: {Number three is that N to the Nth power is always going to be less.}]
+[me: "What?"]
+[{There was a pause as he looked like he was trying to figure out a way to explain what he was saying.}]
+[goatee-man: {For instance, N to Mars is always going to be less.}]
+[me: {You're going to have to explain this in some other terms. What does Mars have to do with it?}]
+[goatee-man: "Well... it's more like Mar-th."]

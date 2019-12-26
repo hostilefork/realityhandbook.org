@@ -1,0 +1,36 @@
+realityhandbook [
+    date: 30-Aug-2006/1:08+3:00
+    category: 'lucid-dream
+    title: {The Pizza of my Dreams and The Guy who Wanted Pom-Poms}
+    slug: %dream-pizza-and-boys-who-want-pom-poms
+    tags: [money neutral]
+    old: http://realityhandbook.livejournal.com/16891.html
+]
+[{I'd spent a long time trying to figure out how to cover some windows with plastic to keep out the cold. Then I was trying to cook a small pizza in the oven, and noticed the price was 2.99.}]
+[note {It was the size of a miniature quiche, and it occurred to me that this was rather expensive.}]
+[{On the stove there was a kettle which was boiling. I was afraid I'd accidentally bumped a knob on the stove, so I turned off the burner. Since I now had hot water available, I decided to make hot chocolate. My mother entered from the other room and started looking around for a tea bag.}]
+[note {She seemed surprised. At the time I thought she was surprised by the cup I was offering her, but I now think she may have been the one who turned the kettle on and was surprised that I was using the water.}]
+[{I sat down at the kitchen table to chat with some guys I didn't recognize.}]
+[me: {Well I'm not sure what to do. Oooh...I could eat dream pizza! Now this could be interesting!}]
+[guy: "Why would that be interesting?"]
+[me: {I mean, if it's dream pizza...I could make it...well, at the very least I could make it as big as I wanted. Y'know, it could be the size of this table!}]
+[guy: "So what?"]
+[me: {Well, or ingredients...I could put, ingredients on it in combinations that one wouldn't ordinarily, without fear of wasting them. It could be like, an experimental cooking lab without concerns of expense. I'd have to learn a bit more about cooking beforehand, I guess.}]
+["Stopping myself, I mused about another question."]
+[me: {Of course, how would I know if that combination of ingredients would taste the same when mixed in the physical world? Moreover, am I completely limited in selection to things I've seen and tasted before? Maybe it depends on the level to which I know things--if I were familiar with atoms, and knew them really well, could I perform chemistry experiments in a dream?}]
+[guy: ("shrugging") "Beats me."]
+[me: {I've got lots of time, here. So that reminds me of another of my favorite questions in situations like this: What was the hot Christmas gift last year?}]
+[{He took me into a bedroom and then into the adjacent bathroom. On top of a shelf in the bathroom were several toy-like objects. He handed me a yellow plastic toy that looked like a microscope for children. I shook my head.}]
+[me: {No, I don't mean literally 'what did you get for Christmas last year'. I was trying to ask about a novelty item. Something commercially successful that you wouldn't think would be.}]
+[guy: "Oh, Pom-Poms!"]
+[me: "Like, Cheerleader Pom-poms?"]
+["He nodded."]
+[me: {That's bizarre. But still, not the kind of thing I'm talking about.}]
+[guy: "Well I wanted some too, they were cool."]
+[{As we wandered back into the kitchen, I noticed there was magnetic poetry on the refrigerator. I picked up the magnetic poetry pieces and they acknowledged they knew what it was.}]
+[me: {Okay, this is a perfect example. I got like four sets of this one Christmas because everyone thought it would be the perfect gift. Or, like, the Rubik's Cube. I'd like to wake up and have a drawing of something that can be simply described and yet come from another world.}]
+[guy: "I can draw you a Rubik's Cube! I draw really well!"]
+[me: {Thanks, but it was just an example. I can draw, build, and for that matter--solve a Rubik's cube already.}]
+[guy: "Y'know what people really wanted was Lost."]
+[me: {The TV show? Yes, we have that too, but again this is the example of something I do not have the ability to create as it's already been made.}]
+[{The dream faded out in a strange way, where I saw the room as if it were the cover of a DVD that was slowly slipping away.}]

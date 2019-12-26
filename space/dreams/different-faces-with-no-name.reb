@@ -1,0 +1,15 @@
+realityhandbook [
+    date: 16-Nov-2006/17:54+3:00
+    category: 'lucid-dream
+    title: {Every Day It's the Same Thing, Different Faces With No Names}
+    slug: %different-faces-with-no-name
+    tags: [positive]
+    old: http://realityhandbook.livejournal.com/23169.html
+]
+[{I managed to stay in a pleasant dream in a dance club, where I could both dance normally and fly. One girl in particular seemed drawn to me.}]
+[{We talked a bit, but I was able to get her to <i>write down</i> my name and nickname onto a pad of paper. She didn't get it quite right at first, but editing tools that looked like a word processor kicked in and she fixed it up to get the missing letters.}]
+[me: {Wow. I can't believe this...usually when I say my name out loud, I get attacked. But no one's being vicious, the environment isn't panicked. This is stunning. What is your name?}]
+[{The girl showed me her ID, which had a photo but was conspicuously missing <i>a name</i>.}]
+[note {I often fret about whether or not the creatures I meet in dreams have been given individual identities even when they have the intelligence to deserve them...if you ask a butterfly its name, what would it say?}]
+[{I kissed her. Then I noticed that the DJ seemed upset, because he thought his music set had too many bad songs.}]
+[me: ("to DJ") {Oh, no. This is all very good, I think you've got a great environment here, a really good vibe. In fact, all of you are pretty awesome.}]

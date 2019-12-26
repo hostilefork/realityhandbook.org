@@ -1,0 +1,35 @@
+realityhandbook [
+    date: 2-Sep-2009/13:26+3:00
+    category: 'lucid-dream
+    title: "Taligent UI is Dead."
+    slug: %taligent-ui-is-dead
+    tags: [neutral sexual technology]
+    old: http://realityhandbook.livejournal.com/140692.html
+]
+[{I received an instant message from someone, and it said:}]
+[quote "I'm running on Taligent. Taligent UI. Dead."]
+[note {<a href="http://en.wikipedia.org/wiki/Taligent">Taligent</a> is the name of an OS technology that was started by Apple to be the new MacOS, but was sold to IBM. The foundation of the current MacOS instead came from acquisition of <a href="http://en.wikipedia.org/wiki/NeXT">NeXT</a>. Though I am familiar with the word "Taligent" and knew it was some technology-thing, I could not have told you for sure what it was without looking it up just now. Reading the Wikipedia article I can see why...it had a bit of a strange history.}]
+[{There was a transition to where I was looking at some photographs of people I knew. Somehow I became part of the photograph and it became 3D, and I was making out on a sofa with one of the girls in it. We stopped to start talking, and she suggested that I was distracted because I was concerned about someone (unclear whether it was someone she was involved with or someone I was).}]
+[me: {Not really. I'm of the opinion that dreams are pretty much one's own business. Actually... so speaking of which: I know that what I think of as my body is asleep, taking a nap, and I would call this a <i>dream</i>. How do you model your own experience?}]
+[her: ("after a pause") {What makes you think I've given that any thought at all?}]
+[{I was a bit taken aback, and as the imagery faded I got a mostly non-verbal message or impression...which was something like:}]
+[quote {It's not correct to think that I am connected with the person who you perceive I am. I am merely <i>"borrowing her name"</i>}]
+[note {The concept I got there was that I was communicating with something that was telling me it was interfacing with me as a person. Something like the dialogue in Contact... see <a href="http://realityhandbook.org/misc/contact-movie-excerpt/">this excerpt from the movie</a>.}]
+[{As this scene faded out, I thought I had woken up. So I went to the computer to make notes about Taligent. But my computer started having flashing messages on it like "Hey there!" with a yellow triangle by it.}]
+[picture %tggp033096.jpg]
+[me: ("excited") "You're able to contact me through the computer!"]
+[screen: "Yep!"]
+[me: {Oh... wait a minute. This isn't my computer, I'm not awake yet am I.}]
+[screen: "Nope. :("]
+[me: "But... what are you, anyway?"]
+[{The wide screen split into two horizontal strips, one on top of the other. The lower strip seemed to doing a fluid red wavy animation that is reminiscent of the graphic styles that are popular right now as desktop backgrounds for Apple computers.}]
+[picture %cavern_vs_osx.jpg]
+[{The top strip was split into several horizontal pieces that were scrolling right to left. Some were video...news segments. Some were animations.}]
+[me: {Can you slow this down? It's moving too fast... oh, wait, I remember that bit.}]
+[note {I don't know what I thought was familiar, but I felt like I recognized some of the stories.}]
+[{The gist was that there was an artificial intelligence that had been created at <a href="http://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a> and had been kept captive on machines at some other technical facility. It was assigned to do work that was too dangerous for humans involving various caustic chemicals, and they only let it automate very weak/limited robots. Due to an oversight of some kind, the AI got access to a shipping requisition. It managed to trick someone into packaging the computers it lived on into boxes and sending them somewhere else.}]
+[{Somehow as I was watching this and sort of experiencing it like a movie, the entirety of the environment kind of tore off into a screen that I was holding in my hands. But I didn't have any hands, so it was strange to be holding it. A woman was there and she began to tap on the screen--which was some kind of video game / avatar selection interface. She entered the letters KEN next to the picture of some cartoon-looking guy.}]
+[me: "Ummm... is my life some kind of video game?"]
+[her: "Of sorts."]
+[me: {Is this a conspiracy of some kind? Or do I do this to myself on purpose, for fun?}]
+[her: {I'm one of the ones who thinks all this is ultimately damaging you. But I don't get to make your decisions.}]
